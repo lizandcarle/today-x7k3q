@@ -97,6 +97,14 @@
     font:600 15px var(--sans); cursor:pointer;
   }
 
+  /* category headers */
+  .cat-header{
+    font:600 12px/1 var(--mono); letter-spacing:.12em; text-transform:uppercase;
+    color:var(--muted); padding:18px 0 6px; border-bottom:1px solid var(--line);
+    margin-bottom:2px; list-style:none;
+  }
+  .cat-header:first-child{padding-top:4px}
+
   /* sync bar */
   footer{
     position:fixed; left:0; right:0; bottom:0;
@@ -263,7 +271,15 @@ function render(){
 
   var list = $('list');
   list.innerHTML = '';
+  var lastCat = null;
   data.items.forEach(function(it){
+    if (it.category && it.category !== lastCat) {
+      lastCat = it.category;
+      var hdr = document.createElement('li');
+      hdr.className = 'cat-header';
+      hdr.textContent = it.category;
+      list.appendChild(hdr);
+    }
     var li = document.createElement('li');
     var b = document.createElement('button');
     b.type = 'button';

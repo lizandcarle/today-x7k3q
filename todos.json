@@ -1,12 +1,19 @@
 {
   "date": "2026-07-04",
-  "updated": "2026-07-04T05:28:00-06:00",
-  "note": "Five items today, mef. The mangoes are non-negotiable.",
+  "updated": "2026-07-04T13:52:00-06:00",
+  "note": "Saturday afternoon. MINE week minus 2. The machinery is in place. The dune's PE firm has scheduled a board retreat.",
   "items": [
-    { "id": "water-plants", "text": "Water the plants", "done": false },
-    { "id": "pouch-log", "text": "Sign the diplomatic pouch log", "done": false },
-    { "id": "mangoes", "text": "Buy mangoes and coffee", "done": false },
-    { "id": "mac-backup", "text": "Run the weekly Mac backup", "done": true },
-    { "id": "quest-controller", "text": "Fix the Quest controller drift", "done": false }
+    { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000 sitting there)", "category": "🏠 HOME", "done": false },
+    { "id": "satwork", "text": "Disable satwork Google Apps Script trigger", "category": "🏠 HOME", "done": false },
+    { "id": "watch-charger", "text": "Pack USB-C watch charger for Monday", "category": "🏠 HOME", "done": false },
+    { "id": "google-acct", "text": "Log into christopher.duguid@gmail.com (reset inactivity clock)", "category": "🏠 HOME", "done": false },
+    { "id": "dumbbells", "text": "Dumbbells Monday — rest today", "category": "🩺 HEALTH", "done": true },
+    { "id": "diet", "text": "Diet Day 14 — Week 2 complete", "category": "🩺 HEALTH", "done": true },
+    { "id": "notebook", "text": "Removable-page notebook", "category": "🛒 SHOPPING", "done": false },
+    { "id": "wingspan", "text": "Wingspan Etsy items for Julie", "category": "🛒 SHOPPING", "done": false },
+    { "id": "mirage", "text": "Mirage 3D hologram maker", "category": "🛒 SHOPPING", "done": false },
+    { "id": "ot-permission", "text": "Request overtime permission from Olivier", "category": "💼 WORK", "done": false },
+    { "id": "ot-claim", "text": "File overtime claim (17 hours, 2 dates unconfirmed)", "category": "💼 WORK", "done": false },
+    { "id": "training", "text": "INC122 + INC123 mandatory training", "category": "💼 WORK", "done": false }
   ]
 }
