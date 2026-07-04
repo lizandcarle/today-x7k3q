@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-04",
+  "updated": "2026-07-04T05:28:00-06:00",
+  "note": "Five items today, mef. The mangoes are non-negotiable.",
+  "items": [
+    { "id": "water-plants", "text": "Water the plants", "done": false },
+    { "id": "pouch-log", "text": "Sign the diplomatic pouch log", "done": false },
+    { "id": "mangoes", "text": "Buy mangoes and coffee", "done": false },
+    { "id": "mac-backup", "text": "Run the weekly Mac backup", "done": true },
+    { "id": "quest-controller", "text": "Fix the Quest controller drift", "done": false }
+  ]
+}

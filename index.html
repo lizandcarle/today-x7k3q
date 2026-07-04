@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!-- ============================================================
+     ORSON: read this.
+     Daily updates go in todos.json ONLY. Never edit this file
+     for routine changes. The one thing you configure here, once,
+     is the CONFIG block near the bottom (your iMessage address).
+     ============================================================ -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Today</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Today">
+<meta name="theme-color" content="#F2EEE6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#161513" media="(prefers-color-scheme: dark)">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" href="icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<style>
+  :root{
+    --bg:#F2EEE6; --card:#FBF8F1; --ink:#26241F; --muted:#8A8375;
+    --line:#E2DCCE; --amber:#C07A1F; --green:#3E8E5A;
+    --display:'American Typewriter','Iowan Old Style',Georgia,serif;
+    --mono:ui-monospace,'SF Mono',Menlo,Consolas,monospace;
+    --sans:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#161513; --card:#201E1A; --ink:#EDE8DC; --muted:#8F887A;
+      --line:#33302A; --amber:#E09A3E; --green:#58B380;
+    }
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font:17px/1.45 var(--sans);
+    padding:calc(env(safe-area-inset-top) + 18px) 18px calc(150px + env(safe-area-inset-bottom));
+  }
+  main{max-width:560px; margin:0 auto}
+
+  /* header */
+  .eyebrow{
+    display:flex; align-items:center; justify-content:space-between;
+    font:600 11px/1 var(--mono); letter-spacing:.14em; text-transform:uppercase;
+    color:var(--muted); margin-bottom:10px;
+  }
+  #refresh{
+    width:36px; height:36px; border-radius:50%; border:1px solid var(--line);
+    background:var(--card); color:var(--ink); font-size:17px; line-height:1;
+    cursor:pointer; flex:none;
+  }
+  #refresh:active{transform:rotate(180deg)}
+  h1{
+    font:600 30px/1.15 var(--display); margin:0 0 6px; letter-spacing:.01em;
+  }
+  .stamp{font:12px/1.4 var(--mono); color:var(--muted); margin:0 0 14px}
+  .progress{height:4px; border-radius:2px; background:var(--line); overflow:hidden}
+  .bar{height:100%; width:0%; background:var(--green); border-radius:2px; transition:width .25s ease}
+  .count{font:12px/1.4 var(--mono); color:var(--muted); margin:6px 0 16px}
+
+  /* note from Orson */
+  .note{
+    background:var(--card); border:1px solid var(--line); border-radius:12px;
+    padding:12px 14px; font-size:15px; margin:0 0 14px;
+  }
+
+  /* task list */
+  .list{list-style:none; margin:0; padding:0}
+  .list li + li{border-top:1px solid var(--line)}
+  .row{
+    display:flex; align-items:center; gap:14px; width:100%;
+    min-height:56px; padding:14px 4px; text-align:left;
+    background:none; border:none; color:var(--ink);
+    font:17px/1.4 var(--sans); cursor:pointer;
+  }
+  .row:active{opacity:.75}
+  .dot{
+    flex:none; width:23px; height:23px; border-radius:50%;
+    border:2px solid var(--amber); color:transparent;
+    display:flex; align-items:center; justify-content:center;
+    transition:background .18s ease, border-color .18s ease, transform .18s cubic-bezier(.34,1.56,.64,1);
+  }
+  .row.done .dot{background:var(--green); border-color:var(--green); color:var(--bg); transform:scale(1.06)}
+  .txt{flex:1}
+  .row.done .txt{color:var(--muted); text-decoration:line-through}
+
+  /* empty + error states */
+  .state{padding:36px 8px; text-align:center; color:var(--muted); font-size:15px}
+  .state strong{display:block; color:var(--ink); font:600 17px/1.4 var(--sans); margin-bottom:6px}
+  #retry{
+    margin-top:14px; padding:10px 22px; border-radius:999px;
+    border:1px solid var(--line); background:var(--card); color:var(--ink);
+    font:600 15px var(--sans); cursor:pointer;
+  }
+
+  /* sync bar */
+  footer{
+    position:fixed; left:0; right:0; bottom:0;
+    padding:12px 18px calc(12px + env(safe-area-inset-bottom));
+    background:color-mix(in srgb, var(--bg) 88%, transparent);
+    -webkit-backdrop-filter:blur(14px); backdrop-filter:blur(14px);
+    border-top:1px solid var(--line);
+  }
+  footer > div{max-width:560px; margin:0 auto}
+  .btn{
+    display:block; text-align:center; text-decoration:none;
+    background:var(--ink); color:var(--bg);
+    font:600 16px/1 var(--sans); padding:15px 16px; border-radius:999px;
+  }
+  .btn:active{opacity:.85}
+  .alt{
+    display:flex; justify-content:center; gap:18px; margin:10px 0 0;
+    font:13px var(--mono);
+  }
+  .alt a, .alt button{
+    background:none; border:none; padding:0; cursor:pointer;
+    color:var(--muted); font:inherit; text-decoration:underline;
+    text-underline-offset:3px;
+  }
+  :focus-visible{outline:2px solid var(--amber); outline-offset:2px}
+  @media (prefers-reduced-motion: reduce){
+    *{transition:none !important}
+  }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="eyebrow"><span>&#129370; Orson &middot; Today&rsquo;s List</span>
+      <button id="refresh" type="button" aria-label="Refresh list">&#8635;</button>
+    </div>
+    <h1 id="date">&hellip;</h1>
+    <p class="stamp" id="stamp"></p>
+    <div class="progress" aria-hidden="true"><div class="bar" id="bar"></div></div>
+    <p class="count" id="count"></p>
+  </header>
+
+  <section id="note" class="note" hidden></section>
+
+  <ul id="list" class="list"></ul>
+
+  <div id="empty" class="state" hidden>
+    <strong>Nothing on the list.</strong>
+    Either it&rsquo;s a very good day, or Orson is still typing.
+  </div>
+
+  <div id="error" class="state" hidden>
+    <strong>Couldn&rsquo;t load today&rsquo;s list.</strong>
+    Check your connection, then retry.
+    <br><button id="retry" type="button">Retry</button>
+  </div>
+</main>
+
+<footer id="syncbar" hidden>
+  <div>
+    <a id="btnPrimary" class="btn" href="#">Message Orson the update</a>
+    <p class="alt">
+      <a id="btnAlt" href="#">Email instead</a>
+      <button id="btnCopy" type="button">Copy update</button>
+    </p>
+  </div>
+</footer>
+
+<script>
+/* ---------------------------------------------------------------
+   CONFIG — Orson sets this once, before first deploy.
+   ORSON_IMESSAGE: the address mef texts you at (phone number like
+   "+50255551234" or an Apple ID email). Leave "" to make email the
+   primary button instead. Note: the sms: link below uses the iOS
+   "&body=" form on purpose; mef is on iPhone.
+   --------------------------------------------------------------- */
+var CONFIG = {
+  ORSON_IMESSAGE: "orson@henryboo.net",
+  ORSON_EMAIL: "orsonmef@agentmail.to",
+  DATA_URL: "todos.json"
+};
+
+var data = null, local = {}, offline = false;
+function $(id){ return document.getElementById(id); }
+function esc(s){
+  return String(s).replace(/[&<>"']/g, function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+  });
+}
+function lsKey(){ return 'orsonTodo:' + ((data && data.date) || ''); }
+function effDone(it){
+  return Object.prototype.hasOwnProperty.call(local, it.id) ? !!local[it.id] : !!it.done;
+}
+function fmtDate(iso){
+  var p = String(iso || '').split('-');
+  if (p.length !== 3) return '';
+  var d = new Date(Number(p[0]), Number(p[1]) - 1, Number(p[2]));
+  return isNaN(d) ? '' : d.toLocaleDateString(undefined, {weekday:'long', month:'long', day:'numeric'});
+}
+function fmtTime(iso){
+  if (!iso) return '';
+  var t = new Date(iso);
+  return isNaN(t) ? '' : t.toLocaleTimeString([], {hour:'numeric', minute:'2-digit'});
+}
+
+function load(){
+  fetch(CONFIG.DATA_URL + '?t=' + Date.now(), {cache:'no-store'})
+    .then(function(r){ if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(function(j){
+      data = j; offline = false;
+      try { localStorage.setItem('orsonTodo:lastFeed', JSON.stringify(j)); } catch(e){}
+      afterLoad();
+    })
+    .catch(function(){
+      var cached = null;
+      try { cached = localStorage.getItem('orsonTodo:lastFeed'); } catch(e){}
+      if (cached) { data = JSON.parse(cached); offline = true; afterLoad(); }
+      else showError();
+    });
+}
+function afterLoad(){
+  data.items = Array.isArray(data.items) ? data.items : [];
+  try { local = JSON.parse(localStorage.getItem(lsKey()) || '{}'); } catch(e){ local = {}; }
+  render();
+}
+
+function toggle(id){
+  var it = null, i;
+  for (i = 0; i < data.items.length; i++) if (data.items[i].id === id) it = data.items[i];
+  if (!it) return;
+  var next = !effDone(it);
+  if (next === !!it.done) delete local[id]; else local[id] = next;
+  try { localStorage.setItem(lsKey(), JSON.stringify(local)); } catch(e){}
+  render();
+}
+function pendingCount(){
+  var n = 0;
+  data.items.forEach(function(it){ if (effDone(it) !== !!it.done) n++; });
+  return n;
+}
+function buildMessage(){
+  var lines = ['Todo sync ' + (data.date || '') + ':'];
+  data.items.forEach(function(it){ if (effDone(it)) lines.push('\u2705 ' + it.text); });
+  data.items.forEach(function(it){ if (!effDone(it)) lines.push('\u2B1C ' + it.text); });
+  return lines.join('\n');
+}
+
+function render(){
+  $('error').hidden = true;
+  $('date').textContent = data.title || fmtDate(data.date) || 'Today';
+  var t = fmtTime(data.updated);
+  $('stamp').textContent = (t ? 'Updated ' + t + ' by Orson' : 'Updated by Orson')
+                         + (offline ? ' \u00B7 offline copy' : '');
+
+  var total = data.items.length, done = 0;
+  data.items.forEach(function(it){ if (effDone(it)) done++; });
+  $('bar').style.width = total ? (100 * done / total) + '%' : '0%';
+  $('count').textContent = total
+    ? (done === total ? 'All ' + total + ' done \uD83C\uDF89' : done + ' of ' + total + ' done')
+    : '';
+
+  if (data.note) { $('note').hidden = false; $('note').innerHTML = '\uD83E\uDD5A ' + esc(data.note); }
+  else $('note').hidden = true;
+
+  var list = $('list');
+  list.innerHTML = '';
+  data.items.forEach(function(it){
+    var li = document.createElement('li');
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'row' + (effDone(it) ? ' done' : '');
+    b.setAttribute('role', 'checkbox');
+    b.setAttribute('aria-checked', effDone(it) ? 'true' : 'false');
+    b.innerHTML =
+      '<span class="dot" aria-hidden="true">' +
+      '<svg viewBox="0 0 16 16" width="12" height="12"><path d="M3 8.5l3.2 3.2L13 4.5" ' +
+      'fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" ' +
+      'stroke-linejoin="round"/></svg></span>' +
+      '<span class="txt">' + esc(it.text) + '</span>';
+    b.addEventListener('click', function(){ toggle(it.id); });
+    li.appendChild(b);
+    list.appendChild(li);
+  });
+  $('empty').hidden = total !== 0;
+  list.hidden = total === 0;
+
+  var msg = buildMessage(), n = pendingCount();
+  var suffix = n ? ' \u00B7 ' + n + ' change' + (n > 1 ? 's' : '') : '';
+  var mailHref = 'mailto:' + CONFIG.ORSON_EMAIL
+    + '?subject=' + encodeURIComponent('Todo sync ' + (data.date || ''))
+    + '&body=' + encodeURIComponent(msg);
+  if (CONFIG.ORSON_IMESSAGE) {
+    $('btnPrimary').href = 'sms:' + CONFIG.ORSON_IMESSAGE + '&body=' + encodeURIComponent(msg);
+    $('btnPrimary').textContent = 'Message Orson the update' + suffix;
+    $('btnAlt').href = mailHref;
+    $('btnAlt').hidden = false;
+  } else {
+    $('btnPrimary').href = mailHref;
+    $('btnPrimary').textContent = 'Email Orson the update' + suffix;
+    $('btnAlt').hidden = true;
+  }
+  $('syncbar').hidden = total === 0;
+}
+
+function showError(){
+  $('error').hidden = false;
+  $('list').hidden = true;
+  $('empty').hidden = true;
+  $('syncbar').hidden = true;
+  $('date').textContent = 'Today';
+  $('stamp').textContent = '';
+  $('count').textContent = '';
+  $('bar').style.width = '0%';
+}
+
+$('refresh').addEventListener('click', load);
+$('retry').addEventListener('click', load);
+$('btnCopy').addEventListener('click', function(){
+  var msg = buildMessage();
+  function flash(){ $('btnCopy').textContent = 'Copied'; setTimeout(function(){ $('btnCopy').textContent = 'Copy update'; }, 1200); }
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(msg).then(flash, function(){ prompt('Copy this update:', msg); });
+  } else { prompt('Copy this update:', msg); }
+});
+
+/* Refetch whenever the app comes back to the foreground, so the
+   5:30 AM open always shows the fresh list without a manual refresh. */
+document.addEventListener('visibilitychange', function(){ if (!document.hidden) load(); });
+window.addEventListener('pageshow', function(e){ if (e.persisted) load(); });
+
+load();
+</script>
+</body>
+</html>
