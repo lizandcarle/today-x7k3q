@@ -1,18 +1,20 @@
 {
   "date": "2026-07-04",
-  "updated": "2026-07-04T14:02:00-06:00",
-  "note": "Saturday afternoon, fuller edition. The dune's PE firm has rebranded it 'The Opportunity.' Nobody is fooled.",
+  "updated": "2026-07-04T18:12:00-06:00",
+  "note": "Saturday evening. Slack has been achieved. The dune's PE firm has pivoted to wellness.",
   "items": [
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "📋 TODAY", "done": false },
     { "id": "satwork", "text": "Disable satwork Google Apps Script trigger", "category": "📋 TODAY", "done": false },
     { "id": "diet", "text": "Diet Day 14", "category": "📋 TODAY", "done": true },
     { "id": "watch-charger", "text": "Pack USB-C watch charger for Monday", "category": "📋 TODAY", "done": true },
     { "id": "google-acct", "text": "Log into christopher.duguid@gmail.com", "category": "📋 TODAY", "done": true },
+    { "id": "dumbbells", "text": "Dumbbells — rest today, Monday next", "category": "📋 TODAY", "done": true },
+    { "id": "subgenius", "text": "Church of the SubGenius explainer", "category": "📋 TODAY", "done": true },
+    { "id": "iphone-case", "text": "Grippy iPhone 17 Pro case", "category": "📋 TODAY", "done": true },
+    { "id": "tbolt-hub", "text": "Thunderbolt hub", "category": "📋 TODAY", "done": true },
 
     { "id": "lizandcarle-polish", "text": "Add Polish Dance to Carle's page on lizandcarle.ca", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "lizandcarle-seo", "text": "Basic SEO for lizandcarle.ca", "category": "🔧 DOABLE NOW", "done": false },
-    { "id": "uk-passport", "text": "Decide on UK passport application", "category": "🔧 DOABLE NOW", "done": false },
-    { "id": "subgenius", "text": "Church of the SubGenius explainer", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "tie-length", "text": "Figure out tie-length method", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "notebook", "text": "Removable-page notebook (find online)", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "wingspan", "text": "Wingspan Etsy items for Julie", "category": "🔧 DOABLE NOW", "done": false },
@@ -20,8 +22,6 @@
     { "id": "ticket-ride", "text": "Ticket to Ride: Northern Lights", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "win11", "text": "Windows 11 boot disk for drawer computer", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "rg353p", "text": "Anbernic RG353P — scrape cover art", "category": "🔧 DOABLE NOW", "done": false },
-
-    { "id": "dumbbells", "text": "Dumbbells — rest today, Monday next", "category": "🩺 HEALTH", "done": true },
 
     { "id": "ot-permission", "text": "Request overtime permission from Olivier", "category": "💼 WORK (Monday)", "done": false },
     { "id": "ot-claim", "text": "File overtime claim (17 hrs, 2 dates TBC)", "category": "💼 WORK (Monday)", "done": false },
@@ -31,14 +31,10 @@
     { "id": "julie-camera", "text": "Install camera protector on Julie's phone", "category": "⏳ BLOCKED", "done": false },
     { "id": "julie-chatgpt", "text": "Move Julie's ChatGPT to her credit card", "category": "⏳ BLOCKED", "done": false },
     { "id": "julie-monitor", "text": "Set up monitor for Julie", "category": "⏳ BLOCKED", "done": false },
-    { "id": "iphone-case", "text": "Grippy iPhone 17 Pro case", "category": "⏳ BLOCKED", "done": false },
     { "id": "viture-dock", "text": "VITURE Pro Mobile Dock", "category": "⏳ BLOCKED", "done": false },
-    { "id": "tbolt-hub", "text": "Thunderbolt hub", "category": "⏳ BLOCKED", "done": false },
 
     { "id": "pacman", "text": "Pac-Man cabinet mod (Pi 3B or MiSTer)", "category": "📦 SOMEDAY", "done": false },
     { "id": "switch", "text": "Modded Nintendo Switch setup", "category": "📦 SOMEDAY", "done": false },
-    { "id": "health-pipe", "text": "Apple Health data pipeline", "category": "📦 SOMEDAY", "done": false },
-    { "id": "vps-failover", "text": "Emergency Orson VPS failover", "category": "📦 SOMEDAY", "done": false },
-    { "id": "cleft-zapier", "text": "Cleft Notes → Telegram → Orson via Zapier", "category": "📦 SOMEDAY", "done": false }
+    { "id": "health-pipe", "text": "Apple Health data pipeline", "category": "📦 SOMEDAY", "done": false }
   ]
 }
