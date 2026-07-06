@@ -1,28 +1,21 @@
 {
-  "date": "2026-07-05",
-  "updated": "2026-07-05T14:45:00-06:00",
-  "note": "Sunday. The dumbbells have been staring at you. Time to stare back. 20 minutes. Start light.",
+  "date": "2026-07-06",
+  "updated": "2026-07-06T05:10:00-06:00",
+  "note": "MINE week Day 1. The machinery is on. Bilat at 2:30. Cocktail at 6. Tomorrow the minister travels.",
   "items": [
-    { "id": "floor-press-1", "text": "Floor Press — Set 1 (10-12 reps)", "category": "💪 WORKOUT", "done": false },
-    { "id": "floor-press-2", "text": "Floor Press — Set 2 (10-12 reps)", "category": "💪 WORKOUT", "done": false },
-    { "id": "bent-row-1", "text": "Bent-Over Row — Set 1 (10-12 reps)", "category": "💪 WORKOUT", "done": false },
-    { "id": "bent-row-2", "text": "Bent-Over Row — Set 2 (10-12 reps)", "category": "💪 WORKOUT", "done": false },
-    { "id": "ohp-1", "text": "Overhead Press — Set 1 (10-12 reps, seated OK)", "category": "💪 WORKOUT", "done": false },
-    { "id": "ohp-2", "text": "Overhead Press — Set 2 (10-12 reps)", "category": "💪 WORKOUT", "done": false },
-    { "id": "curl-1", "text": "Curls — Set 1 (12-15 reps, slow on the way down)", "category": "💪 WORKOUT", "done": false },
-    { "id": "curl-2", "text": "Curls — Set 2 (12-15 reps)", "category": "💪 WORKOUT", "done": false },
+    { "id": "sally-bilat-prep", "text": "Message Sally re: bilat prep before 2:30", "category": "💼 WORK — TODAY", "done": false },
+    { "id": "ot-permission", "text": "Request overtime permission from Olivier", "category": "💼 WORK — TODAY", "done": false },
+    { "id": "ot-claim", "text": "File overtime claim (17 hrs, 2 dates TBC)", "category": "💼 WORK — TODAY", "done": false },
+    { "id": "training", "text": "INC122 + INC123 mandatory training", "category": "💼 WORK — TODAY", "done": false },
+    { "id": "diet", "text": "Diet Day 16", "category": "📋 TODAY", "done": false },
 
-    { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "📋 TODAY", "done": false },
-    { "id": "diet", "text": "Diet Day 15", "category": "📋 TODAY", "done": false },
+    { "id": "water-bottles", "text": "Take water bottles downstairs tonight", "category": "🏠 HOME (tonight)", "done": false },
+    { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "🏠 HOME", "done": false },
 
     { "id": "tie-length", "text": "Figure out tie-length method", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "wingspan", "text": "Wingspan Etsy items for Julie", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "ticket-ride", "text": "Ticket to Ride: Northern Lights", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "win11", "text": "Windows 11 boot disk for drawer computer", "category": "🔧 DOABLE NOW", "done": false },
-
-    { "id": "ot-permission", "text": "Request overtime permission from Olivier", "category": "💼 WORK (Monday)", "done": false },
-    { "id": "ot-claim", "text": "File overtime claim (17 hrs, 2 dates TBC)", "category": "💼 WORK (Monday)", "done": false },
-    { "id": "training", "text": "INC122 + INC123 mandatory training", "category": "💼 WORK (Monday)", "done": false },
 
     { "id": "julie-screen", "text": "Replace screen protector on Julie's phone", "category": "⏳ BLOCKED", "done": false },
     { "id": "julie-camera", "text": "Install camera protector on Julie's phone", "category": "⏳ BLOCKED", "done": false },
