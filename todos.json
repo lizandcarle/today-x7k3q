@@ -1,13 +1,12 @@
 {
   "date": "2026-07-06",
-  "updated": "2026-07-06T05:10:00-06:00",
-  "note": "MINE week Day 1. The machinery is on. Bilat at 2:30. Cocktail at 6. Tomorrow the minister travels.",
+  "updated": "2026-07-06T11:51:00-06:00",
+  "note": "Pre-bilat sync. Sally messaged ✅. Overtime permission granted ✅. Cocktail at 6. Dumbbells tonight.",
   "items": [
-    { "id": "sally-bilat-prep", "text": "Message Sally re: bilat prep before 2:30", "category": "💼 WORK — TODAY", "done": false },
-    { "id": "ot-permission", "text": "Request overtime permission from Olivier", "category": "💼 WORK — TODAY", "done": false },
+    { "id": "sally-bilat-prep", "text": "Message Sally re: bilat prep before 2:30", "category": "💼 WORK — TODAY", "done": true },
+    { "id": "ot-permission", "text": "Request overtime permission from Olivier", "category": "💼 WORK — TODAY", "done": true },
     { "id": "ot-claim", "text": "File overtime claim (17 hrs, 2 dates TBC)", "category": "💼 WORK — TODAY", "done": false },
-    { "id": "training", "text": "INC122 + INC123 mandatory training", "category": "💼 WORK — TODAY", "done": false },
-    { "id": "diet", "text": "Diet Day 16", "category": "📋 TODAY", "done": false },
+    { "id": "diet", "text": "Diet Day 16", "category": "📋 TODAY", "done": true },
 
     { "id": "water-bottles", "text": "Take water bottles downstairs tonight", "category": "🏠 HOME (tonight)", "done": false },
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "🏠 HOME", "done": false },
