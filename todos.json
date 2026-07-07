@@ -1,22 +1,12 @@
 {
-  "date": "2026-07-06",
-  "updated": "2026-07-06T18:10:00-06:00",
-  "note": "Monday evening. MINE week Day 1 done. Bilat done. Cocktail done. Now: dumbbells, water bottles, Racicot link.",
+  "date": "2026-07-07",
+  "updated": "2026-07-07T04:10:00-06:00",
+  "note": "MINE week Day 2. The minister travels today. Final prep meeting 11 AM. CMM/OPS 2 PM.",
   "items": [
-    { "id": "james-racicot", "text": "Send James Racicot link to Making Canada team retreat episode", "category": "📋 TONIGHT", "done": false },
-    { "id": "water-bottles", "text": "Take water bottles downstairs", "category": "📋 TONIGHT", "done": false },
-    { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "📋 TONIGHT", "done": false },
-
-    { "id": "floor-press-1", "text": "Floor Press — Set 1 (10-12 reps)", "category": "💪 WORKOUT", "done": false },
-    { "id": "floor-press-2", "text": "Floor Press — Set 2 (10-12 reps)", "category": "💪 WORKOUT", "done": false },
-    { "id": "bent-row-1", "text": "Bent-Over Row — Set 1 (10-12 reps)", "category": "💪 WORKOUT", "done": false },
-    { "id": "bent-row-2", "text": "Bent-Over Row — Set 2 (10-12 reps)", "category": "💪 WORKOUT", "done": false },
-    { "id": "ohp-1", "text": "Overhead Press — Set 1 (10-12 reps, seated OK)", "category": "💪 WORKOUT", "done": false },
-    { "id": "ohp-2", "text": "Overhead Press — Set 2 (10-12 reps)", "category": "💪 WORKOUT", "done": false },
-    { "id": "curl-1", "text": "Curls — Set 1 (12-15 reps, slow on the way down)", "category": "💪 WORKOUT", "done": false },
-    { "id": "curl-2", "text": "Curls — Set 2 (12-15 reps)", "category": "💪 WORKOUT", "done": false },
-
+    { "id": "diet", "text": "Diet Day 17", "category": "📋 TODAY", "done": false },
     { "id": "ot-claim", "text": "File overtime claim (17 hrs, 2 dates TBC)", "category": "💼 WORK", "done": false },
+
+    { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "🏠 HOME", "done": false },
 
     { "id": "tie-length", "text": "Figure out tie-length method", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "wingspan", "text": "Wingspan Etsy items for Julie", "category": "🔧 DOABLE NOW", "done": false },
