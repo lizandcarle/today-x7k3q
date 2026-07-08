@@ -1,10 +1,11 @@
 {
-  "date": "2026-07-07",
-  "updated": "2026-07-07T21:06:00-06:00",
-  "note": "MINE week Day 2. Minister has arrived. Thu meet & greet 9:30 AM, reception 6:30 PM Westin.",
+  "date": "2026-07-08",
+  "updated": "2026-07-08T05:10:00-06:00",
+  "note": "MINE field day. IDB AgroLAC + FEDECOVERA. On the road 8AM-6PM.",
   "items": [
-    { "id": "diet", "text": "Diet Day 17", "category": "📋 TODAY", "done": true },
-    { "id": "claro-mifi", "text": "Top up Claro MiFi prepaid", "category": "📋 TODAY", "done": true },
+    { "id": "sally-fao", "text": "Email Sally: send FAO the FEDECOVERA refusal TODAY", "category": "🔴 DO NOW", "done": false },
+    { "id": "ricardo-ot", "text": "Email Ricardo: LES contract overtime provisions", "category": "🔴 DO NOW", "done": false },
+    { "id": "diet", "text": "Diet Day 18", "category": "📋 TODAY", "done": false },
     { "id": "ot-claim", "text": "File overtime claim (17 hrs, 2 dates TBC)", "category": "💼 WORK", "done": false },
 
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "🏠 HOME", "done": false },
