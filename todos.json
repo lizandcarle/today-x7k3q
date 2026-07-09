@@ -1,9 +1,10 @@
 {
   "date": "2026-07-08",
-  "updated": "2026-07-08T05:10:00-06:00",
-  "note": "MINE field day. IDB AgroLAC + FEDECOVERA. On the road 8AM-6PM.",
+  "updated": "2026-07-08T18:10:00-06:00",
+  "note": "MINE field day done. Tomorrow: meet & greet 9:30 AM, Westin reception 6:30 PM.",
   "items": [
-    { "id": "sally-fao", "text": "Email Sally: send FAO the FEDECOVERA refusal TODAY", "category": "🔴 DO NOW", "done": false },
+    { "id": "sally-fao", "text": "Email Sally: send FAO the FEDECOVERA refusal", "category": "🔴 DO NOW", "done": false },
+    { "id": "sally-lil", "text": "Email Sally: Lucky Iron Life visit Mon 9 AM", "category": "🔴 DO NOW", "done": false },
     { "id": "ricardo-ot", "text": "Email Ricardo: LES contract overtime provisions", "category": "🔴 DO NOW", "done": false },
     { "id": "diet", "text": "Diet Day 18", "category": "📋 TODAY", "done": false },
     { "id": "ot-claim", "text": "File overtime claim (17 hrs, 2 dates TBC)", "category": "💼 WORK", "done": false },
