@@ -1,18 +1,18 @@
 {
   "date": "2026-07-09",
-  "updated": "2026-07-09T18:10:00-06:00",
-  "note": "MINE day done. IDB signing + Westin reception complete. Tomorrow: Nim K'at launch, AFEDES, Coffee for Communities.",
+  "updated": "2026-07-09T23:57:00-06:00",
+  "note": "Six items cleared on MINE day. Tomorrow: Nim K'at launch, AFEDES, Coffee for Communities, Antigua.",
   "items": [
-    { "id": "fable-natalia", "text": "Ask Fable: Canada case for IDRC AI for Health round 2 ($100K)", "category": "🔴 DO NOW", "done": false },
-    { "id": "sally-fao", "text": "Email Sally: send FAO the FEDECOVERA refusal", "category": "🔴 DO NOW", "done": false },
-    { "id": "sally-lil", "text": "Email Sally: Lucky Iron Life visit Mon 9 AM", "category": "🔴 DO NOW", "done": false },
-    { "id": "ricardo-ot", "text": "Email Ricardo: LES contract overtime provisions", "category": "🔴 DO NOW", "done": false },
-    { "id": "diet", "text": "Diet Day 19", "category": "📋 TODAY", "done": false },
+    { "id": "fable-natalia", "text": "Ask Fable: Canada case for IDRC AI for Health round 2 ($100K)", "category": "🔴 DO NOW", "done": true },
+    { "id": "sally-fao", "text": "Email Sally: send FAO the FEDECOVERA refusal", "category": "🔴 DO NOW", "done": true },
+    { "id": "sally-lil", "text": "Email Sally: Lucky Iron Life visit Mon 9 AM", "category": "🔴 DO NOW", "done": true },
+    { "id": "ricardo-ot", "text": "Email Ricardo: LES contract overtime provisions", "category": "🔴 DO NOW", "done": true },
+    { "id": "diet", "text": "Diet Day 19", "category": "📋 TODAY", "done": true },
+    { "id": "tie-length", "text": "Figure out tie-length method", "category": "📋 TODAY", "done": true },
     { "id": "ot-claim", "text": "File overtime claim (19.5 hrs, 2 dates TBC)", "category": "💼 WORK", "done": false },
 
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "🏠 HOME", "done": false },
 
-    { "id": "tie-length", "text": "Figure out tie-length method", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "wingspan", "text": "Wingspan Etsy items for Julie", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "ticket-ride", "text": "Ticket to Ride: Northern Lights", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "win11", "text": "Windows 11 boot disk for drawer computer", "category": "🔧 DOABLE NOW", "done": false },
