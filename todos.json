@@ -1,14 +1,9 @@
 {
-  "date": "2026-07-09",
-  "updated": "2026-07-09T23:57:00-06:00",
-  "note": "Six items cleared on MINE day. Tomorrow: Nim K'at launch, AFEDES, Coffee for Communities, Antigua.",
+  "date": "2026-07-10",
+  "updated": "2026-07-10T05:10:00-06:00",
+  "note": "MINE week finale. Nim K'at launch, AFEDES, Coffee for Communities, Antigua. Minister departs tomorrow.",
   "items": [
-    { "id": "fable-natalia", "text": "Ask Fable: Canada case for IDRC AI for Health round 2 ($100K)", "category": "🔴 DO NOW", "done": true },
-    { "id": "sally-fao", "text": "Email Sally: send FAO the FEDECOVERA refusal", "category": "🔴 DO NOW", "done": true },
-    { "id": "sally-lil", "text": "Email Sally: Lucky Iron Life visit Mon 9 AM", "category": "🔴 DO NOW", "done": true },
-    { "id": "ricardo-ot", "text": "Email Ricardo: LES contract overtime provisions", "category": "🔴 DO NOW", "done": true },
-    { "id": "diet", "text": "Diet Day 19", "category": "📋 TODAY", "done": true },
-    { "id": "tie-length", "text": "Figure out tie-length method", "category": "📋 TODAY", "done": true },
+    { "id": "diet", "text": "Diet Day 20", "category": "📋 TODAY", "done": false },
     { "id": "ot-claim", "text": "File overtime claim (19.5 hrs, 2 dates TBC)", "category": "💼 WORK", "done": false },
 
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "🏠 HOME", "done": false },
