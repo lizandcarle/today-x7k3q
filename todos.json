@@ -1,14 +1,13 @@
 {
   "date": "2026-07-09",
-  "updated": "2026-07-09T05:10:00-06:00",
-  "note": "MINE DAY. Meet & greet 9:30, NatalIA 10:30, GoG FM 2:00, IDB signing 5:50, Westin reception 6:30.",
+  "updated": "2026-07-09T18:10:00-06:00",
+  "note": "MINE day done. IDB signing + Westin reception complete. Tomorrow: Nim K'at launch, AFEDES, Coffee for Communities.",
   "items": [
     { "id": "fable-natalia", "text": "Ask Fable: Canada case for IDRC AI for Health round 2 ($100K)", "category": "🔴 DO NOW", "done": false },
     { "id": "sally-fao", "text": "Email Sally: send FAO the FEDECOVERA refusal", "category": "🔴 DO NOW", "done": false },
     { "id": "sally-lil", "text": "Email Sally: Lucky Iron Life visit Mon 9 AM", "category": "🔴 DO NOW", "done": false },
     { "id": "ricardo-ot", "text": "Email Ricardo: LES contract overtime provisions", "category": "🔴 DO NOW", "done": false },
     { "id": "diet", "text": "Diet Day 19", "category": "📋 TODAY", "done": false },
-    { "id": "jenn", "text": "Message Jenn (Carle's birthday)", "category": "📋 TODAY", "done": false },
     { "id": "ot-claim", "text": "File overtime claim (19.5 hrs, 2 dates TBC)", "category": "💼 WORK", "done": false },
 
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "🏠 HOME", "done": false },
