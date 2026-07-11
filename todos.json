@@ -1,9 +1,11 @@
 {
   "date": "2026-07-10",
-  "updated": "2026-07-10T05:10:00-06:00",
-  "note": "MINE week finale. Nim K'at launch, AFEDES, Coffee for Communities, Antigua. Minister departs tomorrow.",
+  "updated": "2026-07-10T18:10:00-06:00",
+  "note": "MINE week done. Minister departs tomorrow. Monday: Lucky Iron Fish 9 AM + post-mortem 11:30 AM.",
   "items": [
+    { "id": "julie-internet", "text": "Pay Julie's internet (Tigo)", "category": "📋 TODAY", "done": false },
     { "id": "diet", "text": "Diet Day 20", "category": "📋 TODAY", "done": false },
+    { "id": "olivier-q55", "text": "Pay Olivier Q55", "category": "💼 WORK", "done": false },
     { "id": "ot-claim", "text": "File overtime claim (19.5 hrs, 2 dates TBC)", "category": "💼 WORK", "done": false },
 
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "🏠 HOME", "done": false },
