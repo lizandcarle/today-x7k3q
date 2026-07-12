@@ -1,14 +1,17 @@
 {
   "date": "2026-07-12",
-  "updated": "2026-07-12T05:10:00-06:00",
-  "note": "Sunday rest day. Andre's Amazon gift today. Monday triple header: 8 AM + 9 AM + 11:30 AM.",
+  "updated": "2026-07-12T14:46:00-06:00",
+  "note": "Sunday. Beat Saber day. Andre gift + Sherbrooke address today.",
   "items": [
-    { "id": "andre-gift", "text": "Order Andre something from Amazon (birthday Jul 19)", "category": "📋 TODAY", "done": false },
+    { "id": "exercise", "text": "Beat Saber 30 min (optional Sunday session)", "category": "💪 WORKOUT", "done": false },
+
+    { "id": "andre-gift", "text": "Order Andre: Endurance + White Man's Burden", "category": "📋 TODAY", "done": false },
+    { "id": "andre-address", "text": "Find Andre's Sherbrooke address (Claude's house) in messages", "category": "📋 TODAY", "done": false },
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "📋 TODAY", "done": false },
     { "id": "diet", "text": "Diet Day 22", "category": "📋 TODAY", "done": false },
 
     { "id": "olivier-q55", "text": "Pay Olivier Q55 (Monday)", "category": "💼 WORK", "done": false },
-    { "id": "ot-claim", "text": "File overtime claim (19.5 hrs, 2 dates TBC)", "category": "💼 WORK", "done": false },
+    { "id": "ot-claim", "text": "File overtime claim (33 hrs, 2 dates TBC)", "category": "💼 WORK", "done": false },
 
     { "id": "wingspan", "text": "Wingspan Etsy items for Julie", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "ticket-ride", "text": "Ticket to Ride: Northern Lights", "category": "🔧 DOABLE NOW", "done": false },
