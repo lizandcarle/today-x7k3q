@@ -1,17 +1,20 @@
 {
-  "date": "2026-07-12",
-  "updated": "2026-07-12T18:10:00-06:00",
-  "note": "Sunday evening. Order Andre's books tonight. Monday triple header: 8 AM + 9 AM + 11:30 AM.",
+  "date": "2026-07-13",
+  "updated": "2026-07-13T05:10:00-06:00",
+  "note": "Monday triple header: 8 AM IP Planning, 9 AM Lucky Iron Fish, 11:30 AM MINE post-mortem. Rest day (no exercise).",
   "items": [
-    { "id": "exercise", "text": "Beat Saber 30 min (optional Sunday)", "category": "💪 WORKOUT", "done": false },
+    { "id": "rizki", "text": "Phone Rizki about movers (URGENT)", "category": "🔴 DO NOW", "done": false },
+    { "id": "lawyer", "text": "Email lawyer for 1080 house update", "category": "🔴 DO NOW", "done": false },
+    { "id": "olivier-q55", "text": "Pay Olivier Q55", "category": "🔴 DO NOW", "done": false },
+    { "id": "carolyn", "text": "Send Carolyn thank-you re: Karen's MINE work", "category": "🔴 DO NOW", "done": false },
+    { "id": "g13-rsvp", "text": "G13 RSVP (overdue — send today)", "category": "🔴 DO NOW", "done": false },
+    { "id": "s34", "text": "Approve S34 payment — P012712 SRH/Tula", "category": "💼 WORK", "done": false },
+    { "id": "gate", "text": "Register for GATE training", "category": "💼 WORK", "done": false },
+    { "id": "marni", "text": "Follow up with Marni MacDonald", "category": "💼 WORK", "done": false },
+    { "id": "diet", "text": "Diet Day 23", "category": "📋 TODAY", "done": false },
+    { "id": "andre-books", "text": "Order Andre's books if not done (Endurance + White Man's Burden)", "category": "📋 TODAY", "done": false },
 
-    { "id": "andre-gift", "text": "Order Andre: Endurance + White Man's Burden", "category": "📋 TODAY", "done": false },
-    { "id": "andre-address", "text": "Find Andre's Sherbrooke address in messages", "category": "📋 TODAY", "done": false },
-    { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "📋 TODAY", "done": false },
-    { "id": "diet", "text": "Diet Day 22", "category": "📋 TODAY", "done": false },
-
-    { "id": "olivier-q55", "text": "Pay Olivier Q55 (Monday)", "category": "💼 WORK", "done": false },
-    { "id": "ot-claim", "text": "File overtime claim (33 hrs, 2 dates TBC)", "category": "💼 WORK", "done": false },
+    { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "🏠 HOME", "done": false },
 
     { "id": "wingspan", "text": "Wingspan Etsy items for Julie", "category": "🔧 DOABLE NOW", "done": false },
     { "id": "ticket-ride", "text": "Ticket to Ride: Northern Lights", "category": "🔧 DOABLE NOW", "done": false },
