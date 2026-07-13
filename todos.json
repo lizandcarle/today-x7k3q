@@ -1,12 +1,12 @@
 {
   "date": "2026-07-12",
-  "updated": "2026-07-12T14:46:00-06:00",
-  "note": "Sunday. Beat Saber day. Andre gift + Sherbrooke address today.",
+  "updated": "2026-07-12T18:10:00-06:00",
+  "note": "Sunday evening. Order Andre's books tonight. Monday triple header: 8 AM + 9 AM + 11:30 AM.",
   "items": [
-    { "id": "exercise", "text": "Beat Saber 30 min (optional Sunday session)", "category": "💪 WORKOUT", "done": false },
+    { "id": "exercise", "text": "Beat Saber 30 min (optional Sunday)", "category": "💪 WORKOUT", "done": false },
 
     { "id": "andre-gift", "text": "Order Andre: Endurance + White Man's Burden", "category": "📋 TODAY", "done": false },
-    { "id": "andre-address", "text": "Find Andre's Sherbrooke address (Claude's house) in messages", "category": "📋 TODAY", "done": false },
+    { "id": "andre-address", "text": "Find Andre's Sherbrooke address in messages", "category": "📋 TODAY", "done": false },
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "📋 TODAY", "done": false },
     { "id": "diet", "text": "Diet Day 22", "category": "📋 TODAY", "done": false },
 
