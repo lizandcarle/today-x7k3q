@@ -1,11 +1,12 @@
 {
   "date": "2026-07-14",
-  "updated": "2026-07-14T05:10:00-06:00",
-  "note": "No meetings. Clear the post-MINE inbox pile. Three calls and the urgent pile halves.",
+  "updated": "2026-07-14T09:28:00-06:00",
+  "note": "Full reset. No meetings today. Check off what's done, mef.",
   "items": [
     { "id": "s34", "text": "Approve S34 payment — P012712 SRH/Tula (your signature)", "category": "🔴 DO NOW", "done": false },
     { "id": "g13-rsvp", "text": "RSVP G13 event — Westin tomorrow (overdue)", "category": "🔴 DO NOW", "done": false },
     { "id": "lawyer", "text": "Email lawyer for update — 1080 house (29 days to close)", "category": "🔴 DO NOW", "done": false },
+    { "id": "mine-report", "text": "MINE visit report — input due COB today (SharePoint)", "category": "🔴 DO NOW", "done": false },
     { "id": "olivier-q55", "text": "Pay Olivier Q55", "category": "💼 WORK", "done": false },
     { "id": "mro-fire", "text": "Book MRO for fire extinguisher", "category": "💼 WORK", "done": false },
     { "id": "carolyn", "text": "Thank-you note to Carolyn re: Karen's MINE work", "category": "💼 WORK", "done": false },
@@ -13,11 +14,10 @@
     { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK", "done": false },
     { "id": "gate", "text": "Register for GATE training", "category": "💼 WORK", "done": false },
     { "id": "desjardins", "text": "Desjardins concept note — review", "category": "💼 WORK", "done": false },
-    { "id": "marni", "text": "Follow up with Marni MacDonald (starts Wed)", "category": "💼 WORK", "done": false },
     { "id": "julie-internet", "text": "Pay Julie's internet", "category": "🏠 HOME", "done": false },
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000 FSD)", "category": "🏠 HOME", "done": false },
-    { "id": "shopping", "text": "Shopping: coffee filters, Watch charger, razor blades", "category": "🏠 HOME", "done": false },
     { "id": "andre-books", "text": "ORDER ANDRE'S BOOKS (birthday Sunday!)", "category": "🏠 HOME", "done": false },
+    { "id": "shopping", "text": "Shopping: coffee filters, Watch charger, razor blades", "category": "🏠 HOME", "done": false },
     { "id": "exercise-tue", "text": "Dumbbells 20 min + Beat Saber 30 min", "category": "💪 WORKOUT", "done": false },
     { "id": "diet", "text": "Diet Day 25 / Week 4", "category": "💪 WORKOUT", "done": false }
   ]
