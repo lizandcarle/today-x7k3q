@@ -1,18 +1,14 @@
 {
   "date": "2026-07-13",
-  "updated": "2026-07-13T15:26:00-06:00",
-  "note": "Monday reckoning done. 5 items cleared. MINE report in progress.",
+  "updated": "2026-07-13T18:10:00-06:00",
+  "note": "Monday done. 5 items cleared. Tomorrow: dumbbells day (Tue). Andre's books STILL not ordered.",
   "items": [
-    { "id": "rizki", "text": "Phone Rizki about movers (URGENT)", "category": "🔴 DO NOW", "done": true },
-    { "id": "lawyer", "text": "Email lawyer for 1080 house update", "category": "🔴 DO NOW", "done": true },
-    { "id": "olivier-q55", "text": "Pay Olivier Q55", "category": "🔴 DO NOW", "done": true },
-    { "id": "carolyn", "text": "Send Carolyn thank-you re: Karen's MINE work", "category": "🔴 DO NOW", "done": true },
-    { "id": "g13-rsvp", "text": "G13 RSVP (overdue — send today)", "category": "🔴 DO NOW", "done": true },
+    { "id": "andre-books", "text": "ORDER ANDRE'S BOOKS (birthday Saturday!)", "category": "🔴 DO NOW", "done": false },
+    { "id": "exercise-tue", "text": "Tomorrow: Dumbbells 20 min + Beat Saber 30 min", "category": "💪 WORKOUT", "done": false },
     { "id": "s34", "text": "Approve S34 payment — P012712 SRH/Tula", "category": "💼 WORK", "done": false },
     { "id": "gate", "text": "Register for GATE training", "category": "💼 WORK", "done": false },
     { "id": "marni", "text": "Follow up with Marni MacDonald", "category": "💼 WORK", "done": false },
     { "id": "diet", "text": "Diet Day 23", "category": "📋 TODAY", "done": false },
-    { "id": "andre-books", "text": "Order Andre's books (Endurance + White Man's Burden)", "category": "📋 TODAY", "done": false },
 
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000)", "category": "🏠 HOME", "done": false },
 
