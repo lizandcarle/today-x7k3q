@@ -1,12 +1,13 @@
 {
-  "date": "2026-07-14",
-  "updated": "2026-07-14T18:10:00-06:00",
-  "note": "Evening update. UNFPA draft done (event postponed). Desjardins moved to Thu staff meeting. Andre's books parked until Miami.",
+  "date": "2026-07-15",
+  "updated": "2026-07-15T05:10:00-06:00",
+  "note": "G13 at the Westin all morning. Write Marni today.",
   "items": [
+    { "id": "marni", "text": "Write Marni MacDonald — Guatemala visit follow-up", "category": "🔴 DO NOW", "done": false },
     { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK", "done": false },
     { "id": "vacation-day", "text": "Book vacation days in CBS whereabouts calendar", "category": "💼 WORK", "done": false },
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000 FSD)", "category": "🏠 HOME", "done": false },
-    { "id": "tigo", "text": "Tigo internet bill — due Jul 10, check if paid", "category": "🏠 HOME", "done": false },
-    { "id": "exercise-tue", "text": "Dumbbells 20 min + Beat Saber 30 min", "category": "💪 WORKOUT", "done": false }
+    { "id": "exercise-wed", "text": "Rest day (Wed) or light activity", "category": "💪 WORKOUT", "done": false },
+    { "id": "diet", "text": "Diet Day 26 / Week 4", "category": "💪 WORKOUT", "done": false }
   ]
 }
