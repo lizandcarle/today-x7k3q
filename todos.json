@@ -1,14 +1,12 @@
 {
   "date": "2026-07-14",
-  "updated": "2026-07-14T13:13:00-06:00",
-  "note": "10 items cleared today. What's left:",
+  "updated": "2026-07-14T18:10:00-06:00",
+  "note": "Evening update. UNFPA draft done (event postponed). Desjardins moved to Thu staff meeting. Andre's books parked until Miami.",
   "items": [
-    { "id": "azu-unfpa", "text": "Follow up with Azu — HOM briefing notes for UNFPA", "category": "💼 WORK", "done": false },
     { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK", "done": false },
-    { "id": "desjardins", "text": "Desjardins concept note — review", "category": "💼 WORK", "done": false },
-    { "id": "vacation-day", "text": "Book vacation day in CBS calendar", "category": "💼 WORK", "done": false },
+    { "id": "vacation-day", "text": "Book vacation days in CBS whereabouts calendar", "category": "💼 WORK", "done": false },
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000 FSD)", "category": "🏠 HOME", "done": false },
-    { "id": "andre-books", "text": "ORDER ANDRE'S BOOKS (birthday Sunday!)", "category": "🏠 HOME", "done": false },
+    { "id": "tigo", "text": "Tigo internet bill — due Jul 10, check if paid", "category": "🏠 HOME", "done": false },
     { "id": "exercise-tue", "text": "Dumbbells 20 min + Beat Saber 30 min", "category": "💪 WORKOUT", "done": false }
   ]
 }
