@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
-  "updated": "2026-07-15T09:31:00-06:00",
-  "note": "Full list rebuild. Two Marnis: MacDonald (Guatemala invite) and Angus (aunt, eulogy).",
+  "updated": "2026-07-15T18:10:00-06:00",
+  "note": "Evening update. Shellfish + juggling books DJOTDs staged. Eric's birthday tomorrow.",
   "items": [
     { "id": "overtime", "text": "File own MINE overtime (GC179 + Compensation Gateway)", "category": "🔴 DO NOW", "done": false },
     { "id": "auth-key", "text": "Check if authentication key is working", "category": "🔴 DO NOW", "done": false },
@@ -17,8 +17,7 @@
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000 FSD)", "category": "🏠 HOME", "done": false },
     { "id": "antigua-airbnb", "text": "Book Antigua Airbnb (3 nights, Aug 2-4)", "category": "🏠 HOME", "done": false },
     { "id": "house-1080", "text": "1080 house — 28 days to close (Aug 12)", "category": "🏠 HOME", "done": false },
-    { "id": "djotd-shellfish", "text": "Send shellfish prompt to ChatGPT, return image", "category": "🏠 HOME", "done": false },
-    { "id": "exercise", "text": "Rest day (Wed) or light activity", "category": "💪 WORKOUT", "done": false },
+    { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (repeated — not done yesterday or today)", "category": "💪 WORKOUT", "done": false },
     { "id": "diet", "text": "Diet Day 26 / Week 4", "category": "💪 WORKOUT", "done": false }
   ]
 }
