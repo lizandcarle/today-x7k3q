@@ -1,23 +1,19 @@
 {
-  "date": "2026-07-15",
-  "updated": "2026-07-15T19:10:00-06:00",
-  "note": "6 items cleared today. Nice haul.",
+  "date": "2026-07-16",
+  "updated": "2026-07-16T05:10:00-06:00",
+  "note": "Eric's birthday. DEV team meeting at 10. File the overtime.",
   "items": [
     { "id": "overtime", "text": "File own MINE overtime (GC179 + Compensation Gateway)", "category": "🔴 DO NOW", "done": false },
-    { "id": "auth-key", "text": "Check if authentication key is working", "category": "🔴 DO NOW", "done": true },
     { "id": "marni-macdonald", "text": "Write Marni MacDonald — Guatemala visit follow-up", "category": "🔴 DO NOW", "done": false },
+    { "id": "eric-bday", "text": "Message Eric — happy birthday", "category": "🔴 DO NOW", "done": false },
+    { "id": "desjardins-thu", "text": "Discuss Desjardins way forward at staff meeting (today)", "category": "💼 WORK", "done": false },
+    { "id": "bilat-conflict", "text": "Resolve Mon Jul 20 conflict: bilat 9 AM vs OXFAM WVL 9 AM", "category": "💼 WORK", "done": false },
     { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK", "done": false },
     { "id": "vacation-day", "text": "Book vacation days in CBS whereabouts calendar", "category": "💼 WORK", "done": false },
-    { "id": "sally-tikal", "text": "Ask Sally to book Jungle Lodge Hotel (2 rooms, Fri Aug 7)", "category": "💼 WORK", "done": true },
-    { "id": "desjardins-thu", "text": "Discuss Desjardins way forward at staff meeting (Thu)", "category": "💼 WORK", "done": false },
-    { "id": "gatica", "text": "Review Azu's Gatica/workers draft response for HOM", "category": "💼 WORK", "done": true },
-    { "id": "ia02", "text": "Mission Inspection IA-02 placemat — prep for bilat Mon", "category": "💼 WORK", "done": true },
     { "id": "bilat-prep", "text": "Bilat with Olivier Mon Jul 20 — prep agenda items", "category": "💼 WORK", "done": false },
-    { "id": "marni-angus", "text": "Write Marni Angus (aunt) — thank for Dad's eulogy", "category": "🏠 HOME", "done": true },
     { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000 FSD)", "category": "🏠 HOME", "done": false },
-    { "id": "antigua-airbnb", "text": "Book Antigua Airbnb (3 nights, Aug 2-4)", "category": "🏠 HOME", "done": true },
-    { "id": "house-1080", "text": "1080 house — 28 days to close (Aug 12)", "category": "🏠 HOME", "done": false },
-    { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (repeated — not done yesterday or today)", "category": "💪 WORKOUT", "done": false },
-    { "id": "diet", "text": "Diet Day 26 / Week 4", "category": "💪 WORKOUT", "done": false }
+    { "id": "house-1080", "text": "1080 house — 27 days to close (Aug 12)", "category": "🏠 HOME", "done": false },
+    { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (3rd day unchecked)", "category": "💪 WORKOUT", "done": false },
+    { "id": "diet", "text": "Diet Day 27 / Week 4", "category": "💪 WORKOUT", "done": false }
   ]
 }
