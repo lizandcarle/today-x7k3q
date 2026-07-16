@@ -1,19 +1,19 @@
 {
   "date": "2026-07-16",
-  "updated": "2026-07-16T05:10:00-06:00",
-  "note": "Eric's birthday. DEV team meeting at 10. File the overtime.",
+  "updated": "2026-07-16T16:18:00-06:00",
+  "note": "5 cleared. OXFAM cancelled (strike). Desjardins discussed.",
   "items": [
     { "id": "overtime", "text": "File own MINE overtime (GC179 + Compensation Gateway)", "category": "🔴 DO NOW", "done": false },
     { "id": "marni-macdonald", "text": "Write Marni MacDonald — Guatemala visit follow-up", "category": "🔴 DO NOW", "done": false },
-    { "id": "eric-bday", "text": "Message Eric — happy birthday", "category": "🔴 DO NOW", "done": false },
-    { "id": "desjardins-thu", "text": "Discuss Desjardins way forward at staff meeting (today)", "category": "💼 WORK", "done": false },
-    { "id": "bilat-conflict", "text": "Resolve Mon Jul 20 conflict: bilat 9 AM vs OXFAM WVL 9 AM", "category": "💼 WORK", "done": false },
+    { "id": "eric-bday", "text": "Message Eric — happy birthday", "category": "🔴 DO NOW", "done": true },
+    { "id": "desjardins-thu", "text": "Discuss Desjardins way forward at staff meeting (today)", "category": "💼 WORK", "done": true },
+    { "id": "bilat-conflict", "text": "Resolve Mon Jul 20 conflict: bilat 9 AM vs OXFAM WVL 9 AM", "category": "💼 WORK", "done": true },
     { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK", "done": false },
     { "id": "vacation-day", "text": "Book vacation days in CBS whereabouts calendar", "category": "💼 WORK", "done": false },
     { "id": "bilat-prep", "text": "Bilat with Olivier Mon Jul 20 — prep agenda items", "category": "💼 WORK", "done": false },
-    { "id": "hearing-receipt", "text": "Find the hearing aid receipt (~$5,000 FSD)", "category": "🏠 HOME", "done": false },
-    { "id": "house-1080", "text": "1080 house — 27 days to close (Aug 12)", "category": "🏠 HOME", "done": false },
+    { "id": "hearing-receipt", "text": "Write hearing aid company for replacement receipt", "category": "🏠 HOME", "done": false },
+    { "id": "house-1080", "text": "1080 house — 27 days to close (Aug 12)", "category": "🏠 HOME", "done": true },
     { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (3rd day unchecked)", "category": "💪 WORKOUT", "done": false },
-    { "id": "diet", "text": "Diet Day 27 / Week 4", "category": "💪 WORKOUT", "done": false }
+    { "id": "diet", "text": "Diet Day 27 / Week 4", "category": "💪 WORKOUT", "done": true }
   ]
 }
