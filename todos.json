@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-17",
-  "updated": "2026-07-17T18:10:00-06:00",
-  "note": "Friday evening. Weekend: write Marni, birthday messages, dumbbells. No excuses.",
+  "date": "2026-07-18",
+  "updated": "2026-07-18T05:10:00-06:00",
+  "note": "Saturday. Christy + Andre birthdays tomorrow. Write the messages. Write Marni. Move.",
   "items": [
-    { "id": "overtime", "text": "File own MINE overtime (GC179 + Compensation Gateway)", "category": "🔴 DO NOW", "done": false },
-    { "id": "marni-macdonald", "text": "Write Marni MacDonald — Guatemala visit follow-up (day 5)", "category": "🔴 DO NOW", "done": false },
-    { "id": "christy-andre", "text": "Prep birthday messages for Christy + Andre (Sunday)", "category": "🔴 DO NOW", "done": false },
+    { "id": "christy-andre", "text": "Write birthday messages for Christy + Andre (TOMORROW)", "category": "🔴 DO NOW", "done": false },
+    { "id": "marni-macdonald", "text": "Write Marni MacDonald — Guatemala visit follow-up (day 6)", "category": "🔴 DO NOW", "done": false },
+    { "id": "overtime", "text": "File own MINE overtime (GC179 + Compensation Gateway) (day 7)", "category": "🔴 DO NOW", "done": false },
+    { "id": "bilat-prep", "text": "Bilat with Olivier Mon Jul 20 — prep agenda items", "category": "💼 WORK", "done": false },
     { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK", "done": false },
     { "id": "vacation-day", "text": "Book vacation days in CBS whereabouts calendar", "category": "💼 WORK", "done": false },
-    { "id": "bilat-prep", "text": "Bilat with Olivier Mon Jul 20 — prep agenda items", "category": "💼 WORK", "done": false },
     { "id": "azu-browser", "text": "Review Azu's Project Browser 2025-26 language", "category": "💼 WORK", "done": false },
     { "id": "hearing-co", "text": "Write hearing aid company for replacement receipt (~$1,500)", "category": "🏠 HOME", "done": false },
     { "id": "canada-flights", "text": "Book mef + Julie flights to Canada (Aug 9)", "category": "🏠 HOME", "done": false },
-    { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (6th day unchecked)", "category": "💪 WORKOUT", "done": false },
-    { "id": "diet", "text": "Diet Day 28 / Week 4", "category": "💪 WORKOUT", "done": false }
+    { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (7th day unchecked)", "category": "💪 WORKOUT", "done": false },
+    { "id": "diet", "text": "Diet Day 29 / Week 5", "category": "💪 WORKOUT", "done": false }
   ]
 }
