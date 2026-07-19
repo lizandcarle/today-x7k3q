@@ -1,10 +1,10 @@
 {
   "date": "2026-07-18",
-  "updated": "2026-07-18T05:10:00-06:00",
-  "note": "Saturday. Christy + Andre birthdays tomorrow. Write the messages. Write Marni. Move.",
+  "updated": "2026-07-18T18:10:00-06:00",
+  "note": "Evening. Marni DONE. Birthdays tomorrow. Dune has UNESCO status.",
   "items": [
     { "id": "christy-andre", "text": "Write birthday messages for Christy + Andre (TOMORROW)", "category": "🔴 DO NOW", "done": false },
-    { "id": "marni-macdonald", "text": "Write Marni MacDonald — Guatemala visit follow-up (day 6)", "category": "🔴 DO NOW", "done": false },
+    { "id": "marni-macdonald", "text": "Write Marni MacDonald — Guatemala visit follow-up", "category": "🔴 DO NOW", "done": true },
     { "id": "overtime", "text": "File own MINE overtime (GC179 + Compensation Gateway) (day 7)", "category": "🔴 DO NOW", "done": false },
     { "id": "bilat-prep", "text": "Bilat with Olivier Mon Jul 20 — prep agenda items", "category": "💼 WORK", "done": false },
     { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK", "done": false },
