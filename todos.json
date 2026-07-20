@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "updated": "2026-07-19T05:10:00-06:00",
-  "note": "Sunday. Christy + Andre birthdays TODAY. Bilat with Olivier tomorrow 9 AM.",
+  "updated": "2026-07-19T18:10:00-06:00",
+  "note": "Evening. Bilat with Olivier tomorrow 9 AM. ONU Mujeres/PNUD 2:30 PM.",
   "items": [
     { "id": "christy-andre", "text": "Send birthday messages to Christy + Andre (TODAY)", "category": "🔴 DO NOW", "done": false },
     { "id": "bilat-prep", "text": "Bilat with Olivier Mon Jul 20 9 AM — prep agenda items", "category": "🔴 DO NOW", "done": false },
@@ -11,7 +11,7 @@
     { "id": "azu-browser", "text": "Review Azu's Project Browser 2025-26 language", "category": "💼 WORK", "done": false },
     { "id": "hearing-co", "text": "Write hearing aid company for replacement receipt (~$1,500)", "category": "🏠 HOME", "done": false },
     { "id": "canada-flights", "text": "Julie's Canada flight ticket (Aug 9) — still TBD", "category": "🏠 HOME", "done": false },
-    { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (8th day unchecked)", "category": "💪 WORKOUT", "done": false },
+    { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (9th day unchecked)", "category": "💪 WORKOUT", "done": false },
     { "id": "diet", "text": "Diet Day 30 / Week 5", "category": "💪 WORKOUT", "done": false }
   ]
 }
