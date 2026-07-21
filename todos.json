@@ -1,12 +1,12 @@
 {
   "date": "2026-07-20",
-  "updated": "2026-07-20T18:10:00-06:00",
-  "note": "Monday evening. Bilat + WFP lunch done. Charlotte in 11 days. House close in 23.",
+  "updated": "2026-07-20T18:57:00-06:00",
+  "note": "Monday evening. Synced 3 check-offs from earlier today. Julie flight booked.",
   "items": [
-    { "id": "hearing-email", "text": "Email hearing aid company for replacement receipt (~$1,500)", "category": "🔴 DO NOW", "done": false },
+    { "id": "hearing-email", "text": "Email hearing aid company for replacement receipt (~$1,500)", "category": "🔴 DO NOW", "done": true },
     { "id": "overtime", "text": "File own MINE overtime (GC179 + Compensation Gateway) (day 9)", "category": "🔴 DO NOW", "done": false },
     { "id": "bilat-followups", "text": "Bilat follow-ups for Olivier: TULA letter, travel plan, IPEP, IA pipeline", "category": "🔴 DO NOW", "done": false },
-    { "id": "julie-dentist", "text": "Call Julie's dentist and make an appointment", "category": "📞 CALLS", "done": false },
+    { "id": "julie-dentist", "text": "Call Julie's dentist and make an appointment", "category": "📞 CALLS", "done": true },
     { "id": "call-lawyer", "text": "Call lawyer — 1080 house update (silent since Jul 14)", "category": "📞 CALLS", "done": false },
     { "id": "call-realtor", "text": "Call real estate agent (Julie wants to)", "category": "📞 CALLS", "done": false },
     { "id": "viture-return", "text": "Contact VITURE Beast — get return authorization (defective)", "category": "📞 CALLS", "done": false },
@@ -17,8 +17,8 @@
     { "id": "canada-cameras", "text": "Research + order security cameras for 1080 house", "category": "🇨🇦 CANADA PREP", "done": false },
     { "id": "canada-utilities", "text": "Figure out utilities scheduling for 1080", "category": "🇨🇦 CANADA PREP", "done": false },
     { "id": "canada-internet", "text": "Get internet installed at 1080", "category": "🇨🇦 CANADA PREP", "done": false },
-    { "id": "canada-flights", "text": "Julie's Canada flight ticket (Aug 9) — still TBD", "category": "🇨🇦 CANADA PREP", "done": false },
+    { "id": "canada-flights", "text": "Julie's Canada flight — BOOKED (AUTZD7, returns Aug 31)", "category": "🇨🇦 CANADA PREP", "done": true },
     { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (10th day unchecked)", "category": "💪 WORKOUT", "done": false },
-    { "id": "diet", "text": "Diet Day 31 / Week 5", "category": "💪 WORKOUT", "done": false }
+    { "id": "diet", "text": "Diet Day 31 / Week 5", "category": "💪 WORKOUT", "done": true }
   ]
 }
