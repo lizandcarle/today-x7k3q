@@ -120,6 +120,15 @@
     font:600 16px/1 var(--sans); padding:15px 16px; border-radius:999px;
   }
   .btn:active{opacity:.85}
+  .btn.has-changes{background:var(--amber); animation:nudge 2s ease-in-out infinite}
+  @keyframes nudge{0%,100%{transform:scale(1)} 50%{transform:scale(1.02)}}
+  .toast{
+    position:fixed; top:calc(env(safe-area-inset-top) + 12px); left:50%; transform:translateX(-50%);
+    background:var(--amber); color:#fff; font:600 14px var(--sans);
+    padding:10px 20px; border-radius:999px; z-index:99;
+    opacity:0; transition:opacity .3s ease; pointer-events:none;
+  }
+  .toast.show{opacity:1}
   .alt{
     display:flex; justify-content:center; gap:18px; margin:10px 0 0;
     font:13px var(--mono);
@@ -163,6 +172,7 @@
   </div>
 </main>
 
+<div id="toast" class="toast"></div>
 <footer id="syncbar" hidden>
   <div>
     <a id="btnPrimary" class="btn" href="#">Message Orson the update</a>
@@ -307,11 +317,13 @@ function render(){
   if (CONFIG.ORSON_IMESSAGE) {
     $('btnPrimary').href = 'sms:' + CONFIG.ORSON_IMESSAGE + '&body=' + encodeURIComponent(msg);
     $('btnPrimary').textContent = 'Message Orson the update' + suffix;
+    $('btnPrimary').className = 'btn' + (n ? ' has-changes' : '');
     $('btnAlt').href = mailHref;
     $('btnAlt').hidden = false;
   } else {
     $('btnPrimary').href = mailHref;
     $('btnPrimary').textContent = 'Email Orson the update' + suffix;
+    $('btnPrimary').className = 'btn' + (n ? ' has-changes' : '');
     $('btnAlt').hidden = true;
   }
   $('syncbar').hidden = total === 0;
@@ -338,9 +350,19 @@ $('btnCopy').addEventListener('click', function(){
   } else { prompt('Copy this update:', msg); }
 });
 
-/* Refetch whenever the app comes back to the foreground, so the
-   5:30 AM open always shows the fresh list without a manual refresh. */
-document.addEventListener('visibilitychange', function(){ if (!document.hidden) load(); });
+/* Refetch when app comes to foreground; nudge about unsent changes */
+document.addEventListener('visibilitychange', function(){
+  if (!document.hidden) {
+    load();
+    if (data && pendingCount() > 0) {
+      var t = $('toast');
+      var n = pendingCount();
+      t.textContent = n + ' change' + (n > 1 ? 's' : '') + ' not sent to Orson';
+      t.classList.add('show');
+      setTimeout(function(){ t.classList.remove('show'); }, 3000);
+    }
+  }
+});
 window.addEventListener('pageshow', function(e){ if (e.persisted) load(); });
 
 load();
