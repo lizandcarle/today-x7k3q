@@ -1,24 +1,23 @@
 {
-  "date": "2026-07-20",
-  "updated": "2026-07-20T18:57:00-06:00",
-  "note": "Monday evening. Synced 3 check-offs from earlier today. Julie flight booked.",
+  "date": "2026-07-21",
+  "updated": "2026-07-21T05:12:00-06:00",
+  "note": "Tuesday. NDB 9 AM, CMM/OPS 2 PM. File the overtime.",
   "items": [
-    { "id": "hearing-email", "text": "Email hearing aid company for replacement receipt (~$1,500)", "category": "🔴 DO NOW", "done": true },
-    { "id": "overtime", "text": "File own MINE overtime (GC179 + Compensation Gateway) (day 9)", "category": "🔴 DO NOW", "done": false },
+    { "id": "overtime", "text": "File own MINE overtime (GC179 + Compensation Gateway) (day 10)", "category": "🔴 DO NOW", "done": false },
+    { "id": "caritas-followup", "text": "Caritas/FFTP: get Sonia's input for HOM meeting recommendation", "category": "🔴 DO NOW", "done": false },
     { "id": "bilat-followups", "text": "Bilat follow-ups for Olivier: TULA letter, travel plan, IPEP, IA pipeline", "category": "🔴 DO NOW", "done": false },
-    { "id": "julie-dentist", "text": "Call Julie's dentist and make an appointment", "category": "📞 CALLS", "done": true },
-    { "id": "call-lawyer", "text": "Call lawyer — 1080 house update (silent since Jul 14)", "category": "📞 CALLS", "done": false },
-    { "id": "call-realtor", "text": "Call real estate agent (Julie wants to)", "category": "📞 CALLS", "done": false },
-    { "id": "viture-return", "text": "Contact VITURE Beast — get return authorization (defective)", "category": "📞 CALLS", "done": false },
+    { "id": "horizons", "text": "Research Horizons of Friendship ($17M repro health, P013133001)", "category": "💼 WORK", "done": false },
     { "id": "team-mtg", "text": "Schedule DEV Guatemala team meeting for Thursday", "category": "💼 WORK", "done": false },
     { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK", "done": false },
     { "id": "vacation-day", "text": "Book vacation days in CBS whereabouts calendar", "category": "💼 WORK", "done": false },
     { "id": "azu-browser", "text": "Review Azu's Project Browser 2025-26 language", "category": "💼 WORK", "done": false },
+    { "id": "call-lawyer", "text": "Call lawyer — 1080 house update (silent since Jul 14)", "category": "📞 CALLS", "done": false },
+    { "id": "call-realtor", "text": "Call real estate agent (Julie wants to)", "category": "📞 CALLS", "done": false },
+    { "id": "viture-return", "text": "Contact VITURE Beast — get return authorization (defective)", "category": "📞 CALLS", "done": false },
     { "id": "canada-cameras", "text": "Research + order security cameras for 1080 house", "category": "🇨🇦 CANADA PREP", "done": false },
     { "id": "canada-utilities", "text": "Figure out utilities scheduling for 1080", "category": "🇨🇦 CANADA PREP", "done": false },
     { "id": "canada-internet", "text": "Get internet installed at 1080", "category": "🇨🇦 CANADA PREP", "done": false },
-    { "id": "canada-flights", "text": "Julie's Canada flight — BOOKED (AUTZD7, returns Aug 31)", "category": "🇨🇦 CANADA PREP", "done": true },
-    { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (10th day unchecked)", "category": "💪 WORKOUT", "done": false },
-    { "id": "diet", "text": "Diet Day 31 / Week 5", "category": "💪 WORKOUT", "done": true }
+    { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (11th day unchecked)", "category": "💪 WORKOUT", "done": false },
+    { "id": "diet", "text": "Diet Day 32 / Week 5", "category": "💪 WORKOUT", "done": false }
   ]
 }
