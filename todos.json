@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
-  "updated": "2026-07-21T05:12:00-06:00",
-  "note": "Tuesday. NDB 9 AM, CMM/OPS 2 PM. File the overtime.",
+  "updated": "2026-07-21T06:42:00-06:00",
+  "note": "Tuesday. IPEP interviews 10:30 + 11:30. CMM/OPS 2 PM.",
   "items": [
     { "id": "overtime", "text": "File own MINE overtime (GC179 + Compensation Gateway) (day 10)", "category": "🔴 DO NOW", "done": false },
     { "id": "caritas-followup", "text": "Caritas/FFTP: get Sonia's input for HOM meeting recommendation", "category": "🔴 DO NOW", "done": false },
@@ -18,6 +18,6 @@
     { "id": "canada-utilities", "text": "Figure out utilities scheduling for 1080", "category": "🇨🇦 CANADA PREP", "done": false },
     { "id": "canada-internet", "text": "Get internet installed at 1080", "category": "🇨🇦 CANADA PREP", "done": false },
     { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (11th day unchecked)", "category": "💪 WORKOUT", "done": false },
-    { "id": "diet", "text": "Diet Day 32 / Week 5", "category": "💪 WORKOUT", "done": false }
+    { "id": "diet", "text": "Diet Day 32 / Week 5", "category": "💪 WORKOUT", "done": true }
   ]
 }
