@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "updated": "2026-07-22T10:19:00-06:00",
+  "updated": "2026-07-22T11:08:00-06:00",
   "note": "Wednesday. No meetings. Seller deadline today. File the overtime.",
   "items": [
     { "id": "overtime", "text": "File own MINE overtime — June (spreadsheet ready on Drive)", "category": "🔴 DO NOW", "done": false },
@@ -8,6 +8,7 @@
     { "id": "caritas-followup", "text": "Caritas/FFTP: message Sonia for input on HOM meeting", "category": "🔴 DO NOW", "done": false },
     { "id": "lawyer-reply", "text": "Watch for Debbie's reply (1080 seller deadline TODAY)", "category": "🔴 DO NOW", "done": false },
     { "id": "mail-julie-health", "text": "Mail Julie the health receipts + hearing aid receipts to file claims", "category": "🔴 DO NOW", "done": false },
+    { "id": "kvm", "text": "Remove KVM switch from work setup (IT guy coming next week)", "category": "🔴 DO NOW", "done": false },
     { "id": "horizons", "text": "Research Horizons of Friendship ($17M repro health, P013133001)", "category": "💼 WORK", "done": false },
     { "id": "team-mtg", "text": "Schedule DEV Guatemala team meeting for Thursday", "category": "💼 WORK", "done": false },
     { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK", "done": false },
