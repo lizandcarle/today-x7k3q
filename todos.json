@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
-  "updated": "2026-07-21T06:42:00-06:00",
-  "note": "Tuesday. IPEP interviews 10:30 + 11:30. CMM/OPS 2 PM.",
+  "updated": "2026-07-21T18:10:00-06:00",
+  "note": "Tuesday evening. Lawyer draft sent. Jul 22 seller deadline tomorrow. Charlotte in 10 days.",
   "items": [
     { "id": "overtime", "text": "File own MINE overtime (GC179 + Compensation Gateway) (day 10)", "category": "🔴 DO NOW", "done": false },
     { "id": "caritas-followup", "text": "Caritas/FFTP: get Sonia's input for HOM meeting recommendation", "category": "🔴 DO NOW", "done": false },
@@ -11,7 +11,7 @@
     { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK", "done": false },
     { "id": "vacation-day", "text": "Book vacation days in CBS whereabouts calendar", "category": "💼 WORK", "done": false },
     { "id": "azu-browser", "text": "Review Azu's Project Browser 2025-26 language", "category": "💼 WORK", "done": false },
-    { "id": "call-lawyer", "text": "Call lawyer — 1080 house update (silent since Jul 14)", "category": "📞 CALLS", "done": false },
+    { "id": "call-lawyer", "text": "Watch for Debbie's reply (draft sent this morning)", "category": "📞 CALLS", "done": false },
     { "id": "call-realtor", "text": "Call real estate agent (Julie wants to)", "category": "📞 CALLS", "done": false },
     { "id": "viture-return", "text": "Contact VITURE Beast — get return authorization (defective)", "category": "📞 CALLS", "done": false },
     { "id": "canada-cameras", "text": "Research + order security cameras for 1080 house", "category": "🇨🇦 CANADA PREP", "done": false },
