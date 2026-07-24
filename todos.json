@@ -1,24 +1,19 @@
 {
-  "date": "2026-07-23",
-  "updated": "2026-07-23T18:10:00-06:00",
-  "note": "Thursday evening. KVM tomorrow. Charlotte in 8 days. Canada in 17.",
+  "date": "2026-07-24",
+  "updated": "2026-07-24T05:12:00-06:00",
+  "note": "Friday. No meetings. KVM + Tigo today. Charlotte in 7 days.",
   "items": [
-    { "id": "overtime", "text": "File own MINE overtime — June (spreadsheet ready, day 12)", "category": "🔴 DO NOW", "done": false },
-    { "id": "meda", "text": "MEDA Fruit Supply Chain: task team for assessment by Aug 4", "category": "🔴 DO NOW", "done": false },
-    { "id": "caritas-followup", "text": "Caritas/FFTP: message Sonia for input on HOM meeting", "category": "🔴 DO NOW", "done": false },
-    { "id": "lawyer-reply", "text": "1080: seller deadline was Tue — any word from Debbie?", "category": "🔴 DO NOW", "done": true },
-    { "id": "mail-julie-health", "text": "Mail Julie the health + hearing aid receipts to file claims", "category": "🔴 DO NOW", "done": true },
-    { "id": "phone-internet", "text": "Check/pay Tigo internet for work phone", "category": "🔴 DO NOW", "done": false },
+    { "id": "kvm", "text": "Remove KVM switch from work setup (IT guy next week)", "category": "🔴 DO NOW", "done": false },
+    { "id": "phone-internet", "text": "Pay Tigo phone internet (account 17082124)", "category": "🔴 DO NOW", "done": false },
+    { "id": "overtime", "text": "File own MINE overtime — June (spreadsheet ready, day 13)", "category": "🔴 DO NOW", "done": false },
+    { "id": "meda", "text": "MEDA: Sonia tasked (Aug 12 deadline). Monitor.", "category": "💼 WORK", "done": false },
     { "id": "horizons", "text": "Research Horizons of Friendship ($17M repro health)", "category": "💼 WORK", "done": false },
     { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK", "done": false },
-    { "id": "vacation-day", "text": "Book vacation days in CBS whereabouts calendar", "category": "💼 WORK", "done": true },
-    { "id": "kvm", "text": "Remove KVM switch from work setup (TOMORROW)", "category": "💼 WORK", "done": false },
-    { "id": "call-realtor", "text": "Call real estate agent (Julie wants to)", "category": "📞 CALLS", "done": true },
     { "id": "viture-return", "text": "Contact VITURE Beast — return authorization (defective)", "category": "📞 CALLS", "done": false },
     { "id": "canada-cameras", "text": "Research + order security cameras for 1080 house", "category": "🇨🇦 CANADA PREP", "done": false },
     { "id": "canada-utilities", "text": "Figure out utilities scheduling for 1080", "category": "🇨🇦 CANADA PREP", "done": false },
     { "id": "canada-internet", "text": "Get internet installed at 1080", "category": "🇨🇦 CANADA PREP", "done": false },
-    { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (13th day unchecked)", "category": "💪 WORKOUT", "done": false },
-    { "id": "diet", "text": "Diet Day 34 / Week 5", "category": "💪 WORKOUT", "done": false }
+    { "id": "exercise", "text": "Dumbbells 20 min + Beat Saber 30 min (14th day unchecked)", "category": "💪 WORKOUT", "done": false },
+    { "id": "diet", "text": "Diet Day 35 / Week 5", "category": "💪 WORKOUT", "done": false }
   ]
 }
