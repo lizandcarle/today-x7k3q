@@ -1,11 +1,11 @@
 {
   "date": "2026-07-24",
-  "updated": "2026-07-24T09:35:00-06:00",
-  "note": "Friday. Tigo paid. Write Spanish teacher. KVM still pending.",
+  "updated": "2026-07-24T16:56:00-06:00",
+  "note": "Friday evening. KVM done. Overtime DONE (submit Monday). Tigo paid.",
   "items": [
-    { "id": "kvm", "text": "Remove KVM switch from work setup (IT guy next week)", "category": "🔴 DO NOW", "done": false },
+    { "id": "kvm", "text": "Remove KVM switch from work setup (IT guy next week)", "category": "🔴 DO NOW", "done": true },
+    { "id": "overtime", "text": "File own MINE overtime — June (submit Monday morning!)", "category": "🔴 DO NOW", "done": true },
     { "id": "spanish-teacher", "text": "Write Spanish teacher", "category": "🔴 DO NOW", "done": false },
-    { "id": "overtime", "text": "File own MINE overtime — June (spreadsheet ready, day 13)", "category": "🔴 DO NOW", "done": false },
     { "id": "phone-internet", "text": "Pay Tigo phone internet (account 17082124)", "category": "🔴 DO NOW", "done": true },
     { "id": "horizons", "text": "Research Horizons of Friendship ($17M repro health)", "category": "💼 WORK", "done": false },
     { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK", "done": false },
