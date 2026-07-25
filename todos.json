@@ -1,13 +1,15 @@
 {
   "date": "2026-07-25",
-  "updated": "2026-07-25T05:15:00-06:00",
-  "note": "Saturday. Dumbbell day. Charlotte + Aurora land in 7 days, Canada in 15.",
+  "updated": "2026-07-25T16:28:00-06:00",
+  "note": "Saturday. Dumbbell day. Charlotte + Aurora land in 7 days, Canada in 15. Items with a link now have a tappable chip beside them.",
   "items": [
     {
       "id": "tigo-phone",
       "text": "Pay Tigo phone internet (acct 17082124)",
       "category": "🔴 TOP PRIORITY / HOME",
-      "done": false
+      "done": true,
+      "url": "https://micuenta.tigo.com.gt/pagos/deuda",
+      "linkLabel": "Tigo"
     },
     {
       "id": "spanish-teacher",
@@ -223,13 +225,15 @@
       "id": "kvm",
       "text": "Remove KVM from work setup (IT guy this week)",
       "category": "💼 WORK / MONDAY",
-      "done": false
+      "done": true
     },
     {
       "id": "horizons",
       "text": "Research Horizons of Friendship ($17M repro health)",
       "category": "💼 WORK / MONDAY",
-      "done": false
+      "done": false,
+      "url": "https://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/p013133001",
+      "linkLabel": "Project"
     },
     {
       "id": "wv-aug6",
@@ -241,7 +245,9 @@
       "id": "satwork",
       "text": "Disable the satwork Google Apps Script trigger (289 failures)",
       "category": "🛠 TECH",
-      "done": false
+      "done": false,
+      "url": "https://script.google.com/home/triggers?trigger_id=JPl8W3OsS5eUGo9Umplktw",
+      "linkLabel": "Trigger"
     },
     {
       "id": "wifi-recovery",
