@@ -1,7 +1,7 @@
 {
   "date": "2026-07-25",
-  "updated": "2026-07-25T16:28:00-06:00",
-  "note": "Saturday. Dumbbell day. Charlotte + Aurora land in 7 days, Canada in 15. Items with a link now have a tappable chip beside them.",
+  "updated": "2026-07-25T16:52:00-06:00",
+  "note": "Saturday. Home list now links straight to the Workflowy tree; I reconcile it daily.",
   "items": [
     {
       "id": "tigo-phone",
@@ -28,6 +28,13 @@
       "text": "Book Uber for Charlotte + Aurora airport pickup (late Fri Jul 31, 12:10 AM arrival)",
       "category": "🔴 TOP PRIORITY / HOME",
       "done": false
+    },
+    {
+      "id": "wf-home",
+      "type": "ref",
+      "text": "Workflowy: Rethinking Home",
+      "category": "🏠 HOME",
+      "url": "https://workflowy.com/s/rethinking-home/YftI6gRlcjumRKJc"
     },
     {
       "id": "short-circuit",
@@ -156,6 +163,12 @@
       "done": false
     },
     {
+      "id": "canada-insurance",
+      "text": "Get house insurance for 1080",
+      "category": "🇨🇦 CANADA PREP",
+      "done": false
+    },
+    {
       "id": "canada-cameras",
       "text": "Research + order security cameras for 1080",
       "category": "🇨🇦 CANADA PREP",
@@ -264,6 +277,12 @@
     {
       "id": "pacman-mod",
       "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)",
+      "category": "🛠 TECH",
+      "done": false
+    },
+    {
+      "id": "chatgpt-canary",
+      "text": "ChatGPT 'app' using Canary browser",
       "category": "🛠 TECH",
       "done": false
     }
