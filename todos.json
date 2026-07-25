@@ -3,43 +3,233 @@
   "updated": "2026-07-24T22:56:00-06:00",
   "note": "Friday night. Exercise list now leads the evening page. Charlotte + Aurora in 8 days. Canada in 16.",
   "items": [
-    { "id": "ex-beatsaber", "text": "Beat Saber 30 min", "category": "💪 EXERCISE — TONIGHT (Fri = rest/walk)", "done": false },
-    { "id": "ex-steps", "text": "Steps — 7,000 target", "category": "💪 EXERCISE — TONIGHT (Fri = rest/walk)", "done": false },
-    { "id": "ex-diet", "text": "Diet — 1,234 cal / 110g protein (Day 36)", "category": "💪 EXERCISE — TONIGHT (Fri = rest/walk)", "done": false },
-    { "id": "ex-vitamin", "text": "Multivitamin", "category": "💪 EXERCISE — TONIGHT (Fri = rest/walk)", "done": false },
-    { "id": "ex-press", "text": "Dumbbell floor press — 2 x 10-12", "category": "💪 EXERCISE — SAT (dumbbell day, 20 min)", "done": false },
-    { "id": "ex-row", "text": "Bent-over row — 2 x 10-12", "category": "💪 EXERCISE — SAT (dumbbell day, 20 min)", "done": false },
-    { "id": "ex-ohp", "text": "Overhead press — 2 x 10-12", "category": "💪 EXERCISE — SAT (dumbbell day, 20 min)", "done": false },
-    { "id": "ex-curl", "text": "Dumbbell curl — 2 x 12-15", "category": "💪 EXERCISE — SAT (dumbbell day, 20 min)", "done": false },
-    { "id": "ex-squat", "text": "Goblet squat — 2 x 12-15 (optional)", "category": "💪 EXERCISE — SAT (dumbbell day, 20 min)", "done": false },
-    { "id": "ex-wallsit", "text": "Wall sit — 30-60 sec x 2-3 (optional)", "category": "💪 EXERCISE — SAT (dumbbell day, 20 min)", "done": false },
-    { "id": "tigo-phone", "text": "Pay Tigo phone internet (acct 17082124)", "category": "🔴 TOP PRIORITY — HOME", "done": false },
-    { "id": "spanish-teacher", "text": "Write Spanish teacher", "category": "🔴 TOP PRIORITY — HOME", "done": false },
-    { "id": "viture-return", "text": "Contact VITURE Beast — return authorization (defective)", "category": "🔴 TOP PRIORITY — HOME", "done": false },
-    { "id": "short-circuit", "text": "Put Short Circuit on the movies SD card", "category": "🏠 HOME", "done": false },
-    { "id": "julie-monitor", "text": "Set up monitor for Julie", "category": "🏠 HOME", "done": false },
-    { "id": "julie-screen", "text": "Screen + camera protector on Julie's phone (next mall trip)", "category": "🏠 HOME", "done": false },
-    { "id": "julie-chatgpt", "text": "Move Julie's ChatGPT subscription to her own card", "category": "🏠 HOME", "done": false },
-    { "id": "google-accounts", "text": "Google account health check (inactivity risk on christopher.duguid@)", "category": "🏠 HOME", "done": false },
-    { "id": "subgenius", "text": "SubGenius explainer — quiet evening project", "category": "🏠 HOME", "done": false },
-    { "id": "tie-length", "text": "Try the tie-length trick (narrow end at navel)", "category": "🏠 HOME", "done": false },
-    { "id": "canada-cameras", "text": "Research + order security cameras for 1080", "category": "🇨🇦 CANADA PREP", "done": false },
-    { "id": "canada-utilities", "text": "Figure out utilities scheduling for 1080", "category": "🇨🇦 CANADA PREP", "done": false },
-    { "id": "canada-internet", "text": "Get internet installed at 1080", "category": "🇨🇦 CANADA PREP", "done": false },
-    { "id": "canada-offer-pdf", "text": "Get offer PDF + deposit instructions from Heather's email", "category": "🇨🇦 CANADA PREP", "done": false },
-    { "id": "shop-coffee", "text": "Coffee filters", "category": "🛒 SHOPPING", "done": false },
-    { "id": "shop-watch-cable", "text": "Apple Watch USB-C charger cable", "category": "🛒 SHOPPING", "done": false },
-    { "id": "shop-razor", "text": "Replacement razor blades (Mike's razor)", "category": "🛒 SHOPPING", "done": false },
-    { "id": "shop-wingspan", "text": "Wingspan Etsy items — Julie's gift", "category": "🛒 SHOPPING", "done": false },
-    { "id": "shop-tb-hub", "text": "Thunderbolt hub", "category": "🛒 SHOPPING", "done": false },
-    { "id": "overtime-submit", "text": "SUBMIT overtime Monday morning (form in inbox, 1 min)", "category": "💼 WORK — MONDAY", "done": false },
-    { "id": "influencer-rep", "text": "Confirm DEV rep for influencer lunch (Tue Jul 28) — due Monday AM", "category": "💼 WORK — MONDAY", "done": false },
-    { "id": "kvm", "text": "Remove KVM from work setup (IT guy this week)", "category": "💼 WORK — MONDAY", "done": false },
-    { "id": "horizons", "text": "Research Horizons of Friendship ($17M repro health)", "category": "💼 WORK — MONDAY", "done": false },
-    { "id": "wv-aug6", "text": "World Vision nutrition event Aug 6 — confirm", "category": "💼 WORK — MONDAY", "done": false },
-    { "id": "satwork", "text": "Disable the satwork Google Apps Script trigger (289 failures)", "category": "🛠 TECH", "done": false },
-    { "id": "wifi-recovery", "text": "Build WiFi failover auto-recovery into Orson", "category": "🛠 TECH", "done": false },
-    { "id": "rg353p-art", "text": "Anbernic RG353P — scrape cover art (needs WiFi)", "category": "🛠 TECH", "done": false },
-    { "id": "pacman-mod", "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)", "category": "🛠 TECH", "done": false }
+    {
+      "id": "ex-beatsaber",
+      "text": "Beat Saber 30 min",
+      "category": "💪 EXERCISE / TONIGHT (Fri = rest/walk)",
+      "done": false
+    },
+    {
+      "id": "ex-steps",
+      "text": "Steps: 7,000 target",
+      "category": "💪 EXERCISE / TONIGHT (Fri = rest/walk)",
+      "done": false
+    },
+    {
+      "id": "ex-diet",
+      "text": "Diet: 1,234 cal / 110g protein (Day 36)",
+      "category": "💪 EXERCISE / TONIGHT (Fri = rest/walk)",
+      "done": false
+    },
+    {
+      "id": "ex-vitamin",
+      "text": "Multivitamin",
+      "category": "💪 EXERCISE / TONIGHT (Fri = rest/walk)",
+      "done": false
+    },
+    {
+      "id": "ex-press",
+      "text": "Dumbbell floor press: 2 x 10-12",
+      "category": "💪 EXERCISE / SAT (dumbbell day, 20 min)",
+      "done": false
+    },
+    {
+      "id": "ex-row",
+      "text": "Bent-over row: 2 x 10-12",
+      "category": "💪 EXERCISE / SAT (dumbbell day, 20 min)",
+      "done": false
+    },
+    {
+      "id": "ex-ohp",
+      "text": "Overhead press: 2 x 10-12",
+      "category": "💪 EXERCISE / SAT (dumbbell day, 20 min)",
+      "done": false
+    },
+    {
+      "id": "ex-curl",
+      "text": "Dumbbell curl: 2 x 12-15",
+      "category": "💪 EXERCISE / SAT (dumbbell day, 20 min)",
+      "done": false
+    },
+    {
+      "id": "ex-squat",
+      "text": "Goblet squat: 2 x 12-15 (optional)",
+      "category": "💪 EXERCISE / SAT (dumbbell day, 20 min)",
+      "done": false
+    },
+    {
+      "id": "ex-wallsit",
+      "text": "Wall sit: 30-60 sec x 2-3 (optional)",
+      "category": "💪 EXERCISE / SAT (dumbbell day, 20 min)",
+      "done": false
+    },
+    {
+      "id": "tigo-phone",
+      "text": "Pay Tigo phone internet (acct 17082124)",
+      "category": "🔴 TOP PRIORITY / HOME",
+      "done": false
+    },
+    {
+      "id": "spanish-teacher",
+      "text": "Write Spanish teacher",
+      "category": "🔴 TOP PRIORITY / HOME",
+      "done": false
+    },
+    {
+      "id": "viture-return",
+      "text": "Contact VITURE Beast: return authorization (defective)",
+      "category": "🔴 TOP PRIORITY / HOME",
+      "done": false
+    },
+    {
+      "id": "short-circuit",
+      "text": "Put Short Circuit on the movies SD card",
+      "category": "🏠 HOME",
+      "done": false
+    },
+    {
+      "id": "julie-monitor",
+      "text": "Set up monitor for Julie",
+      "category": "🏠 HOME",
+      "done": false
+    },
+    {
+      "id": "julie-screen",
+      "text": "Screen + camera protector on Julie's phone (next mall trip)",
+      "category": "🏠 HOME",
+      "done": false
+    },
+    {
+      "id": "julie-chatgpt",
+      "text": "Move Julie's ChatGPT subscription to her own card",
+      "category": "🏠 HOME",
+      "done": false
+    },
+    {
+      "id": "google-accounts",
+      "text": "Google account health check (inactivity risk on christopher.duguid@)",
+      "category": "🏠 HOME",
+      "done": false
+    },
+    {
+      "id": "subgenius",
+      "text": "SubGenius explainer: quiet evening project",
+      "category": "🏠 HOME",
+      "done": false
+    },
+    {
+      "id": "tie-length",
+      "text": "Try the tie-length trick (narrow end at navel)",
+      "category": "🏠 HOME",
+      "done": false
+    },
+    {
+      "id": "canada-cameras",
+      "text": "Research + order security cameras for 1080",
+      "category": "🇨🇦 CANADA PREP",
+      "done": false
+    },
+    {
+      "id": "canada-utilities",
+      "text": "Figure out utilities scheduling for 1080",
+      "category": "🇨🇦 CANADA PREP",
+      "done": false
+    },
+    {
+      "id": "canada-internet",
+      "text": "Get internet installed at 1080",
+      "category": "🇨🇦 CANADA PREP",
+      "done": false
+    },
+    {
+      "id": "canada-offer-pdf",
+      "text": "Get offer PDF + deposit instructions from Heather's email",
+      "category": "🇨🇦 CANADA PREP",
+      "done": false
+    },
+    {
+      "id": "shop-coffee",
+      "text": "Coffee filters",
+      "category": "🛒 SHOPPING",
+      "done": false
+    },
+    {
+      "id": "shop-watch-cable",
+      "text": "Apple Watch USB-C charger cable",
+      "category": "🛒 SHOPPING",
+      "done": false
+    },
+    {
+      "id": "shop-razor",
+      "text": "Replacement razor blades (Mike's razor)",
+      "category": "🛒 SHOPPING",
+      "done": false
+    },
+    {
+      "id": "shop-wingspan",
+      "text": "Wingspan Etsy items: Julie's gift",
+      "category": "🛒 SHOPPING",
+      "done": false
+    },
+    {
+      "id": "shop-tb-hub",
+      "text": "Thunderbolt hub",
+      "category": "🛒 SHOPPING",
+      "done": false
+    },
+    {
+      "id": "overtime-submit",
+      "text": "SUBMIT overtime Monday morning (form in inbox, 1 min)",
+      "category": "💼 WORK / MONDAY",
+      "done": false
+    },
+    {
+      "id": "influencer-rep",
+      "text": "Confirm DEV rep for influencer lunch (Tue Jul 28): due Monday AM",
+      "category": "💼 WORK / MONDAY",
+      "done": false
+    },
+    {
+      "id": "kvm",
+      "text": "Remove KVM from work setup (IT guy this week)",
+      "category": "💼 WORK / MONDAY",
+      "done": false
+    },
+    {
+      "id": "horizons",
+      "text": "Research Horizons of Friendship ($17M repro health)",
+      "category": "💼 WORK / MONDAY",
+      "done": false
+    },
+    {
+      "id": "wv-aug6",
+      "text": "World Vision nutrition event Aug 6: confirm",
+      "category": "💼 WORK / MONDAY",
+      "done": false
+    },
+    {
+      "id": "satwork",
+      "text": "Disable the satwork Google Apps Script trigger (289 failures)",
+      "category": "🛠 TECH",
+      "done": false
+    },
+    {
+      "id": "wifi-recovery",
+      "text": "Build WiFi failover auto-recovery into Orson",
+      "category": "🛠 TECH",
+      "done": false
+    },
+    {
+      "id": "rg353p-art",
+      "text": "Anbernic RG353P: scrape cover art (needs WiFi)",
+      "category": "🛠 TECH",
+      "done": false
+    },
+    {
+      "id": "pacman-mod",
+      "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)",
+      "category": "🛠 TECH",
+      "done": false
+    }
   ]
 }
