@@ -86,6 +86,18 @@
     border:1px solid var(--line); background:var(--card); color:var(--amber);
   }
   .go:active{opacity:.75}
+  /* reference row: a link that sits in the list but is not a task */
+  .refrow{
+    display:flex; align-items:center; gap:14px; flex:1 1 auto; min-width:0;
+    min-height:48px; padding:12px 4px; text-decoration:none;
+    color:var(--amber); font:600 15px/1.4 var(--sans);
+  }
+  .refrow:active{opacity:.75}
+  .refico{
+    flex:none; width:23px; height:23px; border-radius:50%;
+    border:2px solid var(--amber); display:flex; align-items:center;
+    justify-content:center; font-size:12px; line-height:1;
+  }
   .dot{
     flex:none; width:23px; height:23px; border-radius:50%;
     border:2px solid var(--amber); color:transparent;
@@ -263,10 +275,11 @@ function pendingCount(){
   data.items.forEach(function(it){ if (effDone(it) !== !!it.done) n++; });
   return n;
 }
+function isRef(it){ return it.type === 'ref'; }
 function buildMessage(){
   var lines = ['Todo sync ' + (data.date || '') + ':'];
-  data.items.forEach(function(it){ if (effDone(it)) lines.push('\u2705 ' + it.text); });
-  data.items.forEach(function(it){ if (!effDone(it)) lines.push('\u2B1C ' + it.text); });
+  data.items.forEach(function(it){ if (!isRef(it) && effDone(it)) lines.push('\u2705 ' + it.text); });
+  data.items.forEach(function(it){ if (!isRef(it) && !effDone(it)) lines.push('\u2B1C ' + it.text); });
   return lines.join('\n');
 }
 
@@ -277,8 +290,12 @@ function render(){
   $('stamp').textContent = (t ? 'Updated ' + t + ' by Orson' : 'Updated by Orson')
                          + (offline ? ' \u00B7 offline copy' : '');
 
-  var total = data.items.length, done = 0;
-  data.items.forEach(function(it){ if (effDone(it)) done++; });
+  var total = 0, done = 0;
+  data.items.forEach(function(it){
+    if (isRef(it)) return;          /* reference rows are not tasks; never counted */
+    total++;
+    if (effDone(it)) done++;
+  });
   $('bar').style.width = total ? (100 * done / total) + '%' : '0%';
   $('count').textContent = total
     ? (done === total ? 'All ' + total + ' done \uD83C\uDF89' : done + ' of ' + total + ' done')
@@ -299,6 +316,21 @@ function render(){
       list.appendChild(hdr);
     }
     var li = document.createElement('li');
+
+    /* reference row: a link, not a task. No checkbox, never counted, never synced. */
+    if (isRef(it)) {
+      var ra = document.createElement('a');
+      ra.className = 'refrow';
+      ra.href = it.url || '#';
+      ra.target = '_blank';
+      ra.rel = 'noopener noreferrer';
+      ra.innerHTML = '<span class="refico" aria-hidden="true">↗</span>' +
+                     '<span class="txt">' + esc(it.text) + '</span>';
+      li.appendChild(ra);
+      list.appendChild(li);
+      return;
+    }
+
     var b = document.createElement('button');
     b.type = 'button';
     b.className = 'row' + (effDone(it) ? ' done' : '');
