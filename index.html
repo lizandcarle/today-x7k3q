@@ -72,12 +72,20 @@
   .list{list-style:none; margin:0; padding:0}
   .list li + li{border-top:1px solid var(--line)}
   .row{
-    display:flex; align-items:center; gap:14px; width:100%;
+    display:flex; align-items:center; gap:14px; flex:1 1 auto; min-width:0;
     min-height:56px; padding:14px 4px; text-align:left;
     background:none; border:none; color:var(--ink);
     font:17px/1.4 var(--sans); cursor:pointer;
   }
   .row:active{opacity:.75}
+  /* optional per-item link chip; sits beside the checkbox row, never toggles it */
+  .list li{display:flex; align-items:center; gap:8px}
+  .go{
+    flex:none; text-decoration:none; white-space:nowrap;
+    font:600 13px/1 var(--sans); padding:10px 15px; border-radius:999px;
+    border:1px solid var(--line); background:var(--card); color:var(--amber);
+  }
+  .go:active{opacity:.75}
   .dot{
     flex:none; width:23px; height:23px; border-radius:50%;
     border:2px solid var(--amber); color:transparent;
@@ -304,6 +312,16 @@ function render(){
       '<span class="txt">' + esc(it.text) + '</span>';
     b.addEventListener('click', function(){ toggle(it.id); });
     li.appendChild(b);
+    if (it.url) {
+      var a = document.createElement('a');
+      a.className = 'go';
+      a.href = it.url;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      a.textContent = it.linkLabel || 'Open';
+      a.addEventListener('click', function(e){ e.stopPropagation(); });
+      li.appendChild(a);
+    }
     list.appendChild(li);
   });
   $('empty').hidden = total !== 0;
