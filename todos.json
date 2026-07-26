@@ -1,66 +1,36 @@
 {
-  "date": "2026-07-25",
-  "updated": "2026-07-25T18:12:00-06:00",
-  "note": "Saturday. Dumbbell day. Charlotte + Aurora land in 6 days, Canada in 15. New from your tree: provincial ID.",
+  "date": "2026-07-26",
+  "updated": "2026-07-26T05:12:00-06:00",
+  "note": "Sunday. Rain comes back this afternoon. Charlotte + Aurora land in 6 days, Canada in 14.",
   "items": [
     {
-      "id": "ex-press",
-      "text": "Dumbbell floor press: 2 x 10-12",
-      "category": "💪 EXERCISE / SATURDAY IS A DUMBBELL DAY",
-      "done": false
-    },
-    {
-      "id": "ex-row",
-      "text": "Bent-over row: 2 x 10-12",
-      "category": "💪 EXERCISE / SATURDAY IS A DUMBBELL DAY",
-      "done": false
-    },
-    {
-      "id": "ex-ohp",
-      "text": "Overhead press: 2 x 10-12",
-      "category": "💪 EXERCISE / SATURDAY IS A DUMBBELL DAY",
-      "done": false
-    },
-    {
-      "id": "ex-curl",
-      "text": "Dumbbell curl: 2 x 12-15",
-      "category": "💪 EXERCISE / SATURDAY IS A DUMBBELL DAY",
-      "done": false
-    },
-    {
-      "id": "ex-squat",
-      "text": "Goblet squat: 2 x 12-15 (optional)",
-      "category": "💪 EXERCISE / SATURDAY IS A DUMBBELL DAY",
-      "done": false
-    },
-    {
-      "id": "ex-wallsit",
-      "text": "Wall sit: 30-60 sec x 2-3 (optional)",
-      "category": "💪 EXERCISE / SATURDAY IS A DUMBBELL DAY",
+      "id": "ex-walk",
+      "text": "Walk: get outside before the afternoon rain",
+      "category": "💪 EXERCISE / SUNDAY IS A REST-ISH DAY",
       "done": false
     },
     {
       "id": "ex-beatsaber",
       "text": "Beat Saber 30 min",
-      "category": "💪 EXERCISE / SATURDAY IS A DUMBBELL DAY",
+      "category": "💪 EXERCISE / SUNDAY IS A REST-ISH DAY",
       "done": false
     },
     {
       "id": "ex-steps",
       "text": "Steps: 7,000 target",
-      "category": "💪 EXERCISE / SATURDAY IS A DUMBBELL DAY",
+      "category": "💪 EXERCISE / SUNDAY IS A REST-ISH DAY",
       "done": false
     },
     {
       "id": "ex-diet",
-      "text": "Diet: 1,234 cal / 110g protein (Day 37)",
-      "category": "💪 EXERCISE / SATURDAY IS A DUMBBELL DAY",
+      "text": "Diet: 1,234 cal / 110g protein (Day 38)",
+      "category": "💪 EXERCISE / SUNDAY IS A REST-ISH DAY",
       "done": false
     },
     {
       "id": "ex-vitamin",
       "text": "Multivitamin",
-      "category": "💪 EXERCISE / SATURDAY IS A DUMBBELL DAY",
+      "category": "💪 EXERCISE / SUNDAY IS A REST-ISH DAY",
       "done": false
     },
     {
@@ -186,7 +156,7 @@
     },
     {
       "id": "overtime-submit",
-      "text": "SUBMIT overtime Monday morning (form in inbox, 1 min)",
+      "text": "SUBMIT overtime FIRST THING Monday (form is loaded, one click)",
       "category": "💼 WORK / MONDAY",
       "done": false
     },
