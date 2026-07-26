@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
-  "updated": "2026-07-26T14:32:00-06:00",
-  "note": "Sunday. Health is now a cycle, not a calendar: Day 1 stays put until you tick something. No rest days except after Day 6.",
+  "updated": "2026-07-26T14:34:00-06:00",
+  "note": "Sunday. Day 1 is live. Only the workout items move the cycle; diet, steps and vitamin are daily habits.",
   "items": [
     {
       "id": "wsj-card",
@@ -24,49 +24,49 @@
     {
       "id": "ex-press",
       "text": "Dumbbell floor press: 2 x 10-12",
-      "category": "💪 HEALTH — DAY 1 of the cycle",
+      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
       "done": false
     },
     {
       "id": "ex-row",
       "text": "Bent-over row: 2 x 10-12",
-      "category": "💪 HEALTH — DAY 1 of the cycle",
+      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
       "done": false
     },
     {
       "id": "ex-ohp",
       "text": "Overhead press: 2 x 10-12",
-      "category": "💪 HEALTH — DAY 1 of the cycle",
+      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
       "done": false
     },
     {
       "id": "ex-curl",
       "text": "Dumbbell curl: 2 x 12-15",
-      "category": "💪 HEALTH — DAY 1 of the cycle",
+      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
       "done": false
     },
     {
       "id": "ex-beatsaber",
       "text": "Beat Saber 30 min",
-      "category": "💪 HEALTH — DAY 1 of the cycle",
+      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
       "done": false
     },
     {
       "id": "ex-steps",
       "text": "Steps: 7,000",
-      "category": "💪 HEALTH — DAY 1 of the cycle",
+      "category": "🥗 DAILY HABITS (these don't move the cycle)",
       "done": false
     },
     {
       "id": "ex-diet",
       "text": "Diet: 1,234 cal / 110g protein",
-      "category": "💪 HEALTH — DAY 1 of the cycle",
+      "category": "🥗 DAILY HABITS (these don't move the cycle)",
       "done": false
     },
     {
       "id": "ex-vitamin",
       "text": "Multivitamin",
-      "category": "💪 HEALTH — DAY 1 of the cycle",
+      "category": "🥗 DAILY HABITS (these don't move the cycle)",
       "done": false
     },
     {
