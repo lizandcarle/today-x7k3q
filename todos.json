@@ -1,8 +1,26 @@
 {
   "date": "2026-07-26",
-  "updated": "2026-07-26T05:12:00-06:00",
-  "note": "Sunday. Rain comes back this afternoon. Charlotte + Aurora land in 6 days, Canada in 14.",
+  "updated": "2026-07-26T11:53:00-06:00",
+  "note": "Sunday. Three afternoon chores at the top, from your voice memo. Rain still due this afternoon.",
   "items": [
+    {
+      "id": "wsj-card",
+      "text": "Switch the credit card on the Wall Street Journal",
+      "category": "🔴 THIS AFTERNOON",
+      "done": false
+    },
+    {
+      "id": "julie-chatgpt",
+      "text": "Switch the credit card on Julie's ChatGPT",
+      "category": "🔴 THIS AFTERNOON",
+      "done": false
+    },
+    {
+      "id": "protein-powder",
+      "text": "Order replacement protein powder from PriceSmart",
+      "category": "🔴 THIS AFTERNOON",
+      "done": false
+    },
     {
       "id": "ex-walk",
       "text": "Walk: get outside before the afternoon rain",
@@ -55,12 +73,6 @@
     {
       "id": "julie-screen",
       "text": "Screen + camera protector on Julie's phone (next mall trip)",
-      "category": "🏠 HOME",
-      "done": false
-    },
-    {
-      "id": "julie-chatgpt",
-      "text": "Move Julie's ChatGPT subscription to her own card",
       "category": "🏠 HOME",
       "done": false
     },
