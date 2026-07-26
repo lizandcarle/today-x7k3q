@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
-  "updated": "2026-07-26T14:34:00-06:00",
-  "note": "Sunday. Day 1 is live. Only the workout items move the cycle; diet, steps and vitamin are daily habits.",
+  "updated": "2026-07-26T14:41:00-06:00",
+  "note": "Sunday. Three chores this afternoon, the glasses tonight, Day 1 of the cycle whenever you like.",
   "items": [
     {
       "id": "wsj-card",
@@ -19,6 +19,12 @@
       "id": "protein-powder",
       "text": "Order replacement protein powder from PriceSmart",
       "category": "🔴 THIS AFTERNOON",
+      "done": false
+    },
+    {
+      "id": "viture-retest",
+      "text": "Retry the VITURE Beast glasses — fluke or genuinely defective?",
+      "category": "🌙 THIS EVENING",
       "done": false
     },
     {
@@ -84,7 +90,7 @@
     },
     {
       "id": "viture-return",
-      "text": "Contact VITURE Beast: return authorization (defective)",
+      "text": "Contact VITURE Beast: return authorization — only if tonight's retest fails",
       "category": "🏠 HOME",
       "done": false
     },
