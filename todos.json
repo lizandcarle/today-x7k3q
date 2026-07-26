@@ -1,83 +1,8 @@
 {
   "date": "2026-07-25",
-  "updated": "2026-07-25T16:52:00-06:00",
-  "note": "Saturday. Home list now links straight to the Workflowy tree; I reconcile it daily.",
+  "updated": "2026-07-25T18:12:00-06:00",
+  "note": "Saturday. Dumbbell day. Charlotte + Aurora land in 6 days, Canada in 15. New from your tree: provincial ID.",
   "items": [
-    {
-      "id": "tigo-phone",
-      "text": "Pay Tigo phone internet (acct 17082124)",
-      "category": "🔴 TOP PRIORITY / HOME",
-      "done": true,
-      "url": "https://micuenta.tigo.com.gt/pagos/deuda",
-      "linkLabel": "Tigo"
-    },
-    {
-      "id": "spanish-teacher",
-      "text": "Write Spanish teacher",
-      "category": "🔴 TOP PRIORITY / HOME",
-      "done": false
-    },
-    {
-      "id": "viture-return",
-      "text": "Contact VITURE Beast: return authorization (defective)",
-      "category": "🔴 TOP PRIORITY / HOME",
-      "done": false
-    },
-    {
-      "id": "mro-aug1",
-      "text": "Book Uber for Charlotte + Aurora airport pickup (late Fri Jul 31, 12:10 AM arrival)",
-      "category": "🔴 TOP PRIORITY / HOME",
-      "done": false
-    },
-    {
-      "id": "wf-home",
-      "type": "ref",
-      "text": "Workflowy: Rethinking Home",
-      "category": "🏠 HOME",
-      "url": "https://workflowy.com/s/rethinking-home/YftI6gRlcjumRKJc"
-    },
-    {
-      "id": "short-circuit",
-      "text": "Put Short Circuit on the movies SD card",
-      "category": "🏠 HOME",
-      "done": false
-    },
-    {
-      "id": "julie-monitor",
-      "text": "Set up monitor for Julie",
-      "category": "🏠 HOME",
-      "done": false
-    },
-    {
-      "id": "julie-screen",
-      "text": "Screen + camera protector on Julie's phone (next mall trip)",
-      "category": "🏠 HOME",
-      "done": false
-    },
-    {
-      "id": "julie-chatgpt",
-      "text": "Move Julie's ChatGPT subscription to her own card",
-      "category": "🏠 HOME",
-      "done": false
-    },
-    {
-      "id": "google-accounts",
-      "text": "Google account health check (inactivity risk on christopher.duguid@)",
-      "category": "🏠 HOME",
-      "done": false
-    },
-    {
-      "id": "subgenius",
-      "text": "SubGenius explainer: quiet evening project",
-      "category": "🏠 HOME",
-      "done": false
-    },
-    {
-      "id": "tie-length",
-      "text": "Try the tie-length trick (narrow end at navel)",
-      "category": "🏠 HOME",
-      "done": false
-    },
     {
       "id": "ex-press",
       "text": "Dumbbell floor press: 2 x 10-12",
@@ -139,32 +64,57 @@
       "done": false
     },
     {
-      "id": "fsd-dental",
-      "text": "Dental claim ~$1,500: gather receipts, PSDCP form is on file",
-      "category": "💰 FSD / UNBLOCKED",
+      "id": "wf-home",
+      "type": "ref",
+      "text": "Workflowy: Rethinking Home",
+      "category": "🏠 HOME",
+      "url": "https://workflowy.com/s/rethinking-home/YftI6gRlcjumRKJc"
+    },
+    {
+      "id": "spanish-teacher",
+      "text": "Write Spanish teacher",
+      "category": "🏠 HOME",
       "done": false
     },
     {
-      "id": "fsd-uber-hn",
-      "text": "Honduras Uber period ~$1,000: verify window with Rizki first",
-      "category": "💰 FSD / UNBLOCKED",
+      "id": "viture-return",
+      "text": "Contact VITURE Beast: return authorization (defective)",
+      "category": "🏠 HOME",
       "done": false
     },
     {
-      "id": "fsd-uber-gt",
-      "text": "Guatemala City Uber period ~$1,000: same, verify window",
-      "category": "💰 FSD / UNBLOCKED",
+      "id": "julie-screen",
+      "text": "Screen + camera protector on Julie's phone (next mall trip)",
+      "category": "🏠 HOME",
       "done": false
     },
     {
-      "id": "fsd-hearing",
-      "text": "Hearing aid ~$1,500: WAITING on replacement receipt",
-      "category": "💰 FSD / UNBLOCKED",
+      "id": "julie-chatgpt",
+      "text": "Move Julie's ChatGPT subscription to her own card",
+      "category": "🏠 HOME",
+      "done": false
+    },
+    {
+      "id": "google-accounts",
+      "text": "Google account health check (inactivity risk on christopher.duguid@)",
+      "category": "🏠 HOME",
+      "done": false
+    },
+    {
+      "id": "tie-length",
+      "text": "Try the tie-length trick (narrow end at navel)",
+      "category": "🏠 HOME",
       "done": false
     },
     {
       "id": "canada-insurance",
       "text": "Get house insurance for 1080",
+      "category": "🇨🇦 CANADA PREP",
+      "done": false
+    },
+    {
+      "id": "canada-id",
+      "text": "Update provincial ID: driver's licence + health card",
       "category": "🇨🇦 CANADA PREP",
       "done": false
     },
@@ -193,20 +143,32 @@
       "done": false
     },
     {
-      "id": "shop-coffee",
-      "text": "Coffee filters",
-      "category": "🛒 SHOPPING",
+      "id": "fsd-dental",
+      "text": "Dental claim ~$1,500: gather receipts, PSDCP form is on file",
+      "category": "💰 FSD / UNBLOCKED",
+      "done": false
+    },
+    {
+      "id": "fsd-uber-hn",
+      "text": "Honduras Uber period ~$1,000: verify window with Rizki first",
+      "category": "💰 FSD / UNBLOCKED",
+      "done": false
+    },
+    {
+      "id": "fsd-uber-gt",
+      "text": "Guatemala City Uber period ~$1,000: same, verify window",
+      "category": "💰 FSD / UNBLOCKED",
+      "done": false
+    },
+    {
+      "id": "fsd-hearing",
+      "text": "Hearing aid ~$1,500: WAITING on replacement receipt",
+      "category": "💰 FSD / UNBLOCKED",
       "done": false
     },
     {
       "id": "shop-watch-cable",
       "text": "Apple Watch USB-C charger cable",
-      "category": "🛒 SHOPPING",
-      "done": false
-    },
-    {
-      "id": "shop-razor",
-      "text": "Replacement razor blades (Mike's razor)",
       "category": "🛒 SHOPPING",
       "done": false
     },
@@ -235,18 +197,10 @@
       "done": false
     },
     {
-      "id": "kvm",
-      "text": "Remove KVM from work setup (IT guy this week)",
-      "category": "💼 WORK / MONDAY",
-      "done": true
-    },
-    {
       "id": "horizons",
       "text": "Research Horizons of Friendship ($17M repro health)",
       "category": "💼 WORK / MONDAY",
-      "done": false,
-      "url": "https://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/p013133001",
-      "linkLabel": "Project"
+      "done": false
     },
     {
       "id": "wv-aug6",
@@ -258,31 +212,17 @@
       "id": "satwork",
       "text": "Disable the satwork Google Apps Script trigger (289 failures)",
       "category": "🛠 TECH",
-      "done": false,
-      "url": "https://script.google.com/home/triggers?trigger_id=JPl8W3OsS5eUGo9Umplktw",
-      "linkLabel": "Trigger"
-    },
-    {
-      "id": "wifi-recovery",
-      "text": "Build WiFi failover auto-recovery into Orson",
-      "category": "🛠 TECH",
       "done": false
     },
     {
-      "id": "rg353p-art",
-      "text": "Anbernic RG353P: scrape cover art (needs WiFi)",
+      "id": "chatgpt-canary",
+      "text": "ChatGPT 'app' using Canary browser",
       "category": "🛠 TECH",
       "done": false
     },
     {
       "id": "pacman-mod",
       "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)",
-      "category": "🛠 TECH",
-      "done": false
-    },
-    {
-      "id": "chatgpt-canary",
-      "text": "ChatGPT 'app' using Canary browser",
       "category": "🛠 TECH",
       "done": false
     }
