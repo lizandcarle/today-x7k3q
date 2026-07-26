@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "updated": "2026-07-26T11:53:00-06:00",
+  "updated": "2026-07-26T14:23:00-06:00",
   "note": "Sunday. Three afternoon chores at the top, from your voice memo. Rain still due this afternoon.",
   "items": [
     {
@@ -54,9 +54,9 @@
     {
       "id": "wf-home",
       "type": "ref",
-      "text": "Workflowy: Rethinking Home",
+      "text": "Workflowy: Rethinking Home (editable)",
       "category": "🏠 HOME",
-      "url": "https://workflowy.com/s/rethinking-home/YftI6gRlcjumRKJc"
+      "url": "https://workflowy.com/#/62229d749ef0"
     },
     {
       "id": "spanish-teacher",
