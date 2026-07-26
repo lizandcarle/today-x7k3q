@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
-  "updated": "2026-07-26T14:23:00-06:00",
-  "note": "Sunday. Three afternoon chores at the top, from your voice memo. Rain still due this afternoon.",
+  "updated": "2026-07-26T14:32:00-06:00",
+  "note": "Sunday. Health is now a cycle, not a calendar: Day 1 stays put until you tick something. No rest days except after Day 6.",
   "items": [
     {
       "id": "wsj-card",
@@ -22,33 +22,51 @@
       "done": false
     },
     {
-      "id": "ex-walk",
-      "text": "Walk: get outside before the afternoon rain",
-      "category": "💪 EXERCISE / SUNDAY IS A REST-ISH DAY",
+      "id": "ex-press",
+      "text": "Dumbbell floor press: 2 x 10-12",
+      "category": "💪 HEALTH — DAY 1 of the cycle",
+      "done": false
+    },
+    {
+      "id": "ex-row",
+      "text": "Bent-over row: 2 x 10-12",
+      "category": "💪 HEALTH — DAY 1 of the cycle",
+      "done": false
+    },
+    {
+      "id": "ex-ohp",
+      "text": "Overhead press: 2 x 10-12",
+      "category": "💪 HEALTH — DAY 1 of the cycle",
+      "done": false
+    },
+    {
+      "id": "ex-curl",
+      "text": "Dumbbell curl: 2 x 12-15",
+      "category": "💪 HEALTH — DAY 1 of the cycle",
       "done": false
     },
     {
       "id": "ex-beatsaber",
       "text": "Beat Saber 30 min",
-      "category": "💪 EXERCISE / SUNDAY IS A REST-ISH DAY",
+      "category": "💪 HEALTH — DAY 1 of the cycle",
       "done": false
     },
     {
       "id": "ex-steps",
-      "text": "Steps: 7,000 target",
-      "category": "💪 EXERCISE / SUNDAY IS A REST-ISH DAY",
+      "text": "Steps: 7,000",
+      "category": "💪 HEALTH — DAY 1 of the cycle",
       "done": false
     },
     {
       "id": "ex-diet",
-      "text": "Diet: 1,234 cal / 110g protein (Day 38)",
-      "category": "💪 EXERCISE / SUNDAY IS A REST-ISH DAY",
+      "text": "Diet: 1,234 cal / 110g protein",
+      "category": "💪 HEALTH — DAY 1 of the cycle",
       "done": false
     },
     {
       "id": "ex-vitamin",
       "text": "Multivitamin",
-      "category": "💪 EXERCISE / SUNDAY IS A REST-ISH DAY",
+      "category": "💪 HEALTH — DAY 1 of the cycle",
       "done": false
     },
     {
