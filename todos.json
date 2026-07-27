@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "updated": "2026-07-27T06:20:00-06:00",
+  "updated": "2026-07-27T06:22:00-06:00",
   "note": "Monday. Overtime first, one click. Each dumbbell move now has a Form link if you want to check it.",
   "items": [
     {
@@ -12,6 +12,12 @@
     {
       "id": "peter-inspectors",
       "text": "Write Peter for inspector recommendations",
+      "category": "💼 WORK — MONDAY",
+      "done": false
+    },
+    {
+      "id": "lawyer-update",
+      "text": "Write the lawyer with an update (confirm which firm first)",
       "category": "💼 WORK — MONDAY",
       "done": false
     },
