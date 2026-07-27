@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
-  "updated": "2026-07-27T06:14:00-06:00",
-  "note": "Monday. Overtime first, one click. Cycle still on Day 1, waiting for you.",
+  "updated": "2026-07-27T06:20:00-06:00",
+  "note": "Monday. Overtime first, one click. Each dumbbell move now has a Form link if you want to check it.",
   "items": [
     {
       "id": "heather-roof",
@@ -49,25 +49,33 @@
       "id": "ex-press",
       "text": "Dumbbell floor press: 2 x 10-12",
       "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false
+      "done": false,
+      "url": "https://www.youtube.com/watch?v=AqYFvc9t_vU",
+      "linkLabel": "Form"
     },
     {
       "id": "ex-row",
       "text": "Bent-over row: 2 x 10-12",
       "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false
+      "done": false,
+      "url": "https://www.youtube.com/watch?v=c-gt-zzoa_A",
+      "linkLabel": "Form"
     },
     {
       "id": "ex-ohp",
       "text": "Overhead press: 2 x 10-12",
       "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false
+      "done": false,
+      "url": "https://www.youtube.com/watch?v=Did01dFR3Lk",
+      "linkLabel": "Form"
     },
     {
       "id": "ex-curl",
       "text": "Dumbbell curl: 2 x 12-15",
       "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false
+      "done": false,
+      "url": "https://www.youtube.com/watch?v=av7-8igSXTs",
+      "linkLabel": "Form"
     },
     {
       "id": "ex-beatsaber",
