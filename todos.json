@@ -1,8 +1,20 @@
 {
   "date": "2026-07-27",
-  "updated": "2026-07-27T05:12:00-06:00",
+  "updated": "2026-07-27T06:14:00-06:00",
   "note": "Monday. Overtime first, one click. Cycle still on Day 1, waiting for you.",
   "items": [
+    {
+      "id": "heather-roof",
+      "text": "Respond to Heather about the roof",
+      "category": "💼 WORK — MONDAY",
+      "done": false
+    },
+    {
+      "id": "peter-inspectors",
+      "text": "Write Peter for inspector recommendations",
+      "category": "💼 WORK — MONDAY",
+      "done": false
+    },
     {
       "id": "viture-return",
       "text": "Send the VITURE warranty claim (draft is written)",
