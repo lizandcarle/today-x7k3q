@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "updated": "2026-07-27T06:56:00-06:00",
+  "updated": "2026-07-27T10:55:00-06:00",
   "note": "Monday. Three Workflowy buttons now: Job at the top of work, Home and Life in the home block.",
   "items": [
     {
@@ -32,7 +32,7 @@
       "id": "wf-work-link",
       "text": "Send Orson the Workflowy link for work to-dos (one level up covers both)",
       "category": "💼 WORK — MONDAY",
-      "done": false
+      "done": true
     },
     {
       "id": "viture-return",
@@ -42,9 +42,9 @@
     },
     {
       "id": "overtime-submit",
-      "text": "SUBMIT overtime — first thing, form is loaded, one click",
+      "text": "Overtime: emailed as urgent (portal down) — unconfirmed, chase Mon Aug 3",
       "category": "💼 WORK — MONDAY",
-      "done": false
+      "done": true
     },
     {
       "id": "influencer-rep",
@@ -156,7 +156,7 @@
       "id": "tie-length",
       "text": "Try the tie-length trick (narrow end at navel)",
       "category": "🏠 HOME",
-      "done": false
+      "done": true
     },
     {
       "id": "canada-id",
