@@ -1,8 +1,14 @@
 {
   "date": "2026-07-27",
-  "updated": "2026-07-27T15:45:00-06:00",
+  "updated": "2026-07-27T15:58:00-06:00",
   "note": "Monday. Three Workflowy buttons now: Job at the top of work, Home and Life in the home block.",
   "items": [
+    {
+      "id": "cmm-agenda",
+      "text": "CMM agenda + events + CBS whereabouts are due TODAY for tomorrow's 2:30 meeting",
+      "category": "💼 WORK — MONDAY",
+      "done": false
+    },
     {
       "id": "iva-tuca",
       "text": "Ask Tuca for a new IVA exemption form (then message the dentist about payment)",
