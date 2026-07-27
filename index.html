@@ -276,10 +276,22 @@ function pendingCount(){
   return n;
 }
 function isRef(it){ return it.type === 'ref'; }
+/* Send only what CHANGED since Orson last published this list.
+   The full list used to go every time, which was ~30 lines of things Orson
+   already knew. The stamp identifies which published version was ticked,
+   so a stale cached page is still detectable. */
 function buildMessage(){
-  var lines = ['Todo sync ' + (data.date || '') + ':'];
-  data.items.forEach(function(it){ if (!isRef(it) && effDone(it)) lines.push('\u2705 ' + it.text); });
-  data.items.forEach(function(it){ if (!isRef(it) && !effDone(it)) lines.push('\u2B1C ' + it.text); });
+  var stamp = (data.updated || data.date || '').replace('T', ' ').slice(0, 16);
+  var lines = ['Todo sync ' + (data.date || '') + ' [' + stamp + ']:'];
+  var changed = 0;
+  data.items.forEach(function(it){
+    if (isRef(it)) return;
+    var now = effDone(it), was = !!it.done;
+    if (now === was) return;
+    changed++;
+    lines.push((now ? '\u2705 ' : '\u21A9\uFE0F UNCHECKED: ') + it.text);
+  });
+  if (!changed) lines.push('(no changes)');
   return lines.join('\n');
 }
 
