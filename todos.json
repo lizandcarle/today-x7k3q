@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "updated": "2026-07-27T11:45:00-06:00",
+  "updated": "2026-07-27T15:22:00-06:00",
   "note": "Monday. Three Workflowy buttons now: Job at the top of work, Home and Life in the home block.",
   "items": [
     {
@@ -32,7 +32,7 @@
       "id": "peter-inspectors",
       "text": "Write Peter for inspector recommendations",
       "category": "💼 WORK — MONDAY",
-      "done": false
+      "done": true
     },
     {
       "id": "lawyer-update",
@@ -62,7 +62,7 @@
       "id": "influencer-rep",
       "text": "Confirm DEV rep for influencer lunch (Tue Jul 28): due Monday AM",
       "category": "💼 WORK — MONDAY",
-      "done": false
+      "done": true
     },
     {
       "id": "horizons",
@@ -124,13 +124,13 @@
       "id": "ex-diet",
       "text": "Diet: 1,234 cal / 110g protein",
       "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": false
+      "done": true
     },
     {
       "id": "ex-vitamin",
       "text": "Multivitamin",
       "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": false
+      "done": true
     },
     {
       "id": "wf-home",
