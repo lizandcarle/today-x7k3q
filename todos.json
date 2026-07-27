@@ -1,13 +1,13 @@
 {
   "date": "2026-07-26",
-  "updated": "2026-07-26T14:41:00-06:00",
-  "note": "Sunday. Three chores this afternoon, the glasses tonight, Day 1 of the cycle whenever you like.",
+  "updated": "2026-07-26T18:05:00-06:00",
+  "note": "Cycle still on Day 1 — no workout ticked, so it waits for you. Spanish teacher done. Insurance and utilities are Julie's per your tree.",
   "items": [
     {
       "id": "wsj-card",
       "text": "Switch the credit card on the Wall Street Journal",
       "category": "🔴 THIS AFTERNOON",
-      "done": false
+      "done": true
     },
     {
       "id": "julie-chatgpt",
@@ -19,13 +19,13 @@
       "id": "protein-powder",
       "text": "Order replacement protein powder from PriceSmart",
       "category": "🔴 THIS AFTERNOON",
-      "done": false
+      "done": true
     },
     {
       "id": "viture-retest",
       "text": "Retry the VITURE Beast glasses — fluke or genuinely defective?",
       "category": "🌙 THIS EVENING",
-      "done": false
+      "done": true
     },
     {
       "id": "ex-press",
@@ -67,13 +67,13 @@
       "id": "ex-diet",
       "text": "Diet: 1,234 cal / 110g protein",
       "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": false
+      "done": true
     },
     {
       "id": "ex-vitamin",
       "text": "Multivitamin",
       "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": false
+      "done": true
     },
     {
       "id": "wf-home",
@@ -86,7 +86,7 @@
       "id": "spanish-teacher",
       "text": "Write Spanish teacher",
       "category": "🏠 HOME",
-      "done": false
+      "done": true
     },
     {
       "id": "viture-return",
@@ -114,13 +114,13 @@
     },
     {
       "id": "canada-insurance",
-      "text": "Get house insurance for 1080",
+      "text": "Get house insurance for 1080 (NB: still on workflowy)",
       "category": "🇨🇦 CANADA PREP",
-      "done": false
+      "done": true
     },
     {
       "id": "canada-id",
-      "text": "Update provincial ID: driver's licence + health card",
+      "text": "Update provincial ID: driver's licence + health card (his tree says Wed Aug 12)",
       "category": "🇨🇦 CANADA PREP",
       "done": false
     },
@@ -132,21 +132,9 @@
     },
     {
       "id": "canada-utilities",
-      "text": "Figure out utilities scheduling for 1080",
+      "text": "Figure out utilities scheduling for 1080 (NB: still on workflowy)",
       "category": "🇨🇦 CANADA PREP",
-      "done": false
-    },
-    {
-      "id": "canada-internet",
-      "text": "Get internet installed at 1080",
-      "category": "🇨🇦 CANADA PREP",
-      "done": false
-    },
-    {
-      "id": "canada-offer-pdf",
-      "text": "Get offer PDF + deposit instructions from Heather's email",
-      "category": "🇨🇦 CANADA PREP",
-      "done": false
+      "done": true
     },
     {
       "id": "fsd-dental",
@@ -163,12 +151,6 @@
     {
       "id": "fsd-uber-gt",
       "text": "Guatemala City Uber period ~$1,000: same, verify window",
-      "category": "💰 FSD / UNBLOCKED",
-      "done": false
-    },
-    {
-      "id": "fsd-hearing",
-      "text": "Hearing aid ~$1,500: WAITING on replacement receipt",
       "category": "💰 FSD / UNBLOCKED",
       "done": false
     },
@@ -229,6 +211,12 @@
     {
       "id": "pacman-mod",
       "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)",
+      "category": "🛠 TECH",
+      "done": false
+    },
+    {
+      "id": "openclaw-9",
+      "text": "Test if Telegram/OpenClaw works on the $9/mo ChatGPT tier",
       "category": "🛠 TECH",
       "done": false
     }
