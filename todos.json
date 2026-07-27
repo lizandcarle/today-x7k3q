@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
-  "updated": "2026-07-27T06:20:00-06:00",
-  "note": "Monday. Overtime first, one click. Each dumbbell move now has a Form link if you want to check it.",
+  "updated": "2026-07-27T06:32:00-06:00",
+  "note": "Monday. Overtime first, one click. Full list below, republished.",
   "items": [
     {
       "id": "heather-roof",
@@ -18,6 +18,12 @@
     {
       "id": "lawyer-update",
       "text": "Write Joanne Horton with an update",
+      "category": "💼 WORK — MONDAY",
+      "done": false
+    },
+    {
+      "id": "wf-work-link",
+      "text": "Send Orson the Workflowy link for work to-dos (one level up covers both)",
       "category": "💼 WORK — MONDAY",
       "done": false
     },
