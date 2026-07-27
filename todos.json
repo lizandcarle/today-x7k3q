@@ -1,31 +1,37 @@
 {
-  "date": "2026-07-26",
-  "updated": "2026-07-26T19:38:00-06:00",
-  "note": "Still Day 1 on the cycle. Warranty email is drafted and waiting on you. Julie's ChatGPT card is the last small one.",
+  "date": "2026-07-27",
+  "updated": "2026-07-27T05:12:00-06:00",
+  "note": "Monday. Overtime first, one click. Cycle still on Day 1, waiting for you.",
   "items": [
     {
-      "id": "wsj-card",
-      "text": "Switch the credit card on the Wall Street Journal",
-      "category": "🔴 THIS AFTERNOON",
-      "done": true
-    },
-    {
-      "id": "julie-chatgpt",
-      "text": "Switch the credit card on Julie's ChatGPT",
-      "category": "🔴 THIS AFTERNOON",
+      "id": "viture-return",
+      "text": "Send the VITURE warranty claim (draft is written)",
+      "category": "💼 WORK — MONDAY",
       "done": false
     },
     {
-      "id": "protein-powder",
-      "text": "Order replacement protein powder from PriceSmart",
-      "category": "🔴 THIS AFTERNOON",
-      "done": true
+      "id": "overtime-submit",
+      "text": "SUBMIT overtime — first thing, form is loaded, one click",
+      "category": "💼 WORK — MONDAY",
+      "done": false
     },
     {
-      "id": "viture-retest",
-      "text": "Retry the VITURE Beast glasses — fluke or genuinely defective?",
-      "category": "🌙 THIS EVENING",
-      "done": true
+      "id": "influencer-rep",
+      "text": "Confirm DEV rep for influencer lunch (Tue Jul 28): due Monday AM",
+      "category": "💼 WORK — MONDAY",
+      "done": false
+    },
+    {
+      "id": "horizons",
+      "text": "Research Horizons of Friendship ($17M repro health)",
+      "category": "💼 WORK — MONDAY",
+      "done": false
+    },
+    {
+      "id": "wv-aug6",
+      "text": "World Vision nutrition event Aug 6: confirm",
+      "category": "💼 WORK — MONDAY",
+      "done": false
     },
     {
       "id": "ex-press",
@@ -67,13 +73,19 @@
       "id": "ex-diet",
       "text": "Diet: 1,234 cal / 110g protein",
       "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": true
+      "done": false
     },
     {
       "id": "ex-vitamin",
       "text": "Multivitamin",
       "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": true
+      "done": false
+    },
+    {
+      "id": "julie-chatgpt",
+      "text": "Switch the credit card on Julie's ChatGPT",
+      "category": "🏠 HOME",
+      "done": false
     },
     {
       "id": "wf-home",
@@ -81,18 +93,6 @@
       "text": "Workflowy: Rethinking Home (editable)",
       "category": "🏠 HOME",
       "url": "https://workflowy.com/#/62229d749ef0"
-    },
-    {
-      "id": "spanish-teacher",
-      "text": "Write Spanish teacher",
-      "category": "🏠 HOME",
-      "done": true
-    },
-    {
-      "id": "viture-return",
-      "text": "VITURE warranty claim — draft is written and ready, just needs sending",
-      "category": "🔴 THIS AFTERNOON",
-      "done": false
     },
     {
       "id": "julie-screen",
@@ -113,12 +113,6 @@
       "done": false
     },
     {
-      "id": "canada-insurance",
-      "text": "Get house insurance for 1080 (NB: still on workflowy)",
-      "category": "🇨🇦 CANADA PREP",
-      "done": true
-    },
-    {
       "id": "canada-id",
       "text": "Update provincial ID: driver's licence + health card (his tree says Wed Aug 12)",
       "category": "🇨🇦 CANADA PREP",
@@ -129,12 +123,6 @@
       "text": "Research + order security cameras for 1080",
       "category": "🇨🇦 CANADA PREP",
       "done": false
-    },
-    {
-      "id": "canada-utilities",
-      "text": "Figure out utilities scheduling for 1080 (NB: still on workflowy)",
-      "category": "🇨🇦 CANADA PREP",
-      "done": true
     },
     {
       "id": "fsd-dental",
@@ -171,42 +159,6 @@
       "text": "Thunderbolt hub",
       "category": "🛒 SHOPPING",
       "done": false
-    },
-    {
-      "id": "overtime-submit",
-      "text": "SUBMIT overtime FIRST THING Monday (form is loaded, one click)",
-      "category": "💼 WORK / MONDAY",
-      "done": false
-    },
-    {
-      "id": "influencer-rep",
-      "text": "Confirm DEV rep for influencer lunch (Tue Jul 28): due Monday AM",
-      "category": "💼 WORK / MONDAY",
-      "done": false
-    },
-    {
-      "id": "horizons",
-      "text": "Research Horizons of Friendship ($17M repro health)",
-      "category": "💼 WORK / MONDAY",
-      "done": false
-    },
-    {
-      "id": "wv-aug6",
-      "text": "World Vision nutrition event Aug 6: confirm",
-      "category": "💼 WORK / MONDAY",
-      "done": false
-    },
-    {
-      "id": "satwork",
-      "text": "Disable the satwork Google Apps Script trigger (289 failures)",
-      "category": "🛠 TECH",
-      "done": true
-    },
-    {
-      "id": "chatgpt-canary",
-      "text": "ChatGPT 'app' using Canary browser (NB: still on workflowy)",
-      "category": "🛠 TECH",
-      "done": true
     },
     {
       "id": "pacman-mod",
