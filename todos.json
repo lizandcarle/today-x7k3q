@@ -1,8 +1,14 @@
 {
   "date": "2026-07-27",
-  "updated": "2026-07-27T15:22:00-06:00",
+  "updated": "2026-07-27T15:45:00-06:00",
   "note": "Monday. Three Workflowy buttons now: Job at the top of work, Home and Life in the home block.",
   "items": [
+    {
+      "id": "iva-tuca",
+      "text": "Ask Tuca for a new IVA exemption form (then message the dentist about payment)",
+      "category": "💼 WORK — MONDAY",
+      "done": false
+    },
     {
       "id": "july-ot-sheet",
       "text": "Prepare JULY overtime sheet before Friday — Olivier signs Fri, then away a month",
