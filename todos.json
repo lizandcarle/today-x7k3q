@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
-  "updated": "2026-07-26T18:05:00-06:00",
-  "note": "Cycle still on Day 1 — no workout ticked, so it waits for you. Spanish teacher done. Insurance and utilities are Julie's per your tree.",
+  "updated": "2026-07-26T19:38:00-06:00",
+  "note": "Still Day 1 on the cycle. Warranty email is drafted and waiting on you. Julie's ChatGPT card is the last small one.",
   "items": [
     {
       "id": "wsj-card",
@@ -90,8 +90,8 @@
     },
     {
       "id": "viture-return",
-      "text": "Contact VITURE Beast: return authorization — only if tonight's retest fails",
-      "category": "🏠 HOME",
+      "text": "VITURE warranty claim — draft is written and ready, just needs sending",
+      "category": "🔴 THIS AFTERNOON",
       "done": false
     },
     {
@@ -200,13 +200,13 @@
       "id": "satwork",
       "text": "Disable the satwork Google Apps Script trigger (289 failures)",
       "category": "🛠 TECH",
-      "done": false
+      "done": true
     },
     {
       "id": "chatgpt-canary",
-      "text": "ChatGPT 'app' using Canary browser",
+      "text": "ChatGPT 'app' using Canary browser (NB: still on workflowy)",
       "category": "🛠 TECH",
-      "done": false
+      "done": true
     },
     {
       "id": "pacman-mod",
