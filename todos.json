@@ -1,8 +1,15 @@
 {
   "date": "2026-07-27",
-  "updated": "2026-07-27T06:32:00-06:00",
-  "note": "Monday. Overtime first, one click. Full list below, republished.",
+  "updated": "2026-07-27T06:56:00-06:00",
+  "note": "Monday. Three Workflowy buttons now: Job at the top of work, Home and Life in the home block.",
   "items": [
+    {
+      "id": "wf-job",
+      "type": "ref",
+      "text": "Workflowy: JOB",
+      "category": "💼 WORK — MONDAY",
+      "url": "https://workflowy.com/#/b81b4d0e17c2"
+    },
     {
       "id": "heather-roof",
       "text": "Respond to Heather about the roof",
@@ -114,17 +121,24 @@
       "done": false
     },
     {
+      "id": "wf-home",
+      "type": "ref",
+      "text": "Workflowy: HOME",
+      "category": "🏠 HOME",
+      "url": "https://workflowy.com/#/62229d749ef0"
+    },
+    {
+      "id": "wf-life",
+      "type": "ref",
+      "text": "Workflowy: LIFE",
+      "category": "🏠 HOME",
+      "url": "https://workflowy.com/#/e5d0b5b51fd2"
+    },
+    {
       "id": "julie-chatgpt",
       "text": "Switch the credit card on Julie's ChatGPT",
       "category": "🏠 HOME",
       "done": false
-    },
-    {
-      "id": "wf-home",
-      "type": "ref",
-      "text": "Workflowy: Rethinking Home (editable)",
-      "category": "🏠 HOME",
-      "url": "https://workflowy.com/#/62229d749ef0"
     },
     {
       "id": "julie-screen",
