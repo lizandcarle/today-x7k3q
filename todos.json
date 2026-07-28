@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "updated": "2026-07-28T05:12:00-06:00",
+  "updated": "2026-07-28T10:50:00-06:00",
   "note": "Tuesday. Influencer lunch 12-2, CMM 2:30. July overtime sheet needs to reach Olivier by Friday.",
   "items": [
     {
@@ -215,6 +215,12 @@
     {
       "id": "openclaw-9",
       "text": "Test if Telegram/OpenClaw works on the $9/mo ChatGPT tier",
+      "category": "🛠 TECH",
+      "done": false
+    },
+    {
+      "id": "quest-optimizer",
+      "text": "Add the Quest Games Optimizer",
       "category": "🛠 TECH",
       "done": false
     }
