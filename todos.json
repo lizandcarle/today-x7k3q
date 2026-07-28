@@ -1,24 +1,79 @@
 {
-  "date": "2026-07-27",
-  "updated": "2026-07-27T18:12:00-06:00",
-  "note": "Monday evening. Cycle still Day 1 — it waits for you, not the calendar.",
+  "date": "2026-07-28",
+  "updated": "2026-07-28T05:12:00-06:00",
+  "note": "Tuesday. Influencer lunch 12-2, CMM 2:30. July overtime sheet needs to reach Olivier by Friday.",
   "items": [
+    {
+      "id": "july-ot-prep",
+      "text": "JULY overtime sheet — must reach Olivier Friday, he's away after",
+      "category": "💼 WORK — TUESDAY",
+      "done": false
+    },
     {
       "id": "phm-koofr",
       "text": "Tonight: Project Hail Mary audiobook onto Koofr, get link for Sonia + Ninette",
-      "category": "🌙 TONIGHT",
+      "category": "💼 WORK — TUESDAY",
       "done": false
     },
     {
       "id": "viture-return",
       "text": "Send the VITURE warranty claim (draft is written, two minutes)",
-      "category": "🌙 TONIGHT",
+      "category": "💼 WORK — TUESDAY",
       "done": false
     },
     {
       "id": "julie-chatgpt",
       "text": "Switch the credit card on Julie's ChatGPT",
-      "category": "🌙 TONIGHT",
+      "category": "💼 WORK — TUESDAY",
+      "done": false
+    },
+    {
+      "id": "cmm-agenda",
+      "text": "CMM 2:30 today — agenda, events calendar, CBS whereabouts",
+      "category": "💼 WORK — TUESDAY",
+      "done": false
+    },
+    {
+      "id": "iva-tuca",
+      "text": "Ask Tuca for a new IVA exemption form (then message the dentist about payment)",
+      "category": "💼 WORK — TUESDAY",
+      "done": false
+    },
+    {
+      "id": "july-ot-sheet",
+      "text": "Prepare JULY overtime sheet before Friday — Olivier signs Fri, then away a month",
+      "category": "💼 WORK — TUESDAY",
+      "done": false
+    },
+    {
+      "id": "wf-job",
+      "type": "ref",
+      "text": "Workflowy: JOB",
+      "category": "💼 WORK — TUESDAY",
+      "url": "https://workflowy.com/#/b81b4d0e17c2"
+    },
+    {
+      "id": "heather-roof",
+      "text": "Respond to Heather about the roof",
+      "category": "💼 WORK — TUESDAY",
+      "done": false
+    },
+    {
+      "id": "lawyer-update",
+      "text": "Write Joanne Horton with an update",
+      "category": "💼 WORK — TUESDAY",
+      "done": false
+    },
+    {
+      "id": "horizons",
+      "text": "Research Horizons of Friendship ($17M repro health)",
+      "category": "💼 WORK — TUESDAY",
+      "done": false
+    },
+    {
+      "id": "wv-aug6",
+      "text": "World Vision nutrition event Aug 6: confirm",
+      "category": "💼 WORK — TUESDAY",
       "done": false
     },
     {
@@ -69,61 +124,12 @@
       "id": "ex-diet",
       "text": "Diet: 1,234 cal / 110g protein",
       "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": true
+      "done": false
     },
     {
       "id": "ex-vitamin",
       "text": "Multivitamin",
       "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": true
-    },
-    {
-      "id": "cmm-agenda",
-      "text": "CMM agenda + events + CBS whereabouts are due TODAY for tomorrow's 2:30 meeting",
-      "category": "💼 WORK — MONDAY",
-      "done": false
-    },
-    {
-      "id": "iva-tuca",
-      "text": "Ask Tuca for a new IVA exemption form (then message the dentist about payment)",
-      "category": "💼 WORK — MONDAY",
-      "done": false
-    },
-    {
-      "id": "july-ot-sheet",
-      "text": "Prepare JULY overtime sheet before Friday — Olivier signs Fri, then away a month",
-      "category": "💼 WORK — MONDAY",
-      "done": false
-    },
-    {
-      "id": "wf-job",
-      "type": "ref",
-      "text": "Workflowy: JOB",
-      "category": "💼 WORK — MONDAY",
-      "url": "https://workflowy.com/#/b81b4d0e17c2"
-    },
-    {
-      "id": "heather-roof",
-      "text": "Respond to Heather about the roof",
-      "category": "💼 WORK — MONDAY",
-      "done": false
-    },
-    {
-      "id": "lawyer-update",
-      "text": "Write Joanne Horton with an update",
-      "category": "💼 WORK — MONDAY",
-      "done": false
-    },
-    {
-      "id": "horizons",
-      "text": "Research Horizons of Friendship ($17M repro health)",
-      "category": "💼 WORK — MONDAY",
-      "done": false
-    },
-    {
-      "id": "wv-aug6",
-      "text": "World Vision nutrition event Aug 6: confirm",
-      "category": "💼 WORK — MONDAY",
       "done": false
     },
     {
