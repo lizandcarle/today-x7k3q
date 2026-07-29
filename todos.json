@@ -1,79 +1,24 @@
 {
   "date": "2026-07-28",
-  "updated": "2026-07-28T10:50:00-06:00",
-  "note": "Tuesday. Influencer lunch 12-2, CMM 2:30. July overtime sheet needs to reach Olivier by Friday.",
+  "updated": "2026-07-28T18:12:00-06:00",
+  "note": "Tuesday evening. Cycle still Day 1. July overtime sheet needs to reach Olivier by Friday.",
   "items": [
-    {
-      "id": "july-ot-prep",
-      "text": "JULY overtime sheet — must reach Olivier Friday, he's away after",
-      "category": "💼 WORK — TUESDAY",
-      "done": false
-    },
     {
       "id": "phm-koofr",
       "text": "Tonight: Project Hail Mary audiobook onto Koofr, get link for Sonia + Ninette",
-      "category": "💼 WORK — TUESDAY",
+      "category": "🌙 TONIGHT",
       "done": false
     },
     {
       "id": "viture-return",
       "text": "Send the VITURE warranty claim (draft is written, two minutes)",
-      "category": "💼 WORK — TUESDAY",
+      "category": "🌙 TONIGHT",
       "done": false
     },
     {
       "id": "julie-chatgpt",
       "text": "Switch the credit card on Julie's ChatGPT",
-      "category": "💼 WORK — TUESDAY",
-      "done": false
-    },
-    {
-      "id": "cmm-agenda",
-      "text": "CMM 2:30 today — agenda, events calendar, CBS whereabouts",
-      "category": "💼 WORK — TUESDAY",
-      "done": false
-    },
-    {
-      "id": "iva-tuca",
-      "text": "Ask Tuca for a new IVA exemption form (then message the dentist about payment)",
-      "category": "💼 WORK — TUESDAY",
-      "done": false
-    },
-    {
-      "id": "july-ot-sheet",
-      "text": "Prepare JULY overtime sheet before Friday — Olivier signs Fri, then away a month",
-      "category": "💼 WORK — TUESDAY",
-      "done": false
-    },
-    {
-      "id": "wf-job",
-      "type": "ref",
-      "text": "Workflowy: JOB",
-      "category": "💼 WORK — TUESDAY",
-      "url": "https://workflowy.com/#/b81b4d0e17c2"
-    },
-    {
-      "id": "heather-roof",
-      "text": "Respond to Heather about the roof",
-      "category": "💼 WORK — TUESDAY",
-      "done": false
-    },
-    {
-      "id": "lawyer-update",
-      "text": "Write Joanne Horton with an update",
-      "category": "💼 WORK — TUESDAY",
-      "done": false
-    },
-    {
-      "id": "horizons",
-      "text": "Research Horizons of Friendship ($17M repro health)",
-      "category": "💼 WORK — TUESDAY",
-      "done": false
-    },
-    {
-      "id": "wv-aug6",
-      "text": "World Vision nutrition event Aug 6: confirm",
-      "category": "💼 WORK — TUESDAY",
+      "category": "🌙 TONIGHT",
       "done": false
     },
     {
@@ -130,6 +75,61 @@
       "id": "ex-vitamin",
       "text": "Multivitamin",
       "category": "🥗 DAILY HABITS (these don't move the cycle)",
+      "done": false
+    },
+    {
+      "id": "july-ot-prep",
+      "text": "JULY overtime sheet — must reach Olivier Friday, he's away after",
+      "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "cmm-agenda",
+      "text": "CMM 2:30 today — agenda, events calendar, CBS whereabouts",
+      "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "iva-tuca",
+      "text": "Ask Tuca for a new IVA exemption form (then message the dentist about payment)",
+      "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "july-ot-sheet",
+      "text": "Prepare JULY overtime sheet before Friday — Olivier signs Fri, then away a month",
+      "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "wf-job",
+      "type": "ref",
+      "text": "Workflowy: JOB",
+      "category": "💼 WORK",
+      "url": "https://workflowy.com/#/b81b4d0e17c2"
+    },
+    {
+      "id": "heather-roof",
+      "text": "Respond to Heather about the roof",
+      "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "lawyer-update",
+      "text": "Write Joanne Horton with an update",
+      "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "horizons",
+      "text": "Research Horizons of Friendship ($17M repro health)",
+      "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "wv-aug6",
+      "text": "World Vision nutrition event Aug 6: confirm",
+      "category": "💼 WORK",
       "done": false
     },
     {
