@@ -4,10 +4,16 @@
   "note": "Tuesday evening. Cycle still Day 1. July overtime sheet needs to reach Olivier by Friday.",
   "items": [
     {
+      "id": "overtime-july",
+      "text": "WEDNESDAY: July overtime sheet — templates are in the Overtime folder on your desktop",
+      "category": "🌙 TONIGHT",
+      "done": false
+    },
+    {
       "id": "phm-koofr",
       "text": "Tonight: Project Hail Mary audiobook onto Koofr, get link for Sonia + Ninette",
       "category": "🌙 TONIGHT",
-      "done": false
+      "done": true
     },
     {
       "id": "viture-return",
