@@ -1,8 +1,14 @@
 {
   "date": "2026-07-28",
-  "updated": "2026-07-29T08:08:00-06:00",
+  "updated": "2026-07-29T09:33:00-06:00",
   "note": "Wednesday. Overtime sheet is the one that matters — Friday is a person, not a date.",
   "items": [
+    {
+      "id": "google-pw-henryboo",
+      "text": "TONIGHT, top priority: change the two henryboo Google passwords to match the new main one",
+      "category": "🔴 TODAY",
+      "done": false
+    },
     {
       "id": "overtime-july",
       "text": "July overtime sheet — Olivier signs Friday then is away a month. Templates are pre-filled in the Overtime folder on your desktop.",
