@@ -1,19 +1,13 @@
 {
   "date": "2026-07-28",
-  "updated": "2026-07-28T18:12:00-06:00",
-  "note": "Tuesday evening. Cycle still Day 1. July overtime sheet needs to reach Olivier by Friday.",
+  "updated": "2026-07-29T02:35:00-06:00",
+  "note": "Wednesday. Overtime sheet is the one that matters — Friday is a person, not a date.",
   "items": [
     {
       "id": "overtime-july",
-      "text": "WEDNESDAY: July overtime sheet — templates are in the Overtime folder on your desktop",
-      "category": "🌙 TONIGHT",
+      "text": "July overtime sheet — Olivier signs Friday then is away a month. Templates are pre-filled in the Overtime folder on your desktop.",
+      "category": "🔴 TODAY",
       "done": false
-    },
-    {
-      "id": "phm-koofr",
-      "text": "Tonight: Project Hail Mary audiobook onto Koofr, get link for Sonia + Ninette",
-      "category": "🌙 TONIGHT",
-      "done": true
     },
     {
       "id": "viture-return",
@@ -84,26 +78,8 @@
       "done": false
     },
     {
-      "id": "july-ot-prep",
-      "text": "JULY overtime sheet — must reach Olivier Friday, he's away after",
-      "category": "💼 WORK",
-      "done": false
-    },
-    {
-      "id": "cmm-agenda",
-      "text": "CMM 2:30 today — agenda, events calendar, CBS whereabouts",
-      "category": "💼 WORK",
-      "done": false
-    },
-    {
       "id": "iva-tuca",
       "text": "Ask Tuca for a new IVA exemption form (then message the dentist about payment)",
-      "category": "💼 WORK",
-      "done": false
-    },
-    {
-      "id": "july-ot-sheet",
-      "text": "Prepare JULY overtime sheet before Friday — Olivier signs Fri, then away a month",
       "category": "💼 WORK",
       "done": false
     },
