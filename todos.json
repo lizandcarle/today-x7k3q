@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "updated": "2026-07-29T08:05:00-06:00",
+  "updated": "2026-07-29T08:08:00-06:00",
   "note": "Wednesday. Overtime sheet is the one that matters — Friday is a person, not a date.",
   "items": [
     {
@@ -210,6 +210,24 @@
       "id": "quest-optimizer",
       "text": "Add the Quest Games Optimizer",
       "category": "🛠 TECH",
+      "done": false
+    },
+    {
+      "id": "mro-aug9",
+      "text": "Book MRO: Sun Aug 9 airport drop-off — flight AV555 departs 3:40 PM",
+      "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "mro-aug23",
+      "text": "Book MRO: Sun Aug 23 airport pickup — AV578 lands 11:10 PM (you)",
+      "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "mro-aug31",
+      "text": "Book MRO: Mon Aug 31 airport pickup — AV578 lands 11:10 PM (Julie)",
+      "category": "💼 WORK",
       "done": false
     }
   ]
