@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "updated": "2026-07-29T09:33:00-06:00",
+  "updated": "2026-07-29T13:32:00-06:00",
   "note": "Wednesday. Overtime sheet is the one that matters — Friday is a person, not a date.",
   "items": [
     {
@@ -234,6 +234,12 @@
       "id": "mro-aug31",
       "text": "Book MRO: Mon Aug 31 airport pickup — AV578 lands 11:10 PM (Julie)",
       "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "swiss-army-knife",
+      "text": "Find the Swiss Army knife and bring it in to work (cutting an eraser)",
+      "category": "🏠 HOME",
       "done": false
     }
   ]
