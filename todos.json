@@ -1,11 +1,17 @@
 {
   "date": "2026-07-28",
-  "updated": "2026-07-29T02:35:00-06:00",
+  "updated": "2026-07-29T08:05:00-06:00",
   "note": "Wednesday. Overtime sheet is the one that matters — Friday is a person, not a date.",
   "items": [
     {
       "id": "overtime-july",
       "text": "July overtime sheet — Olivier signs Friday then is away a month. Templates are pre-filled in the Overtime folder on your desktop.",
+      "category": "🔴 TODAY",
+      "done": false
+    },
+    {
+      "id": "charlotte-transfer",
+      "text": "Set up the automatic monthly transfer to Charlotte: $1,500, matching Lily's",
       "category": "🔴 TODAY",
       "done": false
     },
