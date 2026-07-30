@@ -1,7 +1,7 @@
 {
- "date": "2026-07-29",
- "updated": "2026-07-29T18:35:00-06:00",
- "note": "Wednesday evening, post-sync. Seven ticked — but no workout among them, so health stays Day 1. New: UNDP CPD needs a yes/no by Thursday, because Friday you're on a plane to Flores.",
+ "date": "2026-07-30",
+ "updated": "2026-07-30T05:12:00-06:00",
+ "note": "Thursday. Overtime sheet before 9:00 — that is the whole morning's job. Health still Day 1; five days now, and only a workout moves it.",
  "items": [
   {
    "id": "google-pw-henryboo",
@@ -63,19 +63,19 @@
    "id": "ex-steps",
    "text": "Steps: 7,000",
    "category": "🥗 DAILY HABITS (these don't move the cycle)",
-   "done": true
+   "done": false
   },
   {
    "id": "ex-diet",
    "text": "Diet: 1,234 cal / 110g protein",
    "category": "🥗 DAILY HABITS (these don't move the cycle)",
-   "done": true
+   "done": false
   },
   {
    "id": "ex-vitamin",
    "text": "Multivitamin",
    "category": "🥗 DAILY HABITS (these don't move the cycle)",
-   "done": true
+   "done": false
   },
   {
    "id": "viture-return",
@@ -90,29 +90,11 @@
    "done": false
   },
   {
-   "id": "iva-tuca",
-   "text": "Ask Tuca for a new IVA exemption form (then message the dentist about payment)",
-   "category": "💼 WORK",
-   "done": true
-  },
-  {
    "id": "wf-job",
    "type": "ref",
    "text": "Workflowy: JOB",
    "category": "💼 WORK",
    "url": "https://workflowy.com/#/b81b4d0e17c2"
-  },
-  {
-   "id": "heather-roof",
-   "text": "Respond to Heather about the roof",
-   "category": "💼 WORK",
-   "done": true
-  },
-  {
-   "id": "lawyer-update",
-   "text": "Write Joanne Horton with an update",
-   "category": "💼 WORK",
-   "done": true
   },
   {
    "id": "horizons",
@@ -175,12 +157,6 @@
    "text": "Screen + camera protector on Julie's phone (next mall trip)",
    "category": "🏠 HOME",
    "done": false
-  },
-  {
-   "id": "google-accounts",
-   "text": "Google account health check (inactivity risk on christopher.duguid@)",
-   "category": "🏠 HOME",
-   "done": true
   },
   {
    "id": "swiss-army-knife",
