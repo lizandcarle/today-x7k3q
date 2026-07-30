@@ -1,7 +1,7 @@
 {
  "date": "2026-07-29",
- "updated": "2026-07-29T18:15:00-06:00",
- "note": "Wednesday evening. The overtime sheet is still the one that matters — and you start at 7:00, so Thursday gives you a clear run at it before 9:00. Health is Day 1 for the fourth day; one tick moves it.",
+ "updated": "2026-07-29T18:35:00-06:00",
+ "note": "Wednesday evening, post-sync. Seven ticked — but no workout among them, so health stays Day 1. New: UNDP CPD needs a yes/no by Thursday, because Friday you're on a plane to Flores.",
  "items": [
   {
    "id": "google-pw-henryboo",
@@ -63,19 +63,19 @@
    "id": "ex-steps",
    "text": "Steps: 7,000",
    "category": "🥗 DAILY HABITS (these don't move the cycle)",
-   "done": false
+   "done": true
   },
   {
    "id": "ex-diet",
    "text": "Diet: 1,234 cal / 110g protein",
    "category": "🥗 DAILY HABITS (these don't move the cycle)",
-   "done": false
+   "done": true
   },
   {
    "id": "ex-vitamin",
    "text": "Multivitamin",
    "category": "🥗 DAILY HABITS (these don't move the cycle)",
-   "done": false
+   "done": true
   },
   {
    "id": "viture-return",
@@ -93,7 +93,7 @@
    "id": "iva-tuca",
    "text": "Ask Tuca for a new IVA exemption form (then message the dentist about payment)",
    "category": "💼 WORK",
-   "done": false
+   "done": true
   },
   {
    "id": "wf-job",
@@ -106,13 +106,13 @@
    "id": "heather-roof",
    "text": "Respond to Heather about the roof",
    "category": "💼 WORK",
-   "done": false
+   "done": true
   },
   {
    "id": "lawyer-update",
    "text": "Write Joanne Horton with an update",
    "category": "💼 WORK",
-   "done": false
+   "done": true
   },
   {
    "id": "horizons",
@@ -145,6 +145,18 @@
    "done": false
   },
   {
+   "id": "dentist-payment",
+   "text": "Message the dentist office about payment (the IVA form was only half of it)",
+   "category": "💼 WORK",
+   "done": false
+  },
+  {
+   "id": "undp-cpd",
+   "text": "UNDP Guatemala CPD: tell Kristel Véliz whether Canada supports approval. Due Fri Aug 7 COB — but Friday is Tikal, so Thursday Aug 6 is the real deadline.",
+   "category": "💼 WORK",
+   "done": false
+  },
+  {
    "id": "wf-home",
    "type": "ref",
    "text": "Workflowy: HOME",
@@ -168,7 +180,7 @@
    "id": "google-accounts",
    "text": "Google account health check (inactivity risk on christopher.duguid@)",
    "category": "🏠 HOME",
-   "done": false
+   "done": true
   },
   {
    "id": "swiss-army-knife",
