@@ -1,246 +1,246 @@
 {
-  "date": "2026-07-28",
-  "updated": "2026-07-29T13:32:00-06:00",
-  "note": "Wednesday. Overtime sheet is the one that matters — Friday is a person, not a date.",
-  "items": [
-    {
-      "id": "google-pw-henryboo",
-      "text": "TONIGHT, top priority: change the two henryboo Google passwords to match the new main one",
-      "category": "🔴 TODAY",
-      "done": false
-    },
-    {
-      "id": "overtime-july",
-      "text": "July overtime sheet — Olivier signs Friday then is away a month. Templates are pre-filled in the Overtime folder on your desktop.",
-      "category": "🔴 TODAY",
-      "done": false
-    },
-    {
-      "id": "charlotte-transfer",
-      "text": "Set up the automatic monthly transfer to Charlotte: $1,500, matching Lily's",
-      "category": "🔴 TODAY",
-      "done": false
-    },
-    {
-      "id": "viture-return",
-      "text": "Send the VITURE warranty claim (draft is written, two minutes)",
-      "category": "🌙 TONIGHT",
-      "done": false
-    },
-    {
-      "id": "julie-chatgpt",
-      "text": "Switch the credit card on Julie's ChatGPT",
-      "category": "🌙 TONIGHT",
-      "done": false
-    },
-    {
-      "id": "ex-press",
-      "text": "Dumbbell floor press: 2 x 10-12",
-      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false,
-      "url": "https://www.youtube.com/watch?v=AqYFvc9t_vU",
-      "linkLabel": "Form"
-    },
-    {
-      "id": "ex-row",
-      "text": "Bent-over row: 2 x 10-12",
-      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false,
-      "url": "https://www.youtube.com/watch?v=c-gt-zzoa_A",
-      "linkLabel": "Form"
-    },
-    {
-      "id": "ex-ohp",
-      "text": "Overhead press: 2 x 10-12",
-      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false,
-      "url": "https://www.youtube.com/watch?v=Did01dFR3Lk",
-      "linkLabel": "Form"
-    },
-    {
-      "id": "ex-curl",
-      "text": "Dumbbell curl: 2 x 12-15",
-      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false,
-      "url": "https://www.youtube.com/watch?v=av7-8igSXTs",
-      "linkLabel": "Form"
-    },
-    {
-      "id": "ex-beatsaber",
-      "text": "Beat Saber 30 min",
-      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false
-    },
-    {
-      "id": "ex-steps",
-      "text": "Steps: 7,000",
-      "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": false
-    },
-    {
-      "id": "ex-diet",
-      "text": "Diet: 1,234 cal / 110g protein",
-      "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": false
-    },
-    {
-      "id": "ex-vitamin",
-      "text": "Multivitamin",
-      "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": false
-    },
-    {
-      "id": "iva-tuca",
-      "text": "Ask Tuca for a new IVA exemption form (then message the dentist about payment)",
-      "category": "💼 WORK",
-      "done": false
-    },
-    {
-      "id": "wf-job",
-      "type": "ref",
-      "text": "Workflowy: JOB",
-      "category": "💼 WORK",
-      "url": "https://workflowy.com/#/b81b4d0e17c2"
-    },
-    {
-      "id": "heather-roof",
-      "text": "Respond to Heather about the roof",
-      "category": "💼 WORK",
-      "done": false
-    },
-    {
-      "id": "lawyer-update",
-      "text": "Write Joanne Horton with an update",
-      "category": "💼 WORK",
-      "done": false
-    },
-    {
-      "id": "horizons",
-      "text": "Research Horizons of Friendship ($17M repro health)",
-      "category": "💼 WORK",
-      "done": false
-    },
-    {
-      "id": "wv-aug6",
-      "text": "World Vision nutrition event Aug 6: confirm",
-      "category": "💼 WORK",
-      "done": false
-    },
-    {
-      "id": "wf-home",
-      "type": "ref",
-      "text": "Workflowy: HOME",
-      "category": "🏠 HOME",
-      "url": "https://workflowy.com/#/62229d749ef0"
-    },
-    {
-      "id": "wf-life",
-      "type": "ref",
-      "text": "Workflowy: LIFE",
-      "category": "🏠 HOME",
-      "url": "https://workflowy.com/#/e5d0b5b51fd2"
-    },
-    {
-      "id": "julie-screen",
-      "text": "Screen + camera protector on Julie's phone (next mall trip)",
-      "category": "🏠 HOME",
-      "done": false
-    },
-    {
-      "id": "google-accounts",
-      "text": "Google account health check (inactivity risk on christopher.duguid@)",
-      "category": "🏠 HOME",
-      "done": false
-    },
-    {
-      "id": "canada-id",
-      "text": "Update provincial ID: driver's licence + health card (his tree says Wed Aug 12)",
-      "category": "🇨🇦 CANADA PREP",
-      "done": false
-    },
-    {
-      "id": "canada-cameras",
-      "text": "Research + order security cameras for 1080",
-      "category": "🇨🇦 CANADA PREP",
-      "done": false
-    },
-    {
-      "id": "fsd-dental",
-      "text": "Dental claim ~$1,500: gather receipts, PSDCP form is on file",
-      "category": "💰 FSD / UNBLOCKED",
-      "done": false
-    },
-    {
-      "id": "fsd-uber-hn",
-      "text": "Honduras Uber period ~$1,000: verify window with Rizki first",
-      "category": "💰 FSD / UNBLOCKED",
-      "done": false
-    },
-    {
-      "id": "fsd-uber-gt",
-      "text": "Guatemala City Uber period ~$1,000: same, verify window",
-      "category": "💰 FSD / UNBLOCKED",
-      "done": false
-    },
-    {
-      "id": "shop-watch-cable",
-      "text": "Apple Watch USB-C charger cable",
-      "category": "🛒 SHOPPING",
-      "done": false
-    },
-    {
-      "id": "shop-wingspan",
-      "text": "Wingspan Etsy items: Julie's gift",
-      "category": "🛒 SHOPPING",
-      "done": false
-    },
-    {
-      "id": "shop-tb-hub",
-      "text": "Thunderbolt hub",
-      "category": "🛒 SHOPPING",
-      "done": false
-    },
-    {
-      "id": "pacman-mod",
-      "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)",
-      "category": "🛠 TECH",
-      "done": false
-    },
-    {
-      "id": "openclaw-9",
-      "text": "Test if Telegram/OpenClaw works on the $9/mo ChatGPT tier",
-      "category": "🛠 TECH",
-      "done": false
-    },
-    {
-      "id": "quest-optimizer",
-      "text": "Add the Quest Games Optimizer",
-      "category": "🛠 TECH",
-      "done": false
-    },
-    {
-      "id": "mro-aug9",
-      "text": "Book MRO: Sun Aug 9 airport drop-off — flight AV555 departs 3:40 PM",
-      "category": "💼 WORK",
-      "done": false
-    },
-    {
-      "id": "mro-aug23",
-      "text": "Book MRO: Sun Aug 23 airport pickup — AV578 lands 11:10 PM (you)",
-      "category": "💼 WORK",
-      "done": false
-    },
-    {
-      "id": "mro-aug31",
-      "text": "Book MRO: Mon Aug 31 airport pickup — AV578 lands 11:10 PM (Julie)",
-      "category": "💼 WORK",
-      "done": false
-    },
-    {
-      "id": "swiss-army-knife",
-      "text": "Find the Swiss Army knife and bring it in to work (cutting an eraser)",
-      "category": "🏠 HOME",
-      "done": false
-    }
-  ]
+ "date": "2026-07-29",
+ "updated": "2026-07-29T18:15:00-06:00",
+ "note": "Wednesday evening. The overtime sheet is still the one that matters — and you start at 7:00, so Thursday gives you a clear run at it before 9:00. Health is Day 1 for the fourth day; one tick moves it.",
+ "items": [
+  {
+   "id": "google-pw-henryboo",
+   "text": "TONIGHT, top priority: change the two henryboo Google passwords to match the new main one",
+   "category": "🔴 TODAY",
+   "done": false
+  },
+  {
+   "id": "overtime-july",
+   "text": "July overtime sheet — Olivier signs Friday then is away a month. Templates are pre-filled in the Overtime folder on your desktop.",
+   "category": "🔴 TODAY",
+   "done": false
+  },
+  {
+   "id": "charlotte-transfer",
+   "text": "Set up the automatic monthly transfer to Charlotte: $1,500, matching Lily's",
+   "category": "🔴 TODAY",
+   "done": false
+  },
+  {
+   "id": "ex-press",
+   "text": "Dumbbell floor press: 2 x 10-12",
+   "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
+   "done": false,
+   "url": "https://www.youtube.com/watch?v=AqYFvc9t_vU",
+   "linkLabel": "Form"
+  },
+  {
+   "id": "ex-row",
+   "text": "Bent-over row: 2 x 10-12",
+   "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
+   "done": false,
+   "url": "https://www.youtube.com/watch?v=c-gt-zzoa_A",
+   "linkLabel": "Form"
+  },
+  {
+   "id": "ex-ohp",
+   "text": "Overhead press: 2 x 10-12",
+   "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
+   "done": false,
+   "url": "https://www.youtube.com/watch?v=Did01dFR3Lk",
+   "linkLabel": "Form"
+  },
+  {
+   "id": "ex-curl",
+   "text": "Dumbbell curl: 2 x 12-15",
+   "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
+   "done": false,
+   "url": "https://www.youtube.com/watch?v=av7-8igSXTs",
+   "linkLabel": "Form"
+  },
+  {
+   "id": "ex-beatsaber",
+   "text": "Beat Saber 30 min",
+   "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
+   "done": false
+  },
+  {
+   "id": "ex-steps",
+   "text": "Steps: 7,000",
+   "category": "🥗 DAILY HABITS (these don't move the cycle)",
+   "done": false
+  },
+  {
+   "id": "ex-diet",
+   "text": "Diet: 1,234 cal / 110g protein",
+   "category": "🥗 DAILY HABITS (these don't move the cycle)",
+   "done": false
+  },
+  {
+   "id": "ex-vitamin",
+   "text": "Multivitamin",
+   "category": "🥗 DAILY HABITS (these don't move the cycle)",
+   "done": false
+  },
+  {
+   "id": "viture-return",
+   "text": "Send the VITURE warranty claim (draft is written, two minutes)",
+   "category": "🌙 TONIGHT",
+   "done": false
+  },
+  {
+   "id": "julie-chatgpt",
+   "text": "Switch the credit card on Julie's ChatGPT",
+   "category": "🌙 TONIGHT",
+   "done": false
+  },
+  {
+   "id": "iva-tuca",
+   "text": "Ask Tuca for a new IVA exemption form (then message the dentist about payment)",
+   "category": "💼 WORK",
+   "done": false
+  },
+  {
+   "id": "wf-job",
+   "type": "ref",
+   "text": "Workflowy: JOB",
+   "category": "💼 WORK",
+   "url": "https://workflowy.com/#/b81b4d0e17c2"
+  },
+  {
+   "id": "heather-roof",
+   "text": "Respond to Heather about the roof",
+   "category": "💼 WORK",
+   "done": false
+  },
+  {
+   "id": "lawyer-update",
+   "text": "Write Joanne Horton with an update",
+   "category": "💼 WORK",
+   "done": false
+  },
+  {
+   "id": "horizons",
+   "text": "Research Horizons of Friendship ($17M repro health)",
+   "category": "💼 WORK",
+   "done": false
+  },
+  {
+   "id": "wv-aug6",
+   "text": "World Vision nutrition event Aug 6: confirm",
+   "category": "💼 WORK",
+   "done": false
+  },
+  {
+   "id": "mro-aug9",
+   "text": "Book MRO: Sun Aug 9 airport drop-off — flight AV555 departs 3:40 PM",
+   "category": "💼 WORK",
+   "done": false
+  },
+  {
+   "id": "mro-aug23",
+   "text": "Book MRO: Sun Aug 23 airport pickup — AV578 lands 11:10 PM (you)",
+   "category": "💼 WORK",
+   "done": false
+  },
+  {
+   "id": "mro-aug31",
+   "text": "Book MRO: Mon Aug 31 airport pickup — AV578 lands 11:10 PM (Julie)",
+   "category": "💼 WORK",
+   "done": false
+  },
+  {
+   "id": "wf-home",
+   "type": "ref",
+   "text": "Workflowy: HOME",
+   "category": "🏠 HOME",
+   "url": "https://workflowy.com/#/62229d749ef0"
+  },
+  {
+   "id": "wf-life",
+   "type": "ref",
+   "text": "Workflowy: LIFE",
+   "category": "🏠 HOME",
+   "url": "https://workflowy.com/#/e5d0b5b51fd2"
+  },
+  {
+   "id": "julie-screen",
+   "text": "Screen + camera protector on Julie's phone (next mall trip)",
+   "category": "🏠 HOME",
+   "done": false
+  },
+  {
+   "id": "google-accounts",
+   "text": "Google account health check (inactivity risk on christopher.duguid@)",
+   "category": "🏠 HOME",
+   "done": false
+  },
+  {
+   "id": "swiss-army-knife",
+   "text": "Find the Swiss Army knife and bring it in to work (cutting an eraser)",
+   "category": "🏠 HOME",
+   "done": false
+  },
+  {
+   "id": "canada-id",
+   "text": "Update provincial ID: driver's licence + health card (his tree says Wed Aug 12)",
+   "category": "🇨🇦 CANADA PREP",
+   "done": false
+  },
+  {
+   "id": "canada-cameras",
+   "text": "Research + order security cameras for 1080",
+   "category": "🇨🇦 CANADA PREP",
+   "done": false
+  },
+  {
+   "id": "fsd-dental",
+   "text": "Dental claim ~$1,500: gather receipts, PSDCP form is on file",
+   "category": "💰 FSD / UNBLOCKED",
+   "done": false
+  },
+  {
+   "id": "fsd-uber-hn",
+   "text": "Honduras Uber period ~$1,000: verify window with Rizki first",
+   "category": "💰 FSD / UNBLOCKED",
+   "done": false
+  },
+  {
+   "id": "fsd-uber-gt",
+   "text": "Guatemala City Uber period ~$1,000: same, verify window",
+   "category": "💰 FSD / UNBLOCKED",
+   "done": false
+  },
+  {
+   "id": "shop-watch-cable",
+   "text": "Apple Watch USB-C charger cable",
+   "category": "🛒 SHOPPING",
+   "done": false
+  },
+  {
+   "id": "shop-wingspan",
+   "text": "Wingspan Etsy items: Julie's gift",
+   "category": "🛒 SHOPPING",
+   "done": false
+  },
+  {
+   "id": "shop-tb-hub",
+   "text": "Thunderbolt hub",
+   "category": "🛒 SHOPPING",
+   "done": false
+  },
+  {
+   "id": "pacman-mod",
+   "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)",
+   "category": "🛠 TECH",
+   "done": false
+  },
+  {
+   "id": "openclaw-9",
+   "text": "Test if Telegram/OpenClaw works on the $9/mo ChatGPT tier",
+   "category": "🛠 TECH",
+   "done": false
+  },
+  {
+   "id": "quest-optimizer",
+   "text": "Add the Quest Games Optimizer",
+   "category": "🛠 TECH",
+   "done": false
+  }
+ ]
 }
