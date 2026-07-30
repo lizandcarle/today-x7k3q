@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "updated": "2026-07-30T05:12:00-06:00",
+ "updated": "2026-07-30T09:33:00-06:00",
  "note": "Thursday. Overtime sheet before 9:00 — that is the whole morning's job. Health still Day 1; five days now, and only a workout moves it.",
  "items": [
   {
@@ -227,6 +227,12 @@
   {
    "id": "quest-optimizer",
    "text": "Add the Quest Games Optimizer",
+   "category": "🛠 TECH",
+   "done": false
+  },
+  {
+   "id": "yt-agi",
+   "text": "Look up a YouTube video about documenting AGI",
    "category": "🛠 TECH",
    "done": false
   }
