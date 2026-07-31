@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "updated": "2026-07-30T18:25:00-06:00",
+ "updated": "2026-07-30T21:15:00-06:00",
  "note": "Thursday evening. Overtime upload is tomorrow's first job — Olivier signs, then he's gone a month. Trainings are an at-home thing now. Health still Day 1, sixth day.",
  "items": [
   {
@@ -35,7 +35,7 @@
   },
   {
    "id": "overtime-upload",
-   "text": "Finish the overtime upload — Olivier signs tomorrow then he's gone a month. You were almost there.",
+   "text": "Finish the overtime upload — Olivier already signed, it is only the new upload page. Angie sent the instructions by email.",
    "category": "🔴 TODAY",
    "done": false
   },
