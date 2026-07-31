@@ -1,7 +1,7 @@
 {
  "date": "2026-07-30",
- "updated": "2026-07-30T18:20:00-06:00",
- "note": "Thursday evening. Peter's slots are first come first served and the seller is back next week — that one's tonight. Health still Day 1, sixth day; one workout moves it.",
+ "updated": "2026-07-30T18:25:00-06:00",
+ "note": "Thursday evening. Overtime upload is tomorrow's first job — Olivier signs, then he's gone a month. Trainings are an at-home thing now. Health still Day 1, sixth day.",
  "items": [
   {
    "id": "google-pw-henryboo",
@@ -30,6 +30,12 @@
   {
    "id": "joanne-holdback",
    "text": "Tell Joanne Horton the renovation inspection is happening before the 12th — her holdback needs the report behind it.",
+   "category": "🔴 TODAY",
+   "done": false
+  },
+  {
+   "id": "overtime-upload",
+   "text": "Finish the overtime upload — Olivier signs tomorrow then he's gone a month. You were almost there.",
    "category": "🔴 TODAY",
    "done": false
   },
@@ -104,6 +110,12 @@
   {
    "id": "aurora-data",
    "text": "Check whether Aurora has working data in Guatemala before Saturday.",
+   "category": "🌙 TONIGHT",
+   "done": false
+  },
+  {
+   "id": "mandatory-training",
+   "text": "Mandatory trainings — CFSI/CSPS, from home, since work hours aren't happening",
    "category": "🌙 TONIGHT",
    "done": false
   },
