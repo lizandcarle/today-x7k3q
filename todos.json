@@ -1,7 +1,7 @@
 {
  "date": "2026-07-31",
- "updated": "2026-07-31T18:15:00-06:00",
- "note": "Friday night, airport run. Nothing on this list matters more than that. The red items are re-pointed at Tuesday, since Mon is a holiday and you are in Antigua. Health still Day 1.",
+ "updated": "2026-08-01T00:20:00-06:00",
+ "note": "Overtime uploaded (confirm Tuesday). Peter emailed. SIMs sorted. Joanne is the only one left, and she is a house item, not work.",
  "items": [
   {
    "id": "google-pw-henryboo",
@@ -25,11 +25,11 @@
    "id": "peter-slots",
    "text": "Send Peter the Schedule A verification list and grab a slot — Mon 3, Tue 4 (1:30 or 7), Wed 5, Thu 6. Not held, first come first served.",
    "category": "🔴 TUESDAY — next working day",
-   "done": false
+   "done": true
   },
   {
    "id": "joanne-holdback",
-   "text": "Tell Joanne Horton the renovation inspection is happening before the 12th — her holdback needs the report behind it.",
+   "text": "Joanne Horton (your 1080 lawyer): tell her the inspection is happening before the 12th, so her holdback has a report behind it",
    "category": "🔴 TUESDAY — next working day",
    "done": false
   },
@@ -37,7 +37,7 @@
    "id": "overtime-upload",
    "text": "Finish the overtime upload — Olivier already signed, it is only the new upload page. Angie sent the instructions by email.",
    "category": "🔴 TUESDAY — next working day",
-   "done": false
+   "done": true
   },
   {
    "id": "ex-press",
@@ -111,7 +111,7 @@
    "id": "aurora-data",
    "text": "Check whether Aurora has working data in Guatemala before Saturday.",
    "category": "🌙 WHEN THERE IS A GAP",
-   "done": false
+   "done": true
   },
   {
    "id": "mandatory-training",
