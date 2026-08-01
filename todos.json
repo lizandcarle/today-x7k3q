@@ -1,42 +1,42 @@
 {
  "date": "2026-07-31",
- "updated": "2026-07-31T05:12:00-06:00",
- "note": "Friday. Overtime upload in the 7-to-9 — it is the only quiet stretch you get today. Peter's slots are first come first served. Airport run tonight. Health still Day 1, seventh day.",
+ "updated": "2026-07-31T18:15:00-06:00",
+ "note": "Friday night, airport run. Nothing on this list matters more than that. The red items are re-pointed at Tuesday, since Mon is a holiday and you are in Antigua. Health still Day 1.",
  "items": [
   {
    "id": "google-pw-henryboo",
    "text": "TONIGHT, top priority: change the two henryboo Google passwords to match the new main one",
-   "category": "🔴 TODAY",
+   "category": "🔴 TUESDAY — next working day",
    "done": false
   },
   {
    "id": "overtime-july",
    "text": "July overtime sheet — Olivier signs Friday then is away a month. Templates are pre-filled in the Overtime folder on your desktop.",
-   "category": "🔴 TODAY",
+   "category": "🔴 TUESDAY — next working day",
    "done": false
   },
   {
    "id": "charlotte-transfer",
    "text": "Set up the automatic monthly transfer to Charlotte: $1,500, matching Lily's",
-   "category": "🔴 TODAY",
+   "category": "🔴 TUESDAY — next working day",
    "done": false
   },
   {
    "id": "peter-slots",
    "text": "Send Peter the Schedule A verification list and grab a slot — Mon 3, Tue 4 (1:30 or 7), Wed 5, Thu 6. Not held, first come first served.",
-   "category": "🔴 TODAY",
+   "category": "🔴 TUESDAY — next working day",
    "done": false
   },
   {
    "id": "joanne-holdback",
    "text": "Tell Joanne Horton the renovation inspection is happening before the 12th — her holdback needs the report behind it.",
-   "category": "🔴 TODAY",
+   "category": "🔴 TUESDAY — next working day",
    "done": false
   },
   {
    "id": "overtime-upload",
    "text": "Finish the overtime upload — Olivier already signed, it is only the new upload page. Angie sent the instructions by email.",
-   "category": "🔴 TODAY",
+   "category": "🔴 TUESDAY — next working day",
    "done": false
   },
   {
@@ -98,25 +98,25 @@
   {
    "id": "viture-return",
    "text": "VITURE: run the KIHENG test first (Mac HDMI → KIHENG with power → glasses). Still black and the warranty claim is unarguable.",
-   "category": "🌙 TONIGHT",
+   "category": "🌙 WHEN THERE IS A GAP",
    "done": false
   },
   {
    "id": "julie-chatgpt",
    "text": "Switch the credit card on Julie's ChatGPT",
-   "category": "🌙 TONIGHT",
+   "category": "🌙 WHEN THERE IS A GAP",
    "done": false
   },
   {
    "id": "aurora-data",
    "text": "Check whether Aurora has working data in Guatemala before Saturday.",
-   "category": "🌙 TONIGHT",
+   "category": "🌙 WHEN THERE IS A GAP",
    "done": false
   },
   {
    "id": "mandatory-training",
    "text": "Mandatory trainings — CFSI/CSPS, from home, since work hours aren't happening",
-   "category": "🌙 TONIGHT",
+   "category": "🌙 WHEN THERE IS A GAP",
    "done": false
   },
   {
