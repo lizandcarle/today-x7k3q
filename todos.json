@@ -1,13 +1,13 @@
 {
  "date": "2026-07-31",
- "updated": "2026-08-01T00:25:00-06:00",
+ "updated": "2026-08-01T01:05:00-06:00",
  "note": "Overtime uploaded (confirm Tuesday). Peter emailed. SIMs sorted. The remaining big one is wiring Joanne the balance before the 12th.",
  "items": [
   {
    "id": "google-pw-henryboo",
    "text": "TONIGHT, top priority: change the two henryboo Google passwords to match the new main one",
    "category": "🔴 TUESDAY — next working day",
-   "done": false
+   "done": true
   },
   {
    "id": "overtime-july",
