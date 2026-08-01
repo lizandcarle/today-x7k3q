@@ -1,7 +1,7 @@
 {
  "date": "2026-07-31",
- "updated": "2026-08-01T00:20:00-06:00",
- "note": "Overtime uploaded (confirm Tuesday). Peter emailed. SIMs sorted. Joanne is the only one left, and she is a house item, not work.",
+ "updated": "2026-08-01T00:25:00-06:00",
+ "note": "Overtime uploaded (confirm Tuesday). Peter emailed. SIMs sorted. The remaining big one is wiring Joanne the balance before the 12th.",
  "items": [
   {
    "id": "google-pw-henryboo",
@@ -28,8 +28,8 @@
    "done": true
   },
   {
-   "id": "joanne-holdback",
-   "text": "Joanne Horton (your 1080 lawyer): tell her the inspection is happening before the 12th, so her holdback has a report behind it",
+   "id": "joanne-wire",
+   "text": "Wire Joanne Horton the remainder of the house money. Closing Wed Aug 12. ~$612K (645,000 less the 33,000 in deposits), exact figure per her statement of adjustments.",
    "category": "🔴 TUESDAY — next working day",
    "done": false
   },
