@@ -1,19 +1,13 @@
 {
  "date": "2026-08-01",
- "updated": "2026-08-01T18:20:00-06:00",
- "note": "Saturday night, Antigua. Nothing here is for this weekend. Health is Day 1, day eight.",
+ "updated": "2026-08-01T23:30:00-06:00",
+ "note": "July overtime is done and off the board. Sunday in Antigua; nothing here is for today.",
  "items": [
   {
    "id": "google-pw-henryboo",
    "text": "TONIGHT, top priority: change the two henryboo Google passwords to match the new main one",
    "category": "🔴 TUESDAY — next working day",
    "done": true
-  },
-  {
-   "id": "overtime-july",
-   "text": "July overtime sheet — Olivier signs Friday then is away a month. Templates are pre-filled in the Overtime folder on your desktop.",
-   "category": "🔴 TUESDAY — next working day",
-   "done": false
   },
   {
    "id": "charlotte-transfer",
@@ -35,7 +29,7 @@
   },
   {
    "id": "overtime-upload",
-   "text": "Finish the overtime upload — Olivier already signed, it is only the new upload page. Angie sent the instructions by email.",
+   "text": "July overtime — submitted. Nothing outstanding.",
    "category": "🔴 TUESDAY — next working day",
    "done": true
   },
@@ -81,7 +75,7 @@
    "id": "ex-steps",
    "text": "Steps: 7,000",
    "category": "🥗 DAILY HABITS (these don't move the cycle)",
-   "done": false
+   "done": true
   },
   {
    "id": "ex-diet",
