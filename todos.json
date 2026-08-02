@@ -1,7 +1,7 @@
 {
  "date": "2026-08-01",
- "updated": "2026-08-01T23:30:00-06:00",
- "note": "July overtime is done and off the board. Sunday in Antigua; nothing here is for today.",
+ "updated": "2026-08-01T23:35:00-06:00",
+ "note": "Overtime is done and gone. New group: FSDs & CLAIMS, and you asked to be nagged on it until it is empty.",
  "items": [
   {
    "id": "google-pw-henryboo",
@@ -26,12 +26,6 @@
    "text": "Wire Joanne Horton the remainder of the house money. Closing Wed Aug 12. ~$612K (645,000 less the 33,000 in deposits), exact figure per her statement of adjustments.",
    "category": "🔴 TUESDAY — next working day",
    "done": false
-  },
-  {
-   "id": "overtime-upload",
-   "text": "July overtime — submitted. Nothing outstanding.",
-   "category": "🔴 TUESDAY — next working day",
-   "done": true
   },
   {
    "id": "ex-press",
@@ -90,6 +84,42 @@
    "done": false
   },
   {
+   "id": "fsd-dental",
+   "text": "File the dental claim",
+   "category": "💰 FSDs & CLAIMS",
+   "done": false
+  },
+  {
+   "id": "fsd-uber-hn",
+   "text": "Honduras Uber period ~$1,000: verify window with Rizki first",
+   "category": "💰 FSDs & CLAIMS",
+   "done": false
+  },
+  {
+   "id": "fsd-uber-gt",
+   "text": "Guatemala City Uber period ~$1,000: same, verify window",
+   "category": "💰 FSDs & CLAIMS",
+   "done": false
+  },
+  {
+   "id": "fsd-50",
+   "text": "File the reconciliation for the FSD 50 advance",
+   "category": "💰 FSDs & CLAIMS",
+   "done": false
+  },
+  {
+   "id": "lily-enrolment",
+   "text": "Upload Lily's proof of enrolment",
+   "category": "💰 FSDs & CLAIMS",
+   "done": false
+  },
+  {
+   "id": "furniture-enquiry",
+   "text": "Send the enquiry about furniture delivery",
+   "category": "💰 FSDs & CLAIMS",
+   "done": false
+  },
+  {
    "id": "viture-return",
    "text": "VITURE: run the KIHENG test first (Mac HDMI → KIHENG with power → glasses). Still black and the warranty claim is unarguable.",
    "category": "🌙 WHEN THERE IS A GAP",
@@ -110,6 +140,12 @@
   {
    "id": "mandatory-training",
    "text": "Mandatory trainings — CFSI/CSPS, from home, since work hours aren't happening",
+   "category": "🌙 WHEN THERE IS A GAP",
+   "done": false
+  },
+  {
+   "id": "julie-screen",
+   "text": "Camera protector on Julie's phone — Monday evening. It is on your desk at home.",
    "category": "🌙 WHEN THERE IS A GAP",
    "done": false
   },
@@ -177,12 +213,6 @@
    "url": "https://workflowy.com/#/e5d0b5b51fd2"
   },
   {
-   "id": "julie-screen",
-   "text": "Camera protector on Julie's phone — Monday evening. It is on your desk at home.",
-   "category": "🌙 WHEN THERE IS A GAP",
-   "done": false
-  },
-  {
    "id": "swiss-army-knife",
    "text": "Find the Swiss Army knife and bring it in to work (cutting an eraser)",
    "category": "🏠 HOME",
@@ -198,24 +228,6 @@
    "id": "canada-cameras",
    "text": "Research + order security cameras for 1080",
    "category": "🇨🇦 CANADA PREP",
-   "done": false
-  },
-  {
-   "id": "fsd-dental",
-   "text": "Dental claim ~$1,500: gather receipts, PSDCP form is on file",
-   "category": "💰 FSD / UNBLOCKED",
-   "done": false
-  },
-  {
-   "id": "fsd-uber-hn",
-   "text": "Honduras Uber period ~$1,000: verify window with Rizki first",
-   "category": "💰 FSD / UNBLOCKED",
-   "done": false
-  },
-  {
-   "id": "fsd-uber-gt",
-   "text": "Guatemala City Uber period ~$1,000: same, verify window",
-   "category": "💰 FSD / UNBLOCKED",
    "done": false
   },
   {
