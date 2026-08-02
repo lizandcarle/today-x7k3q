@@ -1,7 +1,7 @@
 {
- "date": "2026-08-01",
- "updated": "2026-08-01T23:35:00-06:00",
- "note": "Overtime is done and gone. New group: FSDs & CLAIMS, and you asked to be nagged on it until it is empty.",
+ "date": "2026-08-02",
+ "updated": "2026-08-02T05:12:00-06:00",
+ "note": "Sunday, last full day in Antigua. Only one thing here is time-shaped: the note to Casa del Mundo.",
  "items": [
   {
    "id": "google-pw-henryboo",
@@ -69,7 +69,7 @@
    "id": "ex-steps",
    "text": "Steps: 7,000",
    "category": "🥗 DAILY HABITS (these don't move the cycle)",
-   "done": true
+   "done": false
   },
   {
    "id": "ex-diet",
