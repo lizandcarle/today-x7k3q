@@ -1,25 +1,13 @@
 {
  "date": "2026-08-02",
- "updated": "2026-08-02T05:12:00-06:00",
- "note": "Sunday, last full day in Antigua. Only one thing here is time-shaped: the note to Casa del Mundo.",
+ "updated": "2026-08-02T18:15:00-06:00",
+ "note": "Last night in Antigua. Tomorrow is a holiday and you drive back in the morning. Nothing here is for tonight. Health still Day 1.",
  "items": [
-  {
-   "id": "google-pw-henryboo",
-   "text": "TONIGHT, top priority: change the two henryboo Google passwords to match the new main one",
-   "category": "🔴 TUESDAY — next working day",
-   "done": true
-  },
   {
    "id": "charlotte-transfer",
    "text": "Set up the automatic monthly transfer to Charlotte: $1,500, matching Lily's",
    "category": "🔴 TUESDAY — next working day",
    "done": false
-  },
-  {
-   "id": "peter-slots",
-   "text": "Send Peter the Schedule A verification list and grab a slot — Mon 3, Tue 4 (1:30 or 7), Wed 5, Thu 6. Not held, first come first served.",
-   "category": "🔴 TUESDAY — next working day",
-   "done": true
   },
   {
    "id": "joanne-wire",
@@ -130,12 +118,6 @@
    "text": "Switch the credit card on Julie's ChatGPT",
    "category": "🌙 WHEN THERE IS A GAP",
    "done": false
-  },
-  {
-   "id": "aurora-data",
-   "text": "Check whether Aurora has working data in Guatemala before Saturday.",
-   "category": "🌙 WHEN THERE IS A GAP",
-   "done": true
   },
   {
    "id": "mandatory-training",
