@@ -1,14 +1,8 @@
 {
-  "date": "2026-08-03",
-  "updated": "2026-08-03T18:15:00-06:00",
-  "note": "Holiday Monday. Two things tonight: the Simplii transfer and Julie's screen. Health still Day 1. Thursday is the real wall this week, not Friday.",
+  "date": "2026-08-04",
+  "updated": "2026-08-04T13:56:00-06:00",
+  "note": "House money is sent. Closing Aug 12, you fly Aug 9. Health still Day 1 — steps and diet don't move the cycle.",
   "items": [
-    {
-      "id": "simplii-1",
-      "text": "Call Simplii and move your money into the JOINT account. 1-888-723-8881 (Google Voice works). This gates the wire.",
-      "category": "🔴 TONIGHT",
-      "done": false
-    },
     {
       "id": "julie-screen",
       "text": "Camera protector on Julie's phone. It is on your desk.",
@@ -69,24 +63,6 @@
       "id": "ex-vitamin",
       "text": "Multivitamin",
       "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": false
-    },
-    {
-      "id": "joanne-wire",
-      "text": "Wire Joanne Horton the remainder of the house money. Closing Wed Aug 12. ~$612K (645,000 less the 33,000 in deposits), exact figure per her statement of adjustments.",
-      "category": "🔴 THIS WEEK — the money and the deadline",
-      "done": false
-    },
-    {
-      "id": "simplii-2",
-      "text": "Julie moves her money into the joint account (waiting on her, listed so it isn't lost)",
-      "category": "🔴 THIS WEEK — the money and the deadline",
-      "done": false
-    },
-    {
-      "id": "simplii-3",
-      "text": "Call and wire from the joint account to Joanne. Needs both transfers done first.",
-      "category": "🔴 THIS WEEK — the money and the deadline",
       "done": false
     },
     {
