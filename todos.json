@@ -1,8 +1,29 @@
 {
   "date": "2026-08-04",
-  "updated": "2026-08-04T13:56:00-06:00",
-  "note": "House money is sent. Closing Aug 12, you fly Aug 9. Health still Day 1 — steps and diet don't move the cycle.",
+  "updated": "2026-08-04T14:35:00-06:00",
+  "note": "House money is sent. Workflowy links pinned to the top, permanently. Health still Day 1.",
   "items": [
+    {
+      "id": "wf-job",
+      "type": "ref",
+      "text": "Workflowy: JOB",
+      "category": "🔗 WORKFLOWY",
+      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/b81b4d0e17c2"
+    },
+    {
+      "id": "wf-home",
+      "type": "ref",
+      "text": "Workflowy: HOME",
+      "category": "🔗 WORKFLOWY",
+      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/62229d749ef0"
+    },
+    {
+      "id": "wf-life",
+      "type": "ref",
+      "text": "Workflowy: LIFE",
+      "category": "🔗 WORKFLOWY",
+      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+    },
     {
       "id": "julie-screen",
       "text": "Camera protector on Julie's phone. It is on your desk.",
@@ -174,13 +195,6 @@
       "done": false
     },
     {
-      "id": "wf-job",
-      "type": "ref",
-      "text": "Workflowy: JOB",
-      "category": "💼 WORK",
-      "url": "https://workflowy.com/#/b81b4d0e17c2"
-    },
-    {
       "id": "viture-return",
       "text": "VITURE: run the KIHENG test first (Mac HDMI → KIHENG with power → glasses). Still black and the warranty claim is unarguable.",
       "category": "🌙 WHEN THERE IS A GAP",
@@ -245,20 +259,6 @@
       "text": "Look up a YouTube video about documenting AGI",
       "category": "🛠 TECH",
       "done": false
-    },
-    {
-      "id": "wf-home",
-      "type": "ref",
-      "text": "Workflowy: HOME",
-      "category": "🛠 TECH",
-      "url": "https://workflowy.com/#/62229d749ef0"
-    },
-    {
-      "id": "wf-life",
-      "type": "ref",
-      "text": "Workflowy: LIFE",
-      "category": "🛠 TECH",
-      "url": "https://workflowy.com/#/e5d0b5b51fd2"
     }
   ]
 }
