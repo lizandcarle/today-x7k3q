@@ -1,258 +1,288 @@
 {
- "date": "2026-08-02",
- "updated": "2026-08-02T18:15:00-06:00",
- "note": "Last night in Antigua. Tomorrow is a holiday and you drive back in the morning. Nothing here is for tonight. Health still Day 1.",
- "items": [
-  {
-   "id": "charlotte-transfer",
-   "text": "Set up the automatic monthly transfer to Charlotte: $1,500, matching Lily's",
-   "category": "🔴 TUESDAY — next working day",
-   "done": false
-  },
-  {
-   "id": "joanne-wire",
-   "text": "Wire Joanne Horton the remainder of the house money. Closing Wed Aug 12. ~$612K (645,000 less the 33,000 in deposits), exact figure per her statement of adjustments.",
-   "category": "🔴 TUESDAY — next working day",
-   "done": false
-  },
-  {
-   "id": "ex-press",
-   "text": "Dumbbell floor press: 2 x 10-12",
-   "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-   "done": false,
-   "url": "https://www.youtube.com/watch?v=AqYFvc9t_vU",
-   "linkLabel": "Form"
-  },
-  {
-   "id": "ex-row",
-   "text": "Bent-over row: 2 x 10-12",
-   "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-   "done": false,
-   "url": "https://www.youtube.com/watch?v=c-gt-zzoa_A",
-   "linkLabel": "Form"
-  },
-  {
-   "id": "ex-ohp",
-   "text": "Overhead press: 2 x 10-12",
-   "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-   "done": false,
-   "url": "https://www.youtube.com/watch?v=Did01dFR3Lk",
-   "linkLabel": "Form"
-  },
-  {
-   "id": "ex-curl",
-   "text": "Dumbbell curl: 2 x 12-15",
-   "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-   "done": false,
-   "url": "https://www.youtube.com/watch?v=av7-8igSXTs",
-   "linkLabel": "Form"
-  },
-  {
-   "id": "ex-beatsaber",
-   "text": "Beat Saber 30 min",
-   "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-   "done": false
-  },
-  {
-   "id": "ex-steps",
-   "text": "Steps: 7,000",
-   "category": "🥗 DAILY HABITS (these don't move the cycle)",
-   "done": false
-  },
-  {
-   "id": "ex-diet",
-   "text": "Diet: 1,234 cal / 110g protein",
-   "category": "🥗 DAILY HABITS (these don't move the cycle)",
-   "done": false
-  },
-  {
-   "id": "ex-vitamin",
-   "text": "Multivitamin",
-   "category": "🥗 DAILY HABITS (these don't move the cycle)",
-   "done": false
-  },
-  {
-   "id": "fsd-dental",
-   "text": "File the dental claim",
-   "category": "💰 FSDs & CLAIMS",
-   "done": false
-  },
-  {
-   "id": "fsd-uber-hn",
-   "text": "Honduras Uber period ~$1,000: verify window with Rizki first",
-   "category": "💰 FSDs & CLAIMS",
-   "done": false
-  },
-  {
-   "id": "fsd-uber-gt",
-   "text": "Guatemala City Uber period ~$1,000: same, verify window",
-   "category": "💰 FSDs & CLAIMS",
-   "done": false
-  },
-  {
-   "id": "fsd-50",
-   "text": "File the reconciliation for the FSD 50 advance",
-   "category": "💰 FSDs & CLAIMS",
-   "done": false
-  },
-  {
-   "id": "lily-enrolment",
-   "text": "Upload Lily's proof of enrolment",
-   "category": "💰 FSDs & CLAIMS",
-   "done": false
-  },
-  {
-   "id": "furniture-enquiry",
-   "text": "Send the enquiry about furniture delivery",
-   "category": "💰 FSDs & CLAIMS",
-   "done": false
-  },
-  {
-   "id": "viture-return",
-   "text": "VITURE: run the KIHENG test first (Mac HDMI → KIHENG with power → glasses). Still black and the warranty claim is unarguable.",
-   "category": "🌙 WHEN THERE IS A GAP",
-   "done": false
-  },
-  {
-   "id": "julie-chatgpt",
-   "text": "Switch the credit card on Julie's ChatGPT",
-   "category": "🌙 WHEN THERE IS A GAP",
-   "done": false
-  },
-  {
-   "id": "mandatory-training",
-   "text": "Mandatory trainings — CFSI/CSPS, from home, since work hours aren't happening",
-   "category": "🌙 WHEN THERE IS A GAP",
-   "done": false
-  },
-  {
-   "id": "julie-screen",
-   "text": "Camera protector on Julie's phone — Monday evening. It is on your desk at home.",
-   "category": "🌙 WHEN THERE IS A GAP",
-   "done": false
-  },
-  {
-   "id": "wf-job",
-   "type": "ref",
-   "text": "Workflowy: JOB",
-   "category": "💼 WORK",
-   "url": "https://workflowy.com/#/b81b4d0e17c2"
-  },
-  {
-   "id": "horizons",
-   "text": "Research Horizons of Friendship ($17M repro health)",
-   "category": "💼 WORK",
-   "done": false
-  },
-  {
-   "id": "wv-aug6",
-   "text": "World Vision nutrition event Aug 6: confirm",
-   "category": "💼 WORK",
-   "done": false
-  },
-  {
-   "id": "mro-aug9",
-   "text": "Book MRO: Sun Aug 9 airport drop-off — flight AV555 departs 3:40 PM",
-   "category": "💼 WORK",
-   "done": false
-  },
-  {
-   "id": "mro-aug23",
-   "text": "Book MRO: Sun Aug 23 airport pickup — AV578 lands 11:10 PM (you)",
-   "category": "💼 WORK",
-   "done": false
-  },
-  {
-   "id": "mro-aug31",
-   "text": "Book MRO: Mon Aug 31 airport pickup — AV578 lands 11:10 PM (Julie)",
-   "category": "💼 WORK",
-   "done": false
-  },
-  {
-   "id": "dentist-payment",
-   "text": "Message the dentist office about payment (the IVA form was only half of it)",
-   "category": "💼 WORK",
-   "done": false
-  },
-  {
-   "id": "undp-cpd",
-   "text": "UNDP Guatemala CPD: tell Kristel Véliz whether Canada supports approval. Due Fri Aug 7 COB — but Friday is Tikal, so Thursday Aug 6 is the real deadline.",
-   "category": "💼 WORK",
-   "done": false
-  },
-  {
-   "id": "wf-home",
-   "type": "ref",
-   "text": "Workflowy: HOME",
-   "category": "🏠 HOME",
-   "url": "https://workflowy.com/#/62229d749ef0"
-  },
-  {
-   "id": "wf-life",
-   "type": "ref",
-   "text": "Workflowy: LIFE",
-   "category": "🏠 HOME",
-   "url": "https://workflowy.com/#/e5d0b5b51fd2"
-  },
-  {
-   "id": "swiss-army-knife",
-   "text": "Find the Swiss Army knife and bring it in to work (cutting an eraser)",
-   "category": "🏠 HOME",
-   "done": false
-  },
-  {
-   "id": "canada-id",
-   "text": "Update provincial ID: driver's licence + health card (his tree says Wed Aug 12)",
-   "category": "🇨🇦 CANADA PREP",
-   "done": false
-  },
-  {
-   "id": "canada-cameras",
-   "text": "Research + order security cameras for 1080",
-   "category": "🇨🇦 CANADA PREP",
-   "done": false
-  },
-  {
-   "id": "shop-watch-cable",
-   "text": "Apple Watch USB-C charger cable",
-   "category": "🛒 SHOPPING",
-   "done": false
-  },
-  {
-   "id": "shop-wingspan",
-   "text": "Wingspan Etsy items: Julie's gift",
-   "category": "🛒 SHOPPING",
-   "done": false
-  },
-  {
-   "id": "shop-tb-hub",
-   "text": "Thunderbolt hub",
-   "category": "🛒 SHOPPING",
-   "done": false
-  },
-  {
-   "id": "pacman-mod",
-   "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)",
-   "category": "🛠 TECH",
-   "done": false
-  },
-  {
-   "id": "openclaw-9",
-   "text": "Test if Telegram/OpenClaw works on the $9/mo ChatGPT tier",
-   "category": "🛠 TECH",
-   "done": false
-  },
-  {
-   "id": "quest-optimizer",
-   "text": "Add the Quest Games Optimizer",
-   "category": "🛠 TECH",
-   "done": false
-  },
-  {
-   "id": "yt-agi",
-   "text": "Look up a YouTube video about documenting AGI",
-   "category": "🛠 TECH",
-   "done": false
-  }
- ]
+  "date": "2026-08-03",
+  "updated": "2026-08-03T18:15:00-06:00",
+  "note": "Holiday Monday. Two things tonight: the Simplii transfer and Julie's screen. Health still Day 1. Thursday is the real wall this week, not Friday.",
+  "items": [
+    {
+      "id": "simplii-1",
+      "text": "Call Simplii and move your money into the JOINT account. 1-888-723-8881 (Google Voice works). This gates the wire.",
+      "category": "🔴 TONIGHT",
+      "done": false
+    },
+    {
+      "id": "julie-screen",
+      "text": "Camera protector on Julie's phone. It is on your desk.",
+      "category": "🔴 TONIGHT",
+      "done": false
+    },
+    {
+      "id": "ex-press",
+      "text": "Dumbbell floor press: 2 x 10-12",
+      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
+      "done": false,
+      "url": "https://www.youtube.com/watch?v=AqYFvc9t_vU",
+      "linkLabel": "Form"
+    },
+    {
+      "id": "ex-row",
+      "text": "Bent-over row: 2 x 10-12",
+      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
+      "done": false,
+      "url": "https://www.youtube.com/watch?v=c-gt-zzoa_A",
+      "linkLabel": "Form"
+    },
+    {
+      "id": "ex-ohp",
+      "text": "Overhead press: 2 x 10-12",
+      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
+      "done": false,
+      "url": "https://www.youtube.com/watch?v=Did01dFR3Lk",
+      "linkLabel": "Form"
+    },
+    {
+      "id": "ex-curl",
+      "text": "Dumbbell curl: 2 x 12-15",
+      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
+      "done": false,
+      "url": "https://www.youtube.com/watch?v=av7-8igSXTs",
+      "linkLabel": "Form"
+    },
+    {
+      "id": "ex-beatsaber",
+      "text": "Beat Saber 30 min",
+      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
+      "done": false
+    },
+    {
+      "id": "ex-steps",
+      "text": "Steps: 7,000",
+      "category": "🥗 DAILY HABITS (these don't move the cycle)",
+      "done": false
+    },
+    {
+      "id": "ex-diet",
+      "text": "Diet: 1,234 cal / 110g protein",
+      "category": "🥗 DAILY HABITS (these don't move the cycle)",
+      "done": false
+    },
+    {
+      "id": "ex-vitamin",
+      "text": "Multivitamin",
+      "category": "🥗 DAILY HABITS (these don't move the cycle)",
+      "done": false
+    },
+    {
+      "id": "joanne-wire",
+      "text": "Wire Joanne Horton the remainder of the house money. Closing Wed Aug 12. ~$612K (645,000 less the 33,000 in deposits), exact figure per her statement of adjustments.",
+      "category": "🔴 THIS WEEK — the money and the deadline",
+      "done": false
+    },
+    {
+      "id": "simplii-2",
+      "text": "Julie moves her money into the joint account (waiting on her, listed so it isn't lost)",
+      "category": "🔴 THIS WEEK — the money and the deadline",
+      "done": false
+    },
+    {
+      "id": "simplii-3",
+      "text": "Call and wire from the joint account to Joanne. Needs both transfers done first.",
+      "category": "🔴 THIS WEEK — the money and the deadline",
+      "done": false
+    },
+    {
+      "id": "undp-cpd",
+      "text": "UNDP Guatemala CPD: tell Kristel Véliz whether Canada supports approval. THURSDAY is the real deadline, not Friday.",
+      "category": "🔴 THIS WEEK — the money and the deadline",
+      "done": false
+    },
+    {
+      "id": "charlotte-transfer",
+      "text": "Set up the automatic monthly transfer to Charlotte: $1,500, matching Lily's",
+      "category": "🔴 THIS WEEK — the money and the deadline",
+      "done": false
+    },
+    {
+      "id": "fsd-50",
+      "text": "File the reconciliation for the FSD 50 advance",
+      "category": "💰 FSDs & CLAIMS",
+      "done": false
+    },
+    {
+      "id": "lily-enrolment",
+      "text": "Upload Lily's proof of enrolment",
+      "category": "💰 FSDs & CLAIMS",
+      "done": false
+    },
+    {
+      "id": "furniture-enquiry",
+      "text": "Send the enquiry about furniture delivery",
+      "category": "💰 FSDs & CLAIMS",
+      "done": false
+    },
+    {
+      "id": "fsd-dental",
+      "text": "File the dental claim",
+      "category": "💰 FSDs & CLAIMS",
+      "done": false
+    },
+    {
+      "id": "fsd-uber-hn",
+      "text": "Honduras Uber period ~$1,000: verify window with Rizki first",
+      "category": "💰 FSDs & CLAIMS",
+      "done": false
+    },
+    {
+      "id": "fsd-uber-gt",
+      "text": "Guatemala City Uber period ~$1,000: same, verify window",
+      "category": "💰 FSDs & CLAIMS",
+      "done": false
+    },
+    {
+      "id": "house-insurance",
+      "text": "House insurance for 1080 — from your Workflowy, tagged #julie is doing this. Closing is Aug 12; worth confirming it's in place.",
+      "category": "🏠 1080 / CANADA PREP",
+      "done": false
+    },
+    {
+      "id": "write-agent",
+      "text": "Write to the agent to explain (from your Workflowy house-prep branch — tell me what this one is about)",
+      "category": "🏠 1080 / CANADA PREP",
+      "done": false
+    },
+    {
+      "id": "canada-id",
+      "text": "Update provincial ID: driver's licence + health card (his tree says Wed Aug 12)",
+      "category": "🏠 1080 / CANADA PREP",
+      "done": false
+    },
+    {
+      "id": "canada-cameras",
+      "text": "Research + order security cameras for 1080",
+      "category": "🏠 1080 / CANADA PREP",
+      "done": false
+    },
+    {
+      "id": "mro-aug9",
+      "text": "Book MRO: Sun Aug 9 airport drop-off — flight AV555 departs 3:40 PM",
+      "category": "🏠 1080 / CANADA PREP",
+      "done": false
+    },
+    {
+      "id": "mro-aug23",
+      "text": "Book MRO: Sun Aug 23 airport pickup — AV578 lands 11:10 PM (you)",
+      "category": "🏠 1080 / CANADA PREP",
+      "done": false
+    },
+    {
+      "id": "mro-aug31",
+      "text": "Book MRO: Mon Aug 31 airport pickup — AV578 lands 11:10 PM (Julie)",
+      "category": "🏠 1080 / CANADA PREP",
+      "done": false
+    },
+    {
+      "id": "wv-aug6",
+      "text": "World Vision nutrition event Aug 6: confirm",
+      "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "horizons",
+      "text": "Research Horizons of Friendship ($17M repro health)",
+      "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "dentist-payment",
+      "text": "Message the dentist office about payment (the IVA form was only half of it)",
+      "category": "💼 WORK",
+      "done": false
+    },
+    {
+      "id": "wf-job",
+      "type": "ref",
+      "text": "Workflowy: JOB",
+      "category": "💼 WORK",
+      "url": "https://workflowy.com/#/b81b4d0e17c2"
+    },
+    {
+      "id": "viture-return",
+      "text": "VITURE: run the KIHENG test first (Mac HDMI → KIHENG with power → glasses). Still black and the warranty claim is unarguable.",
+      "category": "🌙 WHEN THERE IS A GAP",
+      "done": false
+    },
+    {
+      "id": "julie-chatgpt",
+      "text": "Switch the credit card on Julie's ChatGPT",
+      "category": "🌙 WHEN THERE IS A GAP",
+      "done": false
+    },
+    {
+      "id": "mandatory-training",
+      "text": "Mandatory trainings — CFSI/CSPS, from home, since work hours aren't happening",
+      "category": "🌙 WHEN THERE IS A GAP",
+      "done": false
+    },
+    {
+      "id": "swiss-army-knife",
+      "text": "Find the Swiss Army knife and bring it in to work (cutting an eraser)",
+      "category": "🛒 SHOPPING",
+      "done": false
+    },
+    {
+      "id": "shop-watch-cable",
+      "text": "Apple Watch USB-C charger cable",
+      "category": "🛒 SHOPPING",
+      "done": false
+    },
+    {
+      "id": "shop-wingspan",
+      "text": "Wingspan Etsy items: Julie's gift",
+      "category": "🛒 SHOPPING",
+      "done": false
+    },
+    {
+      "id": "shop-tb-hub",
+      "text": "Thunderbolt hub",
+      "category": "🛒 SHOPPING",
+      "done": false
+    },
+    {
+      "id": "pacman-mod",
+      "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)",
+      "category": "🛠 TECH",
+      "done": false
+    },
+    {
+      "id": "openclaw-9",
+      "text": "Test if Telegram/OpenClaw works on the $9/mo ChatGPT tier",
+      "category": "🛠 TECH",
+      "done": false
+    },
+    {
+      "id": "quest-optimizer",
+      "text": "Add the Quest Games Optimizer",
+      "category": "🛠 TECH",
+      "done": false
+    },
+    {
+      "id": "yt-agi",
+      "text": "Look up a YouTube video about documenting AGI",
+      "category": "🛠 TECH",
+      "done": false
+    },
+    {
+      "id": "wf-home",
+      "type": "ref",
+      "text": "Workflowy: HOME",
+      "category": "🛠 TECH",
+      "url": "https://workflowy.com/#/62229d749ef0"
+    },
+    {
+      "id": "wf-life",
+      "type": "ref",
+      "text": "Workflowy: LIFE",
+      "category": "🛠 TECH",
+      "url": "https://workflowy.com/#/e5d0b5b51fd2"
+    }
+  ]
 }
