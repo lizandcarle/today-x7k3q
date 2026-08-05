@@ -1,28 +1,28 @@
 {
   "date": "2026-08-04",
-  "updated": "2026-08-04T18:15:00-06:00",
-  "note": "House money sent. Workflowy pinned up top. Still Day 1 — steps and diet don't move it. Thursday is the wall, then Tikal.",
+  "updated": "2026-08-05T00:10:00-06:00",
+  "note": "Workflowy links restored to the editable form. House money sent. Still Day 1.",
   "items": [
     {
       "id": "wf-job",
       "type": "ref",
       "text": "Workflowy: JOB",
       "category": "🔗 WORKFLOWY",
-      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/b81b4d0e17c2"
+      "url": "https://workflowy.com/#/b81b4d0e17c2"
     },
     {
       "id": "wf-home",
       "type": "ref",
       "text": "Workflowy: HOME",
       "category": "🔗 WORKFLOWY",
-      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/62229d749ef0"
+      "url": "https://workflowy.com/#/62229d749ef0"
     },
     {
       "id": "wf-life",
       "type": "ref",
       "text": "Workflowy: LIFE",
       "category": "🔗 WORKFLOWY",
-      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+      "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
       "id": "ex-press",
