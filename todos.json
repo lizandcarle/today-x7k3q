@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-04",
-  "updated": "2026-08-05T00:10:00-06:00",
-  "note": "Workflowy links restored to the editable form. House money sent. Still Day 1.",
+  "date": "2026-08-05",
+  "updated": "2026-08-05T10:06:00-06:00",
+  "note": "Charlotte's transfer set up. Agent written to. Still Day 1 — steps, diet and vitamin don't move the cycle.",
   "items": [
     {
       "id": "wf-job",
@@ -93,12 +93,6 @@
       "done": false
     },
     {
-      "id": "charlotte-transfer",
-      "text": "Set up the automatic monthly transfer to Charlotte: $1,500, matching Lily's",
-      "category": "🔴 THIS WEEK",
-      "done": false
-    },
-    {
       "id": "fsd-50",
       "text": "File the reconciliation for the FSD 50 advance",
       "category": "💰 FSDs & CLAIMS",
@@ -137,12 +131,6 @@
     {
       "id": "house-insurance",
       "text": "House insurance for 1080 — from your Workflowy, tagged #julie is doing this. Closing is Aug 12; worth confirming it's in place.",
-      "category": "🏡 1080 / CANADA PREP",
-      "done": false
-    },
-    {
-      "id": "write-agent",
-      "text": "Write to the agent to explain (from your Workflowy house-prep branch — tell me what this one is about)",
       "category": "🏡 1080 / CANADA PREP",
       "done": false
     },
