@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
-  "updated": "2026-08-05T10:06:00-06:00",
-  "note": "Charlotte's transfer set up. Agent written to. Still Day 1 — steps, diet and vitamin don't move the cycle.",
+  "updated": "2026-08-05T15:30:00-06:00",
+  "note": "UNDP answer sent and World Vision confirmed. Tomorrow: cleaners 07:00, World Vision 09:00, Heads of Cooperation 13:00. Friday is Tikal.",
   "items": [
     {
       "id": "wf-job",
@@ -78,18 +78,6 @@
       "id": "ex-vitamin",
       "text": "Multivitamin",
       "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": false
-    },
-    {
-      "id": "undp-cpd",
-      "text": "UNDP Guatemala CPD: Canada's yes/no to Kristel Véliz. THURSDAY is the real deadline — Friday is Tikal.",
-      "category": "🔴 THIS WEEK",
-      "done": false
-    },
-    {
-      "id": "wv-aug6",
-      "text": "World Vision nutrition event, Thu Aug 6, 09:00 Westin",
-      "category": "🔴 THIS WEEK",
       "done": false
     },
     {
