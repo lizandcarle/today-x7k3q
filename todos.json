@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
-  "updated": "2026-08-04T14:35:00-06:00",
-  "note": "House money is sent. Workflowy links pinned to the top, permanently. Health still Day 1.",
+  "updated": "2026-08-04T18:15:00-06:00",
+  "note": "House money sent. Workflowy pinned up top. Still Day 1 — steps and diet don't move it. Thursday is the wall, then Tikal.",
   "items": [
     {
       "id": "wf-job",
@@ -23,12 +23,6 @@
       "text": "Workflowy: LIFE",
       "category": "🔗 WORKFLOWY",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
-    },
-    {
-      "id": "julie-screen",
-      "text": "Camera protector on Julie's phone. It is on your desk.",
-      "category": "🔴 TONIGHT",
-      "done": false
     },
     {
       "id": "ex-press",
@@ -88,14 +82,20 @@
     },
     {
       "id": "undp-cpd",
-      "text": "UNDP Guatemala CPD: tell Kristel Véliz whether Canada supports approval. THURSDAY is the real deadline, not Friday.",
-      "category": "🔴 THIS WEEK — the money and the deadline",
+      "text": "UNDP Guatemala CPD: Canada's yes/no to Kristel Véliz. THURSDAY is the real deadline — Friday is Tikal.",
+      "category": "🔴 THIS WEEK",
+      "done": false
+    },
+    {
+      "id": "wv-aug6",
+      "text": "World Vision nutrition event, Thu Aug 6, 09:00 Westin",
+      "category": "🔴 THIS WEEK",
       "done": false
     },
     {
       "id": "charlotte-transfer",
       "text": "Set up the automatic monthly transfer to Charlotte: $1,500, matching Lily's",
-      "category": "🔴 THIS WEEK — the money and the deadline",
+      "category": "🔴 THIS WEEK",
       "done": false
     },
     {
@@ -137,49 +137,43 @@
     {
       "id": "house-insurance",
       "text": "House insurance for 1080 — from your Workflowy, tagged #julie is doing this. Closing is Aug 12; worth confirming it's in place.",
-      "category": "🏠 1080 / CANADA PREP",
+      "category": "🏡 1080 / CANADA PREP",
       "done": false
     },
     {
       "id": "write-agent",
       "text": "Write to the agent to explain (from your Workflowy house-prep branch — tell me what this one is about)",
-      "category": "🏠 1080 / CANADA PREP",
+      "category": "🏡 1080 / CANADA PREP",
       "done": false
     },
     {
       "id": "canada-id",
       "text": "Update provincial ID: driver's licence + health card (his tree says Wed Aug 12)",
-      "category": "🏠 1080 / CANADA PREP",
+      "category": "🏡 1080 / CANADA PREP",
       "done": false
     },
     {
       "id": "canada-cameras",
       "text": "Research + order security cameras for 1080",
-      "category": "🏠 1080 / CANADA PREP",
+      "category": "🏡 1080 / CANADA PREP",
       "done": false
     },
     {
       "id": "mro-aug9",
       "text": "Book MRO: Sun Aug 9 airport drop-off — flight AV555 departs 3:40 PM",
-      "category": "🏠 1080 / CANADA PREP",
+      "category": "🏡 1080 / CANADA PREP",
       "done": false
     },
     {
       "id": "mro-aug23",
       "text": "Book MRO: Sun Aug 23 airport pickup — AV578 lands 11:10 PM (you)",
-      "category": "🏠 1080 / CANADA PREP",
+      "category": "🏡 1080 / CANADA PREP",
       "done": false
     },
     {
       "id": "mro-aug31",
       "text": "Book MRO: Mon Aug 31 airport pickup — AV578 lands 11:10 PM (Julie)",
-      "category": "🏠 1080 / CANADA PREP",
-      "done": false
-    },
-    {
-      "id": "wv-aug6",
-      "text": "World Vision nutrition event Aug 6: confirm",
-      "category": "💼 WORK",
+      "category": "🏡 1080 / CANADA PREP",
       "done": false
     },
     {
@@ -213,6 +207,12 @@
       "done": false
     },
     {
+      "id": "julie-screen",
+      "text": "Camera protector on Julie's phone. It is on your desk.",
+      "category": "🌙 WHEN THERE IS A GAP",
+      "done": false
+    },
+    {
       "id": "swiss-army-knife",
       "text": "Find the Swiss Army knife and bring it in to work (cutting an eraser)",
       "category": "🛒 SHOPPING",
@@ -237,6 +237,12 @@
       "done": false
     },
     {
+      "id": "quest-optimizer",
+      "text": "Add the Quest Games Optimizer",
+      "category": "🛠 TECH",
+      "done": false
+    },
+    {
       "id": "pacman-mod",
       "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)",
       "category": "🛠 TECH",
@@ -245,12 +251,6 @@
     {
       "id": "openclaw-9",
       "text": "Test if Telegram/OpenClaw works on the $9/mo ChatGPT tier",
-      "category": "🛠 TECH",
-      "done": false
-    },
-    {
-      "id": "quest-optimizer",
-      "text": "Add the Quest Games Optimizer",
       "category": "🛠 TECH",
       "done": false
     },
