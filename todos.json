@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
-  "updated": "2026-08-05T15:30:00-06:00",
-  "note": "UNDP answer sent and World Vision confirmed. Tomorrow: cleaners 07:00, World Vision 09:00, Heads of Cooperation 13:00. Friday is Tikal.",
+  "updated": "2026-08-05T18:15:00-06:00",
+  "note": "Last working day tomorrow, and it is four deep. Friday is Tikal at 06:05. Still Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -78,6 +78,30 @@
       "id": "ex-vitamin",
       "text": "Multivitamin",
       "category": "🥗 DAILY HABITS (these don't move the cycle)",
+      "done": false
+    },
+    {
+      "id": "thu-cleaners",
+      "text": "Supervise cleaners, secure zone, 07:00",
+      "category": "🔴 TOMORROW — last working day",
+      "done": false
+    },
+    {
+      "id": "thu-wv",
+      "text": "World Vision nutrition event, 09:00 at the Westin",
+      "category": "🔴 TOMORROW — last working day",
+      "done": false
+    },
+    {
+      "id": "thu-hoc",
+      "text": "Heads of Cooperation, 13:00",
+      "category": "🔴 TOMORROW — last working day",
+      "done": false
+    },
+    {
+      "id": "thu-pack",
+      "text": "Pack for Tikal — 06:05 flight Friday morning",
+      "category": "🔴 TOMORROW — last working day",
       "done": false
     },
     {
