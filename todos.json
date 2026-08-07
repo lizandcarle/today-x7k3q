@@ -1,7 +1,7 @@
 {
- "date": "2026-08-06",
- "updated": "2026-08-06T18:10:00-06:00",
- "note": "Last working day done and it emptied out. Tikal 06:05. FSDs and work are parked until the 24th.",
+ "date": "2026-08-07",
+ "updated": "2026-08-07T12:30:00-06:00",
+ "note": "Tikal. One thing that matters before Sunday: the VITURE Beast goes in the bag.",
  "items": [
   {
    "id": "wf-job",
@@ -23,6 +23,12 @@
    "text": "Workflowy: LIFE",
    "category": "🔗 WORKFLOWY",
    "url": "https://workflowy.com/#/e5d0b5b51fd2"
+  },
+  {
+   "id": "pack-viture",
+   "category": "🔴 PACK THE VITURE BEAST — Sat night / Sun morning",
+   "text": "VITURE Beast into the Canada bag. Sat 20:25 landing, Sun 15:40 flight. Otherwise it waits until Julie returns 31 Aug — and the warranty claim waits with it.",
+   "done": false
   },
   {
    "id": "ex-press",
