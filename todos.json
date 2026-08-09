@@ -1,7 +1,7 @@
 {
- "date": "2026-08-07",
- "updated": "2026-08-07T18:10:00-06:00",
- "note": "Tikal tonight. Back in the city Sat 20:25, Canada Sun 15:40. The VITURE goes in the bag.",
+ "date": "2026-08-08",
+ "updated": "2026-08-08T18:10:00-06:00",
+ "note": "Home from Tikal tonight. MRO at noon tomorrow, flight 15:40. The VITURE goes in the bag.",
  "items": [
   {
    "id": "wf-job",
@@ -26,8 +26,8 @@
   },
   {
    "id": "pack-viture",
-   "category": "🔴 PACK THE VITURE BEAST — Sat night / Sun morning",
-   "text": "VITURE Beast into the Canada bag. Sat 20:25 landing, Sun 15:40 flight. Otherwise it waits until Julie returns 31 Aug — and the warranty claim waits with it.",
+   "category": "🔴 TONIGHT — pack it when you walk in",
+   "text": "VITURE Beast into the Canada bag. You land 20:25, you fly 15:40 tomorrow, and the MRO is at your door at noon.",
    "done": false
   },
   {
@@ -100,7 +100,7 @@
   },
   {
    "id": "claro-topup",
-   "category": "🧳 TONIGHT — Tikal is 06:05",
+   "category": "🔴 TONIGHT — pack it when you walk in",
    "done": false,
    "text": "Top up Claro for closetmac — it is the fallback link while you are away",
    "url": "https://wa.me/50242147100",
