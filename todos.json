@@ -1,7 +1,7 @@
 {
- "date": "2026-08-08",
- "updated": "2026-08-08T18:10:00-06:00",
- "note": "Home from Tikal tonight. MRO at noon tomorrow, flight 15:40. The VITURE goes in the bag.",
+ "date": "2026-08-09",
+ "updated": "2026-08-09T02:25:00-06:00",
+ "note": "Canada today. MRO at the door at noon, flight 15:40. Packing group is at the top.",
  "items": [
   {
    "id": "wf-job",
@@ -26,9 +26,41 @@
   },
   {
    "id": "pack-viture",
-   "category": "🔴 TONIGHT — pack it when you walk in",
-   "text": "VITURE Beast into the Canada bag. You land 20:25, you fly 15:40 tomorrow, and the MRO is at your door at noon.",
-   "done": false
+   "category": "🧳 PACKING — before you leave today",
+   "done": false,
+   "text": "VITURE Beast. The warranty claim needs it with you, or it waits for Julie on 31 Aug."
+  },
+  {
+   "id": "pack-workchip",
+   "category": "🧳 PACKING — before you leave today",
+   "done": false,
+   "text": "Work chip into the Samsung. ⚠️ Check WHICH Samsung — the S7 is the closet Mac’s hotspot."
+  },
+  {
+   "id": "pack-videocable",
+   "category": "🧳 PACKING — before you leave today",
+   "done": false,
+   "text": "Video cable for the MacBook"
+  },
+  {
+   "id": "pack-chromecast",
+   "category": "🧳 PACKING — before you leave today",
+   "done": false,
+   "text": "Chromecast"
+  },
+  {
+   "id": "claro-topup",
+   "category": "🧳 PACKING — before you leave today",
+   "done": false,
+   "text": "Top up Claro for closetmac before you go. Last chance from inside the country.",
+   "url": "https://wa.me/50242147100",
+   "linkLabel": "ClaroBot"
+  },
+  {
+   "id": "shop-quest-controller",
+   "category": "🛒 SHOPPING — Canada",
+   "done": false,
+   "text": "New controller for the Quest 3"
   },
   {
    "id": "ex-press",
@@ -97,14 +129,6 @@
    "text": "Camera protector on Julie's phone. It is on your desk, and it waits 17 days if it misses tonight.",
    "category": "🧳 TONIGHT — Tikal is 06:05",
    "done": false
-  },
-  {
-   "id": "claro-topup",
-   "category": "🔴 TONIGHT — pack it when you walk in",
-   "done": false,
-   "text": "Top up Claro for closetmac — it is the fallback link while you are away",
-   "url": "https://wa.me/50242147100",
-   "linkLabel": "ClaroBot"
   },
   {
    "id": "mro-aug9",
