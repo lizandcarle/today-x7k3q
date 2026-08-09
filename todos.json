@@ -51,8 +51,8 @@
   {
    "id": "claro-topup",
    "category": "🧳 PACKING — before you leave today",
-   "done": false,
-   "text": "Top up Claro for closetmac before you go. Last chance from inside the country.",
+   "done": true,
+   "text": "Claro top-up — SOLVED DIFFERENTLY. You put a working Tigo SIM in the Samsung instead.",
    "url": "https://wa.me/50242147100",
    "linkLabel": "ClaroBot"
   },
