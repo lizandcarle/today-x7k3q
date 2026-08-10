@@ -1,7 +1,7 @@
 {
  "date": "2026-08-09",
- "updated": "2026-08-09T02:25:00-06:00",
- "note": "Canada today. MRO at the door at noon, flight 15:40. Packing group is at the top.",
+ "updated": "2026-08-09T18:10:00-06:00",
+ "note": "In the air to Toronto. Canada week: closing Wednesday, ID the same day, Diallog Thursday.",
  "items": [
   {
    "id": "wf-job",
@@ -25,32 +25,56 @@
    "url": "https://workflowy.com/#/e5d0b5b51fd2"
   },
   {
-   "id": "pack-viture",
-   "category": "🧳 PACKING — before you leave today",
+   "id": "can-closing",
+   "category": "🍁 CANADA — this week",
    "done": false,
+   "text": "1080 closes Wednesday 12 Aug. Joanne Horton, Horton & Horton, 519-376-8650."
+  },
+  {
+   "id": "can-id",
+   "category": "🍁 CANADA — this week",
+   "done": false,
+   "text": "Provincial ID: driver’s licence + health card. Your tree dates this Wed 12 Aug, same day as closing."
+  },
+  {
+   "id": "can-diallog",
+   "category": "🍁 CANADA — this week",
+   "done": false,
+   "text": "Diallog install at 1080, Thu 13 Aug. ⚠️ The order carries the wrong postal code (Google’s, not N4K 5A1)."
+  },
+  {
+   "id": "can-isp",
+   "category": "🍁 CANADA — this week",
+   "done": false,
+   "text": "Phone the ISP to settle details"
+  },
+  {
+   "id": "pack-viture",
+   "category": "✅ PACKED (Sun 9 Aug)",
+   "done": true,
    "text": "VITURE Beast. The warranty claim needs it with you, or it waits for Julie on 31 Aug."
   },
   {
    "id": "pack-workchip",
-   "category": "🧳 PACKING — before you leave today",
-   "done": false,
+   "category": "✅ PACKED (Sun 9 Aug)",
+   "done": true,
    "text": "Work chip into the Samsung. ⚠️ Check WHICH Samsung — the S7 is the closet Mac’s hotspot."
   },
   {
    "id": "pack-videocable",
-   "category": "🧳 PACKING — before you leave today",
-   "done": false,
+   "category": "✅ PACKED (Sun 9 Aug)",
+   "done": true,
    "text": "Video cable for the MacBook"
   },
   {
    "id": "pack-chromecast",
-   "category": "🧳 PACKING — before you leave today",
-   "done": false,
+   "category": "✅ PACKED (Sun 9 Aug)",
+   "done": true,
    "text": "Chromecast"
   },
   {
    "id": "claro-topup",
-   "category": "🧳 PACKING — before you leave today",
+   "category": "✅ PACKED (Sun 9 Aug)",
    "done": true,
    "text": "Claro top-up — SOLVED DIFFERENTLY. You put a working Tigo SIM in the Samsung instead.",
    "url": "https://wa.me/50242147100",
