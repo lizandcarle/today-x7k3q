@@ -1,7 +1,7 @@
 {
- "date": "2026-08-09",
- "updated": "2026-08-09T18:10:00-06:00",
- "note": "In the air to Toronto. Canada week: closing Wednesday, ID the same day, Diallog Thursday.",
+ "date": "2026-08-10",
+ "updated": "2026-08-10T18:10:00-06:00",
+ "note": "Ontario. Closing Wednesday. The LOO is the one thing with a queue behind it.",
  "items": [
   {
    "id": "wf-job",
@@ -47,6 +47,12 @@
    "category": "🍁 CANADA — this week",
    "done": false,
    "text": "Phone the ISP to settle details"
+  },
+  {
+   "id": "sign-loo",
+   "category": "🍁 CANADA — this week",
+   "done": false,
+   "text": "Sign the Acting LOO and return ALL PAGES to Ravalyn. Nothing enters HRMS until she has it."
   },
   {
    "id": "pack-viture",
