@@ -1,7 +1,7 @@
 {
- "date": "2026-08-10",
- "updated": "2026-08-10T18:10:00-06:00",
- "note": "Ontario. Closing Wednesday. The LOO is the one thing with a queue behind it.",
+ "date": "2026-08-11",
+ "updated": "2026-08-11T10:30:00-06:00",
+ "note": "VITURE claim is ready to send. Every test is done and every result is negative.",
  "items": [
   {
    "id": "wf-job",
@@ -23,6 +23,58 @@
    "text": "Workflowy: LIFE",
    "category": "🔗 WORKFLOWY",
    "url": "https://workflowy.com/#/e5d0b5b51fd2"
+  },
+  {
+   "id": "vit-ref",
+   "type": "ref",
+   "category": "🥽 VITURE WARRANTY CLAIM",
+   "text": "The full diagnosis, log evidence and test results",
+   "url": "https://drive.google.com/drive/search?q=viture%20orsdoc",
+   "linkLabel": "Open in Drive"
+  },
+  {
+   "id": "vit-video",
+   "category": "🥽 VITURE WARRANTY CLAIM",
+   "done": false,
+   "text": "Take a 20-second video: press the dim button so it visibly responds, while the display stays black and no on-device menu appears. That single clip is the whole case."
+  },
+  {
+   "id": "vit-email",
+   "category": "🥽 VITURE WARRANTY CLAIM",
+   "done": false,
+   "text": "Email happycustomer@viture.us. Order 113-4307365-6229868. Attach the video. Say: powers on, dim button responds, zero video output, no on-device menu with no source attached.",
+   "url": "mailto:happycustomer@viture.us",
+   "linkLabel": "Email VITURE"
+  },
+  {
+   "id": "vit-logs",
+   "category": "🥽 VITURE WARRANTY CLAIM",
+   "done": false,
+   "text": "Include the three log lines: DP alt mode negotiated, HPD asserted, sinkCount 0. Says the fault is inside the glasses, not the host."
+  },
+  {
+   "id": "vit-tests",
+   "category": "🥽 VITURE WARRANTY CLAIM",
+   "done": false,
+   "text": "Say the tests are already done: HDMI via KIHENG, multiple hosts, both cable orientations. All black. Kills the \"your computer does not support DP alt mode\" reply."
+  },
+  {
+   "id": "vit-ask",
+   "category": "🥽 VITURE WARRANTY CLAIM",
+   "done": false,
+   "text": "Ask directly whether there is a display-side recovery flash or reset combo. The web updater only reaches the USB branch."
+  },
+  {
+   "id": "vit-wait",
+   "category": "🥽 VITURE WARRANTY CLAIM",
+   "done": false,
+   "text": "Expect a reply in 1-2 business days, and up to 7 days for the claim decision."
+  },
+  {
+   "id": "vit-ship",
+   "category": "🥽 VITURE WARRANTY CLAIM",
+   "done": false,
+   "text": "When they send an address: ORIGINAL PACKAGING and a TRACKABLE method, both required. You are in Canada until the 23rd, so ship from there rather than from Guatemala."
   },
   {
    "id": "can-closing",
