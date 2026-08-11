@@ -367,6 +367,12 @@
    "category": "🛠 TECH",
    "done": false,
    "text": "ChatGPT as an app via Canary browser (from your HOME tree)"
+  },
+  {
+   "id": "shop-streamer",
+   "category": "🛒 SHOPPING — Canada",
+   "done": false,
+   "text": "Streaming stick for 1080. ⚠️ Chromecast is discontinued (Aug 2024). Successor is the $100 Google TV Streamer, which is overkill for a $10 TV. A used Chromecast with Google TV, or a cheap Roku/Fire Stick, does the job."
   }
  ]
 }
