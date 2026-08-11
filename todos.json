@@ -51,8 +51,8 @@
   {
    "id": "sign-loo",
    "category": "🍁 CANADA — this week",
-   "done": false,
-   "text": "Sign the Acting LOO and return ALL PAGES to Ravalyn. Nothing enters HRMS until she has it."
+   "done": true,
+   "text": "Acting LOO signed and returned. Done 10 Aug."
   },
   {
    "id": "pack-viture",
@@ -186,7 +186,7 @@
   },
   {
    "id": "mro-aug23",
-   "text": "Book MRO: Sun Aug 23 airport pickup — AV578 lands 11:10 PM (you)",
+   "text": "Book MRO for the 23rd arrival (AV578 lands 23:10). You said next week, so it sits until the 17th.",
    "category": "🏡 1080 / CANADA — next week",
    "done": false
   },
