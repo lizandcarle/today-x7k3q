@@ -1,7 +1,7 @@
 {
  "date": "2026-08-11",
- "updated": "2026-08-11T10:30:00-06:00",
- "note": "VITURE claim is ready to send. Every test is done and every result is negative.",
+ "updated": "2026-08-11T18:10:00-06:00",
+ "note": "Closing tomorrow. Nothing needs you tonight.",
  "items": [
   {
    "id": "wf-job",
@@ -23,6 +23,18 @@
    "text": "Workflowy: LIFE",
    "category": "🔗 WORKFLOWY",
    "url": "https://workflowy.com/#/e5d0b5b51fd2"
+  },
+  {
+   "id": "can-closing",
+   "category": "🏡 TOMORROW — 1080 CLOSES",
+   "done": false,
+   "text": "1080 closes Wednesday 12 Aug. Joanne Horton, Horton & Horton, 519-376-8650."
+  },
+  {
+   "id": "can-id",
+   "category": "🏡 TOMORROW — 1080 CLOSES",
+   "done": false,
+   "text": "Provincial ID: driver’s licence + health card. Your tree dates this Wed 12 Aug, same day as closing."
   },
   {
    "id": "vit-ref",
@@ -75,18 +87,6 @@
    "category": "🥽 VITURE WARRANTY CLAIM",
    "done": false,
    "text": "When they send an address: ORIGINAL PACKAGING and a TRACKABLE method, both required. You are in Canada until the 23rd, so ship from there rather than from Guatemala."
-  },
-  {
-   "id": "can-closing",
-   "category": "🍁 CANADA — this week",
-   "done": false,
-   "text": "1080 closes Wednesday 12 Aug. Joanne Horton, Horton & Horton, 519-376-8650."
-  },
-  {
-   "id": "can-id",
-   "category": "🍁 CANADA — this week",
-   "done": false,
-   "text": "Provincial ID: driver’s licence + health card. Your tree dates this Wed 12 Aug, same day as closing."
   },
   {
    "id": "can-diallog",
