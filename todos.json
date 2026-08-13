@@ -1,7 +1,7 @@
 {
- "date": "2026-08-11",
- "updated": "2026-08-11T18:10:00-06:00",
- "note": "Closing tomorrow. Nothing needs you tonight.",
+ "date": "2026-08-12",
+ "updated": "2026-08-12T18:10:00-06:00",
+ "note": "Closing day. Nest deployment steps added for whenever a quiet hour turns up.",
  "items": [
   {
    "id": "wf-job",
@@ -26,13 +26,13 @@
   },
   {
    "id": "can-closing",
-   "category": "🏡 TOMORROW — 1080 CLOSES",
+   "category": "🏡 1080 — CLOSING DAY, 12 Aug",
    "done": false,
    "text": "1080 closes Wednesday 12 Aug. Joanne Horton, Horton & Horton, 519-376-8650."
   },
   {
    "id": "can-id",
-   "category": "🏡 TOMORROW — 1080 CLOSES",
+   "category": "🏡 1080 — CLOSING DAY, 12 Aug",
    "done": false,
    "text": "Provincial ID: driver’s licence + health card. Your tree dates this Wed 12 Aug, same day as closing."
   },
@@ -373,6 +373,18 @@
    "category": "🛒 SHOPPING — Canada",
    "done": false,
    "text": "Streaming stick for 1080. ⚠️ Chromecast is discontinued (Aug 2024). Successor is the $100 Google TV Streamer, which is overkill for a $10 TV. A used Chromecast with Google TV, or a cheap Roku/Fire Stick, does the job."
+  },
+  {
+   "id": "nest-deploy",
+   "category": "🪺 NEST — when a quiet hour turns up",
+   "done": false,
+   "text": "Deploy Nest: openssl rand -hex 24 → paste into NEST_KEY in api.php → upload both files to public_html/nest/ → open the URL, hit ⚙, paste key. Then send Orson the URL and key."
+  },
+  {
+   "id": "nest-ftp",
+   "category": "🪺 NEST — when a quiet hour turns up",
+   "done": false,
+   "text": "In cPanel, make an FTP account restricted to public_html/nest/ for Orson. Not the master login."
   }
  ]
 }
