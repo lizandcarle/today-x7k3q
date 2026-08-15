@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "updated": "2026-08-14T18:15:00-06:00",
+  "updated": "2026-08-15T00:50:00-06:00",
   "note": "Internet is in everywhere. Tomorrow is the house scan, and it needs you standing in an empty house.",
   "items": [
     {
@@ -183,6 +183,12 @@
     {
       "id": "shop-tb-hub",
       "text": "Thunderbolt hub",
+      "category": "🛒 SHOPPING — Canada, while you are in the right country",
+      "done": false
+    },
+    {
+      "id": "shop-aa",
+      "text": "AA batteries, a bunch",
       "category": "🛒 SHOPPING — Canada, while you are in the right country",
       "done": false
     },
