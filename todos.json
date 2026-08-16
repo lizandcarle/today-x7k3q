@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
-  "updated": "2026-08-15T19:45:00-06:00",
-  "note": "Amended PCF arrived and says Counsellor. Rev. Stang said yes.",
+  "updated": "2026-08-16T15:10:00-06:00",
+  "note": "Scan steps are on the page now, not buried in a file.",
   "items": [
     {
       "id": "wf-job",
@@ -25,24 +25,30 @@
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
-      "id": "scan-splat",
-      "text": "Scan the house with Scaniverse (free). Gaussian splat, and it has a native Quest 3 app, so you can walk 1080 from Guatemala.",
-      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
-      "done": false,
-      "url": "https://scaniverse.com/",
-      "linkLabel": "App"
-    },
-    {
       "id": "scan-polycam",
-      "text": "Scan again with Polycam for the LiDAR floor plan with real dimensions. This is the one that settles the couch and the 120-inch wall.",
+      "text": "1. POLYCAM (free). Install, choose the LiDAR / Room mode, walk each room once. Gives you a floor plan with REAL MEASUREMENTS. This is the one that answers the couch and the 120-inch wall.",
       "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
       "done": false,
       "url": "https://poly.cam/",
-      "linkLabel": "App"
+      "linkLabel": "Polycam"
+    },
+    {
+      "id": "scan-splat",
+      "text": "2. SCANIVERSE (free). Install, choose Splat, walk the room slowly for 1-3 minutes. Then install Scaniverse on the Quest 3 and you can walk around the room from Guatemala.",
+      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
+      "done": false,
+      "url": "https://scaniverse.com/",
+      "linkLabel": "Scaniverse"
+    },
+    {
+      "id": "scan-how",
+      "text": "HOW TO NOT WASTE THE TRIP: go slowly and overlap. Blank walls confuse it, so keep trim, outlets, windows and door frames in shot. Curtains open. Polycam first in each room, then Scaniverse. Two passes, same walk.",
+      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
+      "done": false
     },
     {
       "id": "scan-every",
-      "text": "EVERY room, plus basement, garage and exterior. The house is empty now, which scans far better than furnished. You cannot come back for the one you skipped.",
+      "text": "EVERY room, plus basement, garage and a lap of the outside. The house is empty now, which scans far better than furnished, and you cannot come back for the one you skipped.",
       "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
       "done": false
     },
