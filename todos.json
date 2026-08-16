@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-14",
-  "updated": "2026-08-15T00:50:00-06:00",
-  "note": "Internet is in everywhere. Tomorrow is the house scan, and it needs you standing in an empty house.",
+  "date": "2026-08-15",
+  "updated": "2026-08-15T18:15:00-06:00",
+  "note": "Amended PCF arrived and says Counsellor. Rev. Stang said yes.",
   "items": [
     {
       "id": "wf-job",
@@ -27,7 +27,7 @@
     {
       "id": "scan-splat",
       "text": "Scan the house with Scaniverse (free). Gaussian splat, and it has a native Quest 3 app, so you can walk 1080 from Guatemala.",
-      "category": "🔴 TOMORROW, Sat 15 Aug — you must be IN the house",
+      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
       "done": false,
       "url": "https://scaniverse.com/",
       "linkLabel": "App"
@@ -35,7 +35,7 @@
     {
       "id": "scan-polycam",
       "text": "Scan again with Polycam for the LiDAR floor plan with real dimensions. This is the one that settles the couch and the 120-inch wall.",
-      "category": "🔴 TOMORROW, Sat 15 Aug — you must be IN the house",
+      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
       "done": false,
       "url": "https://poly.cam/",
       "linkLabel": "App"
@@ -43,7 +43,7 @@
     {
       "id": "scan-every",
       "text": "EVERY room, plus basement, garage and exterior. The house is empty now, which scans far better than furnished. You cannot come back for the one you skipped.",
-      "category": "🔴 TOMORROW, Sat 15 Aug — you must be IN the house",
+      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
       "done": false
     },
     {
@@ -190,6 +190,20 @@
       "id": "shop-aa",
       "text": "AA batteries, a bunch",
       "category": "🛒 SHOPPING — Canada, while you are in the right country",
+      "done": false
+    },
+    {
+      "id": "subgenius-stang",
+      "text": "Reply to Rev. Ivan Stang with your address, and send the $10 postage via the donation button on subgenius.com. He said yes to replacing the card.",
+      "category": "⛪ PERSONAL",
+      "done": false,
+      "url": "https://subgenius.com",
+      "linkLabel": "subgenius.com"
+    },
+    {
+      "id": "subgenius-addr",
+      "text": "Which address? Same question the licence has. Bernice's at 925 9th Ave A E is the one that actually receives post.",
+      "category": "⛪ PERSONAL",
       "done": false
     },
     {
