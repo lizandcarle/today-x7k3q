@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "updated": "2026-08-15T18:15:00-06:00",
+  "updated": "2026-08-15T19:45:00-06:00",
   "note": "Amended PCF arrived and says Counsellor. Rev. Stang said yes.",
   "items": [
     {
@@ -189,6 +189,12 @@
     {
       "id": "shop-aa",
       "text": "AA batteries, a bunch",
+      "category": "🛒 SHOPPING — Canada, while you are in the right country",
+      "done": false
+    },
+    {
+      "id": "shop-harrys",
+      "text": "Another Harry's razor, to LEAVE at 1080 so you stop packing one",
       "category": "🛒 SHOPPING — Canada, while you are in the right country",
       "done": false
     },
