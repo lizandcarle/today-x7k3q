@@ -1,27 +1,27 @@
 {
-  "date": "2026-08-15",
-  "updated": "2026-08-16T15:10:00-06:00",
-  "note": "Scan steps are on the page now, not buried in a file.",
+  "date": "2026-08-16",
+  "updated": "2026-08-16T16:50:00-06:00",
+  "note": "Workflowy links are at the very top, every day. Tap to edit your own tree.",
   "items": [
     {
       "id": "wf-job",
       "type": "ref",
-      "text": "Workflowy: JOB",
-      "category": "🔗 WORKFLOWY",
+      "text": "✏️ EDIT MY WORKFLOWY — JOB",
+      "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "url": "https://workflowy.com/#/b81b4d0e17c2"
     },
     {
       "id": "wf-home",
       "type": "ref",
-      "text": "Workflowy: HOME",
-      "category": "🔗 WORKFLOWY",
+      "text": "✏️ EDIT MY WORKFLOWY — HOME",
+      "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "url": "https://workflowy.com/#/62229d749ef0"
     },
     {
       "id": "wf-life",
       "type": "ref",
-      "text": "Workflowy: LIFE",
-      "category": "🔗 WORKFLOWY",
+      "text": "✏️ EDIT MY WORKFLOWY — LIFE",
+      "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
