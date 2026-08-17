@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "updated": "2026-08-17T03:45:00-06:00",
-  "note": "Monday. MRO booking day. Six days until you fly.",
+  "updated": "2026-08-17T08:35:00-06:00",
+  "note": "Shopping list is now its own block near the top. No exercise until Mon 24 Aug.",
   "items": [
     {
       "id": "wf-job",
@@ -53,62 +53,6 @@
       "done": false
     },
     {
-      "id": "ex-press",
-      "text": "Dumbbell floor press: 2 x 10-12",
-      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false,
-      "url": "https://www.youtube.com/watch?v=AqYFvc9t_vU",
-      "linkLabel": "Form"
-    },
-    {
-      "id": "ex-row",
-      "text": "Bent-over row: 2 x 10-12",
-      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false,
-      "url": "https://www.youtube.com/watch?v=c-gt-zzoa_A",
-      "linkLabel": "Form"
-    },
-    {
-      "id": "ex-ohp",
-      "text": "Overhead press: 2 x 10-12",
-      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false,
-      "url": "https://www.youtube.com/watch?v=Did01dFR3Lk",
-      "linkLabel": "Form"
-    },
-    {
-      "id": "ex-curl",
-      "text": "Dumbbell curl: 2 x 12-15",
-      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false,
-      "url": "https://www.youtube.com/watch?v=av7-8igSXTs",
-      "linkLabel": "Form"
-    },
-    {
-      "id": "ex-beatsaber",
-      "text": "Beat Saber 30 min",
-      "category": "💪 HEALTH — DAY 1 (ticking any of these moves the cycle)",
-      "done": false
-    },
-    {
-      "id": "ex-steps",
-      "text": "Steps: 7,000",
-      "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": false
-    },
-    {
-      "id": "ex-diet",
-      "text": "Diet: 1,234 cal / 110g protein",
-      "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": false
-    },
-    {
-      "id": "ex-vitamin",
-      "text": "Multivitamin",
-      "category": "🥗 DAILY HABITS (these don't move the cycle)",
-      "done": false
-    },
-    {
       "id": "canada-id",
       "text": "Driver's licence + health card address. 🔴 New card takes 4-6 WEEKS, so it lands after you fly home on the 23rd. Use a MAILING address separate from the residential one: Bernice's, 925 9th Ave A E. ⚠️ If it is an Enhanced licence there is no online option.",
       "category": "🏡 1080 / CANADA",
@@ -137,110 +81,6 @@
       "done": false
     },
     {
-      "id": "shop-vga",
-      "text": "VGA cable",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "shop-doorlock",
-      "text": "WiFi door lock for 1080",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "shop-cameras",
-      "text": "Order the Amazon cameras for 1080. Also the thing that makes the mail plan work: you see post arrive, Bernice collects once.",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "shop-quest-controller",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false,
-      "text": "New controller for the Quest 3. You need it to walk through the house scans in the headset."
-    },
-    {
-      "id": "shop-iphone-case",
-      "text": "Grippy iPhone 17 Pro case: JETech Liquid Silicone, 6.3\", dark blue.",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false,
-      "url": "https://a.co/d/085sR0YP",
-      "linkLabel": "Amazon"
-    },
-    {
-      "id": "shop-streamer",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false,
-      "text": "Streaming stick for 1080. ⚠️ Chromecast is discontinued (Aug 2024). Successor is the $100 Google TV Streamer, which is overkill for a $10 TV. A used Chromecast with Google TV, or a cheap Roku/Fire Stick, does the job."
-    },
-    {
-      "id": "shop-watch-cable",
-      "text": "Apple Watch USB-C charger cable",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "shop-wingspan",
-      "text": "Wingspan Etsy items: Julie's gift",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "shop-tb-hub",
-      "text": "Thunderbolt hub",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "shop-aa",
-      "text": "AA batteries, a bunch",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "shop-harrys",
-      "text": "Another Harry's razor, to LEAVE at 1080 so you stop packing one",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "wf-doorhandles",
-      "text": "Door handles  ·  from your Workflowy",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "wf-floorlamps",
-      "text": "Floor lamps  ·  from your Workflowy",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "wf-phonestand",
-      "text": "Telephone stand  ·  from your Workflowy",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "wf-tvstand",
-      "text": "TV stand  ·  from your Workflowy",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "wf-bulbs",
-      "text": "Bright light bulbs  ·  from your Workflowy",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
-      "id": "wf-voipphone",
-      "text": "Telephone for the household VOIP (goes with the rotary phone and the pulse-to-tone adapter)  ·  from your Workflowy",
-      "category": "🛒 SHOPPING — Canada, while you are in the right country",
-      "done": false
-    },
-    {
       "id": "subgenius-stang",
       "text": "Reply to Rev. Ivan Stang with your address, and send the $10 postage via the donation button on subgenius.com. He said yes to replacing the card.",
       "category": "⛪ PERSONAL",
@@ -261,6 +101,110 @@
       "text": "The full diagnosis, log evidence and test results",
       "url": "https://drive.google.com/drive/search?q=viture%20orsdoc",
       "linkLabel": "Open in Drive"
+    },
+    {
+      "id": "shop-vga",
+      "text": "VGA cable",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "shop-doorlock",
+      "text": "WiFi door lock for 1080",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "shop-cameras",
+      "text": "Order the Amazon cameras for 1080. Also the thing that makes the mail plan work: you see post arrive, Bernice collects once.",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "shop-quest-controller",
+      "category": "🛒 SHOPPING LIST",
+      "done": false,
+      "text": "New controller for the Quest 3. You need it to walk through the house scans in the headset."
+    },
+    {
+      "id": "shop-iphone-case",
+      "text": "Grippy iPhone 17 Pro case: JETech Liquid Silicone, 6.3\", dark blue.",
+      "category": "🛒 SHOPPING LIST",
+      "done": false,
+      "url": "https://a.co/d/085sR0YP",
+      "linkLabel": "Amazon"
+    },
+    {
+      "id": "shop-streamer",
+      "category": "🛒 SHOPPING LIST",
+      "done": false,
+      "text": "Streaming stick for 1080. ⚠️ Chromecast is discontinued (Aug 2024). Successor is the $100 Google TV Streamer, which is overkill for a $10 TV. A used Chromecast with Google TV, or a cheap Roku/Fire Stick, does the job."
+    },
+    {
+      "id": "shop-watch-cable",
+      "text": "Apple Watch USB-C charger cable",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "shop-wingspan",
+      "text": "Wingspan Etsy items: Julie's gift",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "shop-tb-hub",
+      "text": "Thunderbolt hub",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "shop-aa",
+      "text": "AA batteries, a bunch",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "shop-harrys",
+      "text": "Another Harry's razor, to LEAVE at 1080 so you stop packing one",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "wf-doorhandles",
+      "text": "Door handles",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "wf-floorlamps",
+      "text": "Floor lamps",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "wf-phonestand",
+      "text": "Telephone stand",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "wf-tvstand",
+      "text": "TV stand",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "wf-bulbs",
+      "text": "Bright light bulbs",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "wf-voipphone",
+      "text": "Telephone for the household VOIP (goes with the rotary phone and the pulse-to-tone adapter)",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
     },
     {
       "id": "vit-video",
