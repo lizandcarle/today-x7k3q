@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-16",
-  "updated": "2026-08-16T18:15:00-06:00",
-  "note": "Your Workflowy SHOPPING LIST is live and six items came across tonight.",
+  "date": "2026-08-17",
+  "updated": "2026-08-17T03:45:00-06:00",
+  "note": "Monday. MRO booking day. Six days until you fly.",
   "items": [
     {
       "id": "wf-job",
       "type": "ref",
-      "text": "✏️ EDIT MY WORKFLOWY — JOB",
+      "text": "✏️ EDIT MY WORKFLOWY: JOB",
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "url": "https://workflowy.com/#/b81b4d0e17c2"
     },
     {
       "id": "wf-home",
       "type": "ref",
-      "text": "✏️ EDIT MY WORKFLOWY — HOME",
+      "text": "✏️ EDIT MY WORKFLOWY: HOME",
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "url": "https://workflowy.com/#/62229d749ef0"
     },
     {
       "id": "wf-life",
       "type": "ref",
-      "text": "✏️ EDIT MY WORKFLOWY — LIFE",
+      "text": "✏️ EDIT MY WORKFLOWY: LIFE",
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
