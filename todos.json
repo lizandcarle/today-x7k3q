@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "updated": "2026-08-16T16:50:00-06:00",
-  "note": "Workflowy links are at the very top, every day. Tap to edit your own tree.",
+  "updated": "2026-08-16T18:15:00-06:00",
+  "note": "Your Workflowy SHOPPING LIST is live and six items came across tonight.",
   "items": [
     {
       "id": "wf-job",
@@ -201,6 +201,42 @@
     {
       "id": "shop-harrys",
       "text": "Another Harry's razor, to LEAVE at 1080 so you stop packing one",
+      "category": "🛒 SHOPPING — Canada, while you are in the right country",
+      "done": false
+    },
+    {
+      "id": "wf-doorhandles",
+      "text": "Door handles  ·  from your Workflowy",
+      "category": "🛒 SHOPPING — Canada, while you are in the right country",
+      "done": false
+    },
+    {
+      "id": "wf-floorlamps",
+      "text": "Floor lamps  ·  from your Workflowy",
+      "category": "🛒 SHOPPING — Canada, while you are in the right country",
+      "done": false
+    },
+    {
+      "id": "wf-phonestand",
+      "text": "Telephone stand  ·  from your Workflowy",
+      "category": "🛒 SHOPPING — Canada, while you are in the right country",
+      "done": false
+    },
+    {
+      "id": "wf-tvstand",
+      "text": "TV stand  ·  from your Workflowy",
+      "category": "🛒 SHOPPING — Canada, while you are in the right country",
+      "done": false
+    },
+    {
+      "id": "wf-bulbs",
+      "text": "Bright light bulbs  ·  from your Workflowy",
+      "category": "🛒 SHOPPING — Canada, while you are in the right country",
+      "done": false
+    },
+    {
+      "id": "wf-voipphone",
+      "text": "Telephone for the household VOIP (goes with the rotary phone and the pulse-to-tone adapter)  ·  from your Workflowy",
       "category": "🛒 SHOPPING — Canada, while you are in the right country",
       "done": false
     },
