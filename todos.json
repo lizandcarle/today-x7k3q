@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "updated": "2026-08-17T08:35:00-06:00",
-  "note": "Shopping list is now its own block near the top. No exercise until Mon 24 Aug.",
+  "updated": "2026-08-17T08:55:00-06:00",
+  "note": "Shopping list is second on the page. No exercise until Mon 24 Aug.",
   "items": [
     {
       "id": "wf-job",
@@ -125,6 +125,24 @@
     {
       "id": "wf-voipphone",
       "text": "Telephone for the household VOIP (goes with the rotary phone and the pulse-to-tone adapter)",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "shop-wirebrush",
+      "text": "Wire brush for animal hair",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "shop-carpetshampoo",
+      "text": "RENT a carpet shampooer (rental, not a purchase)",
+      "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "shop-bathknob",
+      "text": "Bathroom doorknob",
       "category": "🛒 SHOPPING LIST",
       "done": false
     },
