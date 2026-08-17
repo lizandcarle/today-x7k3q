@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "updated": "2026-08-17T11:20:00-06:00",
+  "updated": "2026-08-17T11:42:00-06:00",
   "note": "Shopping list is second on the page. No exercise until Mon 24 Aug.",
   "items": [
     {
@@ -84,13 +84,13 @@
       "id": "shop-aa",
       "text": "AA batteries, a bunch",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "shop-harrys",
       "text": "Another Harry's razor, to LEAVE at 1080 so you stop packing one",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "wf-doorhandles",
@@ -120,7 +120,7 @@
       "id": "wf-bulbs",
       "text": "Bright light bulbs",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "wf-voipphone",
