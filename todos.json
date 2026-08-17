@@ -25,84 +25,6 @@
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
-      "id": "scan-polycam",
-      "text": "1. POLYCAM (free). Install, choose the LiDAR / Room mode, walk each room once. Gives you a floor plan with REAL MEASUREMENTS. This is the one that answers the couch and the 120-inch wall.",
-      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
-      "done": false,
-      "url": "https://poly.cam/",
-      "linkLabel": "Polycam"
-    },
-    {
-      "id": "scan-splat",
-      "text": "2. SCANIVERSE (free). Install, choose Splat, walk the room slowly for 1-3 minutes. Then install Scaniverse on the Quest 3 and you can walk around the room from Guatemala.",
-      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
-      "done": false,
-      "url": "https://scaniverse.com/",
-      "linkLabel": "Scaniverse"
-    },
-    {
-      "id": "scan-how",
-      "text": "HOW TO NOT WASTE THE TRIP: go slowly and overlap. Blank walls confuse it, so keep trim, outlets, windows and door frames in shot. Curtains open. Polycam first in each room, then Scaniverse. Two passes, same walk.",
-      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
-      "done": false
-    },
-    {
-      "id": "scan-every",
-      "text": "EVERY room, plus basement, garage and a lap of the outside. The house is empty now, which scans far better than furnished, and you cannot come back for the one you skipped.",
-      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
-      "done": false
-    },
-    {
-      "id": "canada-id",
-      "text": "Driver's licence + health card address. 🔴 New card takes 4-6 WEEKS, so it lands after you fly home on the 23rd. Use a MAILING address separate from the residential one: Bernice's, 925 9th Ave A E. ⚠️ If it is an Enhanced licence there is no online option.",
-      "category": "🏡 1080 / CANADA",
-      "done": false,
-      "url": "https://www.ontario.ca/page/change-address-drivers-licence-vehicle-permit-and-health-card",
-      "linkLabel": "ServiceOntario"
-    },
-    {
-      "id": "canada-post",
-      "text": "Canada Post forwarding mailbox. 🔴 Do the ID change FIRST. Ontario mails the card 'do not forward', so a redirect cannot carry it. Your own catch, 11 Aug.",
-      "category": "🏡 1080 / CANADA",
-      "done": false,
-      "url": "https://www.canadapost-postescanada.ca/cpc/en/personal/receiving/manage-mail/mail-forwarding.page",
-      "linkLabel": "Canada Post"
-    },
-    {
-      "id": "mro-aug23",
-      "text": "Book MRO for the 23rd arrival (AV578 lands 23:10). You said next week, so it sits until the 17th.",
-      "category": "🏡 1080 / CANADA",
-      "done": false
-    },
-    {
-      "id": "mro-aug31",
-      "text": "Book MRO: Mon Aug 31 airport pickup — AV578 lands 11:10 PM (Julie)",
-      "category": "🏡 1080 / CANADA",
-      "done": false
-    },
-    {
-      "id": "subgenius-stang",
-      "text": "Reply to Rev. Ivan Stang with your address, and send the $10 postage via the donation button on subgenius.com. He said yes to replacing the card.",
-      "category": "⛪ PERSONAL",
-      "done": false,
-      "url": "https://subgenius.com",
-      "linkLabel": "subgenius.com"
-    },
-    {
-      "id": "subgenius-addr",
-      "text": "Which address? Same question the licence has. Bernice's at 925 9th Ave A E is the one that actually receives post.",
-      "category": "⛪ PERSONAL",
-      "done": false
-    },
-    {
-      "id": "vit-ref",
-      "type": "ref",
-      "category": "🥽 VITURE WARRANTY CLAIM",
-      "text": "The full diagnosis, log evidence and test results",
-      "url": "https://drive.google.com/drive/search?q=viture%20orsdoc",
-      "linkLabel": "Open in Drive"
-    },
-    {
       "id": "shop-vga",
       "text": "VGA cable",
       "category": "🛒 SHOPPING LIST",
@@ -207,6 +129,84 @@
       "done": false
     },
     {
+      "id": "scan-polycam",
+      "text": "1. POLYCAM (free). Install, choose the LiDAR / Room mode, walk each room once. Gives you a floor plan with REAL MEASUREMENTS. This is the one that answers the couch and the 120-inch wall.",
+      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
+      "done": false,
+      "url": "https://poly.cam/",
+      "linkLabel": "Polycam"
+    },
+    {
+      "id": "scan-splat",
+      "text": "2. SCANIVERSE (free). Install, choose Splat, walk the room slowly for 1-3 minutes. Then install Scaniverse on the Quest 3 and you can walk around the room from Guatemala.",
+      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
+      "done": false,
+      "url": "https://scaniverse.com/",
+      "linkLabel": "Scaniverse"
+    },
+    {
+      "id": "scan-how",
+      "text": "HOW TO NOT WASTE THE TRIP: go slowly and overlap. Blank walls confuse it, so keep trim, outlets, windows and door frames in shot. Curtains open. Polycam first in each room, then Scaniverse. Two passes, same walk.",
+      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
+      "done": false
+    },
+    {
+      "id": "scan-every",
+      "text": "EVERY room, plus basement, garage and a lap of the outside. The house is empty now, which scans far better than furnished, and you cannot come back for the one you skipped.",
+      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
+      "done": false
+    },
+    {
+      "id": "canada-id",
+      "text": "Driver's licence + health card address. 🔴 New card takes 4-6 WEEKS, so it lands after you fly home on the 23rd. Use a MAILING address separate from the residential one: Bernice's, 925 9th Ave A E. ⚠️ If it is an Enhanced licence there is no online option.",
+      "category": "🏡 1080 / CANADA",
+      "done": false,
+      "url": "https://www.ontario.ca/page/change-address-drivers-licence-vehicle-permit-and-health-card",
+      "linkLabel": "ServiceOntario"
+    },
+    {
+      "id": "canada-post",
+      "text": "Canada Post forwarding mailbox. 🔴 Do the ID change FIRST. Ontario mails the card 'do not forward', so a redirect cannot carry it. Your own catch, 11 Aug.",
+      "category": "🏡 1080 / CANADA",
+      "done": false,
+      "url": "https://www.canadapost-postescanada.ca/cpc/en/personal/receiving/manage-mail/mail-forwarding.page",
+      "linkLabel": "Canada Post"
+    },
+    {
+      "id": "mro-aug23",
+      "text": "Book MRO for the 23rd arrival (AV578 lands 23:10). You said next week, so it sits until the 17th.",
+      "category": "🏡 1080 / CANADA",
+      "done": false
+    },
+    {
+      "id": "mro-aug31",
+      "text": "Book MRO: Mon Aug 31 airport pickup — AV578 lands 11:10 PM (Julie)",
+      "category": "🏡 1080 / CANADA",
+      "done": false
+    },
+    {
+      "id": "subgenius-stang",
+      "text": "Reply to Rev. Ivan Stang with your address, and send the $10 postage via the donation button on subgenius.com. He said yes to replacing the card.",
+      "category": "⛪ PERSONAL",
+      "done": false,
+      "url": "https://subgenius.com",
+      "linkLabel": "subgenius.com"
+    },
+    {
+      "id": "subgenius-addr",
+      "text": "Which address? Same question the licence has. Bernice's at 925 9th Ave A E is the one that actually receives post.",
+      "category": "⛪ PERSONAL",
+      "done": false
+    },
+    {
+      "id": "vit-ref",
+      "type": "ref",
+      "category": "🥽 VITURE WARRANTY CLAIM",
+      "text": "The full diagnosis, log evidence and test results",
+      "url": "https://drive.google.com/drive/search?q=viture%20orsdoc",
+      "linkLabel": "Open in Drive"
+    },
+    {
       "id": "vit-video",
       "category": "🥽 VITURE WARRANTY CLAIM",
       "done": false,
@@ -251,6 +251,18 @@
       "text": "When they send an address: ORIGINAL PACKAGING and a TRACKABLE method, both required. You are in Canada until the 23rd, so ship from there rather than from Guatemala."
     },
     {
+      "id": "nest-deploy",
+      "category": "🪺 NEST — when a quiet hour turns up",
+      "done": false,
+      "text": "Deploy Nest: openssl rand -hex 24 → paste into NEST_KEY in api.php → upload both files to public_html/nest/ → open the URL, hit ⚙, paste key. Then send Orson the URL and key."
+    },
+    {
+      "id": "nest-ftp",
+      "category": "🪺 NEST — when a quiet hour turns up",
+      "done": false,
+      "text": "In cPanel, make an FTP account restricted to public_html/nest/ for Orson. Not the master login."
+    },
+    {
       "id": "quest-optimizer",
       "text": "Add the Quest Games Optimizer",
       "category": "🛠 TECH",
@@ -279,18 +291,6 @@
       "category": "🛠 TECH",
       "done": false,
       "text": "ChatGPT as an app via Canary browser (from your HOME tree)"
-    },
-    {
-      "id": "nest-deploy",
-      "category": "🪺 NEST — when a quiet hour turns up",
-      "done": false,
-      "text": "Deploy Nest: openssl rand -hex 24 → paste into NEST_KEY in api.php → upload both files to public_html/nest/ → open the URL, hit ⚙, paste key. Then send Orson the URL and key."
-    },
-    {
-      "id": "nest-ftp",
-      "category": "🪺 NEST — when a quiet hour turns up",
-      "done": false,
-      "text": "In cPanel, make an FTP account restricted to public_html/nest/ for Orson. Not the master login."
     },
     {
       "id": "fsd-50",
