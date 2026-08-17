@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "updated": "2026-08-17T11:42:00-06:00",
+  "updated": "2026-08-17T15:40:00-06:00",
   "note": "Shopping list is second on the page. No exercise until Mon 24 Aug.",
   "items": [
     {
@@ -386,6 +386,12 @@
       "id": "julie-chatgpt",
       "text": "Switch the credit card on Julie's ChatGPT",
       "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
+      "done": false
+    },
+    {
+      "id": "voip-inbound",
+      "text": "VOIP at 1080: dials out but does not ring on incoming. Check SIP ALG off on the Diallog router first, then shorten the registration/keepalive interval, then confirm the number is provisioned inbound.",
+      "category": "🛠 TECH",
       "done": false
     }
   ]
