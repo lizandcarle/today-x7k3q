@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "updated": "2026-08-17T18:15:00-06:00",
+  "updated": "2026-08-17T19:50:00-06:00",
   "note": "Shopping list second. No exercise until Mon 24 Aug. Six days until you fly.",
   "items": [
     {
@@ -34,7 +34,7 @@
       "id": "shop-doorlock",
       "text": "WiFi door lock for 1080",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "shop-cameras",
@@ -96,25 +96,25 @@
       "id": "wf-doorhandles",
       "text": "Door handles",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "wf-floorlamps",
       "text": "Floor lamps",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "wf-phonestand",
       "text": "Telephone stand",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "wf-tvstand",
       "text": "TV stand",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "wf-bulbs",
@@ -194,7 +194,7 @@
       "id": "mro-aug23",
       "text": "Book MRO for the 23rd arrival (AV578 lands 23:10). You said next week, so it sits until the 17th.",
       "category": "🏡 1080 / CANADA",
-      "done": false
+      "done": true
     },
     {
       "id": "mro-aug31",
@@ -214,7 +214,7 @@
       "id": "subgenius-addr",
       "text": "Which address? Same question the licence has. Bernice's at 925 9th Ave A E is the one that actually receives post.",
       "category": "⛪ PERSONAL",
-      "done": false
+      "done": true
     },
     {
       "id": "vit-ref",
