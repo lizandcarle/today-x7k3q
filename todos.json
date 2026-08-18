@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "updated": "2026-08-17T19:50:00-06:00",
+  "updated": "2026-08-17T20:45:00-06:00",
   "note": "Shopping list second. No exercise until Mon 24 Aug. Six days until you fly.",
   "items": [
     {
@@ -212,9 +212,11 @@
     },
     {
       "id": "subgenius-addr",
-      "text": "Which address? Same question the licence has. Bernice's at 925 9th Ave A E is the one that actually receives post.",
+      "text": "Address decided: Bernice's, 925 9th Ave 'A' East, Owen Sound. ⚠️ POSTAL CODE NOT CONFIRMED. 9th Avenue EAST is N4K 3G9, but 9th Ave 'A' East is a different street, same as 4th Ave 'A' West is not 4th Ave West. Check it on Canada Post before posting anything that matters.",
       "category": "⛪ PERSONAL",
-      "done": true
+      "done": false,
+      "url": "https://www.canadapost-postescanada.ca/info/mc/personal/postalcode/fpc.jsf",
+      "linkLabel": "Canada Post lookup"
     },
     {
       "id": "vit-ref",
