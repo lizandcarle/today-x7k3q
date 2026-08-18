@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "updated": "2026-08-18T14:57:00-06:00",
+  "updated": "2026-08-18T16:45:00-06:00",
   "note": "Shopping list second. No exercise until Mon 24 Aug. Six days until you fly.",
   "items": [
     {
@@ -40,7 +40,7 @@
       "id": "shop-cameras",
       "text": "Order the Amazon cameras for 1080. Also the thing that makes the mail plan work: you see post arrive, Bernice collects once.",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "shop-quest-controller",
