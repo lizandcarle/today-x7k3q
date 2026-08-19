@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-18",
-  "updated": "2026-08-18T23:15:00-06:00",
-  "note": "Five days until you fly. The scan is the only thing that expires.",
+  "date": "2026-08-19",
+  "updated": "2026-08-19T07:10:00-06:00",
+  "note": "Bernice: 925 9th Ave A East, Owen Sound, N4K 6Y4. Four days until you fly.",
   "items": [
     {
       "id": "wf-job",
@@ -212,9 +212,9 @@
     },
     {
       "id": "subgenius-addr",
-      "text": "Address decided: Bernice's, 925 9th Ave 'A' East, Owen Sound. ⚠️ POSTAL CODE NOT CONFIRMED. 9th Avenue EAST is N4K 3G9, but 9th Ave 'A' East is a different street, same as 4th Ave 'A' West is not 4th Ave West. Check it on Canada Post before posting anything that matters.",
+      "text": "ADDRESS SETTLED: Bernice Davies, 925 9th Ave \"A\" East, Owen Sound, ON N4K 6Y4. Use this for the licence, the health card and the SubGenius card.",
       "category": "⛪ PERSONAL",
-      "done": false,
+      "done": true,
       "url": "https://www.canadapost-postescanada.ca/info/mc/personal/postalcode/fpc.jsf",
       "linkLabel": "Canada Post lookup"
     },
