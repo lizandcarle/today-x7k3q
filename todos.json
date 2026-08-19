@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "updated": "2026-08-19T07:10:00-06:00",
+  "updated": "2026-08-19T07:12:00-06:00",
   "note": "Bernice: 925 9th Ave A East, Owen Sound, N4K 6Y4. Four days until you fly.",
   "items": [
     {
@@ -412,6 +412,12 @@
       "id": "chromecast-ethernet",
       "text": "Ethernet adapter for the Chromecast / streaming stick. Google made an official one; check it is still sold and order if so. For 1080, where wifi may be the weak link.",
       "category": "🛒 SHOPPING LIST",
+      "done": false
+    },
+    {
+      "id": "plex-cloud",
+      "text": "Look up moving the Plex library to the cloud. The Canada side cannot watch, and the Guatemala outage is exactly why: a home-hosted server dies with the house internet.",
+      "category": "🛠 TECH",
       "done": false
     }
   ]
