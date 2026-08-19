@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "updated": "2026-08-18T18:15:00-06:00",
+  "updated": "2026-08-18T23:15:00-06:00",
   "note": "Five days until you fly. The scan is the only thing that expires.",
   "items": [
     {
@@ -406,6 +406,12 @@
       "id": "diallog-call",
       "text": "Call Diallog about the house phone not ringing. Ask them ONE thing directly: is the number provisioned for INBOUND, not just outbound? Tell them outgoing works and shows the right caller ID, so registration is fine. That skips twenty minutes of scripted troubleshooting.",
       "category": "🏡 1080 / CANADA",
+      "done": false
+    },
+    {
+      "id": "chromecast-ethernet",
+      "text": "Ethernet adapter for the Chromecast / streaming stick. Google made an official one; check it is still sold and order if so. For 1080, where wifi may be the weak link.",
+      "category": "🛒 SHOPPING LIST",
       "done": false
     }
   ]
