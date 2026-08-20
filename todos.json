@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "updated": "2026-08-20T09:05:00-06:00",
+  "updated": "2026-08-20T13:55:00-06:00",
   "note": "Packing list is back, at the top. You fly Sunday.",
   "items": [
     {
@@ -26,13 +26,13 @@
     },
     {
       "id": "pk-decide",
-      "text": "Only ONE thing actually has to travel: the Quest 3 controller. The VITURE is mailed in for warranty, the Thunderbolt hub already arrived in Guatemala, the case is on the phone. Everything else bought this trip STAYS at 1080.",
+      "text": "Almost nothing has to travel. The VITURE is mailed in for warranty, the Thunderbolt hub already arrived in Guatemala, the case is on the phone. The Quest 2 comes back with you. Everything else bought this trip STAYS at 1080.",
       "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
       "done": false
     },
     {
       "id": "pk-quest",
-      "text": "FLIES: the Quest 3 controller. Bought in Canada, and it is what makes the house scans walkable once you are home.",
+      "text": "FLIES: the Quest 2 itself. Not a controller, and not a Quest 3. He is bringing the headset back with him.",
       "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
       "done": false
     },
@@ -82,7 +82,7 @@
       "id": "shop-vga",
       "text": "VGA cable",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "shop-doorlock",
@@ -99,8 +99,8 @@
     {
       "id": "shop-quest-controller",
       "category": "🛒 SHOPPING LIST",
-      "done": false,
-      "text": "New controller for the Quest 3. You need it to walk through the house scans in the headset."
+      "done": true,
+      "text": "Quest 3 controller — NOT BUYING. He bailed; the headset is an older Quest 2."
     },
     {
       "id": "shop-iphone-case",
@@ -186,19 +186,19 @@
       "id": "shop-wirebrush",
       "text": "Wire brush for animal hair",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "shop-carpetshampoo",
       "text": "RENT a carpet shampooer (rental, not a purchase)",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "shop-bathknob",
       "text": "Bathroom doorknob",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "scan-polycam",
@@ -210,7 +210,7 @@
     },
     {
       "id": "scan-splat",
-      "text": "2. SCANIVERSE (free). Install, choose Splat, walk the room slowly for 1-3 minutes. Then install Scaniverse on the Quest 3 and you can walk around the room from Guatemala.",
+      "text": "2. SCANIVERSE (free). Splat capture, 1-3 min per room. ⚠️ The Quest walkthrough needs a Quest 3 or 3S; your Quest 2 will not run it. Capture anyway: the scan is a file and it keeps, and an unscanned empty house is gone for good.",
       "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
       "done": false,
       "url": "https://scaniverse.com/",
