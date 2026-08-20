@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-19",
-  "updated": "2026-08-19T18:15:00-06:00",
-  "note": "Four days. The scan is still the only thing that expires.",
+  "date": "2026-08-20",
+  "updated": "2026-08-20T07:45:00-06:00",
+  "note": "Packing list is back, at the top. You fly Sunday.",
   "items": [
     {
       "id": "wf-job",
@@ -23,6 +23,60 @@
       "text": "✏️ EDIT MY WORKFLOWY: LIFE",
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
+    },
+    {
+      "id": "pk-decide",
+      "text": "THE ONE DECISION: what STAYS at 1080 and what FLIES. Most of this week was provisioning the house, so the default is STAYS. Only a few things were ever meant to travel.",
+      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
+      "done": false
+    },
+    {
+      "id": "pk-quest",
+      "text": "FLIES: the Quest 3 controller. Bought in Canada, and it is what makes the house scans walkable once you are home.",
+      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
+      "done": false
+    },
+    {
+      "id": "pk-case",
+      "text": "FLIES: the iPhone case. JETech, dark blue.",
+      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
+      "done": false
+    },
+    {
+      "id": "pk-hub",
+      "text": "FLIES: the Thunderbolt hub.",
+      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
+      "done": false
+    },
+    {
+      "id": "pk-viture",
+      "text": "FLIES: the VITURE Beast, if it came with you. The warranty claim needs the unit in your hands, and it is still open.",
+      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
+      "done": false
+    },
+    {
+      "id": "pk-stays",
+      "text": "STAYS at 1080: door lock, cameras, door handles, floor lamps, telephone stand, TV stand, bulbs, batteries, the Harry's razor, the rotary phone and the VOIP handset, the streaming stick. Forever-home kit, not luggage.",
+      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
+      "done": false
+    },
+    {
+      "id": "pk-scans",
+      "text": "BEFORE YOU LEAVE THE HOUSE: confirm the Polycam and Scaniverse scans are actually uploaded and visible in the apps, not sitting unprocessed on the phone. You cannot re-shoot an empty house from Guatemala.",
+      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
+      "done": false
+    },
+    {
+      "id": "pk-fare",
+      "text": "⚠️ LIGHT FARE on AV325/AV578, ref AUNDHH. Check the baggage allowance BEFORE the airport, not at the desk. The MRO confirmation lists 1 bag.",
+      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
+      "done": false
+    },
+    {
+      "id": "pk-charger",
+      "text": "Chargers, the Apple Watch cable if you brought it, and anything plugged in around the house. The empty-house sweep: outlets, bathroom, bedside.",
+      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
+      "done": false
     },
     {
       "id": "shop-vga",
