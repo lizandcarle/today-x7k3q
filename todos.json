@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "updated": "2026-08-20T07:45:00-06:00",
+  "updated": "2026-08-20T09:05:00-06:00",
   "note": "Packing list is back, at the top. You fly Sunday.",
   "items": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "id": "pk-decide",
-      "text": "THE ONE DECISION: what STAYS at 1080 and what FLIES. Most of this week was provisioning the house, so the default is STAYS. Only a few things were ever meant to travel.",
+      "text": "Only ONE thing actually has to travel: the Quest 3 controller. The VITURE is mailed in for warranty, the Thunderbolt hub already arrived in Guatemala, the case is on the phone. Everything else bought this trip STAYS at 1080.",
       "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
       "done": false
     },
@@ -40,23 +40,23 @@
       "id": "pk-case",
       "text": "FLIES: the iPhone case. JETech, dark blue.",
       "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
-      "done": false
+      "done": true
     },
     {
       "id": "pk-hub",
       "text": "FLIES: the Thunderbolt hub.",
       "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
-      "done": false
+      "done": true
     },
     {
       "id": "pk-viture",
       "text": "FLIES: the VITURE Beast, if it came with you. The warranty claim needs the unit in your hands, and it is still open.",
       "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
-      "done": false
+      "done": true
     },
     {
       "id": "pk-stays",
-      "text": "STAYS at 1080: door lock, cameras, door handles, floor lamps, telephone stand, TV stand, bulbs, batteries, the Harry's razor, the rotary phone and the VOIP handset, the streaming stick. Forever-home kit, not luggage.",
+      "text": "STAYS at 1080: door lock, cameras, door handles, floor lamps, telephone stand, TV stand, bulbs, batteries, the Harry's razor, the rotary phone and VOIP handset, the streaming stick.",
       "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
       "done": false
     },
@@ -478,6 +478,12 @@
       "id": "phone-port",
       "text": "Home phone: move to the $5 ISP-independent plan and PORT the number. Diallog and you both spent hours and it never rang, including with the handset straight into the modem, so the router is ruled out.",
       "category": "🏡 1080 / CANADA",
+      "done": false
+    },
+    {
+      "id": "viture-return-addr",
+      "text": "VITURE warranty: what RETURN address is on the claim? You leave Canada Sunday. If they ship the repaired unit to where you are staying, it arrives after you have gone. Bernice at 925 9th Ave A East, N4K 6Y4, is the address that actually receives post.",
+      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
       "done": false
     }
   ]
