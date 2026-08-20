@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
-  "updated": "2026-08-19T07:12:00-06:00",
-  "note": "Bernice: 925 9th Ave A East, Owen Sound, N4K 6Y4. Four days until you fly.",
+  "updated": "2026-08-19T18:15:00-06:00",
+  "note": "Four days. The scan is still the only thing that expires.",
   "items": [
     {
       "id": "wf-job",
@@ -418,6 +418,12 @@
       "id": "plex-cloud",
       "text": "Look up moving the Plex library to the cloud. The Canada side cannot watch, and the Guatemala outage is exactly why: a home-hosted server dies with the house internet.",
       "category": "🛠 TECH",
+      "done": false
+    },
+    {
+      "id": "phone-port",
+      "text": "Home phone: move to the $5 ISP-independent plan and PORT the number. Diallog and you both spent hours and it never rang, including with the handset straight into the modem, so the router is ruled out.",
+      "category": "🏡 1080 / CANADA",
       "done": false
     }
   ]
