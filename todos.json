@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-20",
-  "updated": "2026-08-20T18:15:00-06:00",
+  "date": "2026-08-21",
+  "updated": "2026-08-21T09:20:00-06:00",
   "note": "Three days. Packing is one item. The scan is the only thing that expires.",
   "items": [
     {
@@ -278,18 +278,19 @@
       "category": "🥽 VITURE WARRANTY CLAIM",
       "text": "The full diagnosis, log evidence and test results",
       "url": "https://drive.google.com/drive/search?q=viture%20orsdoc",
-      "linkLabel": "Open in Drive"
+      "linkLabel": "Open in Drive",
+      "done": true
     },
     {
       "id": "vit-video",
       "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
+      "done": true,
       "text": "Take a 20-second video: press the dim button so it visibly responds, while the display stays black and no on-device menu appears. That single clip is the whole case."
     },
     {
       "id": "vit-email",
       "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
+      "done": true,
       "text": "Email happycustomer@viture.us. Order 113-4307365-6229868. Attach the video. Say: powers on, dim button responds, zero video output, no on-device menu with no source attached.",
       "url": "mailto:happycustomer@viture.us",
       "linkLabel": "Email VITURE"
@@ -297,31 +298,31 @@
     {
       "id": "vit-logs",
       "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
+      "done": true,
       "text": "Include the three log lines: DP alt mode negotiated, HPD asserted, sinkCount 0. Says the fault is inside the glasses, not the host."
     },
     {
       "id": "vit-tests",
       "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
+      "done": true,
       "text": "Say the tests are already done: HDMI via KIHENG, multiple hosts, both cable orientations. All black. Kills the \"your computer does not support DP alt mode\" reply."
     },
     {
       "id": "vit-ask",
       "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
+      "done": true,
       "text": "Ask directly whether there is a display-side recovery flash or reset combo. The web updater only reaches the USB branch."
     },
     {
       "id": "vit-wait",
       "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
+      "done": true,
       "text": "Expect a reply in 1-2 business days, and up to 7 days for the claim decision."
     },
     {
       "id": "vit-ship",
       "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
+      "done": true,
       "text": "When they send an address: ORIGINAL PACKAGING and a TRACKABLE method, both required. You are in Canada until the 23rd, so ship from there rather than from Guatemala."
     },
     {
@@ -352,18 +353,18 @@
       "id": "openclaw-9",
       "text": "Test if Telegram/OpenClaw works on the $9/mo ChatGPT tier",
       "category": "🛠 TECH",
-      "done": false
+      "done": true
     },
     {
       "id": "yt-agi",
       "text": "Look up a YouTube video about documenting AGI",
       "category": "🛠 TECH",
-      "done": false
+      "done": true
     },
     {
       "id": "chatgpt-canary",
       "category": "🛠 TECH",
-      "done": false,
+      "done": true,
       "text": "ChatGPT as an app via Canary browser (from your HOME tree)"
     },
     {
@@ -412,7 +413,7 @@
       "id": "dentist-payment",
       "text": "Message the dentist office about payment (the IVA form was only half of it)",
       "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
+      "done": true
     },
     {
       "id": "mandatory-training",
@@ -424,13 +425,13 @@
       "id": "julie-screen",
       "text": "Camera protector on Julie's phone. It is on your desk in Guatemala, so this waits for the 24th.",
       "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
+      "done": true
     },
     {
       "id": "swiss-army-knife",
       "text": "Find the Swiss Army knife and bring it in to work (cutting an eraser)",
       "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
+      "done": true
     },
     {
       "id": "viture-return",
@@ -448,25 +449,25 @@
       "id": "voip-inbound",
       "text": "VOIP at 1080: dials out but does not ring on incoming. Check SIP ALG off on the Diallog router first, then shorten the registration/keepalive interval, then confirm the number is provisioned inbound.",
       "category": "🛠 TECH",
-      "done": false
+      "done": true
     },
     {
       "id": "diallog-router",
       "text": "Collect the Diallog REPLACEMENT router. ⚠️ If the old one is being swapped, re-check the VOIP: SIP ALG off on the NEW box before assuming the phone is still broken.",
       "category": "🏡 1080 / CANADA",
-      "done": false
+      "done": true
     },
     {
       "id": "diallog-call",
       "text": "Call Diallog about the house phone not ringing. Ask them ONE thing directly: is the number provisioned for INBOUND, not just outbound? Tell them outgoing works and shows the right caller ID, so registration is fine. That skips twenty minutes of scripted troubleshooting.",
       "category": "🏡 1080 / CANADA",
-      "done": false
+      "done": true
     },
     {
       "id": "chromecast-ethernet",
       "text": "Ethernet adapter for the Chromecast / streaming stick. Google made an official one; check it is still sold and order if so. For 1080, where wifi may be the weak link.",
       "category": "🛒 SHOPPING LIST",
-      "done": false
+      "done": true
     },
     {
       "id": "plex-cloud",
@@ -478,21 +479,27 @@
       "id": "phone-port",
       "text": "Home phone: move to the $5 ISP-independent plan and PORT the number. Diallog and you both spent hours and it never rang, including with the handset straight into the modem, so the router is ruled out.",
       "category": "🏡 1080 / CANADA",
-      "done": false
+      "done": true
     },
     {
       "id": "viture-return-addr",
       "text": "VITURE warranty: what RETURN address is on the claim? You leave Canada Sunday. If they ship the repaired unit to where you are staying, it arrives after you have gone. Bernice at 925 9th Ave A East, N4K 6Y4, is the address that actually receives post.",
-      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
+      "category": "🥽 VITURE — mailed in, one thing left",
       "done": false
     },
     {
       "id": "lore-altspace",
       "text": "LORE: the AltspaceVR Dhaka year. All sources now located and mapped. Still to do: read the two Katie Kelly emails, the Microsoft prep doc and the VRLA script, then write YOUR version into lore. The Seattle Times has the journalism; your account is not written down anywhere.",
       "category": "🛠 TECH",
-      "done": false,
+      "done": true,
       "url": "https://drive.google.com/drive/search?q=Altspace",
       "linkLabel": "the Drive files"
+    },
+    {
+      "id": "monitors-basement",
+      "text": "Take the monitors to the basement.",
+      "category": "🏡 1080 / CANADA",
+      "done": false
     }
   ]
 }
