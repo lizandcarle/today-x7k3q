@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
-  "updated": "2026-08-20T13:55:00-06:00",
-  "note": "Packing list is back, at the top. You fly Sunday.",
+  "updated": "2026-08-20T18:15:00-06:00",
+  "note": "Three days. Packing is one item. The scan is the only thing that expires.",
   "items": [
     {
       "id": "wf-job",
@@ -485,6 +485,14 @@
       "text": "VITURE warranty: what RETURN address is on the claim? You leave Canada Sunday. If they ship the repaired unit to where you are staying, it arrives after you have gone. Bernice at 925 9th Ave A East, N4K 6Y4, is the address that actually receives post.",
       "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
       "done": false
+    },
+    {
+      "id": "lore-altspace",
+      "text": "LORE: the AltspaceVR Dhaka year. All sources now located and mapped. Still to do: read the two Katie Kelly emails, the Microsoft prep doc and the VRLA script, then write YOUR version into lore. The Seattle Times has the journalism; your account is not written down anywhere.",
+      "category": "🛠 TECH",
+      "done": false,
+      "url": "https://drive.google.com/drive/search?q=Altspace",
+      "linkLabel": "the Drive files"
     }
   ]
 }
