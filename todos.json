@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-21",
-  "updated": "2026-08-21T21:55:00-06:00",
+  "date": "2026-08-22",
+  "updated": "2026-08-22T13:30:00-06:00",
   "note": "Tomorrow is the last day in the house. Sunday you fly.",
   "items": [
     {
@@ -260,7 +260,7 @@
       "id": "subgenius-stang",
       "text": "Reply to Rev. Ivan Stang with your address, and send the $10 postage via the donation button on subgenius.com. He said yes to replacing the card.",
       "category": "⛪ PERSONAL",
-      "done": false,
+      "done": true,
       "url": "https://subgenius.com",
       "linkLabel": "subgenius.com"
     },
