@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "updated": "2026-08-21T18:15:00-06:00",
+  "updated": "2026-08-21T21:55:00-06:00",
   "note": "Tomorrow is the last day in the house. Sunday you fly.",
   "items": [
     {
@@ -285,7 +285,7 @@
       "id": "vit-video",
       "category": "🥽 VITURE WARRANTY CLAIM",
       "done": false,
-      "text": "Take a 20-second video: press the dim button so it visibly responds, while the display stays black and no on-device menu appears. That single clip is the whole case."
+      "text": "THE VIDEO, one take, ~20 seconds. (1) Start on the cable plugged into the laptop. (2) Show the host recognising them: Displays pane or the terminal output. That half proves it is not the computer. (3) Turn the lenses to face your phone and press the dim button. A working pair leaks visible glow from the eyepieces; yours will not. (4) Say out loud: 'No on-device menu appears, which should display even with no source connected.' You are filming an ABSENCE, not a screen. Dark lenses on camera are the evidence."
     },
     {
       "id": "vit-email",
