@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-22",
-  "updated": "2026-08-22T18:15:00-06:00",
-  "note": "Last night in Canada. Tomorrow: AV325 at 17:15, home by 23:10.",
+  "date": "2026-08-23",
+  "updated": "2026-08-23T18:15:00-06:00",
+  "note": "Home tonight. Tomorrow everything unparks: work, FSDs, exercise.",
   "items": [
     {
       "id": "wf-job",
@@ -437,7 +437,7 @@
       "id": "viture-return",
       "text": "VITURE: run the KIHENG test first (Mac HDMI → KIHENG with power → glasses). Still black and the warranty claim is unarguable.",
       "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
+      "done": true
     },
     {
       "id": "julie-chatgpt",
@@ -498,6 +498,12 @@
     {
       "id": "monitors-basement",
       "text": "Take the monitors to the basement.",
+      "category": "🏡 1080 / CANADA",
+      "done": false
+    },
+    {
+      "id": "photo-biz-card",
+      "text": "Photograph your actual business card into the brain. Orson had to rebuild it from your PCF and an embassy signature block on the plane. It will come up again.",
       "category": "🏡 1080 / CANADA",
       "done": false
     }
