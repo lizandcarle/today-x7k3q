@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-23",
-  "updated": "2026-08-23T18:15:00-06:00",
-  "note": "Home tonight. Tomorrow everything unparks: work, FSDs, exercise.",
+  "date": "2026-08-24",
+  "updated": "2026-08-24T18:10:00-06:00",
+  "note": "First day back. Exercise restarts at Cycle Day 1. The FSD group is off the parked shelf. VITURE is sent and waiting.",
   "items": [
     {
       "id": "wf-job",
@@ -25,487 +25,352 @@
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
-      "id": "pk-decide",
-      "text": "Almost nothing has to travel. The VITURE is mailed in for warranty, the Thunderbolt hub already arrived in Guatemala, the case is on the phone. The Quest 2 comes back with you. Everything else bought this trip STAYS at 1080.",
-      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
-      "done": false
+      "id": "rsvp-us-lunch",
+      "type": null,
+      "text": "RSVP the US foreign assistance lunch, WED 26 AUG. One name from the mission, reply to Erin Krasik, cc José Guillermo López and Cynthia Fuentes. Katherine Bowles is the incoming Assistant Secretary for Legislative Affairs; background is filed.",
+      "category": "🔴 THIS WEEK"
     },
     {
-      "id": "pk-quest",
-      "text": "FLIES: the Quest 2 itself. Not a controller, and not a Quest 3. He is bringing the headset back with him.",
-      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
-      "done": false
+      "id": "cal-feed",
+      "type": null,
+      "text": "Fix the work-calendar feed. The automation never fired and the home-screen icon broke too. Likely cause: the icon points at a shortcut NAME that no longer matches after duplicates piled up. Rename or rebuild the icon.",
+      "category": "🔴 THIS WEEK"
     },
     {
-      "id": "pk-case",
-      "text": "FLIES: the iPhone case. JETech, dark blue.",
-      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
-      "done": true
+      "id": "retro-audit",
+      "type": null,
+      "text": "The retrospective audit you asked for on 5 Aug. Proposal is written to be read cold: wiki/synthesis/2026-08-05-retrospective-audit-proposal.md",
+      "category": "🔴 THIS WEEK"
     },
     {
-      "id": "pk-hub",
-      "text": "FLIES: the Thunderbolt hub.",
-      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
-      "done": true
+      "id": "sonia-meda",
+      "type": null,
+      "text": "Ask Sonia how the MEDA Fruit Supply Chain feedback to Marie-Hélène went. Her deadline was 12 Aug. ⚠️ She starts vacation FRIDAY.",
+      "category": "🔴 THIS WEEK"
     },
     {
-      "id": "pk-viture",
-      "text": "FLIES: the VITURE Beast, if it came with you. The warranty claim needs the unit in your hands, and it is still open.",
-      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
-      "done": true
-    },
-    {
-      "id": "pk-stays",
-      "text": "STAYS at 1080: door lock, cameras, door handles, floor lamps, telephone stand, TV stand, bulbs, batteries, the Harry's razor, the rotary phone and VOIP handset, the streaming stick.",
-      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
-      "done": false
-    },
-    {
-      "id": "pk-scans",
-      "text": "BEFORE YOU LEAVE THE HOUSE: confirm the Polycam and Scaniverse scans are actually uploaded and visible in the apps, not sitting unprocessed on the phone. You cannot re-shoot an empty house from Guatemala.",
-      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
-      "done": false
-    },
-    {
-      "id": "pk-fare",
-      "text": "⚠️ TOMORROW: AV325 leaves Toronto 17:15. Light fare, ref AUNDHH, MRO confirmed at the other end for 23:30. Check the baggage allowance BEFORE you go, not at the desk.",
-      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
-      "done": false
-    },
-    {
-      "id": "pk-charger",
-      "text": "Chargers, the Apple Watch cable if you brought it, and anything plugged in around the house. The empty-house sweep: outlets, bathroom, bedside.",
-      "category": "🧳 PACKING FOR SUNDAY — AV325 dep 17:15",
-      "done": false
-    },
-    {
-      "id": "shop-vga",
-      "text": "VGA cable",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "shop-doorlock",
-      "text": "WiFi door lock for 1080",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "shop-cameras",
-      "text": "Order the Amazon cameras for 1080. Also the thing that makes the mail plan work: you see post arrive, Bernice collects once.",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "shop-quest-controller",
-      "category": "🛒 SHOPPING LIST",
-      "done": true,
-      "text": "Quest 3 controller — NOT BUYING. He bailed; the headset is an older Quest 2."
-    },
-    {
-      "id": "shop-iphone-case",
-      "text": "Grippy iPhone 17 Pro case: JETech Liquid Silicone, 6.3\", dark blue.",
-      "category": "🛒 SHOPPING LIST",
-      "done": true,
-      "url": "https://a.co/d/085sR0YP",
-      "linkLabel": "Amazon"
-    },
-    {
-      "id": "shop-streamer",
-      "category": "🛒 SHOPPING LIST",
-      "done": true,
-      "text": "Streaming stick for 1080. ⚠️ Chromecast is discontinued (Aug 2024). Successor is the $100 Google TV Streamer, which is overkill for a $10 TV. A used Chromecast with Google TV, or a cheap Roku/Fire Stick, does the job."
-    },
-    {
-      "id": "shop-watch-cable",
-      "text": "Apple Watch USB-C charger cable",
-      "category": "🛒 SHOPPING LIST",
-      "done": false
-    },
-    {
-      "id": "shop-wingspan",
-      "text": "Wingspan Etsy items: Julie's gift",
-      "category": "🛒 SHOPPING LIST",
-      "done": false
-    },
-    {
-      "id": "shop-tb-hub",
-      "text": "Thunderbolt hub",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "shop-aa",
-      "text": "AA batteries, a bunch",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "shop-harrys",
-      "text": "Another Harry's razor, to LEAVE at 1080 so you stop packing one",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "wf-doorhandles",
-      "text": "Door handles",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "wf-floorlamps",
-      "text": "Floor lamps",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "wf-phonestand",
-      "text": "Telephone stand",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "wf-tvstand",
-      "text": "TV stand",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "wf-bulbs",
-      "text": "Bright light bulbs",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "wf-voipphone",
-      "text": "Telephone for the household VOIP (goes with the rotary phone and the pulse-to-tone adapter)",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "shop-wirebrush",
-      "text": "Wire brush for animal hair",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "shop-carpetshampoo",
-      "text": "RENT a carpet shampooer (rental, not a purchase)",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "shop-bathknob",
-      "text": "Bathroom doorknob",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "scan-polycam",
-      "text": "1. POLYCAM (free). Install, choose the LiDAR / Room mode, walk each room once. Gives you a floor plan with REAL MEASUREMENTS. This is the one that answers the couch and the 120-inch wall.",
-      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
-      "done": false,
-      "url": "https://poly.cam/",
-      "linkLabel": "Polycam"
-    },
-    {
-      "id": "scan-splat",
-      "text": "2. SCANIVERSE (free). Splat capture, 1-3 min per room. ⚠️ The Quest walkthrough needs a Quest 3 or 3S; your Quest 2 will not run it. Capture anyway: the scan is a file and it keeps, and an unscanned empty house is gone for good.",
-      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
-      "done": false,
-      "url": "https://scaniverse.com/",
-      "linkLabel": "Scaniverse"
-    },
-    {
-      "id": "scan-how",
-      "text": "HOW TO NOT WASTE THE TRIP: go slowly and overlap. Blank walls confuse it, so keep trim, outlets, windows and door frames in shot. Curtains open. Polycam first in each room, then Scaniverse. Two passes, same walk.",
-      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
-      "done": false
-    },
-    {
-      "id": "scan-every",
-      "text": "EVERY room, plus basement, garage and a lap of the outside. The house is empty now, which scans far better than furnished, and you cannot come back for the one you skipped.",
-      "category": "🔴 THE HOUSE SCAN — only possible while you are standing in it",
-      "done": false
-    },
-    {
-      "id": "canada-id",
-      "text": "Driver's licence + health card address. 🔴 New card takes 4-6 WEEKS, so it lands after you fly home on the 23rd. Use a MAILING address separate from the residential one: Bernice's, 925 9th Ave A E. ⚠️ If it is an Enhanced licence there is no online option.",
-      "category": "🏡 1080 / CANADA",
-      "done": false,
-      "url": "https://www.ontario.ca/page/change-address-drivers-licence-vehicle-permit-and-health-card",
-      "linkLabel": "ServiceOntario"
-    },
-    {
-      "id": "canada-post",
-      "text": "Canada Post forwarding mailbox. 🔴 Do the ID change FIRST. Ontario mails the card 'do not forward', so a redirect cannot carry it. Your own catch, 11 Aug.",
-      "category": "🏡 1080 / CANADA",
-      "done": false,
-      "url": "https://www.canadapost-postescanada.ca/cpc/en/personal/receiving/manage-mail/mail-forwarding.page",
-      "linkLabel": "Canada Post"
-    },
-    {
-      "id": "mro-aug23",
-      "text": "Book MRO for the 23rd arrival (AV578 lands 23:10). You said next week, so it sits until the 17th.",
-      "category": "🏡 1080 / CANADA",
-      "done": true
+      "id": "idb-tc",
+      "type": null,
+      "text": "IDB migration TC, comments due 4 Sept COB. USD $300k / 36 months, Plan Retorno al Hogar + the IGM. You asked to be flagged on the 2nd. Sonia is away from the 28th.",
+      "category": "🔴 THIS WEEK"
     },
     {
       "id": "mro-aug31",
-      "text": "Book MRO: Mon Aug 31 airport pickup — AV578 lands 11:10 PM (Julie)",
-      "category": "🏡 1080 / CANADA",
-      "done": false
+      "type": null,
+      "text": "Book the MRO for Mon 31 Aug: Julie lands 23:10.",
+      "category": "🔴 THIS WEEK"
     },
     {
-      "id": "subgenius-stang",
-      "text": "Reply to Rev. Ivan Stang with your address, and send the $10 postage via the donation button on subgenius.com. He said yes to replacing the card.",
-      "category": "⛪ PERSONAL",
-      "done": true,
-      "url": "https://subgenius.com",
-      "linkLabel": "subgenius.com"
+      "id": "cmm-agenda",
+      "type": null,
+      "text": "CMM/OPS is Wed 16:00 and agenda items, mission events and CBS whereabouts are due the DAY BEFORE.",
+      "category": "🔴 THIS WEEK"
     },
     {
-      "id": "subgenius-addr",
-      "text": "ADDRESS SETTLED: Bernice Davies, 925 9th Ave \"A\" East, Owen Sound, ON N4K 6Y4. Use this for the licence, the health card and the SubGenius card.",
-      "category": "⛪ PERSONAL",
-      "done": true,
-      "url": "https://www.canadapost-postescanada.ca/info/mc/personal/postalcode/fpc.jsf",
-      "linkLabel": "Canada Post lookup"
+      "id": "ex-press",
+      "type": null,
+      "text": "Dumbbell floor press",
+      "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
     },
     {
-      "id": "vit-ref",
-      "type": "ref",
-      "category": "🥽 VITURE WARRANTY CLAIM",
-      "text": "The full diagnosis, log evidence and test results",
-      "url": "https://drive.google.com/drive/search?q=viture%20orsdoc",
-      "linkLabel": "Open in Drive",
-      "done": false
+      "id": "ex-row",
+      "type": null,
+      "text": "Bent-over row",
+      "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
     },
     {
-      "id": "vit-video",
-      "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
-      "text": "THE VIDEO, one take, ~20 seconds. (1) Start on the cable plugged into the laptop. (2) Show the host recognising them: Displays pane or the terminal output. That half proves it is not the computer. (3) Turn the lenses to face your phone and press the dim button. A working pair leaks visible glow from the eyepieces; yours will not. (4) Say out loud: 'No on-device menu appears, which should display even with no source connected.' You are filming an ABSENCE, not a screen. Dark lenses on camera are the evidence."
+      "id": "ex-ohp",
+      "type": null,
+      "text": "Overhead press",
+      "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
     },
     {
-      "id": "vit-email",
-      "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
-      "text": "Email happycustomer@viture.us. Order 113-4307365-6229868. Attach the video. Say: powers on, dim button responds, zero video output, no on-device menu with no source attached.",
-      "url": "mailto:happycustomer@viture.us",
-      "linkLabel": "Email VITURE"
+      "id": "ex-curl",
+      "type": null,
+      "text": "Curls",
+      "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
     },
     {
-      "id": "vit-logs",
-      "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
-      "text": "Include the three log lines: DP alt mode negotiated, HPD asserted, sinkCount 0. Says the fault is inside the glasses, not the host."
+      "id": "ex-beatsaber",
+      "type": null,
+      "text": "Beat Saber, 30 minutes",
+      "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
     },
     {
-      "id": "vit-tests",
-      "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
-      "text": "Say the tests are already done: HDMI via KIHENG, multiple hosts, both cable orientations. All black. Kills the \"your computer does not support DP alt mode\" reply."
+      "id": "ex-steps",
+      "type": null,
+      "text": "7,000 steps",
+      "category": "✅ EVERY DAY"
     },
     {
-      "id": "vit-ask",
-      "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
-      "text": "Ask directly whether there is a display-side recovery flash or reset combo. The web updater only reaches the USB branch."
+      "id": "ex-diet",
+      "type": null,
+      "text": "Diet: 1,234 cal / 110g protein",
+      "category": "✅ EVERY DAY"
     },
     {
-      "id": "vit-wait",
-      "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
-      "text": "Expect a reply in 1-2 business days, and up to 7 days for the claim decision."
-    },
-    {
-      "id": "vit-ship",
-      "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false,
-      "text": "When they send an address: ORIGINAL PACKAGING and a TRACKABLE method, both required. You are in Canada until the 23rd, so ship from there rather than from Guatemala."
-    },
-    {
-      "id": "nest-deploy",
-      "category": "🪺 NEST — when a quiet hour turns up",
-      "done": false,
-      "text": "Deploy Nest: openssl rand -hex 24 → paste into NEST_KEY in api.php → upload both files to public_html/nest/ → open the URL, hit ⚙, paste key. Then send Orson the URL and key."
-    },
-    {
-      "id": "nest-ftp",
-      "category": "🪺 NEST — when a quiet hour turns up",
-      "done": false,
-      "text": "In cPanel, make an FTP account restricted to public_html/nest/ for Orson. Not the master login."
-    },
-    {
-      "id": "quest-optimizer",
-      "text": "Add the Quest Games Optimizer",
-      "category": "🛠 TECH",
-      "done": false
-    },
-    {
-      "id": "pacman-mod",
-      "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)",
-      "category": "🛠 TECH",
-      "done": false
-    },
-    {
-      "id": "openclaw-9",
-      "text": "Test if Telegram/OpenClaw works on the $9/mo ChatGPT tier",
-      "category": "🛠 TECH",
-      "done": true
-    },
-    {
-      "id": "yt-agi",
-      "text": "Look up a YouTube video about documenting AGI",
-      "category": "🛠 TECH",
-      "done": true
-    },
-    {
-      "id": "chatgpt-canary",
-      "category": "🛠 TECH",
-      "done": true,
-      "text": "ChatGPT as an app via Canary browser (from your HOME tree)"
+      "id": "ex-vitamin",
+      "type": null,
+      "text": "Multivitamin",
+      "category": "✅ EVERY DAY"
     },
     {
       "id": "fsd-50",
+      "type": null,
       "text": "File the reconciliation for the FSD 50 advance",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
+      "category": "💰 FSDs & CLAIMS — back on the board today"
+    },
+    {
+      "id": "lily-trigger",
+      "type": null,
+      "text": "⏳ TRIGGER STEP, do this early: ask Lily's school for the enrolment letter. The registrar holds the clock. 28 Nov is when the coverage must EXIST, not when to start asking.",
+      "category": "💰 FSDs & CLAIMS — back on the board today"
     },
     {
       "id": "lily-enrolment",
+      "type": null,
       "text": "Upload Lily's proof of enrolment",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
+      "category": "💰 FSDs & CLAIMS — back on the board today"
     },
     {
       "id": "furniture-enquiry",
+      "type": null,
       "text": "Send the enquiry about furniture delivery",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
+      "category": "💰 FSDs & CLAIMS — back on the board today"
     },
     {
       "id": "fsd-dental",
+      "type": null,
       "text": "File the dental claim",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
+      "category": "💰 FSDs & CLAIMS — back on the board today"
     },
     {
       "id": "fsd-uber-hn",
+      "type": null,
       "text": "Honduras Uber period ~$1,000: verify window with Rizki first",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
+      "category": "💰 FSDs & CLAIMS — back on the board today"
     },
     {
       "id": "fsd-uber-gt",
+      "type": null,
       "text": "Guatemala City Uber period ~$1,000: same, verify window",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
+      "category": "💰 FSDs & CLAIMS — back on the board today"
     },
     {
-      "id": "horizons",
-      "text": "Research Horizons of Friendship ($17M repro health)",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
+      "id": "mygcpay-cases",
+      "type": null,
+      "text": "MyGCPay shows 5 open items under Cases and Enquiries. One look next time you are in there.",
+      "category": "💰 FSDs & CLAIMS — back on the board today"
     },
     {
-      "id": "dentist-payment",
-      "text": "Message the dentist office about payment (the IVA form was only half of it)",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": true
+      "id": "vit-sent",
+      "type": null,
+      "text": "✅ Video filmed and claim submitted 24 Aug. The video was the last blocker.",
+      "category": "🥽 VITURE — CLAIM SENT, NOW WAITING"
     },
     {
-      "id": "mandatory-training",
-      "text": "Mandatory trainings — CFSI/CSPS, from home, since work hours aren't happening",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
+      "id": "vit-wait",
+      "type": null,
+      "text": "⏳ They quote 1-2 business days to reply, up to 7 for the decision. So expect an answer around WED 26 AUG.",
+      "category": "🥽 VITURE — CLAIM SENT, NOW WAITING"
     },
     {
-      "id": "julie-screen",
-      "text": "Camera protector on Julie's phone. It is on your desk in Guatemala, so this waits for the 24th.",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": true
-    },
-    {
-      "id": "swiss-army-knife",
-      "text": "Find the Swiss Army knife and bring it in to work (cutting an eraser)",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": true
-    },
-    {
-      "id": "viture-return",
-      "text": "VITURE: run the KIHENG test first (Mac HDMI → KIHENG with power → glasses). Still black and the warranty claim is unarguable.",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": true
-    },
-    {
-      "id": "julie-chatgpt",
-      "text": "Switch the credit card on Julie's ChatGPT",
-      "category": "💤 PARKED UNTIL AUG 24 — you are on leave",
-      "done": false
-    },
-    {
-      "id": "voip-inbound",
-      "text": "VOIP at 1080: dials out but does not ring on incoming. Check SIP ALG off on the Diallog router first, then shorten the registration/keepalive interval, then confirm the number is provisioned inbound.",
-      "category": "🛠 TECH",
-      "done": true
-    },
-    {
-      "id": "diallog-router",
-      "text": "Collect the Diallog REPLACEMENT router. ⚠️ If the old one is being swapped, re-check the VOIP: SIP ALG off on the NEW box before assuming the phone is still broken.",
-      "category": "🏡 1080 / CANADA",
-      "done": true
-    },
-    {
-      "id": "diallog-call",
-      "text": "Call Diallog about the house phone not ringing. Ask them ONE thing directly: is the number provisioned for INBOUND, not just outbound? Tell them outgoing works and shows the right caller ID, so registration is fine. That skips twenty minutes of scripted troubleshooting.",
-      "category": "🏡 1080 / CANADA",
-      "done": true
-    },
-    {
-      "id": "chromecast-ethernet",
-      "text": "Ethernet adapter for the Chromecast / streaming stick. Google made an official one; check it is still sold and order if so. For 1080, where wifi may be the weak link.",
-      "category": "🛒 SHOPPING LIST",
-      "done": true
-    },
-    {
-      "id": "plex-cloud",
-      "text": "Look up moving the Plex library to the cloud. The Canada side cannot watch, and the Guatemala outage is exactly why: a home-hosted server dies with the house internet.",
-      "category": "🛠 TECH",
-      "done": false
-    },
-    {
-      "id": "phone-port",
-      "text": "Home phone: move to the $5 ISP-independent plan and PORT the number. Diallog and you both spent hours and it never rang, including with the handset straight into the modem, so the router is ruled out.",
-      "category": "🏡 1080 / CANADA",
-      "done": true
+      "id": "vit-chase",
+      "type": null,
+      "text": "Chase if silent: THU 27 AUG.",
+      "category": "🥽 VITURE — CLAIM SENT, NOW WAITING"
     },
     {
       "id": "viture-return-addr",
-      "text": "VITURE warranty: what RETURN address is on the claim? You leave Canada Sunday. If they ship the repaired unit to where you are staying, it arrives after you have gone. Bernice at 925 9th Ave A East, N4K 6Y4, is the address that actually receives post.",
-      "category": "🥽 VITURE WARRANTY CLAIM",
-      "done": false
+      "type": null,
+      "text": "🔴 The real problem is not the wait: you are no longer in Canada with the glasses. If they answer this week, who mails it? Warranty runs to ~19 May 2027, so Christmas costs you nothing but patience.",
+      "category": "🥽 VITURE — CLAIM SENT, NOW WAITING"
     },
     {
-      "id": "lore-altspace",
-      "text": "LORE: the AltspaceVR Dhaka year. All sources now located and mapped. Still to do: read the two Katie Kelly emails, the Microsoft prep doc and the VRLA script, then write YOUR version into lore. The Seattle Times has the journalism; your account is not written down anywhere.",
-      "category": "🛠 TECH",
-      "done": true,
-      "url": "https://drive.google.com/drive/search?q=Altspace",
-      "linkLabel": "the Drive files"
+      "id": "vit-ship",
+      "type": null,
+      "text": "When they send an address: ORIGINAL PACKAGING and a TRACKABLE method, both required. You are in Canada until the 23rd, so ship from there rather than from Guatemala.",
+      "category": "🥽 VITURE — CLAIM SENT, NOW WAITING"
+    },
+    {
+      "id": "canada-id",
+      "type": null,
+      "text": "Driver's licence + health card address. 🔴 New card takes 4-6 WEEKS, so it lands after you fly home on the 23rd. Use a MAILING address separate from the residential one: Bernice's, 925 9th Ave A E. ⚠️ If it is an Enhanced licence there is no online option.",
+      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+    },
+    {
+      "id": "canada-post",
+      "type": null,
+      "text": "Canada Post forwarding mailbox. 🔴 Do the ID change FIRST. Ontario mails the card 'do not forward', so a redirect cannot carry it. Your own catch, 11 Aug.",
+      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+    },
+    {
+      "id": "diallog-router",
+      "type": null,
+      "text": "Collect the Diallog REPLACEMENT router. ⚠️ If the old one is being swapped, re-check the VOIP: SIP ALG off on the NEW box before assuming the phone is still broken.",
+      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+    },
+    {
+      "id": "diallog-call",
+      "type": null,
+      "text": "Call Diallog about the house phone not ringing. Ask them ONE thing directly: is the number provisioned for INBOUND, not just outbound? Tell them outgoing works and shows the right caller ID, so registration is fine. That skips twenty minutes of scripted troubleshooting.",
+      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+    },
+    {
+      "id": "phone-port",
+      "type": null,
+      "text": "Home phone: move to the $5 ISP-independent plan and PORT the number. Diallog and you both spent hours and it never rang, including with the handset straight into the modem, so the router is ruled out.",
+      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
     },
     {
       "id": "monitors-basement",
+      "type": null,
       "text": "Take the monitors to the basement.",
-      "category": "🏡 1080 / CANADA",
-      "done": false
+      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+    },
+    {
+      "id": "utilities-1080",
+      "type": null,
+      "text": "Utilities scheduling for 1080. Ticked on the page in July but still open in your HOME tree, tagged #julie is doing this.",
+      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+    },
+    {
+      "id": "computer-apps",
+      "type": null,
+      "text": "Set up the computer apps at 1080. From your HOME tree, not previously on this list.",
+      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+    },
+    {
+      "id": "write-agent",
+      "type": null,
+      "text": "Write to the agent to explain. Still in your HOME tree and still unexplained; tell me what it means and I will make it concrete.",
+      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+    },
+    {
+      "id": "subgenius-card",
+      "type": null,
+      "text": "✅ Paid and posted. Stang says the $10 you sent for postage cost him $18.37. The card is on its way to Bernice's.",
+      "category": "⛪ PERSONAL"
     },
     {
       "id": "photo-biz-card",
+      "type": null,
       "text": "Photograph your actual business card into the brain. Orson had to rebuild it from your PCF and an embassy signature block on the plane. It will come up again.",
-      "category": "🏡 1080 / CANADA",
-      "done": false
+      "category": "⛪ PERSONAL"
+    },
+    {
+      "id": "telephone-game",
+      "type": null,
+      "text": "The telephone game story. Still owed. The ~1990 pamphlet turned up in July.",
+      "category": "⛪ PERSONAL"
+    },
+    {
+      "id": "lore-altspace",
+      "type": null,
+      "text": "LORE: the AltspaceVR Dhaka year. All sources now located and mapped. Still to do: read the two Katie Kelly emails, the Microsoft prep doc and the VRLA script, then write YOUR version into lore. The Seattle Times has the journalism; your account is not written down anywhere.",
+      "category": "⛪ PERSONAL"
+    },
+    {
+      "id": "life-projects",
+      "type": null,
+      "text": "From your LIFE tree, unfiled until tonight: the unfinished videogame projects, vibe-coding, and hardware projects. Three standing categories, no tasks under them yet.",
+      "category": "⛪ PERSONAL"
+    },
+    {
+      "id": "shop-wingspan",
+      "type": null,
+      "text": "Wingspan Etsy items for Julie's gift",
+      "category": "🛒 SHOPPING LIST"
+    },
+    {
+      "id": "shop-mirage",
+      "type": null,
+      "text": "Mirage 3D hologram maker",
+      "category": "🛒 SHOPPING LIST"
+    },
+    {
+      "id": "shop-ticket",
+      "type": null,
+      "text": "Ticket to Ride: Northern Lights",
+      "category": "🛒 SHOPPING LIST"
+    },
+    {
+      "id": "shop-watch-cable",
+      "type": null,
+      "text": "Apple Watch USB-C charger cable",
+      "category": "🛒 SHOPPING LIST"
+    },
+    {
+      "id": "nest-rename",
+      "type": null,
+      "text": "🔴 RENAME IT FIRST. Your call, 23 Aug: Nest is the doorbell company, and you are installing a door lock and cameras at 1080.",
+      "category": "🪺 NEST — when a quiet hour turns up"
+    },
+    {
+      "id": "nest-deploy",
+      "type": null,
+      "text": "Deploy Nest: openssl rand -hex 24 → paste into NEST_KEY in api.php → upload both files to public_html/nest/ → open the URL, hit ⚙, paste key. Then send Orson the URL and key.",
+      "category": "🪺 NEST — when a quiet hour turns up"
+    },
+    {
+      "id": "nest-ftp",
+      "type": null,
+      "text": "In cPanel, make an FTP account restricted to public_html/nest/ for Orson. Not the master login.",
+      "category": "🪺 NEST — when a quiet hour turns up"
+    },
+    {
+      "id": "house-app",
+      "type": null,
+      "text": "The 1080 house app: rooms, jobs with a status pipeline, contractors as their own records, shared with Julie. Spec written from your dictation. Open question: you, Fable, or me writing the prompt for Fable.",
+      "category": "🪺 NEST — when a quiet hour turns up"
+    },
+    {
+      "id": "voip-inbound",
+      "type": null,
+      "text": "VOIP at 1080: dials out but does not ring on incoming. Check SIP ALG off on the Diallog router first, then shorten the registration/keepalive interval, then confirm the number is provisioned inbound.",
+      "category": "🛠 TECH"
+    },
+    {
+      "id": "plex-cloud",
+      "type": null,
+      "text": "Look up moving the Plex library to the cloud. The Canada side cannot watch, and the Guatemala outage is exactly why: a home-hosted server dies with the house internet.",
+      "category": "🛠 TECH"
+    },
+    {
+      "id": "quest-optimizer",
+      "type": null,
+      "text": "Add the Quest Games Optimizer",
+      "category": "🛠 TECH"
+    },
+    {
+      "id": "pacman-mod",
+      "type": null,
+      "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)",
+      "category": "🛠 TECH"
+    },
+    {
+      "id": "yt-agi",
+      "type": null,
+      "text": "Look up a YouTube video about documenting AGI",
+      "category": "🛠 TECH"
+    },
+    {
+      "id": "chatgpt-canary",
+      "type": null,
+      "text": "ChatGPT as an app via Canary browser (from your HOME tree)",
+      "category": "🛠 TECH"
+    },
+    {
+      "id": "openclaw-9",
+      "type": null,
+      "text": "Test if Telegram/OpenClaw works on the $9/mo ChatGPT tier",
+      "category": "🛠 TECH"
+    },
+    {
+      "id": "time-machine",
+      "type": null,
+      "text": "Turn on Time Machine to an external drive. There is still no backup of the closet Mac.",
+      "category": "🛠 TECH"
     }
   ]
 }
