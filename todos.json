@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-24",
-  "updated": "2026-08-24T18:10:00-06:00",
-  "note": "First day back. Exercise restarts at Cycle Day 1. The FSD group is off the parked shelf. VITURE is sent and waiting.",
+  "date": "2026-08-25",
+  "updated": "2026-08-25T18:10:00-06:00",
+  "note": "Four meeting times were two hours late in my records and are now fixed. Monday the 31st is three deep. Exercise is still on Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -25,46 +25,58 @@
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
-      "id": "rsvp-us-lunch",
+      "id": "cmm-agenda",
       "type": null,
-      "text": "RSVP the US foreign assistance lunch, WED 26 AUG. One name from the mission, reply to Erin Krasik, cc José Guillermo López and Cynthia Fuentes. Katherine Bowles is the incoming Assistant Secretary for Legislative Affairs; background is filed.",
-      "category": "🔴 THIS WEEK"
+      "text": "🔴 CMM agenda items are due TODAY for tomorrow: agenda, mission events calendar, CBS whereabouts. ⚠️ The meeting is WED 14:00, not 16:00. I had that wrong and fixed it today.",
+      "category": "🔴 TOMORROW AND THIS WEEK"
     },
     {
-      "id": "cal-feed",
+      "id": "us-lunch",
       "type": null,
-      "text": "Fix the work-calendar feed. The automation never fired and the home-screen icon broke too. Likely cause: the icon points at a shortcut NAME that no longer matches after duplicates piled up. Rename or rebuild the icon.",
-      "category": "🔴 THIS WEEK"
+      "text": "🇺🇸 US foreign assistance lunch, WED. An MRO is booked in your name: Chancery → Ambia Restaurante 12:45, back 14:30. If that is the lunch, the RSVP is done. Say the word and I close it.",
+      "category": "🔴 TOMORROW AND THIS WEEK"
     },
     {
-      "id": "retro-audit",
+      "id": "dev-thu",
       "type": null,
-      "text": "The retrospective audit you asked for on 5 Aug. Proposal is written to be read cold: wiki/synthesis/2026-08-05-retrospective-audit-proposal.md",
-      "category": "🔴 THIS WEEK"
+      "text": "DEV team meeting THU 09:00, not 11:00. ⚠️ The Teams link CHANGED: ID 210 893 358 947 68, passcode dF9bc3Ji.",
+      "category": "🔴 TOMORROW AND THIS WEEK"
+    },
+    {
+      "id": "care-followup",
+      "type": null,
+      "text": "THU: CARE Guatemala follow-up. Check what came out of the 11 Aug meeting and whether anything was promised.",
+      "category": "🔴 TOMORROW AND THIS WEEK"
     },
     {
       "id": "sonia-meda",
       "type": null,
-      "text": "Ask Sonia how the MEDA Fruit Supply Chain feedback to Marie-Hélène went. Her deadline was 12 Aug. ⚠️ She starts vacation FRIDAY.",
-      "category": "🔴 THIS WEEK"
+      "text": "Ask Sonia about the MEDA feedback to Marie-Hélène. ⚠️ She is on vacation from FRIDAY.",
+      "category": "🔴 TOMORROW AND THIS WEEK"
     },
     {
-      "id": "idb-tc",
+      "id": "iccg",
       "type": null,
-      "text": "IDB migration TC, comments due 4 Sept COB. USD $300k / 36 months, Plan Retorno al Hogar + the IGM. You asked to be flagged on the 2nd. Sonia is away from the 28th.",
-      "category": "🔴 THIS WEEK"
+      "text": "🕊️ NEW: ICCG on Civic Space, MON 31 AUG 10:00. Ford Foundation + UN Human Rights. Casa Centroamérica report on civil society and independent journalism. Olivier forwarded it on 12 Aug, during your leave.",
+      "category": "🔴 TOMORROW AND THIS WEEK"
+    },
+    {
+      "id": "mon31",
+      "type": null,
+      "text": "🔴 MONDAY 31 AUG IS THREE DEEP: ICCG 10:00, bilat with Olivier 14:00 (not 16:00), Caritas + Food For The Poor 15:00. Review the 'for next bilat' list before it.",
+      "category": "🔴 TOMORROW AND THIS WEEK"
     },
     {
       "id": "mro-aug31",
       "type": null,
-      "text": "Book the MRO for Mon 31 Aug: Julie lands 23:10.",
-      "category": "🔴 THIS WEEK"
+      "text": "Book the MRO for Julie: Mon 31 Aug, lands ~23:10.",
+      "category": "🔴 TOMORROW AND THIS WEEK"
     },
     {
-      "id": "cmm-agenda",
+      "id": "idb-tc",
       "type": null,
-      "text": "CMM/OPS is Wed 16:00 and agenda items, mission events and CBS whereabouts are due the DAY BEFORE.",
-      "category": "🔴 THIS WEEK"
+      "text": "IDB migration TC comments due FRI 4 SEPT. You asked to be flagged on the 2nd. Sonia is away from the 28th.",
+      "category": "🔴 TOMORROW AND THIS WEEK"
     },
     {
       "id": "ex-press",
@@ -118,49 +130,49 @@
       "id": "fsd-50",
       "type": null,
       "text": "File the reconciliation for the FSD 50 advance",
-      "category": "💰 FSDs & CLAIMS — back on the board today"
-    },
-    {
-      "id": "lily-trigger",
-      "type": null,
-      "text": "⏳ TRIGGER STEP, do this early: ask Lily's school for the enrolment letter. The registrar holds the clock. 28 Nov is when the coverage must EXIST, not when to start asking.",
-      "category": "💰 FSDs & CLAIMS — back on the board today"
-    },
-    {
-      "id": "lily-enrolment",
-      "type": null,
-      "text": "Upload Lily's proof of enrolment",
-      "category": "💰 FSDs & CLAIMS — back on the board today"
+      "category": "💰 FSDs & CLAIMS"
     },
     {
       "id": "furniture-enquiry",
       "type": null,
       "text": "Send the enquiry about furniture delivery",
-      "category": "💰 FSDs & CLAIMS — back on the board today"
+      "category": "💰 FSDs & CLAIMS"
     },
     {
       "id": "fsd-dental",
       "type": null,
       "text": "File the dental claim",
-      "category": "💰 FSDs & CLAIMS — back on the board today"
+      "category": "💰 FSDs & CLAIMS"
     },
     {
       "id": "fsd-uber-hn",
       "type": null,
       "text": "Honduras Uber period ~$1,000: verify window with Rizki first",
-      "category": "💰 FSDs & CLAIMS — back on the board today"
+      "category": "💰 FSDs & CLAIMS"
     },
     {
       "id": "fsd-uber-gt",
       "type": null,
       "text": "Guatemala City Uber period ~$1,000: same, verify window",
-      "category": "💰 FSDs & CLAIMS — back on the board today"
+      "category": "💰 FSDs & CLAIMS"
     },
     {
       "id": "mygcpay-cases",
       "type": null,
       "text": "MyGCPay shows 5 open items under Cases and Enquiries. One look next time you are in there.",
-      "category": "💰 FSDs & CLAIMS — back on the board today"
+      "category": "💰 FSDs & CLAIMS"
+    },
+    {
+      "id": "lily-trigger",
+      "type": null,
+      "text": "⏳ TRIGGER STEP, do this early: ask Lily's school for the enrolment letter. The registrar holds the clock. 28 Nov is when the coverage must EXIST, not when to start asking.",
+      "category": "💰 FSDs & CLAIMS"
+    },
+    {
+      "id": "lily-enrolment",
+      "type": null,
+      "text": "Upload Lily's proof of enrolment",
+      "category": "💰 FSDs & CLAIMS"
     },
     {
       "id": "vit-sent",
