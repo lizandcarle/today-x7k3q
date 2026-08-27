@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-25",
-  "updated": "2026-08-25T18:10:00-06:00",
-  "note": "Four meeting times were two hours late in my records and are now fixed. Monday the 31st is three deep. Exercise is still on Day 1.",
+  "date": "2026-08-26",
+  "updated": "2026-08-26T18:10:00-06:00",
+  "note": "Tomorrow is the loud one: DEV at 09:00 on a new link, CARE follow-up, and in Guatemala the IUSI deadline plus the first interpellations.",
   "items": [
     {
       "id": "wf-job",
@@ -25,58 +25,58 @@
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
-      "id": "cmm-agenda",
-      "type": null,
-      "text": "🔴 CMM agenda items are due TODAY for tomorrow: agenda, mission events calendar, CBS whereabouts. ⚠️ The meeting is WED 14:00, not 16:00. I had that wrong and fixed it today.",
-      "category": "🔴 TOMORROW AND THIS WEEK"
-    },
-    {
-      "id": "us-lunch",
-      "type": null,
-      "text": "🇺🇸 US foreign assistance lunch, WED. An MRO is booked in your name: Chancery → Ambia Restaurante 12:45, back 14:30. If that is the lunch, the RSVP is done. Say the word and I close it.",
-      "category": "🔴 TOMORROW AND THIS WEEK"
-    },
-    {
       "id": "dev-thu",
       "type": null,
-      "text": "DEV team meeting THU 09:00, not 11:00. ⚠️ The Teams link CHANGED: ID 210 893 358 947 68, passcode dF9bc3Ji.",
-      "category": "🔴 TOMORROW AND THIS WEEK"
+      "text": "THU 09:00 — DEV team meeting. ⚠️ NEW Teams link: ID 210 893 358 947 68, passcode dF9bc3Ji. Not the old one.",
+      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
     },
     {
       "id": "care-followup",
       "type": null,
-      "text": "THU: CARE Guatemala follow-up. Check what came out of the 11 Aug meeting and whether anything was promised.",
-      "category": "🔴 TOMORROW AND THIS WEEK"
+      "text": "THU — CARE Guatemala follow-up. What came out of the 11 Aug meeting, and was anything promised?",
+      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
+    },
+    {
+      "id": "vit-chase-thu",
+      "type": null,
+      "text": "THU — chase VITURE if they have still not replied. The claim went in Monday and they quote 1-2 business days.",
+      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
     },
     {
       "id": "sonia-meda",
       "type": null,
-      "text": "Ask Sonia about the MEDA feedback to Marie-Hélène. ⚠️ She is on vacation from FRIDAY.",
-      "category": "🔴 TOMORROW AND THIS WEEK"
+      "text": "Ask Sonia about the MEDA feedback. 🔴 She is on vacation from FRIDAY. This week or not at all.",
+      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
     },
     {
-      "id": "iccg",
+      "id": "anne-marie",
       "type": null,
-      "text": "🕊️ NEW: ICCG on Civic Space, MON 31 AUG 10:00. Ford Foundation + UN Human Rights. Casa Centroamérica report on civil society and independent journalism. Olivier forwarded it on 12 Aug, during your leave.",
-      "category": "🔴 TOMORROW AND THIS WEEK"
-    },
-    {
-      "id": "mon31",
-      "type": null,
-      "text": "🔴 MONDAY 31 AUG IS THREE DEEP: ICCG 10:00, bilat with Olivier 14:00 (not 16:00), Caritas + Food For The Poor 15:00. Review the 'for next bilat' list before it.",
-      "category": "🔴 TOMORROW AND THIS WEEK"
+      "text": "FRI 12:30 — Anne-Marie's farewell. Social, not a task.",
+      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
     },
     {
       "id": "mro-aug31",
       "type": null,
-      "text": "Book the MRO for Julie: Mon 31 Aug, lands ~23:10.",
-      "category": "🔴 TOMORROW AND THIS WEEK"
+      "text": "🚐 Book the MRO for Julie: MON 31 AUG, she lands ~23:10. Still open. It stays on this list until it is booked, because she lands either way.",
+      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
+    },
+    {
+      "id": "mon31",
+      "type": null,
+      "text": "🔴 MONDAY IS THREE DEEP: ICCG on Civic Space 10:00 (virtual), bilat with Olivier 14:00, Caritas + Food For The Poor 15:00. Review the 'for next bilat' list before it.",
+      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
     },
     {
       "id": "idb-tc",
       "type": null,
-      "text": "IDB migration TC comments due FRI 4 SEPT. You asked to be flagged on the 2nd. Sonia is away from the 28th.",
-      "category": "🔴 TOMORROW AND THIS WEEK"
+      "text": "IDB migration TC comments due FRI 4 SEPT. Flag set for the 2nd. ⚠️ New context: Guatemala is now itself deporting Hondurans, and this money funds the reception system.",
+      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
+    },
+    {
+      "id": "us-lunch-confirm",
+      "type": null,
+      "text": "🇺🇸 Did the Ambia lunch turn out to be the American delegation? One word and I close the RSVP item and file whatever came of it.",
+      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
     },
     {
       "id": "ex-press",
@@ -133,6 +133,18 @@
       "category": "💰 FSDs & CLAIMS"
     },
     {
+      "id": "lily-trigger",
+      "type": null,
+      "text": "⏳ TRIGGER STEP, do this early: ask Lily's school for the enrolment letter. The registrar holds the clock. 28 Nov is when the coverage must EXIST, not when to start asking.",
+      "category": "💰 FSDs & CLAIMS"
+    },
+    {
+      "id": "lily-enrolment",
+      "type": null,
+      "text": "Upload Lily's proof of enrolment",
+      "category": "💰 FSDs & CLAIMS"
+    },
+    {
       "id": "furniture-enquiry",
       "type": null,
       "text": "Send the enquiry about furniture delivery",
@@ -160,18 +172,6 @@
       "id": "mygcpay-cases",
       "type": null,
       "text": "MyGCPay shows 5 open items under Cases and Enquiries. One look next time you are in there.",
-      "category": "💰 FSDs & CLAIMS"
-    },
-    {
-      "id": "lily-trigger",
-      "type": null,
-      "text": "⏳ TRIGGER STEP, do this early: ask Lily's school for the enrolment letter. The registrar holds the clock. 28 Nov is when the coverage must EXIST, not when to start asking.",
-      "category": "💰 FSDs & CLAIMS"
-    },
-    {
-      "id": "lily-enrolment",
-      "type": null,
-      "text": "Upload Lily's proof of enrolment",
       "category": "💰 FSDs & CLAIMS"
     },
     {
