@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-26",
-  "updated": "2026-08-26T18:10:00-06:00",
-  "note": "Tomorrow is the loud one: DEV at 09:00 on a new link, CARE follow-up, and in Guatemala the IUSI deadline plus the first interpellations.",
+  "date": "2026-08-27",
+  "updated": "2026-08-27T18:10:00-06:00",
+  "note": "Tomorrow: book Julie's MRO, and catch Sonia before she goes. Monday is three deep.",
   "items": [
     {
       "id": "wf-job",
@@ -25,58 +25,52 @@
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
-      "id": "dev-thu",
+      "id": "mro-julie",
       "type": null,
-      "text": "THU 09:00 — DEV team meeting. ⚠️ NEW Teams link: ID 210 893 358 947 68, passcode dF9bc3Ji. Not the old one.",
-      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
+      "text": "🚐 BOOK THE MRO TO COLLECT JULIE. Your own instruction today: put it on tomorrow's list. She lands Mon 31 Aug ~23:10.",
+      "category": "🔴 TOMORROW, FRIDAY 28"
     },
     {
-      "id": "care-followup",
+      "id": "sonia-last",
       "type": null,
-      "text": "THU — CARE Guatemala follow-up. What came out of the 11 Aug meeting, and was anything promised?",
-      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
+      "text": "🔴 SONIA'S LAST DAY BEFORE VACATION. Anything needing her lands tomorrow or waits until September.",
+      "category": "🔴 TOMORROW, FRIDAY 28"
     },
     {
-      "id": "vit-chase-thu",
+      "id": "anne-marie-cancelled",
       "type": null,
-      "text": "THU — chase VITURE if they have still not replied. The claim went in Monday and they quote 1-2 business days.",
-      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
+      "text": "❌ Anne-Marie's farewell is CANCELLED. Nothing to attend. Whether you congratulate her anyway is your call, not a task I invented.",
+      "category": "🔴 TOMORROW, FRIDAY 28"
     },
     {
-      "id": "sonia-meda",
+      "id": "vit-chase",
       "type": null,
-      "text": "Ask Sonia about the MEDA feedback. 🔴 She is on vacation from FRIDAY. This week or not at all.",
-      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
+      "text": "⏳ VITURE: chase if they are still silent. The claim went in Monday.",
+      "category": "🔴 TOMORROW, FRIDAY 28"
     },
     {
-      "id": "anne-marie",
+      "id": "ps-sent",
       "type": null,
-      "text": "FRI 12:30 — Anne-Marie's farewell. Social, not a task.",
-      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
+      "text": "✅ You sent the reply at 16:18, declining the call and asking for a delivery DATE in writing.",
+      "category": "📦 PRICESMART #C086567800"
     },
     {
-      "id": "mro-aug31",
+      "id": "ps-test",
       "type": null,
-      "text": "🚐 Book the MRO for Julie: MON 31 AUG, she lands ~23:10. Still open. It stays on this list until it is booked, because she lands either way.",
-      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
+      "text": "🔴 What counts as an answer: a DATE. Another promise to make contact does not.",
+      "category": "📦 PRICESMART #C086567800"
     },
     {
-      "id": "mon31",
+      "id": "ps-card",
       "type": null,
-      "text": "🔴 MONDAY IS THREE DEEP: ICCG on Civic Space 10:00 (virtual), bilat with Olivier 14:00, Caritas + Food For The Poor 15:00. Review the 'for next bilat' list before it.",
-      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
+      "text": "⚠️ Julie has the card and is back Monday night, so collecting at Pradera is not possible before Tuesday regardless.",
+      "category": "📦 PRICESMART #C086567800"
     },
     {
-      "id": "idb-tc",
+      "id": "ps-refund",
       "type": null,
-      "text": "IDB migration TC comments due FRI 4 SEPT. Flag set for the 2nd. ⚠️ New context: Guatemala is now itself deporting Hondurans, and this money funds the reception system.",
-      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
-    },
-    {
-      "id": "us-lunch-confirm",
-      "type": null,
-      "text": "🇺🇸 Did the Ambia lunch turn out to be the American delegation? One word and I close the RSVP item and file whatever came of it.",
-      "category": "🔴 TOMORROW AND THE REST OF THE WEEK"
+      "text": "💵 If it ends in self-collection, you paid for home delivery and that charge should come back. The unanswered dated request is what makes asking easy.",
+      "category": "📦 PRICESMART #C086567800"
     },
     {
       "id": "ex-press",
@@ -125,6 +119,30 @@
       "type": null,
       "text": "Multivitamin",
       "category": "✅ EVERY DAY"
+    },
+    {
+      "id": "mon-iccg",
+      "type": null,
+      "text": "10:00 — ICCG on Civic Space, virtual. Ford Foundation and UN Human Rights, presenting Casa Centroamérica's report on civil society and independent journalism.",
+      "category": "🔴 MONDAY 31 AUG IS THREE DEEP"
+    },
+    {
+      "id": "mon-bilat",
+      "type": null,
+      "text": "14:00 — Bilat with Olivier. Review the 'for next bilat' list first.",
+      "category": "🔴 MONDAY 31 AUG IS THREE DEEP"
+    },
+    {
+      "id": "mon-caritas",
+      "type": null,
+      "text": "15:00 — Caritas Arquidiocesana and Food For The Poor, 7th floor.",
+      "category": "🔴 MONDAY 31 AUG IS THREE DEEP"
+    },
+    {
+      "id": "mon-julie",
+      "type": null,
+      "text": "23:10 — Julie lands.",
+      "category": "🔴 MONDAY 31 AUG IS THREE DEEP"
     },
     {
       "id": "fsd-50",
@@ -184,12 +202,6 @@
       "id": "vit-wait",
       "type": null,
       "text": "⏳ They quote 1-2 business days to reply, up to 7 for the decision. So expect an answer around WED 26 AUG.",
-      "category": "🥽 VITURE — CLAIM SENT, NOW WAITING"
-    },
-    {
-      "id": "vit-chase",
-      "type": null,
-      "text": "Chase if silent: THU 27 AUG.",
       "category": "🥽 VITURE — CLAIM SENT, NOW WAITING"
     },
     {
@@ -259,9 +271,9 @@
       "category": "🏡 1080 / CANADA — mostly not yours to do from here"
     },
     {
-      "id": "subgenius-card",
+      "id": "subgenius-done",
       "type": null,
-      "text": "✅ Paid and posted. Stang says the $10 you sent for postage cost him $18.37. The card is on its way to Bernice's.",
+      "text": "✅ Stang paid in full, 27 Aug. The replacement ordination card is in the post to Bernice's.",
       "category": "⛪ PERSONAL"
     },
     {
