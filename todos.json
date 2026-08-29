@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-27",
-  "updated": "2026-08-27T18:10:00-06:00",
-  "note": "Tomorrow: book Julie's MRO, and catch Sonia before she goes. Monday is three deep.",
+  "date": "2026-08-28",
+  "updated": "2026-08-28T18:10:00-06:00",
+  "note": "Weekend. Monday is three deep and Julie lands that night. The position description is settled; it just needs sending.",
   "items": [
     {
       "id": "wf-job",
@@ -27,50 +27,44 @@
     {
       "id": "mro-julie",
       "type": null,
-      "text": "🚐 BOOK THE MRO TO COLLECT JULIE. Your own instruction today: put it on tomorrow's list. She lands Mon 31 Aug ~23:10.",
-      "category": "🔴 TOMORROW, FRIDAY 28"
+      "text": "🚐 Julie's MRO for Monday night, if it is not already done. She lands ~23:10.",
+      "category": "🔴 THE WEEKEND AND MONDAY"
     },
     {
-      "id": "sonia-last",
+      "id": "mon-iccg",
       "type": null,
-      "text": "🔴 SONIA'S LAST DAY BEFORE VACATION. Anything needing her lands tomorrow or waits until September.",
-      "category": "🔴 TOMORROW, FRIDAY 28"
+      "text": "MON 10:00 — ICCG on Civic Space, virtual. Ford Foundation and UN Human Rights, presenting Casa Centroamérica's report. 📌 They are planning the next in-person at the CADF, which is already on your calendar for 29 Sept.",
+      "category": "🔴 THE WEEKEND AND MONDAY"
     },
     {
-      "id": "anne-marie-cancelled",
+      "id": "mon-bilat",
       "type": null,
-      "text": "❌ Anne-Marie's farewell is CANCELLED. Nothing to attend. Whether you congratulate her anyway is your call, not a task I invented.",
-      "category": "🔴 TOMORROW, FRIDAY 28"
+      "text": "MON 14:00 — Bilat with Olivier. Review the 'for next bilat' list first.",
+      "category": "🔴 THE WEEKEND AND MONDAY"
     },
     {
-      "id": "vit-chase",
+      "id": "mon-caritas",
       "type": null,
-      "text": "⏳ VITURE: chase if they are still silent. The claim went in Monday.",
-      "category": "🔴 TOMORROW, FRIDAY 28"
+      "text": "MON 15:00 — Caritas Arquidiocesana and Food For The Poor, 7th floor.",
+      "category": "🔴 THE WEEKEND AND MONDAY"
     },
     {
-      "id": "ps-sent",
+      "id": "tue-sq",
       "type": null,
-      "text": "✅ You sent the reply at 16:18, declining the call and asking for a delivery DATE in writing.",
-      "category": "📦 PRICESMART #C086567800"
+      "text": "TUE 10:00 — Walkthrough of the new SQ with Julie. You need to be back for CMM at 14:00.",
+      "category": "🔴 THE WEEKEND AND MONDAY"
     },
     {
-      "id": "ps-test",
+      "id": "nick-bday",
       "type": null,
-      "text": "🔴 What counts as an answer: a DATE. Another promise to make contact does not.",
-      "category": "📦 PRICESMART #C086567800"
+      "text": "🎂 SUN — Nick's birthday.",
+      "category": "🔴 THE WEEKEND AND MONDAY"
     },
     {
-      "id": "ps-card",
+      "id": "pos-desc",
       "type": null,
-      "text": "⚠️ Julie has the card and is back Monday night, so collecting at Pradera is not possible before Tuesday regardless.",
-      "category": "📦 PRICESMART #C086567800"
-    },
-    {
-      "id": "ps-refund",
-      "type": null,
-      "text": "💵 If it ends in self-collection, you paid for home delivery and that charge should come back. The unanswered dated request is what makes asking easy.",
-      "category": "📦 PRICESMART #C086567800"
+      "text": "✅ The position description is settled. Only step left: send it to Olivier.",
+      "category": "🔴 THE WEEKEND AND MONDAY"
     },
     {
       "id": "ex-press",
@@ -121,28 +115,28 @@
       "category": "✅ EVERY DAY"
     },
     {
-      "id": "mon-iccg",
+      "id": "xmas-leave",
       "type": null,
-      "text": "10:00 — ICCG on Civic Space, virtual. Ford Foundation and UN Human Rights, presenting Casa Centroamérica's report on civil society and independent journalism.",
-      "category": "🔴 MONDAY 31 AUG IS THREE DEEP"
+      "text": "⏳ FIRST STEP IS THE LEAVE, not the flights. 'Enter holiday leave into CBS whereabouts' has been open since 21 June.",
+      "category": "🎄 CHRISTMAS BOOKING"
     },
     {
-      "id": "mon-bilat",
+      "id": "xmas-holidays",
       "type": null,
-      "text": "14:00 — Bilat with Olivier. Review the 'for next bilat' list first.",
-      "category": "🔴 MONDAY 31 AUG IS THREE DEEP"
+      "text": "📅 Only TWO stat days in December: Fri 25 (Christmas) and Mon 28 (Boxing Day in lieu). The office is open 21 to 24 and 29 to 31, so the trip is mostly your own annual leave.",
+      "category": "🎄 CHRISTMAS BOOKING"
     },
     {
-      "id": "mon-caritas",
+      "id": "xmas-julie",
       "type": null,
-      "text": "15:00 — Caritas Arquidiocesana and Food For The Poor, 7th floor.",
-      "category": "🔴 MONDAY 31 AUG IS THREE DEEP"
+      "text": "Julie is back Monday night. Christmas dates are not a solo decision.",
+      "category": "🎄 CHRISTMAS BOOKING"
     },
     {
-      "id": "mon-julie",
+      "id": "xmas-viture",
       "type": null,
-      "text": "23:10 — Julie lands.",
-      "category": "🔴 MONDAY 31 AUG IS THREE DEEP"
+      "text": "🥽 If the trip is to Canada, it is the one that carries the VITURE Beast. Your words, not mine.",
+      "category": "🎄 CHRISTMAS BOOKING"
     },
     {
       "id": "fsd-50",
