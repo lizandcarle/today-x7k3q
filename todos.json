@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-28",
-  "updated": "2026-08-28T18:10:00-06:00",
-  "note": "Weekend. Monday is three deep and Julie lands that night. The position description is settled; it just needs sending.",
+  "date": "2026-08-29",
+  "updated": "2026-08-29T18:10:00-06:00",
+  "note": "Christmas is booked. Monday is three deep, Julie lands that night, and Olivier owes you a day.",
   "items": [
     {
       "id": "wf-job",
@@ -25,46 +25,40 @@
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
-      "id": "mro-julie",
+      "id": "ask-olivier",
       "type": null,
-      "text": "🚐 Julie's MRO for Monday night, if it is not already done. She lands ~23:10.",
-      "category": "🔴 THE WEEKEND AND MONDAY"
+      "text": "🎄 ASK OLIVIER FOR ONE EXTRA DAY OF CHRISTMAS LEAVE. The return is Tue 5 Jan, landing 22:30, so you cannot work that day. Your bilat is Monday at 14:00, which is where this belongs.",
+      "category": "🔴 MONDAY"
     },
     {
       "id": "mon-iccg",
       "type": null,
-      "text": "MON 10:00 — ICCG on Civic Space, virtual. Ford Foundation and UN Human Rights, presenting Casa Centroamérica's report. 📌 They are planning the next in-person at the CADF, which is already on your calendar for 29 Sept.",
-      "category": "🔴 THE WEEKEND AND MONDAY"
+      "text": "10:00 — ICCG on Civic Space, virtual. 📌 They are planning their next in-person at the CADF, which is on your calendar for 29 Sept. Monday's call is planning an event you are already booked to attend.",
+      "category": "🔴 MONDAY"
     },
     {
       "id": "mon-bilat",
       "type": null,
-      "text": "MON 14:00 — Bilat with Olivier. Review the 'for next bilat' list first.",
-      "category": "🔴 THE WEEKEND AND MONDAY"
+      "text": "14:00 — Bilat with Olivier. Review the 'for next bilat' list first.",
+      "category": "🔴 MONDAY"
     },
     {
       "id": "mon-caritas",
       "type": null,
-      "text": "MON 15:00 — Caritas Arquidiocesana and Food For The Poor, 7th floor.",
-      "category": "🔴 THE WEEKEND AND MONDAY"
+      "text": "15:00 — Caritas Arquidiocesana and Food For The Poor, 7th floor.",
+      "category": "🔴 MONDAY"
     },
     {
-      "id": "tue-sq",
+      "id": "mon-julie",
       "type": null,
-      "text": "TUE 10:00 — Walkthrough of the new SQ with Julie. You need to be back for CMM at 14:00.",
-      "category": "🔴 THE WEEKEND AND MONDAY"
-    },
-    {
-      "id": "nick-bday",
-      "type": null,
-      "text": "🎂 SUN — Nick's birthday.",
-      "category": "🔴 THE WEEKEND AND MONDAY"
+      "text": "23:10 — Julie lands. MRO.",
+      "category": "🔴 MONDAY"
     },
     {
       "id": "pos-desc",
       "type": null,
-      "text": "✅ The position description is settled. Only step left: send it to Olivier.",
-      "category": "🔴 THE WEEKEND AND MONDAY"
+      "text": "✅ The position description is settled. One step left: send it to Olivier.",
+      "category": "🔴 MONDAY"
     },
     {
       "id": "ex-press",
@@ -115,28 +109,40 @@
       "category": "✅ EVERY DAY"
     },
     {
-      "id": "xmas-leave",
+      "id": "xmas-out",
       "type": null,
-      "text": "⏳ FIRST STEP IS THE LEAVE, not the flights. 'Enter holiday leave into CBS whereabouts' has been open since 21 June.",
-      "category": "🎄 CHRISTMAS BOOKING"
+      "text": "OUT Fri 11 Dec: AV555 GUA 15:40 → San Salvador, then AV326 landing Toronto Pearson T1 at 05:20 Sat 12 Dec. Ref CDFPX6.",
+      "category": "🎄 CHRISTMAS TRIP — BOOKED"
     },
     {
-      "id": "xmas-holidays",
+      "id": "xmas-bus",
       "type": null,
-      "text": "📅 Only TWO stat days in December: Fri 25 (Christmas) and Mon 28 (Boxing Day in lieu). The office is open 21 to 24 and 29 to 31, so the trip is mostly your own annual leave.",
-      "category": "🎄 CHRISTMAS BOOKING"
+      "text": "BUS Sat 12 Dec: Pearson T1 07:50 → Owen Sound 11:00. Booking 3389387855.",
+      "category": "🎄 CHRISTMAS TRIP — BOOKED"
     },
     {
-      "id": "xmas-julie",
+      "id": "xmas-pinch",
       "type": null,
-      "text": "Julie is back Monday night. Christmas dates are not a solo decision.",
-      "category": "🎄 CHRISTMAS BOOKING"
+      "text": "🔴 THE PINCH POINT: you land 05:20, the bus goes 07:50, same terminal. 2h30 to clear an international arrival after an overnight. If Avianca slips, the bus goes without you.",
+      "category": "🎄 CHRISTMAS TRIP — BOOKED"
     },
     {
-      "id": "xmas-viture",
+      "id": "xmas-back",
       "type": null,
-      "text": "🥽 If the trip is to Canada, it is the one that carries the VITURE Beast. Your words, not mine.",
-      "category": "🎄 CHRISTMAS BOOKING"
+      "text": "BACK Tue 5 Jan: AC1300 YYZ 18:15 → GUA 22:30, business on points, seat 04K. Ref CDE9WM. 🚐 Needs an MRO.",
+      "category": "🎄 CHRISTMAS TRIP — BOOKED"
+    },
+    {
+      "id": "xmas-bag",
+      "type": null,
+      "text": "✅ Fare is LIGHT but one 23kg checked bag is CONFIRMED on the ticket. You are covered.",
+      "category": "🎄 CHRISTMAS TRIP — BOOKED"
+    },
+    {
+      "id": "xmas-qr",
+      "type": null,
+      "text": "🇬🇹 TWO immigration QRs needed, one each direction, filed close to travel. Link is on file.",
+      "category": "🎄 CHRISTMAS TRIP — BOOKED"
     },
     {
       "id": "fsd-50",
@@ -214,55 +220,55 @@
       "id": "canada-id",
       "type": null,
       "text": "Driver's licence + health card address. 🔴 New card takes 4-6 WEEKS, so it lands after you fly home on the 23rd. Use a MAILING address separate from the residential one: Bernice's, 925 9th Ave A E. ⚠️ If it is an Enhanced licence there is no online option.",
-      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+      "category": "🏡 1080 / CANADA"
     },
     {
       "id": "canada-post",
       "type": null,
       "text": "Canada Post forwarding mailbox. 🔴 Do the ID change FIRST. Ontario mails the card 'do not forward', so a redirect cannot carry it. Your own catch, 11 Aug.",
-      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+      "category": "🏡 1080 / CANADA"
     },
     {
       "id": "diallog-router",
       "type": null,
       "text": "Collect the Diallog REPLACEMENT router. ⚠️ If the old one is being swapped, re-check the VOIP: SIP ALG off on the NEW box before assuming the phone is still broken.",
-      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+      "category": "🏡 1080 / CANADA"
     },
     {
       "id": "diallog-call",
       "type": null,
       "text": "Call Diallog about the house phone not ringing. Ask them ONE thing directly: is the number provisioned for INBOUND, not just outbound? Tell them outgoing works and shows the right caller ID, so registration is fine. That skips twenty minutes of scripted troubleshooting.",
-      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+      "category": "🏡 1080 / CANADA"
     },
     {
       "id": "phone-port",
       "type": null,
       "text": "Home phone: move to the $5 ISP-independent plan and PORT the number. Diallog and you both spent hours and it never rang, including with the handset straight into the modem, so the router is ruled out.",
-      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+      "category": "🏡 1080 / CANADA"
     },
     {
       "id": "monitors-basement",
       "type": null,
       "text": "Take the monitors to the basement.",
-      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+      "category": "🏡 1080 / CANADA"
     },
     {
       "id": "utilities-1080",
       "type": null,
       "text": "Utilities scheduling for 1080. Ticked on the page in July but still open in your HOME tree, tagged #julie is doing this.",
-      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+      "category": "🏡 1080 / CANADA"
     },
     {
       "id": "computer-apps",
       "type": null,
       "text": "Set up the computer apps at 1080. From your HOME tree, not previously on this list.",
-      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+      "category": "🏡 1080 / CANADA"
     },
     {
       "id": "write-agent",
       "type": null,
       "text": "Write to the agent to explain. Still in your HOME tree and still unexplained; tell me what it means and I will make it concrete.",
-      "category": "🏡 1080 / CANADA — mostly not yours to do from here"
+      "category": "🏡 1080 / CANADA"
     },
     {
       "id": "subgenius-done",
@@ -341,6 +347,18 @@
       "type": null,
       "text": "The 1080 house app: rooms, jobs with a status pipeline, contractors as their own records, shared with Julie. Spec written from your dictation. Open question: you, Fable, or me writing the prompt for Fable.",
       "category": "🪺 NEST — when a quiet hour turns up"
+    },
+    {
+      "id": "f12",
+      "type": null,
+      "text": "⌨️ F12 in Brave: try changing the Services shortcut to ⌃F12 or ⇧F12. Brave only grabs bare F12. Nothing to install.",
+      "category": "🛠 TECH"
+    },
+    {
+      "id": "chatgpt-launcher",
+      "type": null,
+      "text": "🤖 ChatGPT launcher: replace the Automator contents with one Run Shell Script line, open -a \"<browser>\" \"https://chatgpt.com\". Opening a URL forces a window.",
+      "category": "🛠 TECH"
     },
     {
       "id": "voip-inbound",
