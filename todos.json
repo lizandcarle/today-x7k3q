@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-29",
-  "updated": "2026-08-29T18:10:00-06:00",
-  "note": "Christmas is booked. Monday is three deep, Julie lands that night, and Olivier owes you a day.",
+  "date": "2026-08-30",
+  "updated": "2026-08-30T18:10:00-06:00",
+  "note": "Monday is three deep and Julie lands that night. The Christmas leave ask belongs in the bilat.",
   "items": [
     {
       "id": "wf-job",
@@ -25,40 +25,52 @@
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
-      "id": "ask-olivier",
-      "type": null,
-      "text": "🎄 ASK OLIVIER FOR ONE EXTRA DAY OF CHRISTMAS LEAVE. The return is Tue 5 Jan, landing 22:30, so you cannot work that day. Your bilat is Monday at 14:00, which is where this belongs.",
-      "category": "🔴 MONDAY"
-    },
-    {
       "id": "mon-iccg",
       "type": null,
-      "text": "10:00 — ICCG on Civic Space, virtual. 📌 They are planning their next in-person at the CADF, which is on your calendar for 29 Sept. Monday's call is planning an event you are already booked to attend.",
-      "category": "🔴 MONDAY"
+      "text": "10:00 — ICCG on Civic Space, virtual. Ford Foundation and UN Human Rights, presenting Casa Centroamérica's report on civil society and independent journalism. 📌 They are planning their next in-person at the CADF, which is on your calendar for 29 Sept.",
+      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
     },
     {
       "id": "mon-bilat",
       "type": null,
       "text": "14:00 — Bilat with Olivier. Review the 'for next bilat' list first.",
-      "category": "🔴 MONDAY"
+      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
+    },
+    {
+      "id": "ask-olivier",
+      "type": null,
+      "text": "🎄 AT THE BILAT: ask for one extra day of Christmas leave. The return is Tue 5 Jan landing 22:30, so you cannot work that day.",
+      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
+    },
+    {
+      "id": "bilat-iusi",
+      "type": null,
+      "text": "📌 Also for the bilat if the FCM/municipalities question comes up: Arévalo signed the IUSI reform Thursday, over his finance minister's objection. Q1,200M off municipal revenue, and municipalities can no longer withhold water or rubbish collection over unpaid IUSI. In force in 90 days.",
+      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
     },
     {
       "id": "mon-caritas",
       "type": null,
       "text": "15:00 — Caritas Arquidiocesana and Food For The Poor, 7th floor.",
-      "category": "🔴 MONDAY"
+      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
     },
     {
       "id": "mon-julie",
       "type": null,
-      "text": "23:10 — Julie lands. MRO.",
-      "category": "🔴 MONDAY"
+      "text": "23:10 — Julie lands. 🚐 Tell me if the MRO is booked and I will stop asking.",
+      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
     },
     {
       "id": "pos-desc",
       "type": null,
       "text": "✅ The position description is settled. One step left: send it to Olivier.",
-      "category": "🔴 MONDAY"
+      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
+    },
+    {
+      "id": "jorge",
+      "type": null,
+      "text": "Sally chasing Jorge for the green textbook. Mondays and Thursdays.",
+      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
     },
     {
       "id": "ex-press",
@@ -107,6 +119,30 @@
       "type": null,
       "text": "Multivitamin",
       "category": "✅ EVERY DAY"
+    },
+    {
+      "id": "tue-sq",
+      "type": null,
+      "text": "TUE 10:00 — SQ walkthrough with Julie. Back for CMM/OPS at 14:00. Radio test 18:30.",
+      "category": "🗓 THE REST OF THE WEEK"
+    },
+    {
+      "id": "tue-idb",
+      "type": null,
+      "text": "TUE — flag the IDB migration TC. Moved here from Wednesday because you are on the road.",
+      "category": "🗓 THE REST OF THE WEEK"
+    },
+    {
+      "id": "wed-xela",
+      "type": null,
+      "text": "WED 11:00 — Quetzaltenango with Azucena. ⚠️ The booking's return leg reads 1:00 PM with no date and Xela is about four hours away. Worth asking before the day.",
+      "category": "🗓 THE REST OF THE WEEK"
+    },
+    {
+      "id": "fri-idb",
+      "type": null,
+      "text": "FRI 4 SEPT — IDB comments due COB. Sonia is away.",
+      "category": "🗓 THE REST OF THE WEEK"
     },
     {
       "id": "xmas-out",
@@ -274,12 +310,6 @@
       "id": "subgenius-done",
       "type": null,
       "text": "✅ Stang paid in full, 27 Aug. The replacement ordination card is in the post to Bernice's.",
-      "category": "⛪ PERSONAL"
-    },
-    {
-      "id": "photo-biz-card",
-      "type": null,
-      "text": "Photograph your actual business card into the brain. Orson had to rebuild it from your PCF and an embassy signature block on the plane. It will come up again.",
       "category": "⛪ PERSONAL"
     },
     {
