@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-30",
-  "updated": "2026-08-30T18:10:00-06:00",
-  "note": "Monday is three deep and Julie lands that night. The Christmas leave ask belongs in the bilat.",
+  "date": "2026-08-31",
+  "updated": "2026-08-31T09:30:00-06:00",
+  "note": "Christmas trip retired from this page at your request; it returns in December. Cash withdrawals: answered, use the Wealthsimple debit card.",
   "items": [
     {
       "id": "wf-job",
@@ -25,52 +25,76 @@
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
-      "id": "mon-iccg",
+      "id": "mro-tonight",
       "type": null,
-      "text": "10:00 — ICCG on Civic Space, virtual. Ford Foundation and UN Human Rights, presenting Casa Centroamérica's report on civil society and independent journalism. 📌 They are planning their next in-person at the CADF, which is on your calendar for 29 Sept.",
-      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
+      "text": "🚐 MRO forms, this morning. Tonight: La Aurora, Julie's AV578 lands 23:10. Your own booking on 23 Aug used a 23:30 pickup to Casa Cañada and it worked.",
+      "category": "🔴 TODAY — MONDAY 31 AUGUST"
+    },
+    {
+      "id": "mro-tue",
+      "type": null,
+      "text": "🚐 Second MRO while you're in there: to THE HOUSE, tomorrow 10:00, for the SQ walkthrough. Not the chancery.",
+      "category": "🔴 TODAY — MONDAY 31 AUGUST"
+    },
+    {
+      "id": "mro-xela",
+      "type": null,
+      "text": "🚐 Third one worth fixing in the same sitting: the Quetzaltenango booking's return leg reads 1:00 PM with no date at all. Xela is four hours away.",
+      "category": "🔴 TODAY — MONDAY 31 AUGUST"
     },
     {
       "id": "mon-bilat",
       "type": null,
-      "text": "14:00 — Bilat with Olivier. Review the 'for next bilat' list first.",
-      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
-    },
-    {
-      "id": "ask-olivier",
-      "type": null,
-      "text": "🎄 AT THE BILAT: ask for one extra day of Christmas leave. The return is Tue 5 Jan landing 22:30, so you cannot work that day.",
-      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
-    },
-    {
-      "id": "bilat-iusi",
-      "type": null,
-      "text": "📌 Also for the bilat if the FCM/municipalities question comes up: Arévalo signed the IUSI reform Thursday, over his finance minister's objection. Q1,200M off municipal revenue, and municipalities can no longer withhold water or rubbish collection over unpaid IUSI. In force in 90 days.",
-      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
+      "text": "14:00 — Bilat with Olivier. BOTH leave asks in one conversation: the October week in Quebec leads, the extra Christmas day rides behind it.",
+      "category": "🔴 TODAY — MONDAY 31 AUGUST"
     },
     {
       "id": "mon-caritas",
       "type": null,
-      "text": "15:00 — Caritas Arquidiocesana and Food For The Poor, 7th floor.",
-      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
+      "text": "15:00 to 16:00 — Cáritas + Food For The Poor, 7th floor. There is no ask in their letter. They requested the room and nothing else.",
+      "category": "🔴 TODAY — MONDAY 31 AUGUST"
     },
     {
       "id": "mon-julie",
       "type": null,
-      "text": "23:10 — Julie lands. 🚐 Tell me if the MRO is booked and I will stop asking.",
-      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
+      "text": "23:10 — Julie lands.",
+      "category": "🔴 TODAY — MONDAY 31 AUGUST"
     },
     {
-      "id": "pos-desc",
+      "id": "tue-sq",
       "type": null,
-      "text": "✅ The position description is settled. One step left: send it to Olivier.",
-      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
+      "text": "10:00 — SQ walkthrough with Julie. MRO from the house.",
+      "category": "🗓 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
     },
     {
-      "id": "jorge",
+      "id": "tue-ndb",
       "type": null,
-      "text": "Sally chasing Jorge for the green textbook. Mondays and Thursdays.",
-      "category": "🔴 TOMORROW, MONDAY 31 AUGUST"
+      "text": "11:00 — NDB internal on the Global Food Security Crisis, Teams. Karen's prep meeting. Her invite says 'hopefully representation from TGLPA and GTMLA'. Sonia is away.",
+      "category": "🗓 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
+    },
+    {
+      "id": "tue-cmm",
+      "type": null,
+      "text": "14:00 — CMM/OPS. Agenda: ERT (Annick), CANCHAM (Olivier).",
+      "category": "🗓 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
+    },
+    {
+      "id": "tue-opwalk",
+      "type": null,
+      "text": "15:15 — Operation Walk Canada call with the HoM, Teams. They want introductions and advice, not money: health, government and business contacts. 20 years here, 1,184 joint replacements, team of 70 arriving 23 Oct.",
+      "category": "🗓 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
+    },
+    {
+      "id": "tue-radio",
+      "type": null,
+      "text": "18:30 — Monthly radio test, base and hand-held.",
+      "category": "🗓 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
+    },
+    {
+      "id": "tue-idb",
+      "type": null,
+      "text": "Flag the IDB migration TC. Moved up from Wednesday because you're on the road.",
+      "category": "🗓 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
     },
     {
       "id": "ex-press",
@@ -121,64 +145,34 @@
       "category": "✅ EVERY DAY"
     },
     {
-      "id": "tue-sq",
-      "type": null,
-      "text": "TUE 10:00 — SQ walkthrough with Julie. Back for CMM/OPS at 14:00. Radio test 18:30.",
-      "category": "🗓 THE REST OF THE WEEK"
-    },
-    {
-      "id": "tue-idb",
-      "type": null,
-      "text": "TUE — flag the IDB migration TC. Moved here from Wednesday because you are on the road.",
-      "category": "🗓 THE REST OF THE WEEK"
-    },
-    {
       "id": "wed-xela",
       "type": null,
-      "text": "WED 11:00 — Quetzaltenango with Azucena. ⚠️ The booking's return leg reads 1:00 PM with no date and Xela is about four hours away. Worth asking before the day.",
+      "text": "WED 11:00 — Quetzaltenango with Azucena. See the MRO note above.",
+      "category": "🗓 THE REST OF THE WEEK"
+    },
+    {
+      "id": "thu-none",
+      "type": null,
+      "text": "THU — clear so far.",
       "category": "🗓 THE REST OF THE WEEK"
     },
     {
       "id": "fri-idb",
       "type": null,
-      "text": "FRI 4 SEPT — IDB comments due COB. Sonia is away.",
+      "text": "FRI 4 SEPT — IDB comments due COB. Sonia away.",
       "category": "🗓 THE REST OF THE WEEK"
     },
     {
-      "id": "xmas-out",
+      "id": "fri-food",
       "type": null,
-      "text": "OUT Fri 11 Dec: AV555 GUA 15:40 → San Salvador, then AV326 landing Toronto Pearson T1 at 05:20 Sat 12 Dec. Ref CDFPX6.",
-      "category": "🎄 CHRISTMAS TRIP — BOOKED"
+      "text": "FRI 4 SEPT 10:00-11:00 — departmental briefing on the Global Food Security Crisis, Super El Niño focus. Same day as the IDB deadline.",
+      "category": "🗓 THE REST OF THE WEEK"
     },
     {
-      "id": "xmas-bus",
+      "id": "sep-cadf",
       "type": null,
-      "text": "BUS Sat 12 Dec: Pearson T1 07:50 → Owen Sound 11:00. Booking 3389387855.",
-      "category": "🎄 CHRISTMAS TRIP — BOOKED"
-    },
-    {
-      "id": "xmas-pinch",
-      "type": null,
-      "text": "🔴 THE PINCH POINT: you land 05:20, the bus goes 07:50, same terminal. 2h30 to clear an international arrival after an overnight. If Avianca slips, the bus goes without you.",
-      "category": "🎄 CHRISTMAS TRIP — BOOKED"
-    },
-    {
-      "id": "xmas-back",
-      "type": null,
-      "text": "BACK Tue 5 Jan: AC1300 YYZ 18:15 → GUA 22:30, business on points, seat 04K. Ref CDE9WM. 🚐 Needs an MRO.",
-      "category": "🎄 CHRISTMAS TRIP — BOOKED"
-    },
-    {
-      "id": "xmas-bag",
-      "type": null,
-      "text": "✅ Fare is LIGHT but one 23kg checked bag is CONFIRMED on the ticket. You are covered.",
-      "category": "🎄 CHRISTMAS TRIP — BOOKED"
-    },
-    {
-      "id": "xmas-qr",
-      "type": null,
-      "text": "🇬🇹 TWO immigration QRs needed, one each direction, filed close to travel. Link is on file.",
-      "category": "🎄 CHRISTMAS TRIP — BOOKED"
+      "text": "TUE 29 SEPT — CADF. The ICCG's next in-person is there.",
+      "category": "🗓 THE REST OF THE WEEK"
     },
     {
       "id": "fsd-50",
@@ -307,10 +301,22 @@
       "category": "🏡 1080 / CANADA"
     },
     {
-      "id": "subgenius-done",
+      "id": "quebec-dates",
       "type": null,
-      "text": "✅ Stang paid in full, 27 Aug. The replacement ordination card is in the post to Bernice's.",
-      "category": "⛪ PERSONAL"
+      "text": "Pick the dates. Olivier can't answer the leave ask without them, and October flights want booking earlier than December's did.",
+      "category": "👪 QUEBEC IN OCTOBER"
+    },
+    {
+      "id": "quebec-names",
+      "type": null,
+      "text": "Names, if you want them ahead of time: Claude, and Julie, Carmelle, Sylvie, Hélène. You've already met Hélène and Carmelle and their husbands.",
+      "category": "👪 QUEBEC IN OCTOBER"
+    },
+    {
+      "id": "quebec-memoir",
+      "type": null,
+      "text": "Alphonse's memoir is filed and read, if you want it before the trip.",
+      "category": "👪 QUEBEC IN OCTOBER"
     },
     {
       "id": "telephone-game",
@@ -355,28 +361,34 @@
       "category": "🛒 SHOPPING LIST"
     },
     {
+      "id": "nest-bilat",
+      "type": null,
+      "text": "The first thing to build after deploy: the bilat bullet, shared, both of us editing. One live bullet before the next bilat, not a full import.",
+      "category": "🪺 NEST — first build decided"
+    },
+    {
       "id": "nest-rename",
       "type": null,
       "text": "🔴 RENAME IT FIRST. Your call, 23 Aug: Nest is the doorbell company, and you are installing a door lock and cameras at 1080.",
-      "category": "🪺 NEST — when a quiet hour turns up"
+      "category": "🪺 NEST — first build decided"
     },
     {
       "id": "nest-deploy",
       "type": null,
       "text": "Deploy Nest: openssl rand -hex 24 → paste into NEST_KEY in api.php → upload both files to public_html/nest/ → open the URL, hit ⚙, paste key. Then send Orson the URL and key.",
-      "category": "🪺 NEST — when a quiet hour turns up"
+      "category": "🪺 NEST — first build decided"
     },
     {
       "id": "nest-ftp",
       "type": null,
       "text": "In cPanel, make an FTP account restricted to public_html/nest/ for Orson. Not the master login.",
-      "category": "🪺 NEST — when a quiet hour turns up"
+      "category": "🪺 NEST — first build decided"
     },
     {
       "id": "house-app",
       "type": null,
       "text": "The 1080 house app: rooms, jobs with a status pipeline, contractors as their own records, shared with Julie. Spec written from your dictation. Open question: you, Fable, or me writing the prompt for Fable.",
-      "category": "🪺 NEST — when a quiet hour turns up"
+      "category": "🪺 NEST — first build decided"
     },
     {
       "id": "f12",
@@ -436,6 +448,12 @@
       "id": "time-machine",
       "type": null,
       "text": "Turn on Time Machine to an external drive. There is still no backup of the closet Mac.",
+      "category": "🛠 TECH"
+    },
+    {
+      "id": "cal-shortcut",
+      "type": null,
+      "text": "Work calendar shortcut, when you're next in it: add a Show Notification step so the button says it fired. That was the whole bug. The 03:00 automation still doesn't run.",
       "category": "🛠 TECH"
     }
   ]
