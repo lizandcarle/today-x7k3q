@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
-  "updated": "2026-08-31T09:30:00-06:00",
-  "note": "Christmas trip retired from this page at your request; it returns in December. Cash withdrawals: answered, use the Wealthsimple debit card.",
+  "updated": "2026-08-31T18:10:00-06:00",
+  "note": "Tomorrow is five deep and Julie lands tonight. Christmas returns to this page in December.",
   "items": [
     {
       "id": "wf-job",
@@ -25,76 +25,16 @@
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
-      "id": "mro-tonight",
+      "id": "julie-airport",
       "type": null,
-      "text": "🚐 MRO forms, this morning. Tonight: La Aurora, Julie's AV578 lands 23:10. Your own booking on 23 Aug used a 23:30 pickup to Casa Cañada and it worked.",
-      "category": "🔴 TODAY — MONDAY 31 AUGUST"
+      "text": "🚐 Julie lands 23:10. AV578 from San Salvador. Your MRO precedent from 23 Aug was a 23:30 pickup at La Aurora.",
+      "category": "🌙 TONIGHT"
     },
     {
-      "id": "mro-tue",
+      "id": "tonight-nothing",
       "type": null,
-      "text": "🚐 Second MRO while you're in there: to THE HOUSE, tomorrow 10:00, for the SQ walkthrough. Not the chancery.",
-      "category": "🔴 TODAY — MONDAY 31 AUGUST"
-    },
-    {
-      "id": "mro-xela",
-      "type": null,
-      "text": "🚐 Third one worth fixing in the same sitting: the Quetzaltenango booking's return leg reads 1:00 PM with no date at all. Xela is four hours away.",
-      "category": "🔴 TODAY — MONDAY 31 AUGUST"
-    },
-    {
-      "id": "mon-bilat",
-      "type": null,
-      "text": "14:00 — Bilat with Olivier. BOTH leave asks in one conversation: the October week in Quebec leads, the extra Christmas day rides behind it.",
-      "category": "🔴 TODAY — MONDAY 31 AUGUST"
-    },
-    {
-      "id": "mon-caritas",
-      "type": null,
-      "text": "15:00 to 16:00 — Cáritas + Food For The Poor, 7th floor. There is no ask in their letter. They requested the room and nothing else.",
-      "category": "🔴 TODAY — MONDAY 31 AUGUST"
-    },
-    {
-      "id": "mon-julie",
-      "type": null,
-      "text": "23:10 — Julie lands.",
-      "category": "🔴 TODAY — MONDAY 31 AUGUST"
-    },
-    {
-      "id": "tue-sq",
-      "type": null,
-      "text": "10:00 — SQ walkthrough with Julie. MRO from the house.",
-      "category": "🗓 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
-    },
-    {
-      "id": "tue-ndb",
-      "type": null,
-      "text": "11:00 — NDB internal on the Global Food Security Crisis, Teams. Karen's prep meeting. Her invite says 'hopefully representation from TGLPA and GTMLA'. Sonia is away.",
-      "category": "🗓 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
-    },
-    {
-      "id": "tue-cmm",
-      "type": null,
-      "text": "14:00 — CMM/OPS. Agenda: ERT (Annick), CANCHAM (Olivier).",
-      "category": "🗓 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
-    },
-    {
-      "id": "tue-opwalk",
-      "type": null,
-      "text": "15:15 — Operation Walk Canada call with the HoM, Teams. They want introductions and advice, not money: health, government and business contacts. 20 years here, 1,184 joint replacements, team of 70 arriving 23 Oct.",
-      "category": "🗓 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
-    },
-    {
-      "id": "tue-radio",
-      "type": null,
-      "text": "18:30 — Monthly radio test, base and hand-held.",
-      "category": "🗓 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
-    },
-    {
-      "id": "tue-idb",
-      "type": null,
-      "text": "Flag the IDB migration TC. Moved up from Wednesday because you're on the road.",
-      "category": "🗓 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
+      "text": "Nothing else is being asked of you tonight.",
+      "category": "🌙 TONIGHT"
     },
     {
       "id": "ex-press",
@@ -145,34 +85,142 @@
       "category": "✅ EVERY DAY"
     },
     {
-      "id": "wed-xela",
+      "id": "tue-sq",
       "type": null,
-      "text": "WED 11:00 — Quetzaltenango with Azucena. See the MRO note above.",
-      "category": "🗓 THE REST OF THE WEEK"
+      "text": "10:00 — SQ walkthrough with Julie. MRO from the house, not the chancery.",
+      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
     },
     {
-      "id": "thu-none",
+      "id": "tue-ndb",
       "type": null,
-      "text": "THU — clear so far.",
+      "text": "11:00 — NDB internal on the Global Food Security Crisis, Teams. Karen's prep meeting; her invite asks for GTMLA representation.",
+      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
+    },
+    {
+      "id": "tue-cmm",
+      "type": null,
+      "text": "14:00 — CMM/OPS. Agenda: ERT (Annick), CANCHAM (Olivier).",
+      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
+    },
+    {
+      "id": "tue-opwalk",
+      "type": null,
+      "text": "15:15 — Operation Walk Canada with the HoM. They want introductions and advice, not money. Team of 70 arriving 23 Oct; 1,184 joint replacements here since 2006.",
+      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
+    },
+    {
+      "id": "tue-radio",
+      "type": null,
+      "text": "18:30 — Monthly radio test, base and hand-held.",
+      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
+    },
+    {
+      "id": "tue-idb",
+      "type": null,
+      "text": "Flag the IDB migration TC today. You asked for two days out and Wednesday you are in a car.",
+      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
+    },
+    {
+      "id": "tue-sonia",
+      "type": null,
+      "text": "📌 Sonia's vacation starts today, not Friday. Corrected.",
+      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
+    },
+    {
+      "id": "wed-xela",
+      "type": null,
+      "text": "WED 11:00 — Quetzaltenango with Azucena. ⚠️ The booking's return leg still reads 1:00 PM with no date. Worth asking before you get in the car.",
       "category": "🗓 THE REST OF THE WEEK"
     },
     {
       "id": "fri-idb",
       "type": null,
-      "text": "FRI 4 SEPT — IDB comments due COB. Sonia away.",
+      "text": "FRI 4 SEPT — IDB comments due COB.",
       "category": "🗓 THE REST OF THE WEEK"
     },
     {
       "id": "fri-food",
       "type": null,
-      "text": "FRI 4 SEPT 10:00-11:00 — departmental briefing on the Global Food Security Crisis, Super El Niño focus. Same day as the IDB deadline.",
+      "text": "FRI 4 SEPT 10:00-11:00 — departmental briefing, Global Food Security Crisis. Same day as the IDB deadline.",
       "category": "🗓 THE REST OF THE WEEK"
     },
     {
       "id": "sep-cadf",
       "type": null,
-      "text": "TUE 29 SEPT — CADF. The ICCG's next in-person is there.",
+      "text": "TUE 29 SEPT — CADF.",
       "category": "🗓 THE REST OF THE WEEK"
+    },
+    {
+      "id": "canada-id",
+      "type": null,
+      "text": "Driver's licence + health card address. 🔴 New card takes 4-6 WEEKS, so it lands after you fly home on the 23rd. Use a MAILING address separate from the residential one: Bernice's, 925 9th Ave A E. ⚠️ If it is an Enhanced licence there is no online option.",
+      "category": "🏡 1080 / CANADA"
+    },
+    {
+      "id": "canada-post",
+      "type": null,
+      "text": "Canada Post forwarding mailbox. 🔴 Do the ID change FIRST. Ontario mails the card 'do not forward', so a redirect cannot carry it. Your own catch, 11 Aug.",
+      "category": "🏡 1080 / CANADA"
+    },
+    {
+      "id": "diallog-router",
+      "type": null,
+      "text": "Collect the Diallog REPLACEMENT router. ⚠️ If the old one is being swapped, re-check the VOIP: SIP ALG off on the NEW box before assuming the phone is still broken.",
+      "category": "🏡 1080 / CANADA"
+    },
+    {
+      "id": "diallog-call",
+      "type": null,
+      "text": "Call Diallog about the house phone not ringing. Ask them ONE thing directly: is the number provisioned for INBOUND, not just outbound? Tell them outgoing works and shows the right caller ID, so registration is fine. That skips twenty minutes of scripted troubleshooting.",
+      "category": "🏡 1080 / CANADA"
+    },
+    {
+      "id": "phone-port",
+      "type": null,
+      "text": "Home phone: move to the $5 ISP-independent plan and PORT the number. Diallog and you both spent hours and it never rang, including with the handset straight into the modem, so the router is ruled out.",
+      "category": "🏡 1080 / CANADA"
+    },
+    {
+      "id": "monitors-basement",
+      "type": null,
+      "text": "Take the monitors to the basement.",
+      "category": "🏡 1080 / CANADA"
+    },
+    {
+      "id": "utilities-1080",
+      "type": null,
+      "text": "Utilities scheduling for 1080. Ticked on the page in July but still open in your HOME tree, tagged #julie is doing this.",
+      "category": "🏡 1080 / CANADA"
+    },
+    {
+      "id": "computer-apps",
+      "type": null,
+      "text": "Set up the computer apps at 1080. From your HOME tree, not previously on this list.",
+      "category": "🏡 1080 / CANADA"
+    },
+    {
+      "id": "write-agent",
+      "type": null,
+      "text": "Write to the agent to explain. Still in your HOME tree and still unexplained; tell me what it means and I will make it concrete.",
+      "category": "🏡 1080 / CANADA"
+    },
+    {
+      "id": "quebec-dates",
+      "type": null,
+      "text": "Pick the dates. Olivier can't answer the leave ask without them, and October flights want booking earlier than December's did.",
+      "category": "🍁 QUEBEC IN OCTOBER"
+    },
+    {
+      "id": "quebec-names",
+      "type": null,
+      "text": "Names, if you want them ahead of time: Claude, and Julie, Carmelle, Sylvie, Hélène. You've already met Hélène and Carmelle and their husbands.",
+      "category": "🍁 QUEBEC IN OCTOBER"
+    },
+    {
+      "id": "quebec-memoir",
+      "type": null,
+      "text": "Alphonse's memoir is filed and read, if you want it before the trip.",
+      "category": "🍁 QUEBEC IN OCTOBER"
     },
     {
       "id": "fsd-50",
@@ -247,78 +295,6 @@
       "category": "🥽 VITURE — CLAIM SENT, NOW WAITING"
     },
     {
-      "id": "canada-id",
-      "type": null,
-      "text": "Driver's licence + health card address. 🔴 New card takes 4-6 WEEKS, so it lands after you fly home on the 23rd. Use a MAILING address separate from the residential one: Bernice's, 925 9th Ave A E. ⚠️ If it is an Enhanced licence there is no online option.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "canada-post",
-      "type": null,
-      "text": "Canada Post forwarding mailbox. 🔴 Do the ID change FIRST. Ontario mails the card 'do not forward', so a redirect cannot carry it. Your own catch, 11 Aug.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "diallog-router",
-      "type": null,
-      "text": "Collect the Diallog REPLACEMENT router. ⚠️ If the old one is being swapped, re-check the VOIP: SIP ALG off on the NEW box before assuming the phone is still broken.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "diallog-call",
-      "type": null,
-      "text": "Call Diallog about the house phone not ringing. Ask them ONE thing directly: is the number provisioned for INBOUND, not just outbound? Tell them outgoing works and shows the right caller ID, so registration is fine. That skips twenty minutes of scripted troubleshooting.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "phone-port",
-      "type": null,
-      "text": "Home phone: move to the $5 ISP-independent plan and PORT the number. Diallog and you both spent hours and it never rang, including with the handset straight into the modem, so the router is ruled out.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "monitors-basement",
-      "type": null,
-      "text": "Take the monitors to the basement.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "utilities-1080",
-      "type": null,
-      "text": "Utilities scheduling for 1080. Ticked on the page in July but still open in your HOME tree, tagged #julie is doing this.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "computer-apps",
-      "type": null,
-      "text": "Set up the computer apps at 1080. From your HOME tree, not previously on this list.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "write-agent",
-      "type": null,
-      "text": "Write to the agent to explain. Still in your HOME tree and still unexplained; tell me what it means and I will make it concrete.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "quebec-dates",
-      "type": null,
-      "text": "Pick the dates. Olivier can't answer the leave ask without them, and October flights want booking earlier than December's did.",
-      "category": "👪 QUEBEC IN OCTOBER"
-    },
-    {
-      "id": "quebec-names",
-      "type": null,
-      "text": "Names, if you want them ahead of time: Claude, and Julie, Carmelle, Sylvie, Hélène. You've already met Hélène and Carmelle and their husbands.",
-      "category": "👪 QUEBEC IN OCTOBER"
-    },
-    {
-      "id": "quebec-memoir",
-      "type": null,
-      "text": "Alphonse's memoir is filed and read, if you want it before the trip.",
-      "category": "👪 QUEBEC IN OCTOBER"
-    },
-    {
       "id": "telephone-game",
       "type": null,
       "text": "The telephone game story. Still owed. The ~1990 pamphlet turned up in July.",
@@ -361,6 +337,12 @@
       "category": "🛒 SHOPPING LIST"
     },
     {
+      "id": "shop-wf",
+      "type": null,
+      "text": "From your Workflowy home list, unchanged for eight days: door handles, floor lamps, telephone stand, TV stand, VGA cable, bright bulbs, VOIP handset, IP cameras.",
+      "category": "🛒 SHOPPING LIST"
+    },
+    {
       "id": "nest-bilat",
       "type": null,
       "text": "The first thing to build after deploy: the bilat bullet, shared, both of us editing. One live bullet before the next bilat, not a full import.",
@@ -389,6 +371,12 @@
       "type": null,
       "text": "The 1080 house app: rooms, jobs with a status pipeline, contractors as their own records, shared with Julie. Spec written from your dictation. Open question: you, Fable, or me writing the prompt for Fable.",
       "category": "🪺 NEST — first build decided"
+    },
+    {
+      "id": "time-machine",
+      "type": null,
+      "text": "Turn on Time Machine to an external drive. There is still no backup of the closet Mac.",
+      "category": "🛠 TECH"
     },
     {
       "id": "f12",
@@ -442,12 +430,6 @@
       "id": "openclaw-9",
       "type": null,
       "text": "Test if Telegram/OpenClaw works on the $9/mo ChatGPT tier",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "time-machine",
-      "type": null,
-      "text": "Turn on Time Machine to an external drive. There is still no backup of the closet Mac.",
       "category": "🛠 TECH"
     },
     {
