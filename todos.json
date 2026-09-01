@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-31",
-  "updated": "2026-08-31T18:10:00-06:00",
+  "date": "2026-09-01",
+  "updated": "2026-09-01T06:07:00-06:00",
   "note": "Tomorrow is five deep and Julie lands tonight. Christmas returns to this page in December.",
   "items": [
     {
@@ -311,6 +311,12 @@
       "type": null,
       "text": "From your LIFE tree, unfiled until tonight: the unfinished videogame projects, vibe-coding, and hardware projects. Three standing categories, no tasks under them yet.",
       "category": "⛪ PERSONAL"
+    },
+    {
+      "id": "julie-data",
+      "type": null,
+      "text": "📱 Buy Julie data.",
+      "category": "🛒 SHOPPING LIST"
     },
     {
       "id": "shop-wingspan",
