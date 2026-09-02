@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
-  "updated": "2026-09-01T06:07:00-06:00",
-  "note": "Tomorrow is five deep and Julie lands tonight. Christmas returns to this page in December.",
+  "updated": "2026-09-01T18:10:00-06:00",
+  "note": "On the road tomorrow. The Xela return leg is still undated and tonight is the last evening to ask.",
   "items": [
     {
       "id": "wf-job",
@@ -25,16 +25,28 @@
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
-      "id": "julie-airport",
+      "id": "wed-ask",
       "type": null,
-      "text": "🚐 Julie lands 23:10. AV578 from San Salvador. Your MRO precedent from 23 Aug was a 23:30 pickup at La Aurora.",
-      "category": "🌙 TONIGHT"
+      "text": "🚐 ASK BEFORE YOU GET IN THE CAR: the Quetzaltenango booking's return leg reads 1:00 PM with no date. Fourth dump in a row saying the same thing. Xela is four hours away.",
+      "category": "🔴 TOMORROW, WEDNESDAY 2 SEPTEMBER — ON THE ROAD"
     },
     {
-      "id": "tonight-nothing",
+      "id": "wed-blockades",
       "type": null,
-      "text": "Nothing else is being asked of you tonight.",
-      "category": "🌙 TONIGHT"
+      "text": "🚧 And check the Interamericana. Fuel-price blockades were called for Sololá at km 117 this week; Totonicapán suspended theirs, Sololá did not.",
+      "category": "🔴 TOMORROW, WEDNESDAY 2 SEPTEMBER — ON THE ROAD"
+    },
+    {
+      "id": "wed-cleaners",
+      "type": null,
+      "text": "07:15 — supervising cleaners at the SQ. New in tonight's dump.",
+      "category": "🔴 TOMORROW, WEDNESDAY 2 SEPTEMBER — ON THE ROAD"
+    },
+    {
+      "id": "wed-xela",
+      "type": null,
+      "text": "11:00 — Chancery to Quetzaltenango with Azucena.",
+      "category": "🔴 TOMORROW, WEDNESDAY 2 SEPTEMBER — ON THE ROAD"
     },
     {
       "id": "ex-press",
@@ -85,54 +97,6 @@
       "category": "✅ EVERY DAY"
     },
     {
-      "id": "tue-sq",
-      "type": null,
-      "text": "10:00 — SQ walkthrough with Julie. MRO from the house, not the chancery.",
-      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
-    },
-    {
-      "id": "tue-ndb",
-      "type": null,
-      "text": "11:00 — NDB internal on the Global Food Security Crisis, Teams. Karen's prep meeting; her invite asks for GTMLA representation.",
-      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
-    },
-    {
-      "id": "tue-cmm",
-      "type": null,
-      "text": "14:00 — CMM/OPS. Agenda: ERT (Annick), CANCHAM (Olivier).",
-      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
-    },
-    {
-      "id": "tue-opwalk",
-      "type": null,
-      "text": "15:15 — Operation Walk Canada with the HoM. They want introductions and advice, not money. Team of 70 arriving 23 Oct; 1,184 joint replacements here since 2006.",
-      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
-    },
-    {
-      "id": "tue-radio",
-      "type": null,
-      "text": "18:30 — Monthly radio test, base and hand-held.",
-      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
-    },
-    {
-      "id": "tue-idb",
-      "type": null,
-      "text": "Flag the IDB migration TC today. You asked for two days out and Wednesday you are in a car.",
-      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
-    },
-    {
-      "id": "tue-sonia",
-      "type": null,
-      "text": "📌 Sonia's vacation starts today, not Friday. Corrected.",
-      "category": "🔴 TOMORROW, TUESDAY 1 SEPTEMBER — five things"
-    },
-    {
-      "id": "wed-xela",
-      "type": null,
-      "text": "WED 11:00 — Quetzaltenango with Azucena. ⚠️ The booking's return leg still reads 1:00 PM with no date. Worth asking before you get in the car.",
-      "category": "🗓 THE REST OF THE WEEK"
-    },
-    {
       "id": "fri-idb",
       "type": null,
       "text": "FRI 4 SEPT — IDB comments due COB.",
@@ -141,14 +105,50 @@
     {
       "id": "fri-food",
       "type": null,
-      "text": "FRI 4 SEPT 10:00-11:00 — departmental briefing, Global Food Security Crisis. Same day as the IDB deadline.",
+      "text": "FRI 4 SEPT 10:00-11:00 — departmental briefing, Global Food Security Crisis, Super El Niño focus.",
       "category": "🗓 THE REST OF THE WEEK"
     },
     {
-      "id": "sep-cadf",
+      "id": "ops-draft",
       "type": null,
-      "text": "TUE 29 SEPT — CADF.",
+      "text": "📄 The OPS draft on the drought is written and waiting. One thing to verify: whether CONRED has moved off the May yellow alert.",
       "category": "🗓 THE REST OF THE WEEK"
+    },
+    {
+      "id": "mon-bilat",
+      "type": null,
+      "text": "MON 14 SEPT 14:00 — next bilat with Olivier.",
+      "category": "🗓 THE REST OF THE WEEK"
+    },
+    {
+      "id": "olac",
+      "type": null,
+      "text": "TUE 15 SEPT — Official Languages committee. TWO placeholder slots, 05:30 and 08:00. They will confirm one; do not hold both.",
+      "category": "🗓 THE REST OF THE WEEK"
+    },
+    {
+      "id": "cerveceria",
+      "type": null,
+      "text": "FRI 11 SEPT 11:00 — Cervecería C.A. tour, lunch after.",
+      "category": "🗓 THE REST OF THE WEEK"
+    },
+    {
+      "id": "quebec-dates",
+      "type": null,
+      "text": "Pick the dates. Olivier can't answer the leave ask without them, and October flights want booking earlier than December's did.",
+      "category": "🍁 QUEBEC IN OCTOBER"
+    },
+    {
+      "id": "quebec-names",
+      "type": null,
+      "text": "Names, if you want them ahead of time: Claude, and Julie, Carmelle, Sylvie, Hélène. You've already met Hélène and Carmelle and their husbands.",
+      "category": "🍁 QUEBEC IN OCTOBER"
+    },
+    {
+      "id": "quebec-memoir",
+      "type": null,
+      "text": "Alphonse's memoir is filed and read, if you want it before the trip.",
+      "category": "🍁 QUEBEC IN OCTOBER"
     },
     {
       "id": "canada-id",
@@ -203,24 +203,6 @@
       "type": null,
       "text": "Write to the agent to explain. Still in your HOME tree and still unexplained; tell me what it means and I will make it concrete.",
       "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "quebec-dates",
-      "type": null,
-      "text": "Pick the dates. Olivier can't answer the leave ask without them, and October flights want booking earlier than December's did.",
-      "category": "🍁 QUEBEC IN OCTOBER"
-    },
-    {
-      "id": "quebec-names",
-      "type": null,
-      "text": "Names, if you want them ahead of time: Claude, and Julie, Carmelle, Sylvie, Hélène. You've already met Hélène and Carmelle and their husbands.",
-      "category": "🍁 QUEBEC IN OCTOBER"
-    },
-    {
-      "id": "quebec-memoir",
-      "type": null,
-      "text": "Alphonse's memoir is filed and read, if you want it before the trip.",
-      "category": "🍁 QUEBEC IN OCTOBER"
     },
     {
       "id": "fsd-50",
