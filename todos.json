@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-01",
-  "updated": "2026-09-01T18:10:00-06:00",
-  "note": "On the road tomorrow. The Xela return leg is still undated and tonight is the last evening to ask.",
+  "date": "2026-09-02",
+  "updated": "2026-09-02T18:10:00-06:00",
+  "note": "Back from Xela. One tap needed on the work phone. Thursday is clear, Friday is two-deep.",
   "items": [
     {
       "id": "wf-job",
@@ -25,28 +25,10 @@
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
     },
     {
-      "id": "wed-ask",
+      "id": "caldump",
       "type": null,
-      "text": "🚐 ASK BEFORE YOU GET IN THE CAR: the Quetzaltenango booking's return leg reads 1:00 PM with no date. Fourth dump in a row saying the same thing. Xela is four hours away.",
-      "category": "🔴 TOMORROW, WEDNESDAY 2 SEPTEMBER — ON THE ROAD"
-    },
-    {
-      "id": "wed-blockades",
-      "type": null,
-      "text": "🚧 And check the Interamericana. Fuel-price blockades were called for Sololá at km 117 this week; Totonicapán suspended theirs, Sololá did not.",
-      "category": "🔴 TOMORROW, WEDNESDAY 2 SEPTEMBER — ON THE ROAD"
-    },
-    {
-      "id": "wed-cleaners",
-      "type": null,
-      "text": "07:15 — supervising cleaners at the SQ. New in tonight's dump.",
-      "category": "🔴 TOMORROW, WEDNESDAY 2 SEPTEMBER — ON THE ROAD"
-    },
-    {
-      "id": "wed-xela",
-      "type": null,
-      "text": "11:00 — Chancery to Quetzaltenango with Azucena.",
-      "category": "🔴 TOMORROW, WEDNESDAY 2 SEPTEMBER — ON THE ROAD"
+      "text": "📅 The work calendar dump has not come in today. One tap on the work phone and I have tomorrow.",
+      "category": "🔴 ONE TAP"
     },
     {
       "id": "ex-press",
@@ -97,40 +79,58 @@
       "category": "✅ EVERY DAY"
     },
     {
+      "id": "thu-clear",
+      "type": null,
+      "text": "THU 3 SEPT — clear so far.",
+      "category": "🗓 THIS WEEK"
+    },
+    {
       "id": "fri-idb",
       "type": null,
       "text": "FRI 4 SEPT — IDB comments due COB.",
-      "category": "🗓 THE REST OF THE WEEK"
+      "category": "🗓 THIS WEEK"
     },
     {
       "id": "fri-food",
       "type": null,
       "text": "FRI 4 SEPT 10:00-11:00 — departmental briefing, Global Food Security Crisis, Super El Niño focus.",
-      "category": "🗓 THE REST OF THE WEEK"
+      "category": "🗓 THIS WEEK"
     },
     {
-      "id": "ops-draft",
+      "id": "ops-live",
       "type": null,
-      "text": "📄 The OPS draft on the drought is written and waiting. One thing to verify: whether CONRED has moved off the May yellow alert.",
-      "category": "🗓 THE REST OF THE WEEK"
+      "text": "📄 The OPS is with you: Sonia's text integrated, in a Google Doc, emailed. Two things to check before it goes up: where 4.1 million comes from, and whether CONRED has moved off the yellow alert.",
+      "category": "🗓 THIS WEEK"
+    },
+    {
+      "id": "jeanluc",
+      "type": null,
+      "text": "📧 Write to Jean-Luc: Olivier wants you to apply for the FS-03. Three-line draft is already written.",
+      "category": "🗓 THIS WEEK"
+    },
+    {
+      "id": "annick-parking",
+      "type": null,
+      "text": "🅿️ Send Annick the address of the parking lot in Antigua.",
+      "category": "🗓 THIS WEEK"
     },
     {
       "id": "mon-bilat",
       "type": null,
-      "text": "MON 14 SEPT 14:00 — next bilat with Olivier.",
-      "category": "🗓 THE REST OF THE WEEK"
+      "text": "MON 14 SEPT 14:00 — next bilat with Olivier. The list is six weeks stale and wants a prune.",
+      "category": "🗓 THIS WEEK"
     },
     {
-      "id": "olac",
+      "id": "indep",
       "type": null,
-      "text": "TUE 15 SEPT — Official Languages committee. TWO placeholder slots, 05:30 and 08:00. They will confirm one; do not hold both.",
-      "category": "🗓 THE REST OF THE WEEK"
+      "text": "TUE 15 SEPT — Guatemalan Independence Day. Mission holiday. Not accepting anything.",
+      "category": "🗓 THIS WEEK"
     },
     {
       "id": "cerveceria",
       "type": null,
-      "text": "FRI 11 SEPT 11:00 — Cervecería C.A. tour, lunch after.",
-      "category": "🗓 THE REST OF THE WEEK"
+      "text": "FRI 11 SEPT 11:00 — Cervecería C.A. tour, lunch after. 🎂 Helen's birthday.",
+      "category": "🗓 THIS WEEK"
     },
     {
       "id": "quebec-dates",
