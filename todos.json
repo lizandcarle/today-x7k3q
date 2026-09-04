@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-02",
-  "updated": "2026-09-02T18:10:00-06:00",
-  "note": "Back from Xela. One tap needed on the work phone. Thursday is clear, Friday is two-deep.",
+  "date": "2026-09-03",
+  "updated": "2026-09-03T18:10:00-06:00",
+  "note": "Home from Xela. Friday is two-deep. The house link dropped twice in twenty hours.",
   "items": [
     {
       "id": "wf-job",
@@ -23,12 +23,6 @@
       "text": "✏️ EDIT MY WORKFLOWY: LIFE",
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
-    },
-    {
-      "id": "caldump",
-      "type": null,
-      "text": "📅 The work calendar dump has not come in today. One tap on the work phone and I have tomorrow.",
-      "category": "🔴 ONE TAP"
     },
     {
       "id": "ex-press",
@@ -79,76 +73,82 @@
       "category": "✅ EVERY DAY"
     },
     {
-      "id": "thu-clear",
-      "type": null,
-      "text": "THU 3 SEPT — clear so far.",
-      "category": "🗓 THIS WEEK"
-    },
-    {
       "id": "fri-idb",
       "type": null,
-      "text": "FRI 4 SEPT — IDB comments due COB.",
-      "category": "🗓 THIS WEEK"
+      "text": "📄 IDB comments due COB. Sonia is away.",
+      "category": "🔴 TOMORROW, FRIDAY 4 SEPTEMBER"
     },
     {
       "id": "fri-food",
       "type": null,
-      "text": "FRI 4 SEPT 10:00-11:00 — departmental briefing, Global Food Security Crisis, Super El Niño focus.",
-      "category": "🗓 THIS WEEK"
+      "text": "10:00-11:00 — departmental briefing, Global Food Security Crisis, Super El Niño focus.",
+      "category": "🔴 TOMORROW, FRIDAY 4 SEPTEMBER"
     },
     {
       "id": "ops-live",
       "type": null,
-      "text": "📄 The OPS is with you: Sonia's text integrated, in a Google Doc, emailed. Two things to check before it goes up: where 4.1 million comes from, and whether CONRED has moved off the yellow alert.",
-      "category": "🗓 THIS WEEK"
+      "text": "📄 The OPS is with you. Two things to settle: where 4.1 million comes from, and whether CONRED has moved off the yellow alert. And the Oxfam study has a second, larger figure: 51,000 households projected to be impacted.",
+      "category": "🔴 TOMORROW, FRIDAY 4 SEPTEMBER"
+    },
+    {
+      "id": "mon-none",
+      "type": null,
+      "text": "MON 7 SEPT — clear so far.",
+      "category": "🗓 NEXT WEEK"
+    },
+    {
+      "id": "tue-cmm",
+      "type": null,
+      "text": "TUE 8 SEPT 14:00 — CMM/OPS.",
+      "category": "🗓 NEXT WEEK"
+    },
+    {
+      "id": "wed-escobal",
+      "type": null,
+      "text": "WED 9 SEPT — 'Visit to PAS Escobal', all-day placeholder. Pan American Silver's mine, suspended since 2017 pending ILO 169 consultation. Worth one question about what the day actually is.",
+      "category": "🗓 NEXT WEEK"
+    },
+    {
+      "id": "thu-dev",
+      "type": null,
+      "text": "THU 10 SEPT — DEV team 09:00, NDB/Mission IA Management 11:30.",
+      "category": "🗓 NEXT WEEK"
+    },
+    {
+      "id": "fri-cerv",
+      "type": null,
+      "text": "FRI 11 SEPT 11:00 — Cervecería C.A. tour, lunch after. 🎂 Helen's birthday.",
+      "category": "🗓 NEXT WEEK"
+    },
+    {
+      "id": "mon-bilat",
+      "type": null,
+      "text": "MON 14 SEPT 14:00 — bilat with Olivier. The list is six weeks stale and wants a prune.",
+      "category": "🗓 NEXT WEEK"
+    },
+    {
+      "id": "indep",
+      "type": null,
+      "text": "TUE 15 SEPT — Independence Day. Mission holiday. Accepting nothing.",
+      "category": "🗓 NEXT WEEK"
     },
     {
       "id": "jeanluc",
       "type": null,
-      "text": "📧 Write to Jean-Luc: Olivier wants you to apply for the FS-03. Three-line draft is already written.",
-      "category": "🗓 THIS WEEK"
+      "text": "Write to Jean-Luc: Olivier wants you to apply for the FS-03. Three-line draft already written.",
+      "category": "📧 SMALL THINGS OWED"
     },
     {
       "id": "annick-parking",
       "type": null,
       "text": "🅿️ Send Annick the address of the parking lot in Antigua.",
-      "category": "🗓 THIS WEEK"
-    },
-    {
-      "id": "mon-bilat",
-      "type": null,
-      "text": "MON 14 SEPT 14:00 — next bilat with Olivier. The list is six weeks stale and wants a prune.",
-      "category": "🗓 THIS WEEK"
-    },
-    {
-      "id": "indep",
-      "type": null,
-      "text": "TUE 15 SEPT — Guatemalan Independence Day. Mission holiday. Not accepting anything.",
-      "category": "🗓 THIS WEEK"
-    },
-    {
-      "id": "cerveceria",
-      "type": null,
-      "text": "FRI 11 SEPT 11:00 — Cervecería C.A. tour, lunch after. 🎂 Helen's birthday.",
-      "category": "🗓 THIS WEEK"
+      "category": "📧 SMALL THINGS OWED"
     },
     {
       "id": "quebec-dates",
       "type": null,
-      "text": "Pick the dates. Olivier can't answer the leave ask without them, and October flights want booking earlier than December's did.",
-      "category": "🍁 QUEBEC IN OCTOBER"
-    },
-    {
-      "id": "quebec-names",
-      "type": null,
-      "text": "Names, if you want them ahead of time: Claude, and Julie, Carmelle, Sylvie, Hélène. You've already met Hélène and Carmelle and their husbands.",
-      "category": "🍁 QUEBEC IN OCTOBER"
-    },
-    {
-      "id": "quebec-memoir",
-      "type": null,
-      "text": "Alphonse's memoir is filed and read, if you want it before the trip.",
-      "category": "🍁 QUEBEC IN OCTOBER"
+      "text": "🍁 Pick the October dates for Quebec. Olivier cannot answer the leave ask without them.",
+      "category": "📧 SMALL THINGS OWED"
     },
     {
       "id": "canada-id",
