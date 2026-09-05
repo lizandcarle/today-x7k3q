@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "updated": "2026-09-04T18:16:00-06:00",
-  "note": "Friday. The move week is set: 14-18 Sept, and you are skipping the bilat. Monday: quotes at 09:30, and the note to Olivier.",
+  "note": "Friday. El Niño tasking is due OOB Mon 14 — your packing day — so Friday 11 is the real date. Move week 14-18.",
   "items": [
     {
       "id": "wf-job",
@@ -23,6 +23,18 @@
       "text": "✏️ EDIT MY WORKFLOWY: LIFE",
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "url": "https://workflowy.com/#/e5d0b5b51fd2"
+    },
+    {
+      "id": "elnino-table",
+      "type": null,
+      "text": "NLP table: impacts · country response · Canadian angle (secondary). Short bullets, nils fine. Draft with Sonia + David. Monday and Tuesday are your clear blocks.",
+      "category": "🔴🔴 EL NIÑO TASKING — real deadline FRI 11 SEPT (OOB Mon 14 is your packing day)"
+    },
+    {
+      "id": "ops-fix",
+      "type": null,
+      "text": "Fix the OPS before Olivier sees it: 'fertiliser up 15%' is WFP's model assumption, not observed. Use gasoline, up 40%+.",
+      "category": "🔴🔴 EL NIÑO TASKING — real deadline FRI 11 SEPT (OOB Mon 14 is your packing day)"
     },
     {
       "id": "ex-press",
@@ -73,12 +85,6 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "camera-prot",
-      "type": null,
-      "text": "Camera protector on Julie's phone — it is on your desk, she is here, it has been open since 1 August",
-      "category": "🌙 TONIGHT — one small thing"
-    },
-    {
       "id": "mon-quotes",
       "type": null,
       "text": "09:30 Moving quotes, Intermud + Cropa, Casa Cañada — Oscar Chavac / Scarlet Veliz",
@@ -87,7 +93,7 @@
     {
       "id": "mon-uk",
       "type": null,
-      "text": "17:30 UK El Niño event — SALLY IS RSVP-ING, NOT YOU",
+      "text": "17:30 UK El Niño event, British Residence, 11 Av 21-34 Zona 14 La Cañada — photo ID at the gate. Rose has RSVP'd; you go in Olivier's place.",
       "category": "📅 MONDAY 7 SEPT — two fixed points"
     },
     {
