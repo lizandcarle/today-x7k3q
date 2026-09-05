@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-03",
-  "updated": "2026-09-03T18:10:00-06:00",
-  "note": "Home from Xela. Friday is two-deep. The house link dropped twice in twenty hours.",
+  "date": "2026-09-04",
+  "updated": "2026-09-04T18:10:00-06:00",
+  "note": "Friday. The bilat finally has a date: Mon 14 Sept, 14:00. Monday is moving quotes at 09:30 and the UK El Niño event at 17:30.",
   "items": [
     {
       "id": "wf-job",
@@ -51,380 +51,86 @@
     {
       "id": "ex-beatsaber",
       "type": null,
-      "text": "Beat Saber, 30 minutes",
+      "text": "Beat Saber, 30 min",
       "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
     },
     {
       "id": "ex-steps",
       "type": null,
       "text": "7,000 steps",
-      "category": "✅ EVERY DAY"
+      "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
       "id": "ex-diet",
       "type": null,
       "text": "Diet: 1,234 cal / 110g protein",
-      "category": "✅ EVERY DAY"
+      "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
       "id": "ex-vitamin",
       "type": null,
       "text": "Multivitamin",
-      "category": "✅ EVERY DAY"
+      "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "fri-idb",
+      "id": "camera-prot",
       "type": null,
-      "text": "📄 IDB comments due COB. Sonia is away.",
-      "category": "🔴 TOMORROW, FRIDAY 4 SEPTEMBER"
+      "text": "Camera protector on Julie's phone — it is on your desk, she is here, it has been open since 1 August",
+      "category": "🌙 TONIGHT — one small thing"
     },
     {
-      "id": "fri-food",
+      "id": "mon-quotes",
       "type": null,
-      "text": "10:00-11:00 — departmental briefing, Global Food Security Crisis, Super El Niño focus.",
-      "category": "🔴 TOMORROW, FRIDAY 4 SEPTEMBER"
+      "text": "09:30 Moving quotes, Intermud + Cropa, Casa Cañada — Oscar Chavac / Scarlet Veliz",
+      "category": "📅 MONDAY 7 SEPT — two fixed points"
     },
     {
-      "id": "ops-live",
+      "id": "mon-uk",
       "type": null,
-      "text": "📄 The OPS is with you. Two things to settle: where 4.1 million comes from, and whether CONRED has moved off the yellow alert. And the Oxfam study has a second, larger figure: 51,000 households projected to be impacted.",
-      "category": "🔴 TOMORROW, FRIDAY 4 SEPTEMBER"
+      "text": "17:30 UK El Niño event — IT IS IN YOUR CALENDAR BUT THE RSVP IS STILL UNSENT",
+      "category": "📅 MONDAY 7 SEPT — two fixed points"
     },
     {
-      "id": "mon-none",
+      "id": "bilat-prep",
       "type": null,
-      "text": "MON 7 SEPT — clear so far.",
-      "category": "🗓 NEXT WEEK"
-    },
-    {
-      "id": "tue-cmm",
-      "type": null,
-      "text": "TUE 8 SEPT 14:00 — CMM/OPS.",
-      "category": "🗓 NEXT WEEK"
-    },
-    {
-      "id": "wed-escobal",
-      "type": null,
-      "text": "WED 9 SEPT — 'Visit to PAS Escobal', all-day placeholder. Pan American Silver's mine, suspended since 2017 pending ILO 169 consultation. Worth one question about what the day actually is.",
-      "category": "🗓 NEXT WEEK"
-    },
-    {
-      "id": "thu-dev",
-      "type": null,
-      "text": "THU 10 SEPT — DEV team 09:00, NDB/Mission IA Management 11:30.",
-      "category": "🗓 NEXT WEEK"
-    },
-    {
-      "id": "fri-cerv",
-      "type": null,
-      "text": "FRI 11 SEPT 11:00 — Cervecería C.A. tour, lunch after. 🎂 Helen's birthday.",
-      "category": "🗓 NEXT WEEK"
-    },
-    {
-      "id": "mon-bilat",
-      "type": null,
-      "text": "MON 14 SEPT 14:00 — bilat with Olivier. The list is six weeks stale and wants a prune.",
-      "category": "🗓 NEXT WEEK"
-    },
-    {
-      "id": "indep",
-      "type": null,
-      "text": "TUE 15 SEPT — Independence Day. Mission holiday. Accepting nothing.",
-      "category": "🗓 NEXT WEEK"
-    },
-    {
-      "id": "jeanluc",
-      "type": null,
-      "text": "Write to Jean-Luc: Olivier wants you to apply for the FS-03. Three-line draft already written.",
-      "category": "📧 SMALL THINGS OWED"
-    },
-    {
-      "id": "annick-parking",
-      "type": null,
-      "text": "🅿️ Send Annick the address of the parking lot in Antigua.",
-      "category": "📧 SMALL THINGS OWED"
-    },
-    {
-      "id": "quebec-dates",
-      "type": null,
-      "text": "🍁 Pick the October dates for Quebec. Olivier cannot answer the leave ask without them.",
-      "category": "📧 SMALL THINGS OWED"
-    },
-    {
-      "id": "canada-id",
-      "type": null,
-      "text": "Driver's licence + health card address. 🔴 New card takes 4-6 WEEKS, so it lands after you fly home on the 23rd. Use a MAILING address separate from the residential one: Bernice's, 925 9th Ave A E. ⚠️ If it is an Enhanced licence there is no online option.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "canada-post",
-      "type": null,
-      "text": "Canada Post forwarding mailbox. 🔴 Do the ID change FIRST. Ontario mails the card 'do not forward', so a redirect cannot carry it. Your own catch, 11 Aug.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "diallog-router",
-      "type": null,
-      "text": "Collect the Diallog REPLACEMENT router. ⚠️ If the old one is being swapped, re-check the VOIP: SIP ALG off on the NEW box before assuming the phone is still broken.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "diallog-call",
-      "type": null,
-      "text": "Call Diallog about the house phone not ringing. Ask them ONE thing directly: is the number provisioned for INBOUND, not just outbound? Tell them outgoing works and shows the right caller ID, so registration is fine. That skips twenty minutes of scripted troubleshooting.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "phone-port",
-      "type": null,
-      "text": "Home phone: move to the $5 ISP-independent plan and PORT the number. Diallog and you both spent hours and it never rang, including with the handset straight into the modem, so the router is ruled out.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "monitors-basement",
-      "type": null,
-      "text": "Take the monitors to the basement.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "utilities-1080",
-      "type": null,
-      "text": "Utilities scheduling for 1080. Ticked on the page in July but still open in your HOME tree, tagged #julie is doing this.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "computer-apps",
-      "type": null,
-      "text": "Set up the computer apps at 1080. From your HOME tree, not previously on this list.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "write-agent",
-      "type": null,
-      "text": "Write to the agent to explain. Still in your HOME tree and still unexplained; tell me what it means and I will make it concrete.",
-      "category": "🏡 1080 / CANADA"
-    },
-    {
-      "id": "fsd-50",
-      "type": null,
-      "text": "File the reconciliation for the FSD 50 advance",
-      "category": "💰 FSDs & CLAIMS"
-    },
-    {
-      "id": "lily-trigger",
-      "type": null,
-      "text": "⏳ TRIGGER STEP, do this early: ask Lily's school for the enrolment letter. The registrar holds the clock. 28 Nov is when the coverage must EXIST, not when to start asking.",
-      "category": "💰 FSDs & CLAIMS"
-    },
-    {
-      "id": "lily-enrolment",
-      "type": null,
-      "text": "Upload Lily's proof of enrolment",
-      "category": "💰 FSDs & CLAIMS"
-    },
-    {
-      "id": "furniture-enquiry",
-      "type": null,
-      "text": "Send the enquiry about furniture delivery",
-      "category": "💰 FSDs & CLAIMS"
-    },
-    {
-      "id": "fsd-dental",
-      "type": null,
-      "text": "File the dental claim",
-      "category": "💰 FSDs & CLAIMS"
-    },
-    {
-      "id": "fsd-uber-hn",
-      "type": null,
-      "text": "Honduras Uber period ~$1,000: verify window with Rizki first",
-      "category": "💰 FSDs & CLAIMS"
-    },
-    {
-      "id": "fsd-uber-gt",
-      "type": null,
-      "text": "Guatemala City Uber period ~$1,000: same, verify window",
-      "category": "💰 FSDs & CLAIMS"
-    },
-    {
-      "id": "mygcpay-cases",
-      "type": null,
-      "text": "MyGCPay shows 5 open items under Cases and Enquiries. One look next time you are in there.",
-      "category": "💰 FSDs & CLAIMS"
-    },
-    {
-      "id": "vit-sent",
-      "type": null,
-      "text": "✅ Video filmed and claim submitted 24 Aug. The video was the last blocker.",
-      "category": "🥽 VITURE — CLAIM SENT, NOW WAITING"
-    },
-    {
-      "id": "vit-wait",
-      "type": null,
-      "text": "⏳ They quote 1-2 business days to reply, up to 7 for the decision. So expect an answer around WED 26 AUG.",
-      "category": "🥽 VITURE — CLAIM SENT, NOW WAITING"
-    },
-    {
-      "id": "viture-return-addr",
-      "type": null,
-      "text": "🔴 The real problem is not the wait: you are no longer in Canada with the glasses. If they answer this week, who mails it? Warranty runs to ~19 May 2027, so Christmas costs you nothing but patience.",
-      "category": "🥽 VITURE — CLAIM SENT, NOW WAITING"
-    },
-    {
-      "id": "vit-ship",
-      "type": null,
-      "text": "When they send an address: ORIGINAL PACKAGING and a TRACKABLE method, both required. You are in Canada until the 23rd, so ship from there rather than from Guatemala.",
-      "category": "🥽 VITURE — CLAIM SENT, NOW WAITING"
-    },
-    {
-      "id": "telephone-game",
-      "type": null,
-      "text": "The telephone game story. Still owed. The ~1990 pamphlet turned up in July.",
-      "category": "⛪ PERSONAL"
-    },
-    {
-      "id": "lore-altspace",
-      "type": null,
-      "text": "LORE: the AltspaceVR Dhaka year. All sources now located and mapped. Still to do: read the two Katie Kelly emails, the Microsoft prep doc and the VRLA script, then write YOUR version into lore. The Seattle Times has the journalism; your account is not written down anywhere.",
-      "category": "⛪ PERSONAL"
-    },
-    {
-      "id": "life-projects",
-      "type": null,
-      "text": "From your LIFE tree, unfiled until tonight: the unfinished videogame projects, vibe-coding, and hardware projects. Three standing categories, no tasks under them yet.",
-      "category": "⛪ PERSONAL"
+      "text": "You asked on 30 Aug what you had flagged to raise. I will bring you the list before the day.",
+      "category": "🎙 THE BILAT IS BOOKED — Mon 14 Sept, 14:00, Olivier's office"
     },
     {
       "id": "julie-data",
       "type": null,
-      "text": "📱 Buy Julie data.",
-      "category": "🛒 SHOPPING LIST"
+      "text": "Buy Julie data",
+      "category": "🏠 HOME / PERSONAL"
     },
     {
-      "id": "shop-wingspan",
+      "id": "tigo-pattern",
       "type": null,
-      "text": "Wingspan Etsy items for Julie's gift",
-      "category": "🛒 SHOPPING LIST"
+      "text": "Report the internet outage pattern to Tigo — 2 Sept 09:58, 3 Sept 05:42, 4 Sept 16:22. Account 17082124.",
+      "category": "🏠 HOME / PERSONAL"
     },
     {
-      "id": "shop-mirage",
+      "id": "annick-parking",
       "type": null,
-      "text": "Mirage 3D hologram maker",
-      "category": "🛒 SHOPPING LIST"
+      "text": "Send Annick the address of the parking lot in Antigua",
+      "category": "💼 WORK — still open"
     },
     {
-      "id": "shop-ticket",
+      "id": "jeanluc",
       "type": null,
-      "text": "Ticket to Ride: Northern Lights",
-      "category": "🛒 SHOPPING LIST"
+      "text": "Write to Jean-Luc re the FS-03 — draft is written and sitting with you",
+      "category": "💼 WORK — still open"
     },
     {
-      "id": "shop-watch-cable",
+      "id": "quebec-dates",
       "type": null,
-      "text": "Apple Watch USB-C charger cable",
-      "category": "🛒 SHOPPING LIST"
+      "text": "Pick the October Quebec dates — this is the blocker on the whole leave ask",
+      "category": "💼 WORK — still open"
     },
     {
-      "id": "shop-wf",
+      "id": "timemachine",
       "type": null,
-      "text": "From your Workflowy home list, unchanged for eight days: door handles, floor lamps, telephone stand, TV stand, VGA cable, bright bulbs, VOIP handset, IP cameras.",
-      "category": "🛒 SHOPPING LIST"
-    },
-    {
-      "id": "nest-bilat",
-      "type": null,
-      "text": "The first thing to build after deploy: the bilat bullet, shared, both of us editing. One live bullet before the next bilat, not a full import.",
-      "category": "🪺 NEST — first build decided"
-    },
-    {
-      "id": "nest-rename",
-      "type": null,
-      "text": "🔴 RENAME IT FIRST. Your call, 23 Aug: Nest is the doorbell company, and you are installing a door lock and cameras at 1080.",
-      "category": "🪺 NEST — first build decided"
-    },
-    {
-      "id": "nest-deploy",
-      "type": null,
-      "text": "Deploy Nest: openssl rand -hex 24 → paste into NEST_KEY in api.php → upload both files to public_html/nest/ → open the URL, hit ⚙, paste key. Then send Orson the URL and key.",
-      "category": "🪺 NEST — first build decided"
-    },
-    {
-      "id": "nest-ftp",
-      "type": null,
-      "text": "In cPanel, make an FTP account restricted to public_html/nest/ for Orson. Not the master login.",
-      "category": "🪺 NEST — first build decided"
-    },
-    {
-      "id": "house-app",
-      "type": null,
-      "text": "The 1080 house app: rooms, jobs with a status pipeline, contractors as their own records, shared with Julie. Spec written from your dictation. Open question: you, Fable, or me writing the prompt for Fable.",
-      "category": "🪺 NEST — first build decided"
-    },
-    {
-      "id": "time-machine",
-      "type": null,
-      "text": "Turn on Time Machine to an external drive. There is still no backup of the closet Mac.",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "f12",
-      "type": null,
-      "text": "⌨️ F12 in Brave: try changing the Services shortcut to ⌃F12 or ⇧F12. Brave only grabs bare F12. Nothing to install.",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "chatgpt-launcher",
-      "type": null,
-      "text": "🤖 ChatGPT launcher: replace the Automator contents with one Run Shell Script line, open -a \"<browser>\" \"https://chatgpt.com\". Opening a URL forces a window.",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "voip-inbound",
-      "type": null,
-      "text": "VOIP at 1080: dials out but does not ring on incoming. Check SIP ALG off on the Diallog router first, then shorten the registration/keepalive interval, then confirm the number is provisioned inbound.",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "plex-cloud",
-      "type": null,
-      "text": "Look up moving the Plex library to the cloud. The Canada side cannot watch, and the Guatemala outage is exactly why: a home-hosted server dies with the house internet.",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "quest-optimizer",
-      "type": null,
-      "text": "Add the Quest Games Optimizer",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "pacman-mod",
-      "type": null,
-      "text": "Arcade1Up Pac-Man cabinet mod (Pi 3B or MiSTer)",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "yt-agi",
-      "type": null,
-      "text": "Look up a YouTube video about documenting AGI",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "chatgpt-canary",
-      "type": null,
-      "text": "ChatGPT as an app via Canary browser (from your HOME tree)",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "openclaw-9",
-      "type": null,
-      "text": "Test if Telegram/OpenClaw works on the $9/mo ChatGPT tier",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "cal-shortcut",
-      "type": null,
-      "text": "Work calendar shortcut, when you're next in it: add a Show Notification step so the button says it fired. That was the whole bug. The 03:00 automation still doesn't run.",
-      "category": "🛠 TECH"
+      "text": "Time Machine to an external drive — the closet Mac still has no backup",
+      "category": "🔧 TECH"
     }
   ]
 }
