@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-05",
-  "updated": "2026-09-05T18:10:00-06:00",
-  "note": "Saturday. October is fully booked and documented. Monday carries the El Niño gaps and the note to Olivier.",
+  "date": "2026-09-06",
+  "updated": "2026-09-06T18:10:00-06:00",
+  "note": "Sunday. Tomorrow carries the El Niño gaps, the note to Olivier, quotes at 09:30 and the British at 17:30.",
   "items": [
     {
       "id": "wf-job",
@@ -73,57 +73,69 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "julie-data",
+      "id": "id-out",
       "type": null,
-      "text": "Buy Julie data. She is here, it takes two minutes, and it is somebody else's problem solved.",
+      "text": "Put your photo ID somewhere you cannot leave without it. The La Cañada gate will ask for it tomorrow evening.",
       "category": "🌙 TONIGHT — one small thing"
-    },
-    {
-      "id": "claro-sq",
-      "type": null,
-      "text": "Buy Claro for the new SQ. The INSTALL APPOINTMENT is the bit with a lead time, not the purchase.",
-      "category": "📦 THE MOVE — 14 to 18 SEPT"
-    },
-    {
-      "id": "tigo-move",
-      "type": null,
-      "text": "Tigo 17082124 is the internet at the OLD flat. It has to move or close, separately.",
-      "category": "📦 THE MOVE — 14 to 18 SEPT"
     },
     {
       "id": "elnino-gaps",
       "type": null,
-      "text": "El Niño draft: two gaps left for you. The xlsx column headings, and whether to name projects by number.",
-      "category": "💼 MONDAY 7 SEPT"
+      "text": "EL NIÑO: two gaps are yours. The xlsx column headings (a photo of the header row does it), and whether to name Canadian projects by number.",
+      "category": "🔴 MONDAY 7 SEPT"
     },
     {
       "id": "olivier-note",
       "type": null,
-      "text": "Send Olivier the note about missing the 14 Sept bilat.",
-      "category": "💼 MONDAY 7 SEPT"
+      "text": "Write to Olivier: you will miss the 14 Sept bilat. Your own ask.",
+      "category": "🔴 MONDAY 7 SEPT"
     },
     {
       "id": "mon-quotes",
       "type": null,
-      "text": "09:30 moving quotes, Intermud + Cropa, Casa Cañada.",
-      "category": "💼 MONDAY 7 SEPT"
+      "text": "09:30 Moving quotes, Intermud + Cropa, Casa Cañada. Oscar Chavac / Scarlet Veliz.",
+      "category": "🔴 MONDAY 7 SEPT"
     },
     {
       "id": "mon-uk",
       "type": null,
-      "text": "17:30 British Residence, 11 Av 21-34 Zona 14 La Cañada. Photo ID at the gate.",
-      "category": "💼 MONDAY 7 SEPT"
+      "text": "17:30 British Residence, 11 Av 21-34 Zona 14 La Cañada. Drinks 17:30, dialogue 18:00. You go in Olivier's place.",
+      "category": "🔴 MONDAY 7 SEPT"
+    },
+    {
+      "id": "ops-fix",
+      "type": null,
+      "text": "Fix the OPS before Olivier sees it: 'fertiliser up 15%' is WFP's model assumption, not observed. Use gasoline, up 40%+.",
+      "category": "🔴 MONDAY 7 SEPT"
+    },
+    {
+      "id": "elnino-deadline",
+      "type": null,
+      "text": "EL NIÑO TABLE due OOB Mon 14 — which is your packing day. Real deadline FRIDAY 11. Wed is Escobal from 05:00, Fri is Cervecería from 11:00.",
+      "category": "📅 THIS WEEK"
+    },
+    {
+      "id": "leave-form",
+      "type": null,
+      "text": "Submit the October leave form. Olivier already approved it. Three minutes.",
+      "category": "📅 THIS WEEK"
+    },
+    {
+      "id": "claro-sq",
+      "type": null,
+      "text": "Buy Claro for the new SQ. The INSTALL APPOINTMENT is the part with a lead time.",
+      "category": "📦 MOVE WEEK — 14 to 18 SEPT"
+    },
+    {
+      "id": "tigo-move",
+      "type": null,
+      "text": "Tigo 17082124 is the OLD flat's internet. Move it or close it, separately.",
+      "category": "📦 MOVE WEEK — 14 to 18 SEPT"
     },
     {
       "id": "dental",
       "type": null,
-      "text": "FSD dental claim. Form M445D, plan 72114, cert ECF0152001. Open since February.",
-      "category": "🏠 HOME / PERSONAL"
-    },
-    {
-      "id": "tigo-outage",
-      "type": null,
-      "text": "Report the Tigo outage pattern: 2 Sept 09:58, 3 Sept 05:42, 4 Sept 16:22.",
+      "text": "FSD dental claim. Form M445D, plan 72114, cert ECF0152001.",
       "category": "🏠 HOME / PERSONAL"
     },
     {
@@ -133,10 +145,16 @@
       "category": "🏠 HOME / PERSONAL"
     },
     {
-      "id": "leave-form",
+      "id": "tigo-outage",
       "type": null,
-      "text": "Submit the October leave form. Olivier already approved it.",
+      "text": "Report the outage pattern: 2 Sept 09:58, 3 Sept 05:42, 4 Sept 16:22.",
       "category": "🏠 HOME / PERSONAL"
+    },
+    {
+      "id": "astra-brief",
+      "type": null,
+      "text": "House app: brief is with Astra. Import the existing Issue Register and Prioritized Maintenance Plan rather than retyping them.",
+      "category": "🔧 TECH"
     },
     {
       "id": "timemachine",
