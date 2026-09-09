@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-07",
-  "updated": "2026-09-07T18:10:00-06:00",
-  "note": "Monday. Tomorrow: SOCODEVI at 11:00, four of them, including the PRODISOL director. El Niño is due Friday, not the 14th.",
+  "date": "2026-09-08",
+  "updated": "2026-09-08T18:10:00-06:00",
+  "note": "Tuesday. Escobal at 05:35 tomorrow. The bilat moved to Friday 08:00, so El Niño has to be finished Thursday.",
   "items": [
     {
       "id": "wf-job",
@@ -73,70 +73,88 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "socodevi",
+      "id": "escobal-car",
       "type": null,
-      "text": "11:00 SOCODEVI, 7th floor FPDS. Dionne (Intl Programme) · Mansilla (PRODISOL) · Rodas (TRASOL) · GAGNON (Regional Dir). Prep is in orgs/socodevi.md.",
-      "category": "🔴 TOMORROW — TUE 8 SEPT"
+      "text": "05:35 the car takes you from your SQ. Depart 06:00, back 14:00. TWO bookings still list you — Express run and the HoM Toyota with David Seekings. Ask which.",
+      "category": "🌅 TOMORROW — WED 9 SEPT, ESCOBAL"
     },
     {
-      "id": "mh-warning",
+      "id": "escobal-blockades",
       "type": null,
-      "text": "Marie-Hélène GAGNON is SOCODEVI. Marie-Hélène BÉRUBÉ is NLP and is the one owed MEDA feedback. Two different women.",
-      "category": "🔴 TOMORROW — TUE 8 SEPT"
+      "text": "Fuel-protest blockades are live nationwide. Nothing reported on your route, but the drivers should check the map before 06:00.",
+      "category": "🌅 TOMORROW — WED 9 SEPT, ESCOBAL"
     },
     {
-      "id": "devteam",
+      "id": "bilat-fri",
       "type": null,
-      "text": "10:00 GTMLA Dev Team, Sally's Teams link, or meet in your office or Sonia's.",
-      "category": "🔴 TOMORROW — TUE 8 SEPT"
+      "text": "08:00 BILAT with Olivier, his office. Moved from Mon 14. The HoM list is your prep — read it Thursday night.",
+      "category": "🔴 FRIDAY 11 — THE BILAT MOVED HERE, AND SO DID EVERYTHING ELSE"
     },
     {
-      "id": "cmm",
+      "id": "roxanne",
       "type": null,
-      "text": "14:00 CMM/OPS weekly.",
-      "category": "🔴 TOMORROW — TUE 8 SEPT"
+      "text": "07:00 Roxanne, NDB Guatemala. She is looking forward to catching up after all these years.",
+      "category": "🔴 FRIDAY 11 — THE BILAT MOVED HERE, AND SO DID EVERYTHING ELSE"
+    },
+    {
+      "id": "cerveceria-fri",
+      "type": null,
+      "text": "10:30 depart for Cervecería zona 2, 11:00 tour and lunch. You are out of the building for the afternoon.",
+      "category": "🔴 FRIDAY 11 — THE BILAT MOVED HERE, AND SO DID EVERYTHING ELSE"
+    },
+    {
+      "id": "helen-bday",
+      "type": null,
+      "text": "Helen's birthday.",
+      "category": "🔴 FRIDAY 11 — THE BILAT MOVED HERE, AND SO DID EVERYTHING ELSE"
+    },
+    {
+      "id": "elnino-thu",
+      "type": null,
+      "text": "Due COB Friday, but Friday you are in a bilat at 08:00 and gone by 10:30. Thursday is the day.",
+      "category": "🔴 EL NIÑO — FINISH IT THURSDAY, NOT FRIDAY"
     },
     {
       "id": "elnino-gaps",
       "type": null,
-      "text": "EL NIÑO: two gaps still yours. The xlsx column headings, and whether to name projects by number. DEADLINE IS FRIDAY 11, not Mon 14.",
-      "category": "📅 THIS WEEK"
-    },
-    {
-      "id": "escobal",
-      "type": null,
-      "text": "WED: car collects you at your SQ 05:35, departs 06:00, back 14:00. TWO vehicles are booked and both list you — ask which.",
-      "category": "📅 THIS WEEK"
+      "text": "Two gaps still yours: the xlsx column headings, and whether to name Canadian projects by number.",
+      "category": "🔴 EL NIÑO — FINISH IT THURSDAY, NOT FRIDAY"
     },
     {
       "id": "ops-fix",
       "type": null,
-      "text": "Fix the OPS before Olivier sees it: 'fertiliser up 15%' is WFP's model assumption. Use gasoline, up 40%+.",
-      "category": "📅 THIS WEEK"
-    },
-    {
-      "id": "cerveceria",
-      "type": null,
-      "text": "FRI 11:00 Cervecería C.A. tour and lunch. Also Helen's birthday.",
-      "category": "📅 THIS WEEK"
+      "text": "Fix before Olivier sees it: 'fertiliser up 15%' is WFP's model assumption. Use gasoline, up 40%+.",
+      "category": "🔴 EL NIÑO — FINISH IT THURSDAY, NOT FRIDAY"
     },
     {
       "id": "claro-install",
       "type": null,
-      "text": "Claro: get the INSTALL DATE in writing. A ticket number is not a connection.",
+      "text": "Claro: get the INSTALL DATE in writing.",
       "category": "📦 MOVE WEEK — 14 to 16 SEPT"
     },
     {
       "id": "tigo-cancel",
       "type": null,
-      "text": "Cancel Tigo AFTER you vacate. In person, any branch, WITH the equipment. Take everything and get written proof.",
+      "text": "Cancel Tigo AFTER you vacate. In person, any branch, with ALL the equipment, and get written proof.",
       "category": "📦 MOVE WEEK — 14 to 16 SEPT"
     },
     {
       "id": "sally-leave",
       "type": null,
-      "text": "Sally is on leave from the 14th, so your admin is away for the whole move week.",
+      "text": "Sally is on leave from the 14th.",
       "category": "📦 MOVE WEEK — 14 to 16 SEPT"
+    },
+    {
+      "id": "tigo-bill",
+      "type": null,
+      "text": "Tigo bill due the 10th. The last one you will ever pay them.",
+      "category": "🏠 HOME / PERSONAL"
+    },
+    {
+      "id": "overtime",
+      "type": null,
+      "text": "September overtime tally: 1.5 hrs so far (Mon 7th, British Residence). Compile 1 October.",
+      "category": "🏠 HOME / PERSONAL"
     },
     {
       "id": "dental",
@@ -145,33 +163,21 @@
       "category": "🏠 HOME / PERSONAL"
     },
     {
-      "id": "tigo-bill",
-      "type": null,
-      "text": "Tigo bill due the 10th. Last one before you leave.",
-      "category": "🏠 HOME / PERSONAL"
-    },
-    {
       "id": "intelaf",
       "type": null,
-      "text": "Intelaf credit note waiting at Zona 9, order 69788. Ask about expiry.",
-      "category": "🏠 HOME / PERSONAL"
-    },
-    {
-      "id": "leave-form",
-      "type": null,
-      "text": "Submit the October leave form. Approved already. Three minutes.",
+      "text": "Intelaf credit at Zona 9, order 69788. Ask about expiry.",
       "category": "🏠 HOME / PERSONAL"
     },
     {
       "id": "astra",
       "type": null,
-      "text": "House app brief is with Astra. Tell it to import your existing Issue Register and Maintenance Plan.",
+      "text": "House app brief is with Astra. Have it import your existing Issue Register and Maintenance Plan.",
       "category": "🔧 TECH"
     },
     {
       "id": "timemachine",
       "type": null,
-      "text": "Time Machine to an external drive. 362 GiB free now, so there is finally room.",
+      "text": "Time Machine to an external drive. There is room now.",
       "category": "🔧 TECH"
     }
   ]
