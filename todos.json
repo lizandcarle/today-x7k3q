@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-08",
-  "updated": "2026-09-08T18:10:00-06:00",
-  "note": "Tuesday. Escobal at 05:35 tomorrow. The bilat moved to Friday 08:00, so El Niño has to be finished Thursday.",
+  "date": "2026-09-09",
+  "updated": "2026-09-09T18:11:00-06:00",
+  "note": "Wednesday, back from Escobal. Tomorrow is the day the El Niño table gets finished — Friday is a bilat and a brewery.",
   "items": [
     {
       "id": "wf-job",
@@ -73,87 +73,87 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "escobal-car",
+      "id": "elnino-finish",
       "type": null,
-      "text": "05:35 the car takes you from your SQ. Depart 06:00, back 14:00. TWO bookings still list you — Express run and the HoM Toyota with David Seekings. Ask which.",
-      "category": "🌅 TOMORROW — WED 9 SEPT, ESCOBAL"
-    },
-    {
-      "id": "escobal-blockades",
-      "type": null,
-      "text": "Fuel-protest blockades are live nationwide. Nothing reported on your route, but the drivers should check the map before 06:00.",
-      "category": "🌅 TOMORROW — WED 9 SEPT, ESCOBAL"
-    },
-    {
-      "id": "bilat-fri",
-      "type": null,
-      "text": "08:00 BILAT with Olivier, his office. Moved from Mon 14. The HoM list is your prep — read it Thursday night.",
-      "category": "🔴 FRIDAY 11 — THE BILAT MOVED HERE, AND SO DID EVERYTHING ELSE"
-    },
-    {
-      "id": "roxanne",
-      "type": null,
-      "text": "07:00 Roxanne, NDB Guatemala. She is looking forward to catching up after all these years.",
-      "category": "🔴 FRIDAY 11 — THE BILAT MOVED HERE, AND SO DID EVERYTHING ELSE"
-    },
-    {
-      "id": "cerveceria-fri",
-      "type": null,
-      "text": "10:30 depart for Cervecería zona 2, 11:00 tour and lunch. You are out of the building for the afternoon.",
-      "category": "🔴 FRIDAY 11 — THE BILAT MOVED HERE, AND SO DID EVERYTHING ELSE"
-    },
-    {
-      "id": "helen-bday",
-      "type": null,
-      "text": "Helen's birthday.",
-      "category": "🔴 FRIDAY 11 — THE BILAT MOVED HERE, AND SO DID EVERYTHING ELSE"
-    },
-    {
-      "id": "elnino-thu",
-      "type": null,
-      "text": "Due COB Friday, but Friday you are in a bilat at 08:00 and gone by 10:30. Thursday is the day.",
-      "category": "🔴 EL NIÑO — FINISH IT THURSDAY, NOT FRIDAY"
+      "text": "FINISH THE TABLE TOMORROW. Friday you are in a bilat at 08:00 and out of the building by 10:30, and it is due COB Friday.",
+      "category": "🔴 TOMORROW — THU 10 SEPT. THE EL NIÑO DAY."
     },
     {
       "id": "elnino-gaps",
       "type": null,
       "text": "Two gaps still yours: the xlsx column headings, and whether to name Canadian projects by number.",
-      "category": "🔴 EL NIÑO — FINISH IT THURSDAY, NOT FRIDAY"
+      "category": "🔴 TOMORROW — THU 10 SEPT. THE EL NIÑO DAY."
+    },
+    {
+      "id": "reporting-rule",
+      "type": null,
+      "text": "WHEN YOU FINISH IT: the reporting rules changed 14 Aug. Policy advice is now allowed in the comment section. It goes direct to PCO and the DMOs. Director approval is enough.",
+      "category": "🔴 TOMORROW — THU 10 SEPT. THE EL NIÑO DAY."
     },
     {
       "id": "ops-fix",
       "type": null,
-      "text": "Fix before Olivier sees it: 'fertiliser up 15%' is WFP's model assumption. Use gasoline, up 40%+.",
-      "category": "🔴 EL NIÑO — FINISH IT THURSDAY, NOT FRIDAY"
+      "text": "Fix the OPS first: 'fertiliser up 15%' is WFP's model assumption, not observed. Use gasoline, up 40%+ — and the cause is now sourced: Hormuz plus an exhausted subsidy.",
+      "category": "🔴 TOMORROW — THU 10 SEPT. THE EL NIÑO DAY."
+    },
+    {
+      "id": "thu-meetings",
+      "type": null,
+      "text": "09:00 Dev Team · 11:30 NDB/Mission IA management.",
+      "category": "🔴 TOMORROW — THU 10 SEPT. THE EL NIÑO DAY."
+    },
+    {
+      "id": "bilat-fri",
+      "type": null,
+      "text": "08:00 BILAT with Olivier. The HoM list is your prep — read it tomorrow night, not Friday at 07:50.",
+      "category": "📅 FRIDAY 11"
+    },
+    {
+      "id": "roxanne",
+      "type": null,
+      "text": "07:00 Roxanne, NDB.",
+      "category": "📅 FRIDAY 11"
+    },
+    {
+      "id": "cerveceria",
+      "type": null,
+      "text": "10:30 depart for Cervecería zona 2, 11:00 tour and lunch.",
+      "category": "📅 FRIDAY 11"
+    },
+    {
+      "id": "helen",
+      "type": null,
+      "text": "Helen's birthday.",
+      "category": "📅 FRIDAY 11"
     },
     {
       "id": "claro-install",
       "type": null,
-      "text": "Claro: get the INSTALL DATE in writing.",
+      "text": "Claro: the INSTALL DATE in writing. A ticket number is not a connection.",
       "category": "📦 MOVE WEEK — 14 to 16 SEPT"
     },
     {
       "id": "tigo-cancel",
       "type": null,
-      "text": "Cancel Tigo AFTER you vacate. In person, any branch, with ALL the equipment, and get written proof.",
+      "text": "Cancel Tigo AFTER vacating. In person, any branch, ALL the equipment, written proof of the return.",
       "category": "📦 MOVE WEEK — 14 to 16 SEPT"
     },
     {
-      "id": "sally-leave",
+      "id": "sally",
       "type": null,
-      "text": "Sally is on leave from the 14th.",
+      "text": "Sally on leave from the 14th.",
       "category": "📦 MOVE WEEK — 14 to 16 SEPT"
     },
     {
       "id": "tigo-bill",
       "type": null,
-      "text": "Tigo bill due the 10th. The last one you will ever pay them.",
+      "text": "TIGO BILL DUE TOMORROW, the 10th. The last one you will ever pay them.",
       "category": "🏠 HOME / PERSONAL"
     },
     {
       "id": "overtime",
       "type": null,
-      "text": "September overtime tally: 1.5 hrs so far (Mon 7th, British Residence). Compile 1 October.",
+      "text": "September overtime: 1.5 hrs banked. Compile 1 October.",
       "category": "🏠 HOME / PERSONAL"
     },
     {
@@ -165,8 +165,14 @@
     {
       "id": "intelaf",
       "type": null,
-      "text": "Intelaf credit at Zona 9, order 69788. Ask about expiry.",
+      "text": "Intelaf credit at Zona 9, order 69788. Ask about the expiry.",
       "category": "🏠 HOME / PERSONAL"
+    },
+    {
+      "id": "shopping",
+      "type": null,
+      "text": "Door handles · floor lamps · telephone stand · TV stand · bulbs · cameras · VGA cable. Tell me if any of these are actually bought and I will close them.",
+      "category": "🛒 1080 SHOPPING — still open here, though you cleared Workflowy"
     },
     {
       "id": "astra",
@@ -177,7 +183,7 @@
     {
       "id": "timemachine",
       "type": null,
-      "text": "Time Machine to an external drive. There is room now.",
+      "text": "Time Machine to an external drive.",
       "category": "🔧 TECH"
     }
   ]
