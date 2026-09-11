@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-09",
-  "updated": "2026-09-09T18:11:00-06:00",
-  "note": "Wednesday, back from Escobal. Tomorrow is the day the El Niño table gets finished — Friday is a bilat and a brewery.",
+  "date": "2026-09-10",
+  "updated": "2026-09-10T18:10:00-06:00",
+  "note": "Thursday. Tomorrow is Roxanne, Olivier, a brewery and the El Niño deadline, in that order.",
   "items": [
     {
       "id": "wf-job",
@@ -73,82 +73,88 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "elnino-finish",
+      "id": "julie-inventory",
       "type": null,
-      "text": "FINISH THE TABLE TOMORROW. Friday you are in a bilat at 08:00 and out of the building by 10:30, and it is due COB Friday.",
-      "category": "🔴 TOMORROW — THU 10 SEPT. THE EL NIÑO DAY."
-    },
-    {
-      "id": "elnino-gaps",
-      "type": null,
-      "text": "Two gaps still yours: the xlsx column headings, and whether to name Canadian projects by number.",
-      "category": "🔴 TOMORROW — THU 10 SEPT. THE EL NIÑO DAY."
-    },
-    {
-      "id": "reporting-rule",
-      "type": null,
-      "text": "WHEN YOU FINISH IT: the reporting rules changed 14 Aug. Policy advice is now allowed in the comment section. It goes direct to PCO and the DMOs. Director approval is enough.",
-      "category": "🔴 TOMORROW — THU 10 SEPT. THE EL NIÑO DAY."
-    },
-    {
-      "id": "ops-fix",
-      "type": null,
-      "text": "Fix the OPS first: 'fertiliser up 15%' is WFP's model assumption, not observed. Use gasoline, up 40%+ — and the cause is now sourced: Hormuz plus an exhausted subsidy.",
-      "category": "🔴 TOMORROW — THU 10 SEPT. THE EL NIÑO DAY."
-    },
-    {
-      "id": "thu-meetings",
-      "type": null,
-      "text": "09:00 Dev Team · 11:30 NDB/Mission IA management.",
-      "category": "🔴 TOMORROW — THU 10 SEPT. THE EL NIÑO DAY."
-    },
-    {
-      "id": "bilat-fri",
-      "type": null,
-      "text": "08:00 BILAT with Olivier. The HoM list is your prep — read it tomorrow night, not Friday at 07:50.",
-      "category": "📅 FRIDAY 11"
+      "text": "EARLY: message Julie about the inventory inspection. Your own note. Is the inspection tomorrow, or just the asking?",
+      "category": "🔴 TOMORROW — FRI 11 SEPT. FOUR THINGS AND A DEADLINE."
     },
     {
       "id": "roxanne",
       "type": null,
-      "text": "07:00 Roxanne, NDB.",
-      "category": "📅 FRIDAY 11"
+      "text": "07:00 Roxanne, NDB Guatemala.",
+      "category": "🔴 TOMORROW — FRI 11 SEPT. FOUR THINGS AND A DEADLINE."
+    },
+    {
+      "id": "bilat",
+      "type": null,
+      "text": "08:00 BILAT with Olivier. The HoM list is your prep — read it tonight.",
+      "category": "🔴 TOMORROW — FRI 11 SEPT. FOUR THINGS AND A DEADLINE."
     },
     {
       "id": "cerveceria",
       "type": null,
-      "text": "10:30 depart for Cervecería zona 2, 11:00 tour and lunch.",
-      "category": "📅 FRIDAY 11"
+      "text": "10:30 depart for Cervecería zona 2 · 11:00 tour and lunch. Out for the afternoon.",
+      "category": "🔴 TOMORROW — FRI 11 SEPT. FOUR THINGS AND A DEADLINE."
+    },
+    {
+      "id": "elnino-due",
+      "type": null,
+      "text": "EL NIÑO DUE AT CLOSE OF BUSINESS. If it is not done tonight it has to survive a bilat and a brewery.",
+      "category": "🔴 TOMORROW — FRI 11 SEPT. FOUR THINGS AND A DEADLINE."
     },
     {
       "id": "helen",
       "type": null,
       "text": "Helen's birthday.",
-      "category": "📅 FRIDAY 11"
+      "category": "🔴 TOMORROW — FRI 11 SEPT. FOUR THINGS AND A DEADLINE."
     },
     {
-      "id": "claro-install",
+      "id": "gaps",
       "type": null,
-      "text": "Claro: the INSTALL DATE in writing. A ticket number is not a connection.",
+      "text": "Two gaps: the xlsx column headings, and whether to name Canadian projects by number.",
+      "category": "📄 EL NIÑO — if anything is still open"
+    },
+    {
+      "id": "ops-fix",
+      "type": null,
+      "text": "'Fertiliser up 15%' is WFP's model assumption. Use gasoline, up 40%+.",
+      "category": "📄 EL NIÑO — if anything is still open"
+    },
+    {
+      "id": "fuel-cap",
+      "type": null,
+      "text": "NEW for section two: Congress capped fuel prices on 9 Sept, Q2.5bn fund through 31 December. A country-response item dated this week.",
+      "category": "📄 EL NIÑO — if anything is still open"
+    },
+    {
+      "id": "reporting",
+      "type": null,
+      "text": "Ask me for the two lines on the new reporting rules when you send it.",
+      "category": "📄 EL NIÑO — if anything is still open"
+    },
+    {
+      "id": "claro",
+      "type": null,
+      "text": "Claro: the INSTALL DATE in writing.",
       "category": "📦 MOVE WEEK — 14 to 16 SEPT"
     },
     {
       "id": "tigo-cancel",
       "type": null,
-      "text": "Cancel Tigo AFTER vacating. In person, any branch, ALL the equipment, written proof of the return.",
+      "text": "Cancel Tigo AFTER vacating. In person, any branch, ALL equipment, written proof.",
       "category": "📦 MOVE WEEK — 14 to 16 SEPT"
     },
     {
-      "id": "sally",
+      "id": "swiss",
       "type": null,
-      "text": "Sally on leave from the 14th.",
+      "text": "Mon 14: Swiss Global take furniture out of 4S, D'Marie fit curtains. Sally on leave.",
       "category": "📦 MOVE WEEK — 14 to 16 SEPT"
     },
     {
-      "id": "tigo-bill",
+      "id": "emo",
       "type": null,
-      "text": "TIGO BILL DUE TOMORROW, the 10th. The last one you will ever pay them.",
-      "category": "🏠 HOME / PERSONAL"
+      "text": "Pick an Emergency Management session: Thu 17 noon (unpacking day) or Tue 22 08:00 (your Sonia bilat). Neither is clean.",
+      "category": "📦 MOVE WEEK — 14 to 16 SEPT"
     },
     {
       "id": "overtime",
@@ -171,17 +177,17 @@
     {
       "id": "shopping",
       "type": null,
-      "text": "Door handles · floor lamps · telephone stand · TV stand · bulbs · cameras · VGA cable. Tell me if any of these are actually bought and I will close them.",
-      "category": "🛒 1080 SHOPPING — still open here, though you cleared Workflowy"
+      "text": "Door handles · floor lamps · telephone stand · TV stand · bulbs · cameras · VGA cable. Bought, or just tidied?",
+      "category": "🛒 1080 SHOPPING — still open; you cleared Workflowy but I did not close these"
     },
     {
       "id": "astra",
       "type": null,
-      "text": "House app brief is with Astra. Have it import your existing Issue Register and Maintenance Plan.",
+      "text": "House app brief is with Astra. Have it import your Issue Register and Maintenance Plan.",
       "category": "🔧 TECH"
     },
     {
-      "id": "timemachine",
+      "id": "tm",
       "type": null,
       "text": "Time Machine to an external drive.",
       "category": "🔧 TECH"
