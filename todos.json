@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
-  "updated": "2026-09-11T18:10:00-06:00",
-  "note": "Friday. El Niño is out the door. Move week starts Monday, and the curtain people come first.",
+  "updated": "2026-09-11T20:35:00-06:00",
+  "note": "Friday night. Three things to send from home, then the Ambassador's talking points outrank everything next week.",
   "items": [
     {
       "id": "wf-job",
@@ -25,9 +25,29 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
-      "id": "caldump",
-      "text": "Send the work-calendar dump. Two days since the last one. Without it I cannot see next week, and next week is your move.",
-      "category": "🔴 ONE TAP, TONIGHT"
+      "id": "tp-elnino",
+      "text": "EL NIÑO TALKING POINTS for Olivier: situation, what Canada already funds there, and the posture if asked what more Canada will do. He is insistent. Draft requested from the team while you are away.",
+      "category": "🔴🔴 OLIVIER'S MOST PRESSING ITEM. STANDING, TOP OF EVERY LIST UNTIL IT EXISTS."
+    },
+    {
+      "id": "tp-source",
+      "text": "Tell them to start from today's El Niño input, not from scratch. The figures and sources are all in it.",
+      "category": "🔴🔴 OLIVIER'S MOST PRESSING ITEM. STANDING, TOP OF EVERY LIST UNTIL IT EXISTS."
+    },
+    {
+      "id": "ooo",
+      "text": "Set the out of office. 14 to 18 Sept, back Mon 21, Sonia covering.",
+      "category": "📤 SEND FROM HOME TONIGHT (drafts are in iMessage)"
+    },
+    {
+      "id": "em-cmm",
+      "text": "Email: Azucena attends CMM/OPS Tuesday in your place.",
+      "category": "📤 SEND FROM HOME TONIGHT (drafts are in iMessage)"
+    },
+    {
+      "id": "em-tp",
+      "text": "Email, high importance: talking points needed for the Ambassador.",
+      "category": "📤 SEND FROM HOME TONIGHT (drafts are in iMessage)"
     },
     {
       "id": "ex-press",
@@ -70,18 +90,8 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "sheers",
-      "text": "🪟 SHEERS. D'Marie fit curtains Mon 08:30. If you want the sheer layer, tell them BEFORE they measure, not after. (Spanish: visillos.)",
-      "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
-    },
-    {
       "id": "swiss",
       "text": "Mon 14: Swiss Global take furniture out of 4S, D'Marie fit curtains. Sally on leave all week.",
-      "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
-    },
-    {
-      "id": "claro",
-      "text": "Claro: the INSTALL DATE in writing. Chase before the weekend goes.",
       "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
     },
     {
