@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-11",
-  "updated": "2026-09-11T20:35:00-06:00",
-  "note": "Friday night. Three things to send from home, then the Ambassador's talking points outrank everything next week.",
+  "date": "2026-09-12",
+  "updated": "2026-09-12T10:56:00-06:00",
+  "note": "Saturday. Packing is the only thing left with no date forcing it.",
   "items": [
     {
       "id": "wf-job",
@@ -118,11 +118,6 @@
       "id": "overtime",
       "text": "September overtime: 1.5 hrs banked (Mon 7th, British Residence). Compile 1 October. For time, not money.",
       "category": "📊 WORK — carrying into a week you will not be in the office"
-    },
-    {
-      "id": "allergy",
-      "text": "💊 Tell me the name of your allergy medicine, or photograph the box. Not on file, and you have now forgotten it twice.",
-      "category": "🏠 HOME / PERSONAL"
     },
     {
       "id": "dental",
