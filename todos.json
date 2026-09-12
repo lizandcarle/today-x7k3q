@@ -41,7 +41,7 @@
     },
     {
       "id": "em-cmm",
-      "text": "Email: Azucena attends CMM/OPS Tuesday in your place.",
+      "text": "Email: Azucena attends CMM/OPS in your place. 🔴 CHANGE THE DAY: next week's is WEDNESDAY 16 at 15:00, not Tuesday.",
       "category": "📤 SEND FROM HOME TONIGHT (drafts are in iMessage)"
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "id": "emo",
-      "text": "Pick an Emergency Management session: Thu 17 noon (unpacking) or Tue 22 08:00 (your Sonia bilat). Neither is clean, so pick the least bad.",
+      "text": "Emergency Management: take THURSDAY 17 at noon. It collides with unpacking only. Tue 22 sits on both your Sonia bilat and the 09:00 IOM meeting.",
       "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
     },
     {
@@ -148,6 +148,11 @@
       "id": "tm",
       "text": "Time Machine to an external drive. There is still no backup of the closet Mac.",
       "category": "🔧 TECH"
+    },
+    {
+      "id": "ert",
+      "text": "🎓 Find out which ERT section you are assigned to, and read its Job Action Sheet before Thu 17. Ask Anne-Marie Lefebvre at REMO Panama (remo.panam@international.gc.ca). Email, not a call.",
+      "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
     }
   ]
 }
