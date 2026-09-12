@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
-  "updated": "2026-09-12T10:56:00-06:00",
-  "note": "Saturday. Packing is the only thing left with no date forcing it.",
+  "updated": "2026-09-12T12:25:00-06:00",
+  "note": "Closet Mac is off for the move. These two router items are the ones that bring Orson back.",
   "items": [
     {
       "id": "wf-job",
@@ -23,6 +23,16 @@
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+    },
+    {
+      "id": "ssid",
+      "text": "Set the Claro router network name to Henrybaloo (capital H) and reuse the old password. The closet Mac knows exactly one home network by name. Do this and Orson comes back on its own.",
+      "category": "🔧 WHEN YOU SET UP THE NEW APARTMENT (read this from your phone)"
+    },
+    {
+      "id": "tigo-order",
+      "text": "Do NOT hand Tigo their equipment until Orson is confirmed back online. The backup link runs on the Tigo SIM in the Samsung S7. Wrong order and both connections die at once.",
+      "category": "🔧 WHEN YOU SET UP THE NEW APARTMENT (read this from your phone)"
     },
     {
       "id": "tp-elnino",
