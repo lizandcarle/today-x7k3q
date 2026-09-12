@@ -1,195 +1,142 @@
 {
-  "date": "2026-09-10",
-  "updated": "2026-09-10T18:10:00-06:00",
-  "note": "Thursday. Tomorrow is Roxanne, Olivier, a brewery and the El Niño deadline, in that order.",
+  "date": "2026-09-11",
+  "updated": "2026-09-11T18:10:00-06:00",
+  "note": "Friday. El Niño is out the door. Move week starts Monday, and the curtain people come first.",
   "items": [
     {
       "id": "wf-job",
-      "type": "ref",
       "text": "✏️ EDIT MY WORKFLOWY: JOB",
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
+      "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/b81b4d0e17c2"
     },
     {
       "id": "wf-home",
-      "type": "ref",
       "text": "✏️ EDIT MY WORKFLOWY: HOME",
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
+      "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/62229d749ef0"
     },
     {
       "id": "wf-life",
-      "type": "ref",
       "text": "✏️ EDIT MY WORKFLOWY: LIFE",
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
+      "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
+      "id": "caldump",
+      "text": "Send the work-calendar dump. Two days since the last one. Without it I cannot see next week, and next week is your move.",
+      "category": "🔴 ONE TAP, TONIGHT"
+    },
+    {
       "id": "ex-press",
-      "type": null,
       "text": "Dumbbell floor press",
       "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
     },
     {
       "id": "ex-row",
-      "type": null,
       "text": "Bent-over row",
       "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
     },
     {
       "id": "ex-ohp",
-      "type": null,
       "text": "Overhead press",
       "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
     },
     {
       "id": "ex-curl",
-      "type": null,
       "text": "Curls",
       "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
     },
     {
       "id": "ex-beatsaber",
-      "type": null,
       "text": "Beat Saber, 30 min",
       "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
     },
     {
       "id": "ex-steps",
-      "type": null,
       "text": "7,000 steps",
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
       "id": "ex-diet",
-      "type": null,
       "text": "Diet: 1,234 cal / 110g protein",
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
       "id": "ex-vitamin",
-      "type": null,
       "text": "Multivitamin",
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "julie-inventory",
-      "type": null,
-      "text": "EARLY: message Julie about the inventory inspection. Your own note. Is the inspection tomorrow, or just the asking?",
-      "category": "🔴 TOMORROW — FRI 11 SEPT. FOUR THINGS AND A DEADLINE."
-    },
-    {
-      "id": "roxanne",
-      "type": null,
-      "text": "07:00 Roxanne, NDB Guatemala.",
-      "category": "🔴 TOMORROW — FRI 11 SEPT. FOUR THINGS AND A DEADLINE."
-    },
-    {
-      "id": "bilat",
-      "type": null,
-      "text": "08:00 BILAT with Olivier. The HoM list is your prep — read it tonight.",
-      "category": "🔴 TOMORROW — FRI 11 SEPT. FOUR THINGS AND A DEADLINE."
-    },
-    {
-      "id": "cerveceria",
-      "type": null,
-      "text": "10:30 depart for Cervecería zona 2 · 11:00 tour and lunch. Out for the afternoon.",
-      "category": "🔴 TOMORROW — FRI 11 SEPT. FOUR THINGS AND A DEADLINE."
-    },
-    {
-      "id": "elnino-due",
-      "type": null,
-      "text": "EL NIÑO DUE AT CLOSE OF BUSINESS. If it is not done tonight it has to survive a bilat and a brewery.",
-      "category": "🔴 TOMORROW — FRI 11 SEPT. FOUR THINGS AND A DEADLINE."
-    },
-    {
-      "id": "helen",
-      "type": null,
-      "text": "Helen's birthday.",
-      "category": "🔴 TOMORROW — FRI 11 SEPT. FOUR THINGS AND A DEADLINE."
-    },
-    {
-      "id": "gaps",
-      "type": null,
-      "text": "Two gaps: the xlsx column headings, and whether to name Canadian projects by number.",
-      "category": "📄 EL NIÑO — if anything is still open"
-    },
-    {
-      "id": "ops-fix",
-      "type": null,
-      "text": "'Fertiliser up 15%' is WFP's model assumption. Use gasoline, up 40%+.",
-      "category": "📄 EL NIÑO — if anything is still open"
-    },
-    {
-      "id": "fuel-cap",
-      "type": null,
-      "text": "NEW for section two: Congress capped fuel prices on 9 Sept, Q2.5bn fund through 31 December. A country-response item dated this week.",
-      "category": "📄 EL NIÑO — if anything is still open"
-    },
-    {
-      "id": "reporting",
-      "type": null,
-      "text": "Ask me for the two lines on the new reporting rules when you send it.",
-      "category": "📄 EL NIÑO — if anything is still open"
-    },
-    {
-      "id": "claro",
-      "type": null,
-      "text": "Claro: the INSTALL DATE in writing.",
-      "category": "📦 MOVE WEEK — 14 to 16 SEPT"
-    },
-    {
-      "id": "tigo-cancel",
-      "type": null,
-      "text": "Cancel Tigo AFTER vacating. In person, any branch, ALL equipment, written proof.",
-      "category": "📦 MOVE WEEK — 14 to 16 SEPT"
+      "id": "sheers",
+      "text": "🪟 SHEERS. D'Marie fit curtains Mon 08:30. If you want the sheer layer, tell them BEFORE they measure, not after. (Spanish: visillos.)",
+      "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
     },
     {
       "id": "swiss",
-      "type": null,
-      "text": "Mon 14: Swiss Global take furniture out of 4S, D'Marie fit curtains. Sally on leave.",
-      "category": "📦 MOVE WEEK — 14 to 16 SEPT"
+      "text": "Mon 14: Swiss Global take furniture out of 4S, D'Marie fit curtains. Sally on leave all week.",
+      "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
+    },
+    {
+      "id": "claro",
+      "text": "Claro: the INSTALL DATE in writing. Chase before the weekend goes.",
+      "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
+    },
+    {
+      "id": "tigo-cancel",
+      "text": "Cancel Tigo AFTER vacating. In person, any branch, ALL equipment, written proof. Not by phone.",
+      "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
     },
     {
       "id": "emo",
-      "type": null,
-      "text": "Pick an Emergency Management session: Thu 17 noon (unpacking day) or Tue 22 08:00 (your Sonia bilat). Neither is clean.",
-      "category": "📦 MOVE WEEK — 14 to 16 SEPT"
+      "text": "Pick an Emergency Management session: Thu 17 noon (unpacking) or Tue 22 08:00 (your Sonia bilat). Neither is clean, so pick the least bad.",
+      "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
+    },
+    {
+      "id": "browser",
+      "text": "Project Browser 2025-26. Your words: a black mark for programs who don't finish. If today did not close it, Friday was the last clear day.",
+      "category": "📊 WORK — carrying into a week you will not be in the office"
+    },
+    {
+      "id": "reviews",
+      "text": "Mid-year reviews due 15 Oct, and you fly to Canada on the 9th. They get filed BEFORE you go.",
+      "category": "📊 WORK — carrying into a week you will not be in the office"
     },
     {
       "id": "overtime",
-      "type": null,
-      "text": "September overtime: 1.5 hrs banked. Compile 1 October.",
+      "text": "September overtime: 1.5 hrs banked (Mon 7th, British Residence). Compile 1 October. For time, not money.",
+      "category": "📊 WORK — carrying into a week you will not be in the office"
+    },
+    {
+      "id": "allergy",
+      "text": "💊 Tell me the name of your allergy medicine, or photograph the box. Not on file, and you have now forgotten it twice.",
       "category": "🏠 HOME / PERSONAL"
     },
     {
       "id": "dental",
-      "type": null,
       "text": "FSD dental claim. Form M445D, plan 72114, cert ECF0152001.",
       "category": "🏠 HOME / PERSONAL"
     },
     {
       "id": "intelaf",
-      "type": null,
       "text": "Intelaf credit at Zona 9, order 69788. Ask about the expiry.",
       "category": "🏠 HOME / PERSONAL"
     },
     {
       "id": "shopping",
-      "type": null,
-      "text": "Door handles · floor lamps · telephone stand · TV stand · bulbs · cameras · VGA cable. Bought, or just tidied?",
+      "text": "Door handles · floor lamps · telephone stand · TV stand · bulbs · cameras · VGA cable. Bought, or dead? One word and I close them.",
       "category": "🛒 1080 SHOPPING — still open; you cleared Workflowy but I did not close these"
     },
     {
       "id": "astra",
-      "type": null,
       "text": "House app brief is with Astra. Have it import your Issue Register and Maintenance Plan.",
       "category": "🔧 TECH"
     },
     {
       "id": "tm",
-      "type": null,
-      "text": "Time Machine to an external drive.",
+      "text": "Time Machine to an external drive. There is still no backup of the closet Mac.",
       "category": "🔧 TECH"
     }
   ]
