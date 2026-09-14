@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-13",
-  "updated": "2026-09-13T18:10:00-06:00",
-  "note": "Sunday. Packing starts tomorrow at eight. The kitchen budget is the one thing that unblocks someone else.",
+  "date": "2026-09-14",
+  "updated": "2026-09-14T00:32:00-06:00",
+  "note": "Monday. Packing day. And Julie's fire pit is top of the list until it is bought.",
   "items": [
     {
       "id": "wf-job",
@@ -23,6 +23,11 @@
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+    },
+    {
+      "id": "firepit",
+      "text": "🔴 BUY JULIE A FIRE PIT. Her birthday is Thursday 24 September, ten days. If it ships rather than coming out of a shop, the ORDER date is the real deadline, not the birthday.",
+      "category": "🎁 JULIE'S BIRTHDAY — THU 24 SEPT"
     },
     {
       "id": "tp-elnino",
