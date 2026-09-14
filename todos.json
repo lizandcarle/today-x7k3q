@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-12",
-  "updated": "2026-09-12T12:25:00-06:00",
-  "note": "Closet Mac is off for the move. These two router items are the ones that bring Orson back.",
+  "date": "2026-09-13",
+  "updated": "2026-09-13T18:10:00-06:00",
+  "note": "Sunday. Packing starts tomorrow at eight. The kitchen budget is the one thing that unblocks someone else.",
   "items": [
     {
       "id": "wf-job",
@@ -25,16 +25,6 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
-      "id": "ssid",
-      "text": "Set the Claro router network name to Henrybaloo (capital H) and reuse the old password. The closet Mac knows exactly one home network by name. Do this and Orson comes back on its own.",
-      "category": "🔧 WHEN YOU SET UP THE NEW APARTMENT (read this from your phone)"
-    },
-    {
-      "id": "tigo-order",
-      "text": "Do NOT hand Tigo their equipment until Orson is confirmed back online. The backup link runs on the Tigo SIM in the Samsung S7. Wrong order and both connections die at once.",
-      "category": "🔧 WHEN YOU SET UP THE NEW APARTMENT (read this from your phone)"
-    },
-    {
       "id": "tp-elnino",
       "text": "EL NIÑO TALKING POINTS for Olivier: situation, what Canada already funds there, and the posture if asked what more Canada will do. He is insistent. Draft requested from the team while you are away.",
       "category": "🔴🔴 OLIVIER'S MOST PRESSING ITEM. STANDING, TOP OF EVERY LIST UNTIL IT EXISTS."
@@ -43,21 +33,6 @@
       "id": "tp-source",
       "text": "Tell them to start from today's El Niño input, not from scratch. The figures and sources are all in it.",
       "category": "🔴🔴 OLIVIER'S MOST PRESSING ITEM. STANDING, TOP OF EVERY LIST UNTIL IT EXISTS."
-    },
-    {
-      "id": "ooo",
-      "text": "Set the out of office. 14 to 18 Sept, back Mon 21, Sonia covering.",
-      "category": "📤 SEND FROM HOME TONIGHT (drafts are in iMessage)"
-    },
-    {
-      "id": "em-cmm",
-      "text": "Email: Azucena attends CMM/OPS in your place. 🔴 CHANGE THE DAY: next week's is WEDNESDAY 16 at 15:00, not Tuesday.",
-      "category": "📤 SEND FROM HOME TONIGHT (drafts are in iMessage)"
-    },
-    {
-      "id": "em-tp",
-      "text": "Email, high importance: talking points needed for the Ambassador.",
-      "category": "📤 SEND FROM HOME TONIGHT (drafts are in iMessage)"
     },
     {
       "id": "ex-press",
@@ -101,18 +76,18 @@
     },
     {
       "id": "swiss",
-      "text": "Mon 14: Swiss Global take furniture out of 4S, D'Marie fit curtains. Sally on leave all week.",
-      "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
+      "text": "Mon 14: packing at Casa Cañada 08:00-16:00. D'Marie fit curtains at 4S 08:30. Sally on leave all week.",
+      "category": "📦 THIS WEEK"
     },
     {
       "id": "tigo-cancel",
-      "text": "Cancel Tigo AFTER vacating. In person, any branch, ALL equipment, written proof. Not by phone.",
-      "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
+      "text": "Cancel Tigo HOME INTERNET at the old flat, on or after Wed 16. In person, any branch, all equipment, written proof.",
+      "category": "📦 THIS WEEK"
     },
     {
       "id": "emo",
-      "text": "Emergency Management: take THURSDAY 17 at noon. It collides with unpacking only. Tue 22 sits on both your Sonia bilat and the 09:00 IOM meeting.",
-      "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
+      "text": "Emergency Management: THURSDAY 17, noon. It falls inside the movers' lunch hour on a day that may not even happen. Prep: read the Job Action Sheet for your ERT section.",
+      "category": "📦 THIS WEEK"
     },
     {
       "id": "browser",
@@ -157,7 +132,12 @@
     {
       "id": "ert",
       "text": "🎓 Find out which ERT section you are assigned to, and read its Job Action Sheet before Thu 17. Ask Anne-Marie Lefebvre at REMO Panama (remo.panam@international.gc.ca). Email, not a call.",
-      "category": "📦 MOVE WEEK STARTS MONDAY — 14 to 16 SEPT"
+      "category": "📦 THIS WEEK"
+    },
+    {
+      "id": "kitchen",
+      "text": "🍳 Katie at Van Dolder's is waiting on a BUDGET from you and Julie. She cannot design until she has it. The figure is in MOVE-IN PROJECT / Master Budget & Timeline.xlsx.",
+      "category": "🏠 HOME / PERSONAL"
     }
   ]
 }
