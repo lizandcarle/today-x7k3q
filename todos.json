@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
-  "updated": "2026-09-15T18:15:00-06:00",
-  "note": "Tuesday night. Movers at eight. Nothing else is due from you tomorrow.",
+  "updated": "2026-09-15T23:02:00-06:00",
+  "note": "Tuesday night. Tomorrow is move day: movers at eight, Erick with you, and one small thing, the bedside lamp.",
   "items": [
     {
       "id": "wf-job",
@@ -23,6 +23,11 @@
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+    },
+    {
+      "id": "lamp",
+      "text": "💡 LOOK FOR A NICE BEDSIDE LAMP. You do not like the ones in the new SQ and may want to bring one. If it is one from Casa Cañada, today is the last day you are in that flat.",
+      "category": "📦 MOVE DAY"
     },
     {
       "id": "firepit",
