@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-15",
-  "updated": "2026-09-15T23:02:00-06:00",
-  "note": "Tuesday night. Tomorrow is move day: movers at eight, Erick with you, and one small thing, the bedside lamp.",
+  "date": "2026-09-16",
+  "updated": "2026-09-16T18:20:00-06:00",
+  "note": "Wednesday night. Moved. Nothing is due from you tonight.",
   "items": [
     {
       "id": "wf-job",
@@ -25,9 +25,9 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
-      "id": "lamp",
-      "text": "💡 LOOK FOR A NICE BEDSIDE LAMP. You do not like the ones in the new SQ and may want to bring one. If it is one from Casa Cañada, today is the last day you are in that flat.",
-      "category": "📦 MOVE DAY"
+      "id": "vanessa",
+      "text": "📞 FRIDAY 07:30 (Eastern 9h30): Vanessa Lavoie-Guillemette, FS-03 IA position #00432953. You offered WhatsApp. She is one of the 'one or two' you promised calls to; the second is still unnamed.",
+      "category": "🔴 THIS WEEK"
     },
     {
       "id": "firepit",
@@ -85,11 +85,6 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "swiss",
-      "text": "WED 16: the move. 08:00-16:00, Casa Cañada to Premiere Club. Erick with you. Movers break at noon. CMM at 15:00 is Azucena's. Thursday only if today runs long.",
-      "category": "📦 THIS WEEK"
-    },
-    {
       "id": "tigo-cancel",
       "text": "Cancel Tigo HOME INTERNET at the old flat, on or after Wed 16. In person, any branch, all equipment, written proof.",
       "category": "📦 THIS WEEK"
@@ -141,7 +136,7 @@
     },
     {
       "id": "ert",
-      "text": "🎓 Emergency Management Thu 17, noon. Find out which ERT section you are assigned to and read its Job Action Sheet. Email remo.panam@international.gc.ca.",
+      "text": "🎓 TOMORROW noon: Emergency Management, 12:00-13:30. Read the Job Action Sheet for your ERT section first. If you do not know which section, ask remo.panam@international.gc.ca.",
       "category": "📦 THIS WEEK"
     },
     {
