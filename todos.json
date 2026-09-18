@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
-  "updated": "2026-09-17T18:20:00-06:00",
-  "note": "Thursday night. One thing tomorrow at 07:30. The fire pit is six days out and tonight is quiet.",
+  "updated": "2026-09-17T20:50:00-06:00",
+  "note": "Friday: the 07:30 call, then cables and the store credit. Print the email before you go.",
   "items": [
     {
       "id": "wf-job",
@@ -23,6 +23,16 @@
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+    },
+    {
+      "id": "cables",
+      "text": "🔌 Buy the two cables and adapters.",
+      "category": "🛒 TOMORROW, FRIDAY"
+    },
+    {
+      "id": "credit",
+      "text": "🧾 PRINT THE EMAIL FIRST, then go to the store and spend the credit for the returned toy. The email is the thing that makes the credit real at the counter.",
+      "category": "🛒 TOMORROW, FRIDAY"
     },
     {
       "id": "vanessa",
