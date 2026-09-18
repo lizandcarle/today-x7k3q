@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-17",
-  "updated": "2026-09-17T20:50:00-06:00",
-  "note": "Friday: the 07:30 call, then cables and the store credit. Print the email before you go.",
+  "date": "2026-09-18",
+  "updated": "2026-09-18T01:46:00-06:00",
+  "note": "Friday. 07:30 call, then cables and the store credit. Print the email first.",
   "items": [
     {
       "id": "wf-job",
@@ -36,8 +36,10 @@
     },
     {
       "id": "vanessa",
-      "text": "📞 FRIDAY 07:30 (Eastern 9h30): Vanessa Lavoie-Guillemette, FS-03 IA position #00432953. You offered WhatsApp. She is one of the 'one or two' you promised calls to; the second is still unnamed.",
-      "category": "🔴 THIS WEEK"
+      "text": "📞 07:30 TODAY: Vanessa Lavoie-Guillemette, FS-03 IA position #00432953. WhatsApp: https://wa.me/15814439200",
+      "category": "🔴 THIS WEEK",
+      "type": "ref",
+      "url": "https://wa.me/15814439200"
     },
     {
       "id": "firepit",
