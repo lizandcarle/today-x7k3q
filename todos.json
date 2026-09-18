@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-16",
-  "updated": "2026-09-16T18:20:00-06:00",
-  "note": "Wednesday night. Moved. Nothing is due from you tonight.",
+  "date": "2026-09-17",
+  "updated": "2026-09-17T18:20:00-06:00",
+  "note": "Thursday night. One thing tomorrow at 07:30. The fire pit is six days out and tonight is quiet.",
   "items": [
     {
       "id": "wf-job",
@@ -133,11 +133,6 @@
       "id": "tm",
       "text": "Time Machine to an external drive. There is still no backup of the closet Mac.",
       "category": "🔧 TECH"
-    },
-    {
-      "id": "ert",
-      "text": "🎓 TOMORROW noon: Emergency Management, 12:00-13:30. Read the Job Action Sheet for your ERT section first. If you do not know which section, ask remo.panam@international.gc.ca.",
-      "category": "📦 THIS WEEK"
     },
     {
       "id": "kitchen",
