@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "updated": "2026-09-18T09:40:00-06:00",
+  "updated": "2026-09-18T10:12:00-06:00",
   "note": "Friday. 07:30 call, then cables and the store credit. Print the email first.",
   "items": [
     {
@@ -40,6 +40,18 @@
       "category": "🔴 THIS WEEK",
       "type": "ref",
       "url": "https://wa.me/15814439200"
+    },
+    {
+      "id": "jessie",
+      "text": "📞 JESSIE-ANN BROUILLETTE (YSH), the fourth one asking about your job. She offered TODAY or Monday and you said arrange Monday. She is on no calendar entry, so Monday still needs making. WhatsApp: https://wa.me/18193477924",
+      "category": "🔴 THIS WEEK",
+      "type": "ref",
+      "url": "https://wa.me/18193477924"
+    },
+    {
+      "id": "jessie-deadline",
+      "text": "✅ And you can answer her question now. You wrote \"I don't know the deadline. Is next Monday too late?\" It is not. The deadline is 2 OCTOBER.",
+      "category": "🔴 THIS WEEK"
     },
     {
       "id": "firepit",
@@ -150,6 +162,21 @@
       "id": "kitchen",
       "text": "🍳 Katie at Van Dolder's is waiting on a BUDGET from you and Julie. She cannot design until she has it. The figure is in MOVE-IN PROJECT / Master Budget & Timeline.xlsx.",
       "category": "🏠 HOME / PERSONAL"
+    },
+    {
+      "id": "ignite-prepip",
+      "text": "🔥 IGNITE PRE-PIP INPUT, DUE WEDNESDAY 23 SEPT COB. You asked who and when: IREM BALTAS (NLP), 8 Sept. Azucena is on the TO line, you are cc.",
+      "category": "📊 WORK — carrying into a week you will not be in the office"
+    },
+    {
+      "id": "ignite-why",
+      "text": "🎯 This is the document your May action item was about. You told Andrea Benavides the embassy role had to be WRITTEN INTO the PIP, because the last project left it out and it showed. That has been sitting since May. The Pre-PIP is the first draft.",
+      "category": "📊 WORK — carrying into a week you will not be in the office"
+    },
+    {
+      "id": "g13-mp",
+      "text": "🏛 G13 MATRIX, last call: the Ministerio Público column. Small job. Of 31 donor rows only two are filled, and all EIGHTEEN Canadian rows are blank. Every one of ours is ACCBP.",
+      "category": "📊 WORK — carrying into a week you will not be in the office"
     }
   ]
 }
