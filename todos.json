@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "updated": "2026-09-18T10:12:00-06:00",
+  "updated": "2026-09-18T15:48:00-06:00",
   "note": "Friday. 07:30 call, then cables and the store credit. Print the email first.",
   "items": [
     {
@@ -177,6 +177,11 @@
       "id": "g13-mp",
       "text": "🏛 G13 MATRIX, last call: the Ministerio Público column. Small job. Of 31 donor rows only two are filled, and all EIGHTEEN Canadian rows are blank. Every one of ours is ACCBP.",
       "category": "📊 WORK — carrying into a week you will not be in the office"
+    },
+    {
+      "id": "ups",
+      "text": "🔌 A UPS for the modem and the Eero. Your idea, from the router rewire. Nothing depends on it today.",
+      "category": "🛒 TOMORROW, FRIDAY"
     }
   ]
 }
