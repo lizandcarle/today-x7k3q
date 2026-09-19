@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "updated": "2026-09-18T22:55:00-06:00",
+  "updated": "2026-09-18T23:26:00-06:00",
   "note": "Friday evening, new flat. One thing tonight: the fire pit. Six days and a delivery problem to solve.",
   "items": [
     {
@@ -23,6 +23,18 @@
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+    },
+    {
+      "id": "hearing",
+      "text": "🦻 Write to DINTELEC: ask for a medical statement saying the hearing aids were for you. The refusal sounds like a who-were-they-for question, not a receipts one, so the letter wants patient, practitioner and medical need. NOT another copy of the invoice.",
+      "category": "🔴 TOP OF THE LIST"
+    },
+    {
+      "id": "hearing-ctx",
+      "text": "📌 This is the claim you spent 97 days unblocking and submitted on 26 July. ~$1,500. Plan is PSHCP, out-of-Canada via MSH: https://pshcp.ca/contacts/msh/ — not the dental plan.",
+      "category": "🔴 TOP OF THE LIST",
+      "type": "ref",
+      "url": "https://pshcp.ca/contacts/msh/"
     },
     {
       "id": "firepit",
