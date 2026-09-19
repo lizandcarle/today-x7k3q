@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
-  "updated": "2026-09-18T15:48:00-06:00",
-  "note": "Friday. 07:30 call, then cables and the store credit. Print the email first.",
+  "updated": "2026-09-18T18:20:00-06:00",
+  "note": "Friday evening, new flat. One thing tonight: the fire pit. Six days and a delivery problem to solve.",
   "items": [
     {
       "id": "wf-job",
@@ -25,48 +25,9 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
-      "id": "cables",
-      "text": "🔌 Buy the two cables and adapters.",
-      "category": "🛒 TOMORROW, FRIDAY"
-    },
-    {
-      "id": "credit",
-      "text": "🧾 PRINT THE EMAIL FIRST, then go to the store and spend the credit for the returned toy. The email is the thing that makes the credit real at the counter.",
-      "category": "🛒 TOMORROW, FRIDAY"
-    },
-    {
-      "id": "vanessa",
-      "text": "📞 07:30 TODAY: Vanessa Lavoie-Guillemette, FS-03 IA position #00432953. WhatsApp: https://wa.me/15814439200",
-      "category": "🔴 THIS WEEK",
-      "type": "ref",
-      "url": "https://wa.me/15814439200"
-    },
-    {
-      "id": "jessie",
-      "text": "📞 JESSIE-ANN BROUILLETTE (YSH), the fourth one asking about your job. She offered TODAY or Monday and you said arrange Monday. She is on no calendar entry, so Monday still needs making. WhatsApp: https://wa.me/18193477924",
-      "category": "🔴 THIS WEEK",
-      "type": "ref",
-      "url": "https://wa.me/18193477924"
-    },
-    {
-      "id": "jessie-deadline",
-      "text": "✅ And you can answer her question now. You wrote \"I don't know the deadline. Is next Monday too late?\" It is not. The deadline is 2 OCTOBER.",
-      "category": "🔴 THIS WEEK"
-    },
-    {
       "id": "firepit",
-      "text": "🔴 BUY JULIE A FIRE PIT, for 1080 Owen Sound. Two deadlines: something to GIVE her on Thu 24 Sept, and the object at the house by Christmas. Only the first is tight. Note 1080 is empty, so a delivery needs someone to accept it.",
-      "category": "🎁 JULIE'S BIRTHDAY — THU 24 SEPT"
-    },
-    {
-      "id": "tp-elnino",
-      "text": "EL NIÑO TALKING POINTS for Olivier: situation, what Canada already funds there, and the posture if asked what more Canada will do. He is insistent. Draft requested from the team while you are away.",
-      "category": "🔴🔴 OLIVIER'S MOST PRESSING ITEM. STANDING, TOP OF EVERY LIST UNTIL IT EXISTS."
-    },
-    {
-      "id": "tp-source",
-      "text": "Tell them to start from today's El Niño input, not from scratch. The figures and sources are all in it.",
-      "category": "🔴🔴 OLIVIER'S MOST PRESSING ITEM. STANDING, TOP OF EVERY LIST UNTIL IT EXISTS."
+      "text": "🔴 JULIE'S FIRE PIT. Six days. Thursday needs something to GIVE her; the object itself only has to be at 1080 by Christmas. Clearance season in Canada is now. 1080 is empty, so a delivery needs someone to accept it.",
+      "category": "🎁 JULIE — THURSDAY 24TH"
     },
     {
       "id": "ex-press",
@@ -109,79 +70,76 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "tigo-cancel",
-      "text": "Cancel Tigo HOME INTERNET at the old flat, on or after Wed 16. In person, any branch, all equipment, written proof.",
-      "category": "📦 THIS WEEK"
-    },
-    {
-      "id": "emo",
-      "text": "Emergency Management: THURSDAY 17, noon. It falls inside the movers' lunch hour on a day that may not even happen. Prep: read the Job Action Sheet for your ERT section.",
-      "category": "📦 THIS WEEK"
-    },
-    {
-      "id": "browser",
-      "text": "Project Browser 2025-26. Your words: a black mark for programs who don't finish. If today did not close it, Friday was the last clear day.",
-      "category": "📊 WORK — carrying into a week you will not be in the office"
-    },
-    {
-      "id": "reviews",
-      "text": "Mid-year reviews due 15 Oct, and you fly to Canada on the 9th. They get filed BEFORE you go.",
-      "category": "📊 WORK — carrying into a week you will not be in the office"
-    },
-    {
-      "id": "overtime",
-      "text": "September overtime: 1.5 hrs banked (Mon 7th, British Residence). Compile 1 October. For time, not money.",
-      "category": "📊 WORK — carrying into a week you will not be in the office"
-    },
-    {
-      "id": "dental",
-      "text": "FSD dental claim. Form M445D, plan 72114, cert ECF0152001.",
-      "category": "🏠 HOME / PERSONAL"
-    },
-    {
-      "id": "intelaf",
-      "text": "Intelaf credit at Zona 9, order 69788. Ask about the expiry.",
-      "category": "🏠 HOME / PERSONAL"
-    },
-    {
-      "id": "shopping",
-      "text": "Door handles · floor lamps · telephone stand · TV stand · bulbs · cameras · VGA cable. Bought, or dead? One word and I close them.",
-      "category": "🛒 1080 SHOPPING — still open; you cleared Workflowy but I did not close these"
-    },
-    {
-      "id": "astra",
-      "text": "House app brief is with Astra. Have it import your Issue Register and Maintenance Plan.",
-      "category": "🔧 TECH"
-    },
-    {
-      "id": "tm",
-      "text": "Time Machine to an external drive. There is still no backup of the closet Mac.",
-      "category": "🔧 TECH"
-    },
-    {
-      "id": "kitchen",
-      "text": "🍳 Katie at Van Dolder's is waiting on a BUDGET from you and Julie. She cannot design until she has it. The figure is in MOVE-IN PROJECT / Master Budget & Timeline.xlsx.",
-      "category": "🏠 HOME / PERSONAL"
-    },
-    {
-      "id": "ignite-prepip",
-      "text": "🔥 IGNITE PRE-PIP INPUT, DUE WEDNESDAY 23 SEPT COB. You asked who and when: IREM BALTAS (NLP), 8 Sept. Azucena is on the TO line, you are cc.",
-      "category": "📊 WORK — carrying into a week you will not be in the office"
-    },
-    {
-      "id": "ignite-why",
-      "text": "🎯 This is the document your May action item was about. You told Andrea Benavides the embassy role had to be WRITTEN INTO the PIP, because the last project left it out and it showed. That has been sitting since May. The Pre-PIP is the first draft.",
-      "category": "📊 WORK — carrying into a week you will not be in the office"
-    },
-    {
-      "id": "g13-mp",
-      "text": "🏛 G13 MATRIX, last call: the Ministerio Público column. Small job. Of 31 donor rows only two are filled, and all EIGHTEEN Canadian rows are blank. Every one of ours is ACCBP.",
-      "category": "📊 WORK — carrying into a week you will not be in the office"
+      "id": "lamp",
+      "text": "🛋 A nice bedside lamp. Your ask on Tuesday. New flat, Friday night, low stakes.",
+      "category": "🏠 THE NEW FLAT"
     },
     {
       "id": "ups",
-      "text": "🔌 A UPS for the modem and the Eero. Your idea, from the router rewire. Nothing depends on it today.",
-      "category": "🛒 TOMORROW, FRIDAY"
+      "text": "🔌 A UPS for the modem and the Eero. Your idea from the rewire. Nothing depends on it.",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "cables",
+      "text": "🔌 Two cables and adapters.",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "credit",
+      "text": "🧾 Store credit for the returned toy. PRINT THE EMAIL FIRST. The email is what makes the credit real at the counter.",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "mros",
+      "text": "🔧 FOUR MROs, for the move: office electricity · office bathroom · dishwasher in the new flat · the broken bed.",
+      "category": "🔧 MROs"
+    },
+    {
+      "id": "jessie",
+      "text": "📞 JESSIE-ANN BROUILLETTE. You said arrange Monday; she is on no calendar entry yet, so it still needs making. WhatsApp: https://wa.me/18193477924",
+      "category": "💼 MONDAY IS THREE SUCCESSION CALLS",
+      "type": "ref",
+      "url": "https://wa.me/18193477924"
+    },
+    {
+      "id": "jessie-deadline",
+      "text": "✅ And you can answer her question now. You asked her whether Monday was too late. It is not. 2 OCTOBER.",
+      "category": "💼 MONDAY IS THREE SUCCESSION CALLS"
+    },
+    {
+      "id": "tiffanie",
+      "text": "📌 11:00 Tiffanie Rainville. Spanish level 3, eight years in Bolivia, runs the Indigenous envelope, two projects already active here. Kerry Max sent her. Strongest on paper so far, so not a cold meeting.",
+      "category": "💼 MONDAY IS THREE SUCCESSION CALLS"
+    },
+    {
+      "id": "tp-elnino",
+      "text": "EL NIÑO TALKING POINTS for Olivier: the situation, what Canada already funds, and the posture if asked what more Canada will do. Tell them to start from the El Niño input, not from scratch.",
+      "category": "🔴 OLIVIER'S STANDING ITEM, until it exists"
+    },
+    {
+      "id": "ignite-prepip",
+      "text": "🔥 IGNITE PRE-PIP INPUT, DUE WEDNESDAY 23rd COB. Irem Baltas asked, 8 Sept. Azucena is on the TO line, you are cc. This is the document your May item was about: the embassy role written INTO the PIP.",
+      "category": "📊 NEXT WEEK AT WORK"
+    },
+    {
+      "id": "g13-mp",
+      "text": "🏛 G13 matrix, last call: the Ministerio Público column. Of 31 donor rows only two are filled, and all eighteen Canadian rows are blank.",
+      "category": "📊 NEXT WEEK AT WORK"
+    },
+    {
+      "id": "browser",
+      "text": "📊 Project Browser 2025-26. Your words: a black mark for programs who don't finish.",
+      "category": "📊 NEXT WEEK AT WORK"
+    },
+    {
+      "id": "github",
+      "text": "🔑 The GitHub token. Five minutes, and it unblocks BOTH remaining memorial items: Marni Angus’s eulogy, which you now have the text for, and the SEO so Liz is findable.",
+      "category": "🛠 TECH"
+    },
+    {
+      "id": "meshnet",
+      "text": "✅ Meshnet is back on its own: 100.109.99.91. Nothing for you to do. Noted so it stops sitting on the list.",
+      "category": "🛠 TECH"
     }
   ]
 }
