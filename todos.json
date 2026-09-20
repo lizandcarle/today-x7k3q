@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
-  "updated": "2026-09-19T18:20:00-06:00",
-  "note": "Saturday. One thing tonight: the Dintelec letter. Say the word and I will draft it.",
+  "updated": "2026-09-19T23:55:00-06:00",
+  "note": "Gym block is provisional until you tell me what is actually in there. Julie coming along is the part that matters.",
   "items": [
     {
       "id": "wf-job",
@@ -26,7 +26,7 @@
     },
     {
       "id": "hearing",
-      "text": "🦻 Write to DINTELEC: a medical statement saying the hearing aids were for you. Patient, practitioner, medical need. NOT another copy of the invoice, they have that.",
+      "text": "🦻 DINTELEC — tomorrow, your call. A medical statement saying the hearing aids were for you: patient, practitioner, medical need. NOT another invoice copy.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
@@ -37,29 +37,34 @@
       "url": "https://pshcp.ca/contacts/msh/"
     },
     {
-      "id": "ex-press",
-      "text": "Dumbbell floor press",
-      "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
+      "id": "gym-chest",
+      "text": "Chest press",
+      "category": "💪 EXERCISE — DAY 1, NOW AT THE GYM (provisional)"
     },
     {
-      "id": "ex-row",
-      "text": "Bent-over row",
-      "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
+      "id": "gym-row",
+      "text": "Seated row",
+      "category": "💪 EXERCISE — DAY 1, NOW AT THE GYM (provisional)"
     },
     {
-      "id": "ex-ohp",
-      "text": "Overhead press",
-      "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
+      "id": "gym-ohp",
+      "text": "Shoulder press",
+      "category": "💪 EXERCISE — DAY 1, NOW AT THE GYM (provisional)"
     },
     {
-      "id": "ex-curl",
+      "id": "gym-pulldown",
+      "text": "Lat pulldown — the one thing the home routine had no version of",
+      "category": "💪 EXERCISE — DAY 1, NOW AT THE GYM (provisional)"
+    },
+    {
+      "id": "gym-curl",
       "text": "Curls",
-      "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
+      "category": "💪 EXERCISE — DAY 1, NOW AT THE GYM (provisional)"
     },
     {
       "id": "ex-beatsaber",
-      "text": "Beat Saber, 30 min",
-      "category": "💪 EXERCISE — CYCLE DAY 1: DUMBBELLS"
+      "text": "Beat Saber, 30 min (stays at home)",
+      "category": "💪 EXERCISE — DAY 1, NOW AT THE GYM (provisional)"
     },
     {
       "id": "ex-steps",
@@ -78,7 +83,7 @@
     },
     {
       "id": "firepit",
-      "text": "🎁 JULIE'S FIRE PIT. Five days. Thursday needs something to GIVE her; the object only has to reach 1080 by Christmas. 1080 is empty, so a delivery needs an acceptor.",
+      "text": "🎁 JULIE'S FIRE PIT — you're ordering it. ✅ Still open: the SECOND thing you said you need to buy. And 1080 is empty, so the delivery still needs an acceptor.",
       "category": "🎁 JULIE — THURSDAY 24TH"
     },
     {
@@ -152,6 +157,13 @@
       "id": "github",
       "text": "🔑 The GitHub token. Five minutes, unblocks BOTH memorial items: Marni Angus’s eulogy and the SEO.",
       "category": "🛠 TECH"
+    },
+    {
+      "id": "choc",
+      "text": "🖼 Francisco Choc, hangs photos and artwork: 3153 0761 · https://wa.me/50231530761",
+      "category": "🏠 THE NEW FLAT",
+      "type": "ref",
+      "url": "https://wa.me/50231530761"
     }
   ]
 }
