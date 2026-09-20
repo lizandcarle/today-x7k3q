@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-18",
-  "updated": "2026-09-18T23:26:00-06:00",
-  "note": "Friday evening, new flat. One thing tonight: the fire pit. Six days and a delivery problem to solve.",
+  "date": "2026-09-19",
+  "updated": "2026-09-19T18:20:00-06:00",
+  "note": "Saturday. One thing tonight: the Dintelec letter. Say the word and I will draft it.",
   "items": [
     {
       "id": "wf-job",
@@ -26,20 +26,15 @@
     },
     {
       "id": "hearing",
-      "text": "🦻 Write to DINTELEC: ask for a medical statement saying the hearing aids were for you. The refusal sounds like a who-were-they-for question, not a receipts one, so the letter wants patient, practitioner and medical need. NOT another copy of the invoice.",
+      "text": "🦻 Write to DINTELEC: a medical statement saying the hearing aids were for you. Patient, practitioner, medical need. NOT another copy of the invoice, they have that.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
       "id": "hearing-ctx",
-      "text": "📌 This is the claim you spent 97 days unblocking and submitted on 26 July. ~$1,500. Plan is PSHCP, out-of-Canada via MSH: https://pshcp.ca/contacts/msh/ — not the dental plan.",
+      "text": "📌 This is the claim you spent 97 days unblocking and submitted 26 July. ~$1,500. PSHCP out-of-Canada via MSH: https://pshcp.ca/contacts/msh/ — not the dental plan.",
       "category": "🔴 TOP OF THE LIST",
       "type": "ref",
       "url": "https://pshcp.ca/contacts/msh/"
-    },
-    {
-      "id": "firepit",
-      "text": "🔴 JULIE'S FIRE PIT. Six days. Thursday needs something to GIVE her; the object itself only has to be at 1080 by Christmas. Clearance season in Canada is now. 1080 is empty, so a delivery needs someone to accept it.",
-      "category": "🎁 JULIE — THURSDAY 24TH"
     },
     {
       "id": "ex-press",
@@ -82,13 +77,18 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
+      "id": "firepit",
+      "text": "🎁 JULIE'S FIRE PIT. Five days. Thursday needs something to GIVE her; the object only has to reach 1080 by Christmas. 1080 is empty, so a delivery needs an acceptor.",
+      "category": "🎁 JULIE — THURSDAY 24TH"
+    },
+    {
       "id": "lamp",
-      "text": "🛋 A nice bedside lamp. Your ask on Tuesday. New flat, Friday night, low stakes.",
+      "text": "🛋 A nice bedside lamp. Your ask on Tuesday.",
       "category": "🏠 THE NEW FLAT"
     },
     {
       "id": "ups",
-      "text": "🔌 A UPS for the modem and the Eero. Your idea from the rewire. Nothing depends on it.",
+      "text": "🔌 A UPS for the modem and the Eero.",
       "category": "🏠 THE NEW FLAT"
     },
     {
@@ -98,75 +98,60 @@
     },
     {
       "id": "credit",
-      "text": "🧾 Store credit for the returned toy. PRINT THE EMAIL FIRST. The email is what makes the credit real at the counter.",
+      "text": "🧾 Store credit for the returned toy. PRINT THE EMAIL FIRST.",
       "category": "🏠 THE NEW FLAT"
     },
     {
       "id": "mros",
-      "text": "🔧 FOUR MROs, for the move: office electricity · office bathroom · dishwasher in the new flat · the broken bed.",
+      "text": "🔧 FOUR MROs: office electricity · office bathroom · dishwasher · the broken bed.",
       "category": "🔧 MROs"
     },
     {
       "id": "maria",
-      "text": "🔴 MONDAY NOW STARTS AT 07:00, not 10:00. Maria Ramirez (Jakarta, 12h ahead) has the early slot. She confirms the deadline too: 2 October.",
-      "category": "💼 MONDAY IS FOUR SUCCESSION CALLS"
-    },
-    {
-      "id": "maria-time",
-      "text": "⏰ Ten seconds before Monday: she proposed \"8 or 9 am\" and the entry sits at 07:00. Twelve hours of difference is where a booking lands an hour off. Open the invite.",
+      "text": "🔴 MONDAY STARTS AT 07:00. Maria Ramirez, Jakarta, twelve hours ahead. She proposed \"8 or 9 am\" and the invite sits at 07:00 — worth opening it.",
       "category": "💼 MONDAY IS FOUR SUCCESSION CALLS"
     },
     {
       "id": "jessie",
-      "text": "📞 JESSIE-ANN BROUILLETTE. You said arrange Monday; she is on no calendar entry yet, so it still needs making. WhatsApp: https://wa.me/18193477924",
+      "text": "📞 Jessie-Ann Brouillette still has no slot. You said arrange Monday. WhatsApp: https://wa.me/18193477924",
       "category": "💼 MONDAY IS FOUR SUCCESSION CALLS",
       "type": "ref",
       "url": "https://wa.me/18193477924"
     },
     {
-      "id": "jessie-deadline",
-      "text": "✅ And you can answer her question now. You asked her whether Monday was too late. It is not. 2 OCTOBER.",
-      "category": "💼 MONDAY IS FOUR SUCCESSION CALLS"
-    },
-    {
       "id": "tiffanie",
-      "text": "📌 11:00 Tiffanie Rainville. Spanish level 3, eight years in Bolivia, runs the Indigenous envelope, two projects already active here. Kerry Max sent her. Strongest on paper so far, so not a cold meeting.",
+      "text": "📌 11:00 Tiffanie Rainville. Spanish level 3, eight years in Bolivia, runs the Indigenous envelope, two projects already active here. Kerry Max sent her.",
       "category": "💼 MONDAY IS FOUR SUCCESSION CALLS"
     },
     {
       "id": "tp-elnino",
-      "text": "EL NIÑO TALKING POINTS for Olivier: the situation, what Canada already funds, and the posture if asked what more Canada will do. Tell them to start from the El Niño input, not from scratch.",
+      "text": "EL NIÑO TALKING POINTS for Olivier. Tell them to start from the El Niño input, not from scratch.",
       "category": "🔴 OLIVIER'S STANDING ITEM, until it exists"
     },
     {
       "id": "ignite-prepip",
-      "text": "🔥 IGNITE PRE-PIP INPUT, DUE WEDNESDAY 23rd COB. Irem Baltas asked, 8 Sept. Azucena is on the TO line, you are cc. This is the document your May item was about: the embassy role written INTO the PIP.",
+      "text": "🔥 IGNITE PRE-PIP INPUT, DUE WEDNESDAY COB. Irem Baltas asked. This is the document your May item was about: the embassy role written INTO the PIP.",
+      "category": "📊 NEXT WEEK AT WORK"
+    },
+    {
+      "id": "dmt",
+      "text": "📺 Tue 07:30: the new DM of International Trade on the restructuring re-establishing BFM and TFM.",
       "category": "📊 NEXT WEEK AT WORK"
     },
     {
       "id": "g13-mp",
-      "text": "🏛 G13 matrix, last call: the Ministerio Público column. Of 31 donor rows only two are filled, and all eighteen Canadian rows are blank.",
+      "text": "🏛 G13 matrix, last call: the Ministerio Público column. All eighteen Canadian rows blank. The new Fiscal General is four months in.",
       "category": "📊 NEXT WEEK AT WORK"
     },
     {
       "id": "browser",
-      "text": "📊 Project Browser 2025-26. Your words: a black mark for programs who don't finish.",
+      "text": "📊 Project Browser 2025-26.",
       "category": "📊 NEXT WEEK AT WORK"
     },
     {
       "id": "github",
-      "text": "🔑 The GitHub token. Five minutes, and it unblocks BOTH remaining memorial items: Marni Angus’s eulogy, which you now have the text for, and the SEO so Liz is findable.",
+      "text": "🔑 The GitHub token. Five minutes, unblocks BOTH memorial items: Marni Angus’s eulogy and the SEO.",
       "category": "🛠 TECH"
-    },
-    {
-      "id": "meshnet",
-      "text": "✅ Meshnet is back on its own: 100.109.99.91. Nothing for you to do. Noted so it stops sitting on the list.",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "dmt",
-      "text": "📺 Tue 07:30: Glenn Purves, DM of International Trade, on the restructuring that re-establishes BFM and TFM. Trade pillar, and it sits next to the IGNITE file.",
-      "category": "📊 NEXT WEEK AT WORK"
     }
   ]
 }
