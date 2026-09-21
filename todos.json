@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-19",
-  "updated": "2026-09-19T23:55:00-06:00",
-  "note": "Gym block is provisional until you tell me what is actually in there. Julie coming along is the part that matters.",
+  "date": "2026-09-20",
+  "updated": "2026-09-20T18:20:00-06:00",
+  "note": "Monday starts at 07:00. Tonight: the second gift for Julie.",
   "items": [
     {
       "id": "wf-job",
@@ -25,46 +25,44 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
-      "id": "hearing",
-      "text": "🦻 DINTELEC — tomorrow, your call. A medical statement saying the hearing aids were for you: patient, practitioner, medical need. NOT another invoice copy.",
+      "id": "julie2",
+      "text": "🎁 JULIE, THURSDAY. FOUR DAYS. Fire pit is ordered. The open one is the SECOND thing you said you need to buy, and it is the one with no plan behind it.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
-      "id": "hearing-ctx",
-      "text": "📌 This is the claim you spent 97 days unblocking and submitted 26 July. ~$1,500. PSHCP out-of-Canada via MSH: https://pshcp.ca/contacts/msh/ — not the dental plan.",
-      "category": "🔴 TOP OF THE LIST",
-      "type": "ref",
-      "url": "https://pshcp.ca/contacts/msh/"
+      "id": "julie-delivery",
+      "text": "📦 And 1080 is still empty. Whatever ships there needs somebody to accept it.",
+      "category": "🔴 TOP OF THE LIST"
     },
     {
       "id": "gym-chest",
       "text": "Chest press",
-      "category": "💪 EXERCISE — DAY 1, NOW AT THE GYM (provisional)"
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)"
     },
     {
       "id": "gym-row",
       "text": "Seated row",
-      "category": "💪 EXERCISE — DAY 1, NOW AT THE GYM (provisional)"
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)"
     },
     {
       "id": "gym-ohp",
       "text": "Shoulder press",
-      "category": "💪 EXERCISE — DAY 1, NOW AT THE GYM (provisional)"
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)"
     },
     {
       "id": "gym-pulldown",
-      "text": "Lat pulldown — the one thing the home routine had no version of",
-      "category": "💪 EXERCISE — DAY 1, NOW AT THE GYM (provisional)"
+      "text": "Lat pulldown",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)"
     },
     {
       "id": "gym-curl",
       "text": "Curls",
-      "category": "💪 EXERCISE — DAY 1, NOW AT THE GYM (provisional)"
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)"
     },
     {
       "id": "ex-beatsaber",
-      "text": "Beat Saber, 30 min (stays at home)",
-      "category": "💪 EXERCISE — DAY 1, NOW AT THE GYM (provisional)"
+      "text": "Beat Saber, 30 min (stays home)",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)"
     },
     {
       "id": "ex-steps",
@@ -82,88 +80,80 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "firepit",
-      "text": "🎁 JULIE'S FIRE PIT — you're ordering it. ✅ Still open: the SECOND thing you said you need to buy. And 1080 is empty, so the delivery still needs an acceptor.",
-      "category": "🎁 JULIE — THURSDAY 24TH"
-    },
-    {
-      "id": "lamp",
-      "text": "🛋 A nice bedside lamp. Your ask on Tuesday.",
-      "category": "🏠 THE NEW FLAT"
-    },
-    {
-      "id": "ups",
-      "text": "🔌 A UPS for the modem and the Eero.",
-      "category": "🏠 THE NEW FLAT"
-    },
-    {
-      "id": "cables",
-      "text": "🔌 Two cables and adapters.",
-      "category": "🏠 THE NEW FLAT"
-    },
-    {
-      "id": "credit",
-      "text": "🧾 Store credit for the returned toy. PRINT THE EMAIL FIRST.",
-      "category": "🏠 THE NEW FLAT"
-    },
-    {
-      "id": "mros",
-      "text": "🔧 FOUR MROs: office electricity · office bathroom · dishwasher · the broken bed.",
-      "category": "🔧 MROs"
-    },
-    {
       "id": "maria",
-      "text": "🔴 MONDAY STARTS AT 07:00. Maria Ramirez, Jakarta, twelve hours ahead. She proposed \"8 or 9 am\" and the invite sits at 07:00 — worth opening it.",
-      "category": "💼 MONDAY IS FOUR SUCCESSION CALLS"
+      "text": "🔴 07:00 MARIA RAMIREZ, Jakarta, twelve hours ahead. She proposed \"8 or 9 am\" and the invite reads 07:00. Open it before you go to bed and you will not find out at 06:55.",
+      "category": "💼 MONDAY — FOUR SUCCESSION CALLS, STARTING AT 07:00"
+    },
+    {
+      "id": "tiffanie",
+      "text": "📌 11:00 Tiffanie Rainville. Spanish level 3, eight years in Bolivia, runs the Indigenous envelope, two projects already active here. Kerry Max sent her. Strongest on paper.",
+      "category": "💼 MONDAY — FOUR SUCCESSION CALLS, STARTING AT 07:00"
+    },
+    {
+      "id": "unnamed",
+      "text": "❓ 12:00 \"Quick chat, GTMLA PM\" — organiser still unnamed. A fresh calendar dump would tell us who.",
+      "category": "💼 MONDAY — FOUR SUCCESSION CALLS, STARTING AT 07:00"
     },
     {
       "id": "jessie",
-      "text": "📞 Jessie-Ann Brouillette still has no slot. You said arrange Monday. WhatsApp: https://wa.me/18193477924",
-      "category": "💼 MONDAY IS FOUR SUCCESSION CALLS",
+      "text": "📞 Jessie-Ann Brouillette still has no slot at all. You said arrange Monday. https://wa.me/18193477924",
+      "category": "💼 MONDAY — FOUR SUCCESSION CALLS, STARTING AT 07:00",
       "type": "ref",
       "url": "https://wa.me/18193477924"
     },
     {
-      "id": "tiffanie",
-      "text": "📌 11:00 Tiffanie Rainville. Spanish level 3, eight years in Bolivia, runs the Indigenous envelope, two projects already active here. Kerry Max sent her.",
-      "category": "💼 MONDAY IS FOUR SUCCESSION CALLS"
+      "id": "hearing",
+      "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy.",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "mros",
+      "text": "🔧 FOUR MROs: office electricity · office bathroom · dishwasher · the broken bed.",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "choc",
+      "text": "🖼 Francisco Choc, hangs photos and artwork: 3153 0761",
+      "category": "🏠 THE NEW FLAT",
+      "type": "ref",
+      "url": "https://wa.me/50231530761"
+    },
+    {
+      "id": "lamp",
+      "text": "🛋 Bedside lamp · 🔌 UPS for the modem and Eero · 🔌 two cables · 🧾 store credit (print the email first)",
+      "category": "🏠 THE NEW FLAT"
     },
     {
       "id": "tp-elnino",
-      "text": "EL NIÑO TALKING POINTS for Olivier. Tell them to start from the El Niño input, not from scratch.",
-      "category": "🔴 OLIVIER'S STANDING ITEM, until it exists"
+      "text": "EL NIÑO TALKING POINTS for Olivier. Start them from the El Niño input, not from scratch.",
+      "category": "🔴 OLIVIER'S STANDING ITEM"
     },
     {
-      "id": "ignite-prepip",
-      "text": "🔥 IGNITE PRE-PIP INPUT, DUE WEDNESDAY COB. Irem Baltas asked. This is the document your May item was about: the embassy role written INTO the PIP.",
-      "category": "📊 NEXT WEEK AT WORK"
+      "id": "ignite",
+      "text": "🔥 IGNITE PRE-PIP DUE WEDNESDAY COB. The document your May item was about: the embassy role written INTO the PIP.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "gedan",
+      "text": "📖 Tue 08:00 Stimson. Benjamin Gedan gave an interview Saturday — fifteen minutes with it and you know how he frames the region before he opens his mouth.",
+      "category": "📊 THE WORK WEEK",
+      "type": "ref",
+      "url": "https://www.infobae.com/politica/2026/09/19/benjamin-gedan-investigador-del-centro-stimson-para-actuar-como-mediador-por-las-malvinas-trump-debe-convencer-a-ambas-partes-de-que-es-neutral/"
     },
     {
       "id": "dmt",
       "text": "📺 Tue 07:30: the new DM of International Trade on the restructuring re-establishing BFM and TFM.",
-      "category": "📊 NEXT WEEK AT WORK"
+      "category": "📊 THE WORK WEEK"
     },
     {
-      "id": "g13-mp",
-      "text": "🏛 G13 matrix, last call: the Ministerio Público column. All eighteen Canadian rows blank. The new Fiscal General is four months in.",
-      "category": "📊 NEXT WEEK AT WORK"
-    },
-    {
-      "id": "browser",
-      "text": "📊 Project Browser 2025-26.",
-      "category": "📊 NEXT WEEK AT WORK"
+      "id": "g13",
+      "text": "🏛 G13 matrix, last call: the Ministerio Público column. All eighteen Canadian rows blank.",
+      "category": "📊 THE WORK WEEK"
     },
     {
       "id": "github",
-      "text": "🔑 The GitHub token. Five minutes, unblocks BOTH memorial items: Marni Angus’s eulogy and the SEO.",
+      "text": "🔑 The GitHub token. Five minutes, unblocks both memorial items.",
       "category": "🛠 TECH"
-    },
-    {
-      "id": "choc",
-      "text": "🖼 Francisco Choc, hangs photos and artwork: 3153 0761 · https://wa.me/50231530761",
-      "category": "🏠 THE NEW FLAT",
-      "type": "ref",
-      "url": "https://wa.me/50231530761"
     }
   ]
 }
