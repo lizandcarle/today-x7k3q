@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
-  "updated": "2026-09-21T18:20:00-06:00",
-  "note": "Wednesday 09:00 is double-booked. Tonight: the second gift for Julie.",
+  "updated": "2026-09-21T18:25:00-06:00",
+  "note": "Wednesday is covered. Tonight: the second gift for Julie.",
   "items": [
     {
       "id": "wf-job",
@@ -26,8 +26,8 @@
     },
     {
       "id": "wed-clash",
-      "text": "⚠️ WEDNESDAY 09:00 IS DOUBLE-BOOKED. Dishwasher move with Eric at the flat, and the WFP regional El Niño outlook. Nobody named to cover the dishwasher. Is Julie doing that one too?",
-      "category": "🔴 TOP OF THE LIST"
+      "text": "✅ Wednesday 09:00 sorted. Julie is covering the dishwasher, so the WFP El Niño session is clear for you.",
+      "category": "📊 THE WORK WEEK"
     },
     {
       "id": "julie2",
