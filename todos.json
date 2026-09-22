@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-20",
-  "updated": "2026-09-20T18:20:00-06:00",
-  "note": "Monday starts at 07:00. Tonight: the second gift for Julie.",
+  "date": "2026-09-21",
+  "updated": "2026-09-21T18:20:00-06:00",
+  "note": "Wednesday 09:00 is double-booked. Tonight: the second gift for Julie.",
   "items": [
     {
       "id": "wf-job",
@@ -25,13 +25,13 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
-      "id": "julie2",
-      "text": "🎁 JULIE, THURSDAY. FOUR DAYS. Fire pit is ordered. The open one is the SECOND thing you said you need to buy, and it is the one with no plan behind it.",
+      "id": "wed-clash",
+      "text": "⚠️ WEDNESDAY 09:00 IS DOUBLE-BOOKED. Dishwasher move with Eric at the flat, and the WFP regional El Niño outlook. Nobody named to cover the dishwasher. Is Julie doing that one too?",
       "category": "🔴 TOP OF THE LIST"
     },
     {
-      "id": "julie-delivery",
-      "text": "📦 And 1080 is still empty. Whatever ships there needs somebody to accept it.",
+      "id": "julie2",
+      "text": "🎁 JULIE, THURSDAY. THREE DAYS. Fire pit ordered. The SECOND thing you said you need to buy still has nothing behind it.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
@@ -80,36 +80,51 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "maria",
-      "text": "🔴 07:00 MARIA RAMIREZ, Jakarta, twelve hours ahead. She proposed \"8 or 9 am\" and the invite reads 07:00. Open it before you go to bed and you will not find out at 06:55.",
-      "category": "💼 MONDAY — FOUR SUCCESSION CALLS, STARTING AT 07:00"
-    },
-    {
-      "id": "tiffanie",
-      "text": "📌 11:00 Tiffanie Rainville. Spanish level 3, eight years in Bolivia, runs the Indigenous envelope, two projects already active here. Kerry Max sent her. Strongest on paper.",
-      "category": "💼 MONDAY — FOUR SUCCESSION CALLS, STARTING AT 07:00"
-    },
-    {
-      "id": "unnamed",
-      "text": "❓ 12:00 \"Quick chat, GTMLA PM\" — organiser still unnamed. A fresh calendar dump would tell us who.",
-      "category": "💼 MONDAY — FOUR SUCCESSION CALLS, STARTING AT 07:00"
-    },
-    {
-      "id": "jessie",
-      "text": "📞 Jessie-Ann Brouillette still has no slot at all. You said arrange Monday. https://wa.me/18193477924",
-      "category": "💼 MONDAY — FOUR SUCCESSION CALLS, STARTING AT 07:00",
-      "type": "ref",
-      "url": "https://wa.me/18193477924"
-    },
-    {
       "id": "hearing",
-      "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy.",
+      "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy. Say the word and I will draft it.",
       "category": "🦻 THIS WEEK"
     },
     {
       "id": "mros",
-      "text": "🔧 FOUR MROs: office electricity · office bathroom · dishwasher · the broken bed.",
+      "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed. Dishwasher is booked for Wednesday.",
       "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "tue-stimson",
+      "text": "⏰ Tue 08:30 Stimson, NOT 08:00 — it moved. Gedan gave an interview Saturday if you want fifteen minutes of prep.",
+      "category": "📊 TOMORROW",
+      "type": "ref",
+      "url": "https://www.infobae.com/politica/2026/09/19/benjamin-gedan-investigador-del-centro-stimson-para-actuar-como-mediador-por-las-malvinas-trump-debe-convencer-a-ambas-partes-de-que-es-neutral/"
+    },
+    {
+      "id": "tue-dmt",
+      "text": "📺 Tue 07:30 the new DM of International Trade on the BFM/TFM restructuring.",
+      "category": "📊 TOMORROW"
+    },
+    {
+      "id": "tue-vicky",
+      "text": "📞 Tue 12:00 Vicky Leclair, fifth name on the 2028 job. Her questions include schooling for a five-year-old. Her manager is Christine Faveri, who had this job before you.",
+      "category": "📊 TOMORROW"
+    },
+    {
+      "id": "tue-fuel",
+      "text": "🇬🇹 And Congress takes the fuel decree objections tomorrow. Arévalo skipped the UN General Assembly to be here for it.",
+      "category": "📊 TOMORROW"
+    },
+    {
+      "id": "ignite",
+      "text": "🔥 IGNITE PRE-PIP DUE WEDNESDAY COB. The document your May item was about: the embassy role written INTO the PIP.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "g13",
+      "text": "🏛 G13 matrix, Ministerio Público column. All eighteen Canadian rows blank. The Fiscal General is four months into the job.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "ups",
+      "text": "🔌 UPS bought. When it arrives: lamp test the sockets, put all three devices on the battery-backed side.",
+      "category": "🏠 THE NEW FLAT"
     },
     {
       "id": "choc",
@@ -120,35 +135,8 @@
     },
     {
       "id": "lamp",
-      "text": "🛋 Bedside lamp · 🔌 UPS for the modem and Eero · 🔌 two cables · 🧾 store credit (print the email first)",
+      "text": "🛋 Bedside lamp · 🔌 two cables · 🧾 store credit (print the email first)",
       "category": "🏠 THE NEW FLAT"
-    },
-    {
-      "id": "tp-elnino",
-      "text": "EL NIÑO TALKING POINTS for Olivier. Start them from the El Niño input, not from scratch.",
-      "category": "🔴 OLIVIER'S STANDING ITEM"
-    },
-    {
-      "id": "ignite",
-      "text": "🔥 IGNITE PRE-PIP DUE WEDNESDAY COB. The document your May item was about: the embassy role written INTO the PIP.",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "gedan",
-      "text": "📖 Tue 08:00 Stimson. Benjamin Gedan gave an interview Saturday — fifteen minutes with it and you know how he frames the region before he opens his mouth.",
-      "category": "📊 THE WORK WEEK",
-      "type": "ref",
-      "url": "https://www.infobae.com/politica/2026/09/19/benjamin-gedan-investigador-del-centro-stimson-para-actuar-como-mediador-por-las-malvinas-trump-debe-convencer-a-ambas-partes-de-que-es-neutral/"
-    },
-    {
-      "id": "dmt",
-      "text": "📺 Tue 07:30: the new DM of International Trade on the restructuring re-establishing BFM and TFM.",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "g13",
-      "text": "🏛 G13 matrix, last call: the Ministerio Público column. All eighteen Canadian rows blank.",
-      "category": "📊 THE WORK WEEK"
     },
     {
       "id": "github",
