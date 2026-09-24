@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-21",
-  "updated": "2026-09-21T18:25:00-06:00",
-  "note": "Wednesday is covered. Tonight: the second gift for Julie.",
+  "date": "2026-09-23",
+  "updated": "2026-09-23T18:20:00-06:00",
+  "note": "Julie tomorrow. Tonight: the second present.",
   "items": [
     {
       "id": "wf-job",
@@ -25,13 +25,8 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
-      "id": "wed-clash",
-      "text": "✅ Wednesday 09:00 sorted. Julie is covering the dishwasher, so the WFP El Niño session is clear for you.",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
       "id": "julie2",
-      "text": "🎁 JULIE, THURSDAY. THREE DAYS. Fire pit ordered. The SECOND thing you said you need to buy still has nothing behind it.",
+      "text": "🎂 JULIE, TOMORROW. Fire pit ordered. The SECOND present still has nothing behind it. Tonight is the last evening to fix that.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
@@ -80,46 +75,54 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "hearing",
-      "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy. Say the word and I will draft it.",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "mros",
-      "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed. Dishwasher is booked for Wednesday.",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "tue-stimson",
-      "text": "⏰ Tue 08:30 Stimson, NOT 08:00 — it moved. Gedan gave an interview Saturday if you want fifteen minutes of prep.",
-      "category": "📊 TOMORROW",
-      "type": "ref",
-      "url": "https://www.infobae.com/politica/2026/09/19/benjamin-gedan-investigador-del-centro-stimson-para-actuar-como-mediador-por-las-malvinas-trump-debe-convencer-a-ambas-partes-de-que-es-neutral/"
-    },
-    {
-      "id": "tue-dmt",
-      "text": "📺 Tue 07:30 the new DM of International Trade on the BFM/TFM restructuring.",
+      "id": "thu-transport",
+      "text": "🚐 Thu 08:30 transport to the Centro Cultural de España for Sonia +1, back at 11:00.",
       "category": "📊 TOMORROW"
     },
     {
-      "id": "tue-vicky",
-      "text": "📞 Tue 12:00 Vicky Leclair, fifth name on the 2028 job. Her questions include schooling for a five-year-old. Her manager is Christine Faveri, who had this job before you.",
+      "id": "thu-clash",
+      "text": "⚠️ Thu 09:00 DEV team (Teams) and 09:00 GCC at the Centro Cultural, Edificio Lux Nivel 2. Same hour.",
       "category": "📊 TOMORROW"
     },
     {
-      "id": "tue-fuel",
-      "text": "🇬🇹 And Congress takes the fuel decree objections tomorrow. Arévalo skipped the UN General Assembly to be here for it.",
+      "id": "thu-town",
+      "text": "🏛 Thu 11:00 Monthly Townhall, Inukshuk room.",
       "category": "📊 TOMORROW"
     },
     {
-      "id": "ignite",
-      "text": "🔥 IGNITE PRE-PIP DUE WEDNESDAY COB. The document your May item was about: the embassy role written INTO the PIP.",
+      "id": "thu-ignite",
+      "text": "🔥 Thu 14:30 IGNITE meeting with GAC (Teams). New in today's calendar dump.",
+      "category": "📊 TOMORROW"
+    },
+    {
+      "id": "mon-pmp",
+      "text": "🔴 Mon 28, 10:30: your PMP mid-year with Olivier. His item 4 is your feedback on his leadership. Then 11:00 the Avocats sans frontières Canada logic model, Maxime organising.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "oct7-clash",
+      "text": "⚠️ Wed 7 Oct, 10:00: Sally's bilat clashes with DEV-Trade coordination.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "annemarie-oct2",
+      "text": "🥂 The old 2 October invite for Anne-Marie's farewell lunch is still in your calendar. You said it moved to today.",
       "category": "📊 THE WORK WEEK"
     },
     {
       "id": "g13",
       "text": "🏛 G13 matrix, Ministerio Público column. All eighteen Canadian rows blank. The Fiscal General is four months into the job.",
       "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "hearing",
+      "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy. Say the word and I will draft it.",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "mros",
+      "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed. (The dishwasher was scheduled for this morning.)",
+      "category": "🦻 THIS WEEK"
     },
     {
       "id": "ups",
