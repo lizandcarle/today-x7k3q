@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-23",
-  "updated": "2026-09-23T18:31:00-06:00",
-  "note": "Julie tomorrow. Tonight: the second present.",
+  "date": "2026-09-24",
+  "updated": "2026-09-24T18:20:00-06:00",
+  "note": "Early start tomorrow: 06:15.",
   "items": [
     {
       "id": "wf-job",
@@ -23,11 +23,6 @@
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
-    },
-    {
-      "id": "julie2",
-      "text": "🎂 JULIE, TOMORROW. Fire pit ordered. The SECOND present still has nothing behind it. Tonight is the last evening to fix that.",
-      "category": "🔴 TOP OF THE LIST"
     },
     {
       "id": "gym-chest",
@@ -75,23 +70,23 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "thu-transport",
-      "text": "🚐 Thu 08:30 transport to the Centro Cultural de España for Sonia +1, back at 11:00.",
+      "id": "wells",
+      "text": "📰 Send Monica the Paul Wells article (reminded 13:33; tick it when done).",
+      "category": "🔴 TOP OF THE LIST"
+    },
+    {
+      "id": "fri-minh",
+      "text": "⏰ Fri 06:15 Minh-Tien Nguyen, Head of Cooperation in Rabat, on the 2028 job. Sixth name. He's also asked Olivier for a meeting.",
       "category": "📊 TOMORROW"
     },
     {
-      "id": "thu-clash",
-      "text": "⚠️ Thu 09:00 DEV team (Teams) and 09:00 GCC at the Centro Cultural, Edificio Lux Nivel 2. Same hour.",
+      "id": "fri-dev",
+      "text": "👥 Fri 08:00 DEV team (Teams).",
       "category": "📊 TOMORROW"
     },
     {
-      "id": "thu-town",
-      "text": "🏛 Thu 11:00 Monthly Townhall, Inukshuk room.",
-      "category": "📊 TOMORROW"
-    },
-    {
-      "id": "thu-ignite",
-      "text": "🔥 Thu 14:30 IGNITE meeting with GAC (Teams). New in today's calendar dump.",
+      "id": "fri-pos",
+      "text": "📞 Fri 09:30 \"Position in GTMLA\" (Teams), no name on it.",
       "category": "📊 TOMORROW"
     },
     {
@@ -100,8 +95,18 @@
       "category": "📊 THE WORK WEEK"
     },
     {
+      "id": "oct2",
+      "text": "⏰ Fri 2 Oct: succession deadline.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
       "id": "oct7-clash",
       "text": "⚠️ Wed 7 Oct, 10:00: Sally's bilat clashes with DEV-Trade coordination.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "oct8",
+      "text": "⏰ Thu 8 Oct: deadline for reviewing the Guatemala concept notes. Also 11:30 NDB/Mission IA management.",
       "category": "📊 THE WORK WEEK"
     },
     {
