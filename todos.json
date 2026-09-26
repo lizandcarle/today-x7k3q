@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-24",
-  "updated": "2026-09-24T18:20:00-06:00",
-  "note": "Early start tomorrow: 06:15.",
+  "date": "2026-09-25",
+  "updated": "2026-09-25T18:20:00-06:00",
+  "note": "Friday evening. The weekend is clear.",
   "items": [
     {
       "id": "wf-job",
@@ -23,6 +23,16 @@
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+    },
+    {
+      "id": "caldump",
+      "text": "📅 No work-calendar dump today. One tap on the work phone before the weekend, and Monday won't be a surprise.",
+      "category": "🔴 TOP OF THE LIST"
+    },
+    {
+      "id": "wells",
+      "text": "📰 Send Monica the Paul Wells article (reminded 13:33; tick it when done).",
+      "category": "🔴 TOP OF THE LIST"
     },
     {
       "id": "gym-chest",
@@ -70,24 +80,36 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "wells",
-      "text": "📰 Send Monica the Paul Wells article (reminded 13:33; tick it when done).",
-      "category": "🔴 TOP OF THE LIST"
+      "id": "wkend",
+      "text": "🏡 Weekend: nothing on the calendar. Yours.",
+      "category": "🏠 THE WEEKEND"
     },
     {
-      "id": "fri-minh",
-      "text": "⏰ Fri 06:15 Minh-Tien Nguyen, Head of Cooperation in Rabat, on the 2028 job. Sixth name. He's also asked Olivier for a meeting.",
-      "category": "📊 TOMORROW"
+      "id": "choc",
+      "text": "🖼 Francisco Choc, hangs photos and artwork: 3153 0761",
+      "category": "🏠 THE NEW FLAT",
+      "type": "ref",
+      "url": "https://wa.me/50231530761"
     },
     {
-      "id": "fri-dev",
-      "text": "👥 Fri 08:00 DEV team (Teams).",
-      "category": "📊 TOMORROW"
+      "id": "ups",
+      "text": "🔌 UPS bought. When it arrives: lamp test the sockets, put all three devices on the battery-backed side.",
+      "category": "🏠 THE NEW FLAT"
     },
     {
-      "id": "fri-pos",
-      "text": "📞 Fri 09:30 \"Position in GTMLA\" (Teams), no name on it.",
-      "category": "📊 TOMORROW"
+      "id": "lamp",
+      "text": "🛋 Bedside lamp · 🔌 two cables · 🧾 store credit (print the email first)",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "hearing",
+      "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy. Say the word and I will draft it.",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "mros",
+      "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed. (The dishwasher was scheduled for this morning.)",
+      "category": "🦻 THIS WEEK"
     },
     {
       "id": "mon-pmp",
@@ -113,33 +135,6 @@
       "id": "g13",
       "text": "🏛 G13 matrix, Ministerio Público column. All eighteen Canadian rows blank. The Fiscal General is four months into the job.",
       "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "hearing",
-      "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy. Say the word and I will draft it.",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "mros",
-      "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed. (The dishwasher was scheduled for this morning.)",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "ups",
-      "text": "🔌 UPS bought. When it arrives: lamp test the sockets, put all three devices on the battery-backed side.",
-      "category": "🏠 THE NEW FLAT"
-    },
-    {
-      "id": "choc",
-      "text": "🖼 Francisco Choc, hangs photos and artwork: 3153 0761",
-      "category": "🏠 THE NEW FLAT",
-      "type": "ref",
-      "url": "https://wa.me/50231530761"
-    },
-    {
-      "id": "lamp",
-      "text": "🛋 Bedside lamp · 🔌 two cables · 🧾 store credit (print the email first)",
-      "category": "🏠 THE NEW FLAT"
     },
     {
       "id": "github",
