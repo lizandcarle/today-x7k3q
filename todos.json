@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-25",
-  "updated": "2026-09-25T18:20:00-06:00",
-  "note": "Friday evening. The weekend is clear.",
+  "date": "2026-09-26",
+  "updated": "2026-09-26T18:25:00-06:00",
+  "note": "Saturday evening. Sunday has two jobs: the tags and the CADF picks.",
   "items": [
     {
       "id": "wf-job",
@@ -26,12 +26,12 @@
     },
     {
       "id": "caldump",
-      "text": "📅 No work-calendar dump today. One tap on the work phone before the weekend, and Monday won't be a surprise.",
+      "text": "📅 No work-calendar dump since Thursday. One tap on the work phone Sunday evening sets up Monday.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
       "id": "wells",
-      "text": "📰 Send Monica the Paul Wells article (reminded 13:33; tick it when done).",
+      "text": "📰 Send Monica the Paul Wells article (tick it when done).",
       "category": "🔴 TOP OF THE LIST"
     },
     {
@@ -80,9 +80,16 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "wkend",
-      "text": "🏡 Weekend: nothing on the calendar. Yours.",
-      "category": "🏠 THE WEEKEND"
+      "id": "tags",
+      "text": "🔴 BOTH building entrance tags ready for Monday. One card is in the Tucson.",
+      "category": "🌅 SUNDAY"
+    },
+    {
+      "id": "cadf",
+      "text": "📖 Read the CADF session guide and pick your sessions (2 passes, 3 people).",
+      "category": "🌅 SUNDAY",
+      "type": "ref",
+      "url": "https://docs.google.com/document/d/1_3ce9sf5j6rU-5cER14e3jsr2KkzA4KiAuPPUFjwQiM/edit"
     },
     {
       "id": "choc",
