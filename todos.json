@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-28",
-  "updated": "2026-09-28T18:50:00-06:00",
-  "note": "Monday evening. You open at 07:00 tomorrow, and CADF runs all week.",
+  "date": "2026-09-29",
+  "updated": "2026-09-29T09:22:00-06:00",
+  "note": "Tuesday. CADF day one, and you opened the building at 07:00.",
   "items": [
     {
       "id": "wf-job",
@@ -32,6 +32,11 @@
     {
       "id": "wells",
       "text": "📰 Send Monica the Paul Wells article (tick it when done).",
+      "category": "🔴 TOP OF THE LIST"
+    },
+    {
+      "id": "lsso",
+      "text": "🔏 Sign the security-orders attestation in Stefano's office (read Part A first). By COB Thu 8 Oct.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
@@ -138,7 +143,7 @@
     },
     {
       "id": "midyears",
-      "text": "📋 Mid-years with Azu, Sonia and Sally (this week, or the Mon 5–Wed 7 bilats). New digital LES form. Deadline 15 Oct.",
+      "text": "📋 Mid-years at next week's bilats: Azu Mon 5, Sonia Tue 6, Sally Wed 7 (clashes DEV-Trade 10:00). Digital LES form. File before you fly on the 9th; deadline 15 Oct.",
       "category": "📊 THE WORK WEEK"
     },
     {
