@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "updated": "2026-09-28T18:25:00-06:00",
+  "updated": "2026-09-28T18:50:00-06:00",
   "note": "Monday evening. You open at 07:00 tomorrow, and CADF runs all week.",
   "items": [
     {
@@ -27,11 +27,6 @@
     {
       "id": "open-week",
       "text": "🔑 You OPEN the building at 07:00 all week, Mon 28 Sept to Fri 2 Oct.",
-      "category": "🔴 TOP OF THE LIST"
-    },
-    {
-      "id": "tags",
-      "text": "🔴 Both entrance tags to Lourdes/Ninette (AG) if not done today. Owner deadline Wed 30.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
@@ -154,6 +149,11 @@
     {
       "id": "cadf-week",
       "text": "🏛 CADF Tue–Thu, InterContinental. Olivier's closing panel Thu 15:30 (his talking points still open).",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "akfc",
+      "text": "💻 Tue 14:00–16:30: AKFC \"Building Mutual Economic Partnerships\" is on ZOOM from Ottawa, not at CADF. Register if you want it.",
       "category": "📊 THE WORK WEEK"
     }
   ]
