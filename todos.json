@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-27",
-  "updated": "2026-09-27T18:25:00-06:00",
-  "note": "Sunday evening. Two small jobs stand between you and a tidy Monday: the tags and one tap.",
+  "date": "2026-09-28",
+  "updated": "2026-09-28T18:25:00-06:00",
+  "note": "Monday evening. You open at 07:00 tomorrow, and CADF runs all week.",
   "items": [
     {
       "id": "wf-job",
@@ -25,8 +25,13 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
-      "id": "caldump",
-      "text": "📅 No work-calendar dump since Thursday. One tap on the work phone tonight so Monday is visible.",
+      "id": "open-week",
+      "text": "🔑 You OPEN the building at 07:00 all week, Mon 28 Sept to Fri 2 Oct.",
+      "category": "🔴 TOP OF THE LIST"
+    },
+    {
+      "id": "tags",
+      "text": "🔴 Both entrance tags to Lourdes/Ninette (AG) if not done today. Owner deadline Wed 30.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
@@ -80,18 +85,6 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "tags",
-      "text": "🔴 BOTH building entrance tags ready for Monday. One card is in the Tucson.",
-      "category": "🌙 TONIGHT"
-    },
-    {
-      "id": "cadf",
-      "text": "📖 CADF session guide: make your picks (Azu and Sonia hear them Monday).",
-      "category": "🌙 TONIGHT",
-      "type": "ref",
-      "url": "https://docs.google.com/document/d/1_3ce9sf5j6rU-5cER14e3jsr2KkzA4KiAuPPUFjwQiM/edit"
-    },
-    {
       "id": "choc",
       "text": "🖼 Francisco Choc, hangs photos and artwork: 3153 0761",
       "category": "🏠 THE NEW FLAT",
@@ -119,13 +112,8 @@
       "category": "🦻 THIS WEEK"
     },
     {
-      "id": "mon-pmp",
-      "text": "🔴 Mon 28, 10:30: your PMP mid-year with Olivier. His item 4 is your feedback on his leadership. Then 11:00 the Avocats sans frontières Canada logic model, Maxime organising.",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
       "id": "mon-bilat",
-      "text": "🎙 Mon bilat items for Olivier: CONRED drought debrief (16 Sept) · Q3 travel plan revised · a Xochi date. Plus: German Unity Day RSVP due Monday.",
+      "text": "🎙 Wed 30, 11:00 bilat with Olivier: CONRED drought debrief · Q3 travel plan (revised). Xochi now goes to Trade.",
       "category": "📊 THE WORK WEEK"
     },
     {
@@ -152,6 +140,21 @@
       "id": "github",
       "text": "🔑 The GitHub token. Five minutes, unblocks both memorial items.",
       "category": "🛠 TECH"
+    },
+    {
+      "id": "midyears",
+      "text": "📋 Mid-years with Azu, Sonia and Sally (this week, or the Mon 5–Wed 7 bilats). New digital LES form. Deadline 15 Oct.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "plants",
+      "text": "🪴 Water the hallway plants: Thu 1 Oct and Sun 4 Oct.",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "cadf-week",
+      "text": "🏛 CADF Tue–Thu, InterContinental. Olivier's closing panel Thu 15:30 (his talking points still open).",
+      "category": "📊 THE WORK WEEK"
     }
   ]
 }
