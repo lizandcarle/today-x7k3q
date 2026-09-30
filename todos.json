@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
-  "updated": "2026-09-29T13:52:00-06:00",
-  "note": "Tuesday. CADF day one, and you opened the building at 07:00.",
+  "updated": "2026-09-29T18:25:00-06:00",
+  "note": "Tuesday evening. Tomorrow: CADF, the dev team at 09:30, and your bilat at 11:00.",
   "items": [
     {
       "id": "wf-job",
@@ -25,8 +25,13 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
+      "id": "caldump",
+      "text": "📅 One tap on the work phone for the calendar dump (none today).",
+      "category": "🔴 TOP OF THE LIST"
+    },
+    {
       "id": "open-week",
-      "text": "🔑 You OPEN the building at 07:00 all week, Mon 28 Sept to Fri 2 Oct.",
+      "text": "🔑 You OPEN the building at 07:00, through Fri 2 Oct.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
@@ -154,11 +159,6 @@
     {
       "id": "cadf-week",
       "text": "🏛 CADF Tue–Thu, InterContinental. Olivier's closing panel Thu 15:30 (his talking points still open).",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "akfc",
-      "text": "💻 Tue 14:00–16:30: AKFC \"Building Mutual Economic Partnerships\" is on ZOOM from Ottawa, not at CADF. Register if you want it.",
       "category": "📊 THE WORK WEEK"
     }
   ]
