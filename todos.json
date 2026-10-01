@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-29",
-  "updated": "2026-09-29T18:25:00-06:00",
-  "note": "Tuesday evening. Tomorrow: CADF, the dev team at 09:30, and your bilat at 11:00.",
+  "date": "2026-09-30",
+  "updated": "2026-09-30T18:25:00-06:00",
+  "note": "Wednesday evening. Trip transport is sorted, both legs. Tomorrow: plants, then Olivier's panel at 15:30.",
   "items": [
     {
       "id": "wf-job",
@@ -30,18 +30,28 @@
       "category": "🔴 TOP OF THE LIST"
     },
     {
+      "id": "sq-friday",
+      "text": "🏠 Fri 2 Oct 10:00 at the flat: shower head (PR-1337), Erick's repairs, 10:30 treadmill pick-up. You're at work. Who lets them in?",
+      "category": "🔴 TOP OF THE LIST"
+    },
+    {
+      "id": "socodevi",
+      "text": "☀️ SOCODEVI × Kruger solar-drying meeting, Fri 23 Oct (you facilitate). Next: Susy and Sonia, then contact François Dionne + David Vinh Nguyen.",
+      "category": "🔴 TOP OF THE LIST"
+    },
+    {
       "id": "open-week",
       "text": "🔑 You OPEN the building at 07:00, through Fri 2 Oct.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
-      "id": "wells",
-      "text": "📰 Send Monica the Paul Wells article (tick it when done).",
+      "id": "lsso",
+      "text": "🔏 Sign the security-orders attestation in Stefano's office (read Part A first). By COB Thu 8 Oct.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
-      "id": "lsso",
-      "text": "🔏 Sign the security-orders attestation in Stefano's office (read Part A first). By COB Thu 8 Oct.",
+      "id": "wells",
+      "text": "📰 Send Monica the Paul Wells article (tick it when done).",
       "category": "🔴 TOP OF THE LIST"
     },
     {
@@ -90,8 +100,18 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
+      "id": "plants",
+      "text": "🪴 Water the hallway plants: TOMORROW Thu 1 Oct, and Sun 4 Oct.",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "hangers",
+      "text": "🛒 Buy a bunch of picture hangers / fasteners.",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
       "id": "choc",
-      "text": "🖼 Francisco Choc, hangs photos and artwork: 3153 0761",
+      "text": "🖼 Francisco Choc messaged on WhatsApp; waiting for his reply.",
       "category": "🏠 THE NEW FLAT",
       "type": "ref",
       "url": "https://wa.me/50231530761"
@@ -113,17 +133,34 @@
     },
     {
       "id": "mros",
-      "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed. (The dishwasher was scheduled for this morning.)",
+      "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed.",
       "category": "🦻 THIS WEEK"
     },
     {
-      "id": "mon-bilat",
-      "text": "🎙 Wed 30, 11:00 bilat with Olivier: CONRED drought debrief · Q3 travel plan (revised) · OK to send Sally to the Canada event at the palace? Xochi now goes to Trade.",
+      "id": "heather",
+      "text": "✍️ Heather McBride's reply to Olivier: your revision is in the Doc, nearly clean.",
+      "category": "📊 THE WORK WEEK",
+      "type": "ref",
+      "url": "https://docs.google.com/document/d/18E2-1WoAyeqHqMIBwNqnrm3955ZtCAm8VGs2qgI-Aos/edit"
+    },
+    {
+      "id": "field-visit",
+      "text": "🗺 HoM field visit Tue 3 – Fri 6 Nov (not HueHue). Same week you close the building.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "cadf-panel",
+      "text": "🏛 Olivier's CADF closing panel: tomorrow, Thu 15:30.",
       "category": "📊 THE WORK WEEK"
     },
     {
       "id": "oct2",
       "text": "⏰ Fri 2 Oct: succession deadline.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "midyears",
+      "text": "📋 Mid-years at next week's bilats: Azu Mon 5, Sonia Tue 6, Sally Wed 7 (clashes DEV-Trade 10:00). Digital LES form. File before you fly on the 9th; deadline 15 Oct.",
       "category": "📊 THE WORK WEEK"
     },
     {
@@ -145,21 +182,6 @@
       "id": "github",
       "text": "🔑 The GitHub token. Five minutes, unblocks both memorial items.",
       "category": "🛠 TECH"
-    },
-    {
-      "id": "midyears",
-      "text": "📋 Mid-years at next week's bilats: Azu Mon 5, Sonia Tue 6, Sally Wed 7 (clashes DEV-Trade 10:00). Digital LES form. File before you fly on the 9th; deadline 15 Oct.",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "plants",
-      "text": "🪴 Water the hallway plants: Thu 1 Oct and Sun 4 Oct.",
-      "category": "🏠 THE NEW FLAT"
-    },
-    {
-      "id": "cadf-week",
-      "text": "🏛 CADF Tue–Thu, InterContinental. Olivier's closing panel Thu 15:30 (his talking points still open).",
-      "category": "📊 THE WORK WEEK"
     }
   ]
 }
