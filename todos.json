@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-30",
-  "updated": "2026-09-30T21:30:00-06:00",
-  "note": "Wednesday evening. Trip transport is sorted, both legs. Tomorrow: plants, then Olivier's panel at 15:30.",
+  "date": "2026-10-01",
+  "updated": "2026-10-01T18:15:00-06:00",
+  "note": "Thursday evening. CADF survived. Tomorrow: home, shower head, Erick, and the treadmill leaves.",
   "items": [
     {
       "id": "wf-job",
@@ -36,7 +36,7 @@
     },
     {
       "id": "open-week",
-      "text": "🔑 You OPEN the building at 07:00, through Fri 2 Oct.",
+      "text": "🔑 Building duty this week ends Fri 2 Oct.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
@@ -95,8 +95,13 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
+      "id": "fri-flat",
+      "text": "🏠 Tomorrow at the flat: 10:00 shower head + Erick, 10:30 treadmill pick-up. Have the treadmill by the door.",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
       "id": "plants",
-      "text": "🪴 Water the hallway plants: TOMORROW Thu 1 Oct, and Sun 4 Oct.",
+      "text": "🪴 Water the hallway plants again Sun 4 Oct.",
       "category": "🏠 THE NEW FLAT"
     },
     {
@@ -144,13 +149,8 @@
       "category": "📊 THE WORK WEEK"
     },
     {
-      "id": "cadf-panel",
-      "text": "🏛 Olivier's CADF closing panel: tomorrow, Thu 15:30.",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
       "id": "oct2",
-      "text": "⏰ Fri 2 Oct: succession deadline.",
+      "text": "⏰ TOMORROW, Fri 2 Oct: succession deadline.",
       "category": "📊 THE WORK WEEK"
     },
     {
