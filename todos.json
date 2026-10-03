@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-01",
-  "updated": "2026-10-01T18:15:00-06:00",
-  "note": "Thursday evening. CADF survived. Tomorrow: home, shower head, Erick, and the treadmill leaves.",
+  "date": "2026-10-02",
+  "updated": "2026-10-02T18:15:00-06:00",
+  "note": "Friday evening. Weekend ahead; Monday opens with the UNICEF breakfast at 08:30.",
   "items": [
     {
       "id": "wf-job",
@@ -32,11 +32,6 @@
     {
       "id": "socodevi",
       "text": "☀️ SOCODEVI × Kruger solar-drying meeting, Fri 23 Oct (you facilitate). Next: Susy and Sonia, then contact François Dionne + David Vinh Nguyen.",
-      "category": "🔴 TOP OF THE LIST"
-    },
-    {
-      "id": "open-week",
-      "text": "🔑 Building duty this week ends Fri 2 Oct.",
       "category": "🔴 TOP OF THE LIST"
     },
     {
@@ -95,13 +90,8 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "fri-flat",
-      "text": "🏠 Tomorrow at the flat: 10:00 shower head + Erick, 10:30 treadmill pick-up. Have the treadmill by the door.",
-      "category": "🏠 THE NEW FLAT"
-    },
-    {
       "id": "plants",
-      "text": "🪴 Water the hallway plants again Sun 4 Oct.",
+      "text": "🪴 Water the hallway plants Sunday.",
       "category": "🏠 THE NEW FLAT"
     },
     {
@@ -146,11 +136,6 @@
     {
       "id": "field-visit",
       "text": "🗺 HoM field visit Tue 3 – Fri 6 Nov (not HueHue). Same week you close the building.",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "oct2",
-      "text": "⏰ TOMORROW, Fri 2 Oct: succession deadline.",
       "category": "📊 THE WORK WEEK"
     },
     {
