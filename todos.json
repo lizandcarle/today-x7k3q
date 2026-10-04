@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-02",
-  "updated": "2026-10-02T18:15:00-06:00",
-  "note": "Friday evening. Weekend ahead; Monday opens with the UNICEF breakfast at 08:30.",
+  "date": "2026-10-03",
+  "updated": "2026-10-03T18:15:00-06:00",
+  "note": "Saturday evening. Trip in six days: Ontario list and pre-flight items now on the page.",
   "items": [
     {
       "id": "wf-job",
@@ -90,6 +90,56 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
+      "id": "ont-smoke",
+      "text": "🔥 Order smoke alarms, delivered to 1080",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "ont-nest",
+      "text": "🌡 Nest thermostat: can it be delivered to 1080?",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "ont-cams",
+      "text": "📷 Sensors + cameras in the drawer: decide a plan",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "ont-elitedesk",
+      "text": "💻 Before leaving: chat with Orson about the HP EliteDesk as an always-on box",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "ont-roofer",
+      "text": "🏠 Book the roofer for Julie (Fri 16 or Sat 17)",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "ont-licence",
+      "text": "🪪 Driver's licence change (Ontario)",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "ont-viture",
+      "text": "📮 Mail the broken VITURE Beast glasses, Fri 16 afternoon",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "pre-sim",
+      "text": "📱 Before flying: phone/SIM set up for Canada",
+      "category": "✈️ BEFORE FRI 9 OCT"
+    },
+    {
+      "id": "pre-dragon",
+      "text": "🛋 Before flying: know how to get into DragonPass (SJO lounge opens 04:30)",
+      "category": "✈️ BEFORE FRI 9 OCT"
+    },
+    {
+      "id": "pre-macos",
+      "text": "🔐 Closet Mac: switch off automatic macOS updates (Orson clears updates first)",
+      "category": "✈️ BEFORE FRI 9 OCT"
+    },
+    {
       "id": "plants",
       "text": "🪴 Water the hallway plants Sunday.",
       "category": "🏠 THE NEW FLAT"
@@ -97,6 +147,11 @@
     {
       "id": "hangers",
       "text": "🛒 Buy a bunch of picture hangers / fasteners.",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "arcade-cable",
+      "text": "🕹 Audio cable with volume slider for the Pac-Man Arcade1Up",
       "category": "🏠 THE NEW FLAT"
     },
     {
