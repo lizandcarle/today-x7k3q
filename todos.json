@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-03",
-  "updated": "2026-10-03T18:15:00-06:00",
-  "note": "Saturday evening. Trip in six days: Ontario list and pre-flight items now on the page.",
+  "date": "2026-10-04",
+  "updated": "2026-10-04T18:15:00-06:00",
+  "note": "Sunday evening. Five days to the flight: the rental car is the one booking still to make.",
   "items": [
     {
       "id": "wf-job",
@@ -88,6 +88,10 @@
       "id": "ex-vitamin",
       "text": "Multivitamin",
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
+    },
+    {
+      "id": "trip-car",
+      "text": "🚗 Book the rental car: Pearson T1, Thu 15 ~17:30, back Sun 18 by ~14:00. THEN cancel the Quality Inn (refundable) and try FlixBus."
     },
     {
       "id": "ont-smoke",
