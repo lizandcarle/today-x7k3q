@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-05",
-  "updated": "2026-10-05T18:15:00-06:00",
-  "note": "Monday evening, home with a cold. Four days to the flight.",
+  "date": "2026-10-06",
+  "updated": "2026-10-06T18:15:00-06:00",
+  "note": "Tuesday evening. Three days to the flight.",
   "items": [
     {
       "id": "wf-job",
@@ -26,12 +26,8 @@
     },
     {
       "id": "caldump",
-      "text": "📅 One tap on the work phone for the calendar dump (none since Friday).",
+      "text": "📅 One tap on the work phone for the calendar dump (last one Mon night).",
       "category": "🔴 TOP OF THE LIST"
-    },
-    {
-      "id": "tub-mro",
-      "text": "🛁 MRO for Erick to come back and unplug the bathroom tub (if not done today)."
     },
     {
       "id": "socodevi",
