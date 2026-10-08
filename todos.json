@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-07",
-  "updated": "2026-10-07T18:15:00-06:00",
-  "note": "Wednesday evening. Flight Friday 21:45.",
+  "date": "2026-10-08",
+  "updated": "2026-10-08T08:15:00-06:00",
+  "note": "Thursday, last full day before Canada. Your two priorities on top, then what closes today.",
   "items": [
     {
       "id": "wf-job",
@@ -25,19 +25,54 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
-      "id": "caldump",
-      "text": "📅 One tap on the work phone for the calendar dump (last one Mon night).",
-      "category": "🔴 TOP OF THE LIST"
+      "id": "reisy",
+      "text": "🤝 Introduce Reisy Ucum to the team: send Sally's all-staff welcome (ES/EN/FR, photo). She starts Tue 13, while you're away.",
+      "category": "🔴 LAST FULL DAY: THU 8 OCT"
     },
     {
-      "id": "socodevi",
-      "text": "☀️ SOCODEVI × Kruger solar-drying meeting, Fri 23 Oct (you facilitate). Next: Susy and Sonia, then contact François Dionne + David Vinh Nguyen.",
-      "category": "🔴 TOP OF THE LIST"
+      "id": "pmps",
+      "text": "📋 Enter the mid-year PMPs for Azucena, Sally and Sonia (deadline Thu 15 Oct, and you're in Canada).",
+      "category": "🔴 LAST FULL DAY: THU 8 OCT"
     },
     {
       "id": "lsso",
-      "text": "🔏 Sign the security-orders attestation in Stefano's office (read Part A first). By COB Thu 8 Oct.",
-      "category": "🔴 TOP OF THE LIST"
+      "text": "🔏 LSSO attestation in Stefano's office, by COB today (in person, read Part A first).",
+      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+    },
+    {
+      "id": "oct8",
+      "text": "⏰ Concept-notes review deadline today (Lucky Iron, Hope of Life, Alterna, TNC).",
+      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+    },
+    {
+      "id": "ooo",
+      "text": "📭 Out-of-office reply + who covers what while you're away (Sonia? Azu?).",
+      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+    },
+    {
+      "id": "socodevi",
+      "text": "☀️ SOCODEVI × Kruger (Fri 23 Oct): hand Susy and Sonia the next steps before you go, so it moves while you're away.",
+      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+    },
+    {
+      "id": "caldump",
+      "text": "📅 One calendar dump from the work phone before you leave (covers the two weeks away).",
+      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+    },
+    {
+      "id": "pre-macos",
+      "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
+      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+    },
+    {
+      "id": "ont-elitedesk",
+      "text": "💻 Before leaving: chat with Orson about the HP EliteDesk as an always-on box",
+      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+    },
+    {
+      "id": "trip-car",
+      "text": "🚗 Book the rental car: Pearson T1, Thu 15 ~17:30, back Sun 18 by ~14:00. THEN cancel the Quality Inn (refundable) and try FlixBus.",
+      "category": "🔴 LAST FULL DAY: THU 8 OCT"
     },
     {
       "id": "wells",
@@ -90,10 +125,6 @@
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
-      "id": "trip-car",
-      "text": "🚗 Book the rental car: Pearson T1, Thu 15 ~17:30, back Sun 18 by ~14:00. THEN cancel the Quality Inn (refundable) and try FlixBus."
-    },
-    {
       "id": "ont-smoke",
       "text": "🔥 Order smoke alarms, delivered to 1080",
       "category": "🍁 ONTARIO LIST (15–18 Oct)"
@@ -106,11 +137,6 @@
     {
       "id": "ont-cams",
       "text": "📷 Sensors + cameras in the drawer: decide a plan",
-      "category": "🍁 ONTARIO LIST (15–18 Oct)"
-    },
-    {
-      "id": "ont-elitedesk",
-      "text": "💻 Before leaving: chat with Orson about the HP EliteDesk as an always-on box",
       "category": "🍁 ONTARIO LIST (15–18 Oct)"
     },
     {
@@ -137,16 +163,6 @@
       "id": "pre-dragon",
       "text": "🛋 Before flying: know how to get into DragonPass (SJO lounge opens 04:30)",
       "category": "✈️ BEFORE FRI 9 OCT"
-    },
-    {
-      "id": "pre-macos",
-      "text": "🔐 Closet Mac: switch off automatic macOS updates (Orson clears updates first)",
-      "category": "✈️ BEFORE FRI 9 OCT"
-    },
-    {
-      "id": "plants",
-      "text": "🪴 Water the hallway plants Sunday.",
-      "category": "🏠 THE NEW FLAT"
     },
     {
       "id": "hangers",
@@ -195,21 +211,6 @@
     {
       "id": "field-visit",
       "text": "🗺 HoM field visit Tue 3 – Fri 6 Nov (not HueHue). Same week you close the building.",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "midyears",
-      "text": "📋 Mid-years at next week's bilats: Azu Mon 5, Sonia Tue 6, Sally Wed 7 (clashes DEV-Trade 10:00). Digital LES form. File before you fly on the 9th; deadline 15 Oct.",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "oct7-clash",
-      "text": "⚠️ Wed 7 Oct, 10:00: Sally's bilat clashes with DEV-Trade coordination.",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "oct8",
-      "text": "⏰ Thu 8 Oct: deadline for reviewing the Guatemala concept notes. Also 11:30 NDB/Mission IA management.",
       "category": "📊 THE WORK WEEK"
     },
     {
