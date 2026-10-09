@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updated": "2026-10-09T01:25:00-06:00",
+  "updated": "2026-10-09T06:50:00-06:00",
   "note": "Friday, travel day. Car at 18:00, AC 2936 at 21:45. PMPs and Reisy's welcome: done.",
   "items": [
     {
@@ -25,6 +25,26 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
+      "id": "qr",
+      "text": "📲 Do the QR code thingy.",
+      "category": "🔴🔴 FIRST: TRAVEL ESSENTIALS"
+    },
+    {
+      "id": "checkin",
+      "text": "✈️ Check in online: AC 2936 GUA 21:45 (boarding pass on phone).",
+      "category": "🔴🔴 FIRST: TRAVEL ESSENTIALS"
+    },
+    {
+      "id": "cr-sim",
+      "text": "📶 SIM / eSIM for Costa Rica tonight (overnight at SJO).",
+      "category": "🔴🔴 FIRST: TRAVEL ESSENTIALS"
+    },
+    {
+      "id": "fri-meet",
+      "text": "📅 08:30 WFP El Niño donors meeting (Edyma Plaza) · 11:30 FSD review call (appeal).",
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
+    },
+    {
       "id": "tigo",
       "text": "📡 Tigo shop in the mall: return the home-internet equipment (router, power, cables, decoder). Get written proof.",
       "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
@@ -47,11 +67,6 @@
     {
       "id": "pack",
       "text": "🧳 Pack.",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
-    },
-    {
-      "id": "fri-meet",
-      "text": "📅 08:30 WFP El Niño donors meeting (Edyma Plaza) · 11:30 FSD review call (appeal).",
       "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
     },
     {
