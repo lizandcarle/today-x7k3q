@@ -26,7 +26,7 @@
     },
     {
       "id": "qr",
-      "text": "📲 Do the QR code thingy.",
+      "text": "📲 SAT traveller's declaration (QR): https://farm2.sat.gob.gt/declaDelViajeroGt-web/pages/public/declaracionJuradaDelViajero.html",
       "category": "🔴🔴 FIRST: TRAVEL ESSENTIALS"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "id": "cr-sim",
-      "text": "📶 SIM / eSIM for Costa Rica tonight (overnight at SJO).",
+      "text": "📶 Costa Rica SIM: if Tigo roaming, top up Q50+ BEFORE leaving GT, then Roaming → América package.",
       "category": "🔴🔴 FIRST: TRAVEL ESSENTIALS"
     },
     {
@@ -76,12 +76,7 @@
     },
     {
       "id": "lsso",
-      "text": "🔏 LSSO attestation (due COB Thu 8): tick if done; if not, first thing Friday in Stefano's office.",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
-    },
-    {
-      "id": "oct8",
-      "text": "⏰ Concept-notes review (due Thu 8): tick if done.",
+      "text": "🔏 LSSO attestation: read Part A, then sign in Stefano's office (today, before the car).",
       "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
     },
     {
@@ -103,16 +98,6 @@
       "id": "pre-macos",
       "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
       "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
-    },
-    {
-      "id": "ont-elitedesk",
-      "text": "💻 Before leaving: chat with Orson about the HP EliteDesk as an always-on box",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
-    },
-    {
-      "id": "wells",
-      "text": "📰 Send Monica the Paul Wells article (tick it when done).",
-      "category": "🔴 TOP OF THE LIST"
     },
     {
       "id": "gym-chest",
