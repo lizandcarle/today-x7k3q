@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
-  "updated": "2026-10-08T08:15:00-06:00",
-  "note": "Thursday, last full day before Canada. Your two priorities on top, then what closes today.",
+  "updated": "2026-10-08T18:15:00-06:00",
+  "note": "Thursday evening. Flight tomorrow 21:45, car at 18:00.",
   "items": [
     {
       "id": "wf-job",
@@ -27,52 +27,52 @@
     {
       "id": "reisy",
       "text": "🤝 Introduce Reisy Ucum to the team: send Sally's all-staff welcome (ES/EN/FR, photo). She starts Tue 13, while you're away.",
-      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
     },
     {
       "id": "pmps",
       "text": "📋 Enter the mid-year PMPs for Azucena, Sally and Sonia (deadline Thu 15 Oct, and you're in Canada).",
-      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
     },
     {
       "id": "lsso",
-      "text": "🔏 LSSO attestation in Stefano's office, by COB today (in person, read Part A first).",
-      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+      "text": "🔏 LSSO attestation (due COB Thu 8): tick if done; if not, first thing Friday in Stefano's office.",
+      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
     },
     {
       "id": "oct8",
-      "text": "⏰ Concept-notes review deadline today (Lucky Iron, Hope of Life, Alterna, TNC).",
-      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+      "text": "⏰ Concept-notes review (due Thu 8): tick if done.",
+      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
     },
     {
       "id": "ooo",
       "text": "📭 Out-of-office reply + who covers what while you're away (Sonia? Azu?).",
-      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
     },
     {
       "id": "socodevi",
       "text": "☀️ SOCODEVI × Kruger (Fri 23 Oct): hand Susy and Sonia the next steps before you go, so it moves while you're away.",
-      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
     },
     {
       "id": "caldump",
       "text": "📅 One calendar dump from the work phone before you leave (covers the two weeks away).",
-      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
     },
     {
       "id": "pre-macos",
       "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
-      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
     },
     {
       "id": "ont-elitedesk",
       "text": "💻 Before leaving: chat with Orson about the HP EliteDesk as an always-on box",
-      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
     },
     {
       "id": "trip-car",
       "text": "🚗 Book the rental car: Pearson T1, Thu 15 ~17:30, back Sun 18 by ~14:00. THEN cancel the Quality Inn (refundable) and try FlixBus.",
-      "category": "🔴 LAST FULL DAY: THU 8 OCT"
+      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
     },
     {
       "id": "wells",
