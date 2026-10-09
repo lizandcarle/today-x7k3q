@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-08",
-  "updated": "2026-10-08T18:15:00-06:00",
-  "note": "Thursday evening. Flight tomorrow 21:45, car at 18:00.",
+  "date": "2026-10-09",
+  "updated": "2026-10-09T01:25:00-06:00",
+  "note": "Friday, travel day. Car at 18:00, AC 2936 at 21:45. PMPs and Reisy's welcome: done.",
   "items": [
     {
       "id": "wf-job",
@@ -25,54 +25,69 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
-      "id": "reisy",
-      "text": "🤝 Introduce Reisy Ucum to the team: send Sally's all-staff welcome (ES/EN/FR, photo). She starts Tue 13, while you're away.",
-      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
+      "id": "tigo",
+      "text": "📡 Tigo shop in the mall: return the home-internet equipment (router, power, cables, decoder). Get written proof.",
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
     },
     {
-      "id": "pmps",
-      "text": "📋 Enter the mid-year PMPs for Azucena, Sally and Sonia (deadline Thu 15 Oct, and you're in Canada).",
-      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
+      "id": "inhalers",
+      "text": "💨 Buy asthma inhalers.",
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
+    },
+    {
+      "id": "viture-ret",
+      "text": "🥽 VITURE Beast: do the return paperwork / label now, so you can mail it Fri 16 from Owen Sound.",
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
+    },
+    {
+      "id": "amazon",
+      "text": "📦 Amazon.ca: order anything that must reach 1080 by Fri 16 (smoke alarms? Nest?).",
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
+    },
+    {
+      "id": "pack",
+      "text": "🧳 Pack.",
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
+    },
+    {
+      "id": "fri-meet",
+      "text": "📅 08:30 WFP El Niño donors meeting (Edyma Plaza) · 11:30 FSD review call (appeal).",
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
     },
     {
       "id": "lsso",
       "text": "🔏 LSSO attestation (due COB Thu 8): tick if done; if not, first thing Friday in Stefano's office.",
-      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
     },
     {
       "id": "oct8",
       "text": "⏰ Concept-notes review (due Thu 8): tick if done.",
-      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
     },
     {
       "id": "ooo",
       "text": "📭 Out-of-office reply + who covers what while you're away (Sonia? Azu?).",
-      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
     },
     {
       "id": "socodevi",
       "text": "☀️ SOCODEVI × Kruger (Fri 23 Oct): hand Susy and Sonia the next steps before you go, so it moves while you're away.",
-      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
     },
     {
       "id": "caldump",
       "text": "📅 One calendar dump from the work phone before you leave (covers the two weeks away).",
-      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
     },
     {
       "id": "pre-macos",
       "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
-      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
     },
     {
       "id": "ont-elitedesk",
       "text": "💻 Before leaving: chat with Orson about the HP EliteDesk as an always-on box",
-      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
-    },
-    {
-      "id": "trip-car",
-      "text": "🚗 Book the rental car: Pearson T1, Thu 15 ~17:30, back Sun 18 by ~14:00. THEN cancel the Quality Inn (refundable) and try FlixBus.",
-      "category": "🔴 BEFORE YOU FLY (FRI 9 OCT, CAR 18:00)"
+      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
     },
     {
       "id": "wells",
