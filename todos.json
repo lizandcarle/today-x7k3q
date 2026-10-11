@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-09",
-  "updated": "2026-10-09T18:15:00-06:00",
-  "note": "Friday evening: on your way. AC 2936 21:45 → SJO overnight → Montreal tomorrow 15:10.",
+  "date": "2026-10-10",
+  "updated": "2026-10-10T18:20:00-06:00",
+  "note": "Saturday, Sherbrooke. Quebec family days through Thursday.",
   "items": [
     {
       "id": "wf-job",
@@ -25,69 +25,24 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
-      "id": "checkin",
-      "text": "✈️ Checked in ✅ seat 29C. ⚠️ Pass says CARRY-ON: NO, ask at the Avianca counter before security.",
-      "category": "🔴🔴 FIRST: TRAVEL ESSENTIALS"
-    },
-    {
       "id": "lily-enrol",
-      "text": "🎓 Download Lily's proof of student enrolment and upload it (FSD/dependant coverage; she turns 21 on 28 Nov).",
-      "category": "🔴🔴 FIRST: TRAVEL ESSENTIALS"
-    },
-    {
-      "id": "fri-meet",
-      "text": "📅 08:30 WFP El Niño donors meeting (Edyma Plaza) · 11:30 FSD review call (appeal).",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
-    },
-    {
-      "id": "tigo",
-      "text": "📡 Tigo shop in the mall: return the home-internet equipment (router, power, cables, decoder). Get written proof.",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
-    },
-    {
-      "id": "inhalers",
-      "text": "💨 Buy asthma inhalers.",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
+      "text": "🎓 Lily's proof of enrolment: download + upload (if not done Friday).",
+      "category": "🍁 WHILE IN CANADA"
     },
     {
       "id": "viture-ret",
       "text": "🥽 VITURE Beast: do the return paperwork / label now, so you can mail it Fri 16 from Owen Sound.",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
+      "category": "🍁 WHILE IN CANADA"
     },
     {
       "id": "amazon",
       "text": "📦 Amazon.ca: order anything that must reach 1080 by Fri 16 (smoke alarms? Nest?).",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
-    },
-    {
-      "id": "pack",
-      "text": "🧳 Pack.",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
-    },
-    {
-      "id": "lsso",
-      "text": "🔏 LSSO attestation: read Part A, then sign in Stefano's office (today, before the car).",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
-    },
-    {
-      "id": "ooo",
-      "text": "📭 Out-of-office reply + who covers what while you're away (Sonia? Azu?).",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
-    },
-    {
-      "id": "socodevi",
-      "text": "☀️ SOCODEVI × Kruger (Fri 23 Oct): hand Susy and Sonia the next steps before you go, so it moves while you're away.",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
-    },
-    {
-      "id": "caldump",
-      "text": "📅 One calendar dump from the work phone before you leave (covers the two weeks away).",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
+      "category": "🍁 WHILE IN CANADA"
     },
     {
       "id": "pre-macos",
       "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
-      "category": "🔴 FRI 9 OCT: BEFORE YOU FLY (car 18:00)"
+      "category": "🍁 WHILE IN CANADA"
     },
     {
       "id": "gym-chest",
