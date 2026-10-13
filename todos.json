@@ -1,7 +1,7 @@
 {
- "date": "2026-10-11",
- "updated": "2026-10-11T18:16:00-06:00",
- "note": "Sunday, St-Georges-de-Beauce. Quebec family days through Thursday, Ontario Thu–Sun.",
+ "date": "2026-10-12",
+ "updated": "2026-10-12T18:16:00-06:00",
+ "note": "Thanksgiving Monday, back in Sherbrooke after Lac-Mégantic. Quebec through Thursday, Ontario Thu–Sun.",
  "items": [
   {
    "id": "wf-job",
@@ -23,11 +23,6 @@
    "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
    "type": "ref",
    "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
-  },
-  {
-   "id": "caldump",
-   "text": "📅 Send the work-calendar dump (one tap on the work phone). Last one Fri 9.",
-   "category": "🍁 WHILE IN CANADA"
   },
   {
    "id": "gym-chest",
@@ -81,12 +76,17 @@
   },
   {
    "id": "claro-s7",
-   "text": "📱 Claro S7 backup SIM: due Mon 12.",
+   "text": "📱 Claro S7 backup SIM: due today (Mon 12).",
    "category": "🍁 WHILE IN CANADA"
   },
   {
    "id": "ac417-bag",
    "text": "🧳 Thu 15, AC 417: Basic fare, no carry-on. Check the bag.",
+   "category": "🍁 WHILE IN CANADA"
+  },
+  {
+   "id": "sally-bday",
+   "text": "🎂 Mon 19: your birthday, and Sally's. A card for her.",
    "category": "🍁 WHILE IN CANADA"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
    "id": "amazon",
-   "text": "📦 Amazon.ca: order tonight or tomorrow so it reaches 1080 by Fri 16 (smoke alarms? Nest?).",
+   "text": "📦 Amazon.ca: order by Tue so it reaches 1080 by Fri 16 (smoke alarms? Nest?).",
    "category": "🍁 WHILE IN CANADA"
   },
   {
@@ -187,6 +187,11 @@
    "id": "g13",
    "text": "🏛 G13 matrix, Ministerio Público column. All eighteen Canadian rows blank. The Fiscal General is four months into the job.",
    "category": "📊 THE WORK WEEK"
+  },
+  {
+   "id": "afternoon-task",
+   "text": "🤖 Pause/delete the stray 'Afternoon briefing' scheduled task (Claude Desktop on the closet Mac → Scheduled). Or say yes and I will.",
+   "category": "🛠 TECH"
   },
   {
    "id": "github",
