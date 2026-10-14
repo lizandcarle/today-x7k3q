@@ -1,7 +1,7 @@
 {
- "date": "2026-10-12",
- "updated": "2026-10-12T18:16:00-06:00",
- "note": "Thanksgiving Monday, back in Sherbrooke after Lac-Mégantic. Quebec through Thursday, Ontario Thu–Sun.",
+ "date": "2026-10-13",
+ "updated": "2026-10-13T18:16:00-06:00",
+ "note": "Tuesday: Sylvie, Claude + Christine, Magog. Saint-Hyacinthe tomorrow, Ontario Thu–Sun.",
  "items": [
   {
    "id": "wf-job",
@@ -23,6 +23,11 @@
    "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
    "type": "ref",
    "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+  },
+  {
+   "id": "caldump",
+   "text": "📅 Send the work-calendar dump (one tap on the work phone). Last one Mon 12, 00:57.",
+   "category": "🍁 WHILE IN CANADA"
   },
   {
    "id": "ex-paused",
@@ -61,7 +66,7 @@
   },
   {
    "id": "amazon",
-   "text": "📦 Amazon.ca: order by Tue so it reaches 1080 by Fri 16 (smoke alarms? Nest?).",
+   "text": "📦 Amazon.ca to 1080: if not ordered yet, check the delivery date before you buy (Friday is now tight).",
    "category": "🍁 WHILE IN CANADA"
   },
   {
