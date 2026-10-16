@@ -1,7 +1,7 @@
 {
- "date": "2026-10-14",
- "updated": "2026-10-14T18:16:00-06:00",
- "note": "Wednesday, last Quebec night. Tomorrow AC 417 YUL 15:30 → YYZ, then Owen Sound.",
+ "date": "2026-10-15",
+ "updated": "2026-10-15T18:16:00-06:00",
+ "note": "Thursday: Montreal → Toronto → Owen Sound. Ontario list Fri–Sat, home Sun 18.",
  "items": [
   {
    "id": "wf-job",
@@ -25,11 +25,6 @@
    "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
   },
   {
-   "id": "caldump",
-   "text": "📅 Send the work-calendar dump (one tap on the work phone). Last one Mon 12, 00:57.",
-   "category": "🍁 WHILE IN CANADA"
-  },
-  {
    "id": "ex-paused",
    "text": "💪 Exercise paused for the trip. Back on Mon 19.",
    "category": "🥗 DAILY HABITS (these do not advance the cycle)"
@@ -47,11 +42,6 @@
   {
    "id": "lily-enrol",
    "text": "🎓 Lily's proof of enrolment: download + upload.",
-   "category": "🍁 WHILE IN CANADA"
-  },
-  {
-   "id": "ac417-bag",
-   "text": "🧳 Thu 15, AC 417 (CORILP): Basic fare, NO carry-on allowed. Check in online, pay for the bag, check it.",
    "category": "🍁 WHILE IN CANADA"
   },
   {
