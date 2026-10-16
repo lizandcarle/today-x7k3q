@@ -1,7 +1,7 @@
 {
- "date": "2026-10-15",
- "updated": "2026-10-15T18:16:00-06:00",
- "note": "Thursday: Montreal → Toronto → Owen Sound. Ontario list Fri–Sat, home Sun 18.",
+ "date": "2026-10-16",
+ "updated": "2026-10-16T08:12:00-06:00",
+ "note": "Friday, Owen Sound errands. Home Sun 18.",
  "items": [
   {
    "id": "wf-job",
@@ -63,6 +63,11 @@
    "id": "pre-macos",
    "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
    "category": "🍁 WHILE IN CANADA"
+  },
+  {
+   "id": "ont-tap",
+   "text": "🚰 Drain the outside tap: shut the valve inside (basement), open the outside tap, leave it open. Today or Sat.",
+   "category": "🍁 ONTARIO LIST (15–18 Oct)"
   },
   {
    "id": "ont-smoke",
