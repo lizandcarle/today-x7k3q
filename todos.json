@@ -1,7 +1,7 @@
 {
  "date": "2026-10-16",
- "updated": "2026-10-16T08:12:00-06:00",
- "note": "Friday, Owen Sound errands. Home Sun 18.",
+ "updated": "2026-10-16T18:16:00-06:00",
+ "note": "Friday evening, Owen Sound. Saturday errands, then home Sun 18.",
  "items": [
   {
    "id": "wf-job",
@@ -23,6 +23,11 @@
    "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
    "type": "ref",
    "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+  },
+  {
+   "id": "caldump",
+   "text": "📅 Send the work-calendar dump (one tap on the work phone). Last one Thu 15, 06:25.",
+   "category": "🍁 WHILE IN CANADA"
   },
   {
    "id": "ex-paused",
