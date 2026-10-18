@@ -1,172 +1,172 @@
 {
- "date": "2026-10-16",
- "updated": "2026-10-16T18:16:00-06:00",
- "note": "Friday evening, Owen Sound. Saturday errands, then home Sun 18.",
- "items": [
-  {
-   "id": "wf-job",
-   "text": "✏️ EDIT MY WORKFLOWY: JOB",
-   "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
-   "type": "ref",
-   "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/b81b4d0e17c2"
-  },
-  {
-   "id": "wf-home",
-   "text": "✏️ EDIT MY WORKFLOWY: HOME",
-   "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
-   "type": "ref",
-   "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/62229d749ef0"
-  },
-  {
-   "id": "wf-life",
-   "text": "✏️ EDIT MY WORKFLOWY: LIFE",
-   "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
-   "type": "ref",
-   "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
-  },
-  {
-   "id": "caldump",
-   "text": "📅 Send the work-calendar dump (one tap on the work phone). Last one Thu 15, 06:25.",
-   "category": "🍁 WHILE IN CANADA"
-  },
-  {
-   "id": "ex-paused",
-   "text": "💪 Exercise paused for the trip. Back on Mon 19.",
-   "category": "🥗 DAILY HABITS (these do not advance the cycle)"
-  },
-  {
-   "id": "ex-diet",
-   "text": "Diet: 1,234 cal / 110g protein",
-   "category": "🥗 DAILY HABITS (these do not advance the cycle)"
-  },
-  {
-   "id": "ex-vitamin",
-   "text": "Multivitamin",
-   "category": "🥗 DAILY HABITS (these do not advance the cycle)"
-  },
-  {
-   "id": "lily-enrol",
-   "text": "🎓 Lily's proof of enrolment: download + upload.",
-   "category": "🍁 WHILE IN CANADA"
-  },
-  {
-   "id": "sally-bday",
-   "text": "🎂 Mon 19: your birthday, and Sally's. A card for her.",
-   "category": "🍁 WHILE IN CANADA"
-  },
-  {
-   "id": "viture-ret",
-   "text": "🥽 VITURE Beast: do the return paperwork / label now, so you can mail it Fri 16 from Owen Sound.",
-   "category": "🍁 WHILE IN CANADA"
-  },
-  {
-   "id": "amazon",
-   "text": "📦 Amazon.ca to 1080: if not ordered yet, check the delivery date before you buy (Friday is now tight).",
-   "category": "🍁 WHILE IN CANADA"
-  },
-  {
-   "id": "pre-macos",
-   "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
-   "category": "🍁 WHILE IN CANADA"
-  },
-  {
-   "id": "ont-tap",
-   "text": "🚰 Drain the outside tap: shut the valve inside (basement), open the outside tap, leave it open. Today or Sat.",
-   "category": "🍁 ONTARIO LIST (15–18 Oct)"
-  },
-  {
-   "id": "ont-smoke",
-   "text": "🔥 Order smoke alarms, delivered to 1080",
-   "category": "🍁 ONTARIO LIST (15–18 Oct)"
-  },
-  {
-   "id": "ont-nest",
-   "text": "🌡 Nest thermostat: can it be delivered to 1080?",
-   "category": "🍁 ONTARIO LIST (15–18 Oct)"
-  },
-  {
-   "id": "ont-cams",
-   "text": "📷 Sensors + cameras in the drawer: decide a plan",
-   "category": "🍁 ONTARIO LIST (15–18 Oct)"
-  },
-  {
-   "id": "ont-roofer",
-   "text": "🏠 Book the roofer for Julie (Fri 16 or Sat 17)",
-   "category": "🍁 ONTARIO LIST (15–18 Oct)"
-  },
-  {
-   "id": "ont-licence",
-   "text": "🪪 Driver's licence change (Ontario)",
-   "category": "🍁 ONTARIO LIST (15–18 Oct)"
-  },
-  {
-   "id": "ont-viture",
-   "text": "📮 Mail the broken VITURE Beast glasses, Fri 16 afternoon",
-   "category": "🍁 ONTARIO LIST (15–18 Oct)"
-  },
-  {
-   "id": "hangers",
-   "text": "🛒 Buy a bunch of picture hangers / fasteners.",
-   "category": "🏠 THE NEW FLAT"
-  },
-  {
-   "id": "arcade-cable",
-   "text": "🕹 Audio cable with volume slider for the Pac-Man Arcade1Up",
-   "category": "🏠 THE NEW FLAT"
-  },
-  {
-   "id": "choc",
-   "text": "🖼 Francisco Choc messaged on WhatsApp; waiting for his reply.",
-   "category": "🏠 THE NEW FLAT",
-   "type": "ref",
-   "url": "https://wa.me/50231530761"
-  },
-  {
-   "id": "ups",
-   "text": "🔌 UPS bought. When it arrives: lamp test the sockets, put all three devices on the battery-backed side.",
-   "category": "🏠 THE NEW FLAT"
-  },
-  {
-   "id": "lamp",
-   "text": "🛋 Bedside lamp · 🔌 two cables · 🧾 store credit (print the email first)",
-   "category": "🏠 THE NEW FLAT"
-  },
-  {
-   "id": "hearing",
-   "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy. Say the word and I will draft it.",
-   "category": "🦻 THIS WEEK"
-  },
-  {
-   "id": "mros",
-   "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed.",
-   "category": "🦻 THIS WEEK"
-  },
-  {
-   "id": "heather",
-   "text": "✍️ Heather McBride's reply to Olivier: your revision is in the Doc, nearly clean.",
-   "category": "📊 THE WORK WEEK",
-   "type": "ref",
-   "url": "https://docs.google.com/document/d/18E2-1WoAyeqHqMIBwNqnrm3955ZtCAm8VGs2qgI-Aos/edit"
-  },
-  {
-   "id": "field-visit",
-   "text": "🗺 HoM field visit Tue 3 – Fri 6 Nov (not HueHue). Same week you close the building.",
-   "category": "📊 THE WORK WEEK"
-  },
-  {
-   "id": "g13",
-   "text": "🏛 G13 matrix, Ministerio Público column. All eighteen Canadian rows blank. The Fiscal General is four months into the job.",
-   "category": "📊 THE WORK WEEK"
-  },
-  {
-   "id": "afternoon-task",
-   "text": "🤖 Pause/delete the stray 'Afternoon briefing' scheduled task (Claude Desktop on the closet Mac → Scheduled). Or say yes and I will.",
-   "category": "🛠 TECH"
-  },
-  {
-   "id": "github",
-   "text": "🔑 The GitHub token. Five minutes, unblocks both memorial items.",
-   "category": "🛠 TECH"
-  }
- ]
+  "date": "2026-10-17",
+  "updated": "2026-10-17T18:20:00-06:00",
+  "note": "Saturday evening, Owen Sound. Tomorrow: car back by 14:30, home by 23:10.",
+  "items": [
+    {
+      "id": "wf-job",
+      "text": "✏️ EDIT MY WORKFLOWY: JOB",
+      "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
+      "type": "ref",
+      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/b81b4d0e17c2"
+    },
+    {
+      "id": "wf-home",
+      "text": "✏️ EDIT MY WORKFLOWY: HOME",
+      "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
+      "type": "ref",
+      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/62229d749ef0"
+    },
+    {
+      "id": "wf-life",
+      "text": "✏️ EDIT MY WORKFLOWY: LIFE",
+      "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
+      "type": "ref",
+      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+    },
+    {
+      "id": "caldump",
+      "text": "📅 Send the work-calendar dump (one tap on the work phone). Last one Thu 15, 06:25.",
+      "category": "🍁 WHILE IN CANADA"
+    },
+    {
+      "id": "sun-travel",
+      "category": "🍁 WHILE IN CANADA",
+      "text": "✈️ Sun 18: Q5 back at Pearson by 14:30 (conf 05337064CA5) · AV 325 17:15 → SAL → AV 578, GUA 23:10, driver waiting. Pack light: decide the EliteDesk tonight."
+    },
+    {
+      "id": "ex-paused",
+      "text": "💪 Exercise paused for the trip. Back on Mon 19.",
+      "category": "🥗 DAILY HABITS (these do not advance the cycle)"
+    },
+    {
+      "id": "ex-diet",
+      "text": "Diet: 1,234 cal / 110g protein",
+      "category": "🥗 DAILY HABITS (these do not advance the cycle)"
+    },
+    {
+      "id": "ex-vitamin",
+      "text": "Multivitamin",
+      "category": "🥗 DAILY HABITS (these do not advance the cycle)"
+    },
+    {
+      "id": "lily-enrol",
+      "text": "🎓 Lily's proof of enrolment: download + upload.",
+      "category": "🍁 WHILE IN CANADA"
+    },
+    {
+      "id": "sally-bday",
+      "text": "🎂 Mon 19: your birthday, and Sally's. A card for her.",
+      "category": "🍁 WHILE IN CANADA"
+    },
+    {
+      "id": "amazon",
+      "text": "📦 Amazon.ca to 1080: if not ordered yet, check the delivery date before you buy (Friday is now tight).",
+      "category": "🍁 WHILE IN CANADA"
+    },
+    {
+      "id": "pre-macos",
+      "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
+      "category": "🍁 WHILE IN CANADA"
+    },
+    {
+      "id": "ont-tap",
+      "text": "🚰 Drain the outside tap tonight: shut the valve inside (basement), open the outside tap, leave it open.",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "ont-smoke",
+      "text": "🔥 Order smoke alarms, delivered to 1080",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "ont-nest",
+      "text": "🌡 Nest thermostat: can it be delivered to 1080?",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "ont-cams",
+      "text": "📷 Sensors + cameras in the drawer: decide a plan",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "ont-roofer",
+      "text": "🏠 Roofer for Julie, if not booked yet",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "ont-licence",
+      "text": "🪪 Driver's licence change (Ontario)",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "ont-viture",
+      "text": "📮 Broken VITURE Beast glasses: if they did not go Friday, pack them home and mail from GT",
+      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+    },
+    {
+      "id": "hangers",
+      "text": "🛒 Buy a bunch of picture hangers / fasteners.",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "arcade-cable",
+      "text": "🕹 Audio cable with volume slider for the Pac-Man Arcade1Up",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "choc",
+      "text": "🖼 Francisco Choc messaged on WhatsApp; waiting for his reply.",
+      "category": "🏠 THE NEW FLAT",
+      "type": "ref",
+      "url": "https://wa.me/50231530761"
+    },
+    {
+      "id": "ups",
+      "text": "🔌 UPS bought. When it arrives: lamp test the sockets, put all three devices on the battery-backed side.",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "lamp",
+      "text": "🛋 Bedside lamp · 🔌 two cables · 🧾 store credit (print the email first)",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "hearing",
+      "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy. Say the word and I will draft it.",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "mros",
+      "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed.",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "heather",
+      "text": "✍️ Heather McBride's reply to Olivier: your revision is in the Doc, nearly clean.",
+      "category": "📊 THE WORK WEEK",
+      "type": "ref",
+      "url": "https://docs.google.com/document/d/18E2-1WoAyeqHqMIBwNqnrm3955ZtCAm8VGs2qgI-Aos/edit"
+    },
+    {
+      "id": "field-visit",
+      "text": "🗺 HoM field visit Tue 3 – Fri 6 Nov (not HueHue). Same week you close the building.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "g13",
+      "text": "🏛 G13 matrix, Ministerio Público column. All eighteen Canadian rows blank. The Fiscal General is four months into the job.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "afternoon-task",
+      "text": "🤖 Pause/delete the stray 'Afternoon briefing' scheduled task (Claude Desktop on the closet Mac → Scheduled). Or say yes and I will.",
+      "category": "🛠 TECH"
+    },
+    {
+      "id": "github",
+      "text": "🔑 The GitHub token. Five minutes, unblocks both memorial items.",
+      "category": "🛠 TECH"
+    }
+  ]
 }
