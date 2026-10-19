@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-17",
-  "updated": "2026-10-17T18:20:00-06:00",
-  "note": "Saturday evening, Owen Sound. Tomorrow: car back by 14:30, home by 23:10.",
+  "date": "2026-10-18",
+  "updated": "2026-10-18T18:20:00-06:00",
+  "note": "Sunday evening, in the air. Home tonight 23:10. Tomorrow: your birthday.",
   "items": [
     {
       "id": "wf-job",
@@ -30,13 +30,8 @@
       "category": "🍁 WHILE IN CANADA"
     },
     {
-      "id": "sun-travel",
-      "category": "🍁 WHILE IN CANADA",
-      "text": "✈️ Sun 18: Q5 back at Pearson by 14:30 (conf 05337064CA5) · AV 325 17:15 → SAL → AV 578, GUA 23:10, driver waiting. Pack light: decide the EliteDesk tonight."
-    },
-    {
       "id": "ex-paused",
-      "text": "💪 Exercise paused for the trip. Back on Mon 19.",
+      "text": "💪 Exercise restarts tomorrow: Day 1, dumbbells (floor press, row, overhead press, curls) + Beat Saber 30 min.",
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
@@ -56,7 +51,7 @@
     },
     {
       "id": "sally-bday",
-      "text": "🎂 Mon 19: your birthday, and Sally's. A card for her.",
+      "text": "🎂 Tomorrow: your birthday, and Sally's. A card for her.",
       "category": "🍁 WHILE IN CANADA"
     },
     {
@@ -71,38 +66,38 @@
     },
     {
       "id": "ont-tap",
-      "text": "🚰 Drain the outside tap tonight: shut the valve inside (basement), open the outside tap, leave it open.",
-      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+      "text": "🚰 Outside tap at 1080: if it never got drained, ask Bernice",
+      "category": "🍁 ONTARIO, FROM A DISTANCE"
     },
     {
       "id": "ont-smoke",
       "text": "🔥 Order smoke alarms, delivered to 1080",
-      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+      "category": "🍁 ONTARIO, FROM A DISTANCE"
     },
     {
       "id": "ont-nest",
       "text": "🌡 Nest thermostat: can it be delivered to 1080?",
-      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+      "category": "🍁 ONTARIO, FROM A DISTANCE"
     },
     {
       "id": "ont-cams",
       "text": "📷 Sensors + cameras in the drawer: decide a plan",
-      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+      "category": "🍁 ONTARIO, FROM A DISTANCE"
     },
     {
       "id": "ont-roofer",
-      "text": "🏠 Roofer for Julie, if not booked yet",
-      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+      "text": "🏠 Roofer for Julie, if not booked",
+      "category": "🍁 ONTARIO, FROM A DISTANCE"
     },
     {
       "id": "ont-licence",
-      "text": "🪪 Driver's licence change (Ontario)",
-      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+      "text": "🪪 Ontario driver's licence change: next trip (in person)",
+      "category": "🍁 ONTARIO, FROM A DISTANCE"
     },
     {
       "id": "ont-viture",
-      "text": "📮 Broken VITURE Beast glasses: if they did not go Friday, pack them home and mail from GT",
-      "category": "🍁 ONTARIO LIST (15–18 Oct)"
+      "text": "📮 Broken VITURE Beast glasses: if they came home with you, mail from GT",
+      "category": "🍁 ONTARIO, FROM A DISTANCE"
     },
     {
       "id": "hangers",
