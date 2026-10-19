@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updated": "2026-10-18T18:20:00-06:00",
+  "updated": "2026-10-18T20:40:00-06:00",
   "note": "Sunday evening, in the air. Home tonight 23:10. Tomorrow: your birthday.",
   "items": [
     {
@@ -23,11 +23,6 @@
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
-    },
-    {
-      "id": "caldump",
-      "text": "📅 Send the work-calendar dump (one tap on the work phone). Last one Thu 15, 06:25.",
-      "category": "🍁 WHILE IN CANADA"
     },
     {
       "id": "ex-paused",
