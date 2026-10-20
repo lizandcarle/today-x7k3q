@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-18",
-  "updated": "2026-10-18T20:40:00-06:00",
-  "note": "Sunday evening, in the air. Home tonight 23:10. Tomorrow: your birthday.",
+  "date": "2026-10-19",
+  "updated": "2026-10-19T18:20:00-06:00",
+  "note": "Monday evening, home. Happy birthday. Exercise is back.",
   "items": [
     {
       "id": "wf-job",
@@ -25,9 +25,39 @@
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
     },
     {
-      "id": "ex-paused",
-      "text": "💪 Exercise restarts tomorrow: Day 1, dumbbells (floor press, row, overhead press, curls) + Beat Saber 30 min.",
-      "category": "🥗 DAILY HABITS (these do not advance the cycle)"
+      "id": "gym-chest",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+      "text": "Chest press"
+    },
+    {
+      "id": "gym-row",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+      "text": "Seated row"
+    },
+    {
+      "id": "gym-ohp",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+      "text": "Shoulder press"
+    },
+    {
+      "id": "gym-pulldown",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+      "text": "Lat pulldown"
+    },
+    {
+      "id": "gym-curl",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+      "text": "Curls"
+    },
+    {
+      "id": "ex-beatsaber",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+      "text": "Beat Saber, 30 min (stays home)"
+    },
+    {
+      "id": "ex-steps",
+      "category": "🥗 DAILY HABITS (these do not advance the cycle)",
+      "text": "7,000 steps"
     },
     {
       "id": "ex-diet",
@@ -42,11 +72,6 @@
     {
       "id": "lily-enrol",
       "text": "🎓 Lily's proof of enrolment: download + upload.",
-      "category": "🍁 WHILE IN CANADA"
-    },
-    {
-      "id": "sally-bday",
-      "text": "🎂 Tomorrow: your birthday, and Sally's. A card for her.",
       "category": "🍁 WHILE IN CANADA"
     },
     {
