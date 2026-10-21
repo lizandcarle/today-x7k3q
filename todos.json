@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-19",
-  "updated": "2026-10-19T18:20:00-06:00",
-  "note": "Monday evening, home. Happy birthday. Exercise is back.",
+  "date": "2026-10-20",
+  "updated": "2026-10-20T18:20:00-06:00",
+  "note": "Tuesday evening. Still Day 1: Beat Saber is the easy win.",
   "items": [
     {
       "id": "wf-job",
@@ -172,6 +172,16 @@
       "id": "g13",
       "text": "🏛 G13 matrix, Ministerio Público column. All eighteen Canadian rows blank. The Fiscal General is four months into the job.",
       "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "pi-stores",
+      "category": "📊 THE WORK WEEK",
+      "text": "💲 Post index survey: send Diana the stores CBS actually use (no PriceSmart, no delivery apps). Collection starts Wed 21."
+    },
+    {
+      "id": "rose-agenda",
+      "category": "📊 THE WORK WEEK",
+      "text": "🗺 Send Rose the HOM field-visit agenda (3–6 Nov)."
     },
     {
       "id": "afternoon-task",
