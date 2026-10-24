@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "updated": "2026-10-24T13:20:00-06:00",
+ "updated": "2026-10-24T15:15:00-06:00",
  "note": "Saturday. Quick wins first, snowball style; still Day 1 on exercise.",
  "items": [
   {
@@ -45,13 +45,13 @@
    "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
   },
   {
-   "id": "qw-smoke",
-   "text": "🔥 Order smoke alarms, delivered to 1080",
+   "id": "qw-amazon",
+   "text": "📦 Amazon.ca to 1080: ordered, or still in the cart?",
    "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
   },
   {
-   "id": "qw-tap",
-   "text": "🚰 Text Bernice: was the outside tap at 1080 drained?",
+   "id": "qw-nest",
+   "text": "🌡 Nest thermostat: can it be delivered to 1080? (one check)",
    "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
   },
   {
@@ -100,19 +100,9 @@
    "category": "🥗 DAILY HABITS (these do not advance the cycle)"
   },
   {
-   "id": "amazon",
-   "text": "📦 Amazon.ca to 1080: ordered, or still in the cart?",
-   "category": "🍁 LEFT OVER FROM THE TRIP"
-  },
-  {
    "id": "pre-macos",
    "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
    "category": "🍁 LEFT OVER FROM THE TRIP"
-  },
-  {
-   "id": "ont-nest",
-   "text": "🌡 Nest thermostat: can it be delivered to 1080?",
-   "category": "🍁 ONTARIO, FROM A DISTANCE"
   },
   {
    "id": "ont-cams",
