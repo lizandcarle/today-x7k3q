@@ -1,6 +1,6 @@
 {
- "date": "2026-10-24",
- "updated": "2026-10-24T18:22:00-06:00",
+ "date": "2026-10-25",
+ "updated": "2026-10-25T11:48:00-06:00",
  "note": "Saturday evening. Quick wins: 2 down today, 4 to go. Still Day 1.",
  "items": [
   {
@@ -160,6 +160,11 @@
    "id": "rose-agenda",
    "category": "📊 THE WORK WEEK",
    "text": "🗺 Rose: send the Huehue agenda (draft is in your messages; TFOC details from Sonia, Friday breakfast partner TBC)."
+  },
+  {
+   "id": "choc-gift",
+   "text": "🍫 Ask Susana and Reisy which chocolate they bought you (Julie likes it for gifts)",
+   "category": "📊 THE WORK WEEK"
   },
   {
    "id": "afternoon-task",
