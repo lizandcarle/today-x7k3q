@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "updated": "2026-10-25T11:48:00-06:00",
- "note": "Saturday evening. Quick wins: 2 down today, 4 to go. Still Day 1.",
+ "updated": "2026-10-25T18:12:00-06:00",
+ "note": "Sunday evening. Big Monday ahead; still Day 1.",
  "items": [
   {
    "id": "wf-job",
@@ -164,6 +164,16 @@
   {
    "id": "choc-gift",
    "text": "🍫 Ask Susana and Reisy which chocolate they bought you: simple Christmas gifts to carry",
+   "category": "📊 THE WORK WEEK"
+  },
+  {
+   "id": "azu-eh",
+   "text": "🤝 Mon: ask Azucena where Expand Hope stands",
+   "category": "📊 THE WORK WEEK"
+  },
+  {
+   "id": "bilat-26",
+   "text": "🎙 Mon 14:30 Olivier: travel (Huehue + out Wed), IPEP, Karen visit, pipeline, FinDev; SUCO note ranked 9/9 in passing",
    "category": "📊 THE WORK WEEK"
   },
   {
