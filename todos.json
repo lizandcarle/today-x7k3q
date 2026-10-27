@@ -1,190 +1,195 @@
 {
- "date": "2026-10-25",
- "updated": "2026-10-25T18:12:00-06:00",
- "note": "Sunday evening. Big Monday ahead; still Day 1.",
- "items": [
-  {
-   "id": "wf-job",
-   "text": "✏️ EDIT MY WORKFLOWY: JOB",
-   "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
-   "type": "ref",
-   "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/b81b4d0e17c2"
-  },
-  {
-   "id": "wf-home",
-   "text": "✏️ EDIT MY WORKFLOWY: HOME",
-   "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
-   "type": "ref",
-   "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/62229d749ef0"
-  },
-  {
-   "id": "wf-life",
-   "text": "✏️ EDIT MY WORKFLOWY: LIFE",
-   "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
-   "type": "ref",
-   "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
-  },
-  {
-   "id": "qw-enrol",
-   "text": "🎓 Upload the school enrolment proof (5 min; Wednesday is one month to the 21st)",
-   "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-  },
-  {
-   "id": "qw-viture",
-   "text": "🥽 VITURE: the glasses aren't in GT. Email VITURE support (happycustomer@viture.us) about the return before the window closes. I don't have their last reply on file, so check it for the deadline.",
-   "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-  },
-  {
-   "id": "qw-lsso",
-   "text": "🔏 Sign the security-orders attestation in Stefano's office (a walk down the hall)",
-   "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-  },
-  {
-   "id": "qw-diana",
-   "text": "💲 Send Diana the store list for the price survey (no PriceSmart, no delivery apps)",
-   "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-  },
-  {
-   "id": "gym-chest",
-   "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
-   "text": "Chest press"
-  },
-  {
-   "id": "gym-row",
-   "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
-   "text": "Seated row"
-  },
-  {
-   "id": "gym-ohp",
-   "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
-   "text": "Shoulder press"
-  },
-  {
-   "id": "gym-pulldown",
-   "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
-   "text": "Lat pulldown"
-  },
-  {
-   "id": "gym-curl",
-   "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
-   "text": "Curls"
-  },
-  {
-   "id": "ex-beatsaber",
-   "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
-   "text": "Beat Saber, 30 min (stays home)"
-  },
-  {
-   "id": "ex-steps",
-   "category": "🥗 DAILY HABITS (these do not advance the cycle)",
-   "text": "7,000 steps"
-  },
-  {
-   "id": "ex-diet",
-   "text": "Diet: 1,234 cal / 110g protein",
-   "category": "🥗 DAILY HABITS (these do not advance the cycle)"
-  },
-  {
-   "id": "ex-vitamin",
-   "text": "Multivitamin",
-   "category": "🥗 DAILY HABITS (these do not advance the cycle)"
-  },
-  {
-   "id": "pre-macos",
-   "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
-   "category": "🍁 LEFT OVER FROM THE TRIP"
-  },
-  {
-   "id": "ont-cams",
-   "text": "📷 Sensors + cameras in the drawer: decide a plan",
-   "category": "🍁 ONTARIO, FROM A DISTANCE"
-  },
-  {
-   "id": "ont-roofer",
-   "text": "🏠 Roofer for Julie, if not booked",
-   "category": "🍁 ONTARIO, FROM A DISTANCE"
-  },
-  {
-   "id": "ont-licence",
-   "text": "🪪 Ontario driver's licence + health card address change: next trip (in person)",
-   "category": "🍁 ONTARIO, FROM A DISTANCE"
-  },
-  {
-   "id": "hangers",
-   "text": "🛒 Buy a bunch of picture hangers / fasteners.",
-   "category": "🏠 THE NEW FLAT"
-  },
-  {
-   "id": "arcade-cable",
-   "text": "🕹 Audio cable with volume slider for the Pac-Man Arcade1Up",
-   "category": "🏠 THE NEW FLAT"
-  },
-  {
-   "id": "choc",
-   "text": "🖼 Francisco Choc messaged on WhatsApp; waiting for his reply.",
-   "category": "🏠 THE NEW FLAT",
-   "type": "ref",
-   "url": "https://wa.me/50231530761"
-  },
-  {
-   "id": "ups",
-   "text": "🔌 UPS bought. When it arrives: lamp test the sockets, put all three devices on the battery-backed side.",
-   "category": "🏠 THE NEW FLAT"
-  },
-  {
-   "id": "lamp",
-   "text": "🛋 Bedside lamp · 🔌 two cables · 🧾 store credit (print the email first)",
-   "category": "🏠 THE NEW FLAT"
-  },
-  {
-   "id": "hearing",
-   "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy. Say the word and I will draft it.",
-   "category": "🦻 THIS WEEK"
-  },
-  {
-   "id": "mros",
-   "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed.",
-   "category": "🦻 THIS WEEK"
-  },
-  {
-   "id": "field-visit",
-   "text": "🗺 HoM field visit, Huehuetenango, Tue 3 – Fri 6 Nov (confirmed 23 Oct). Same week you close the building.",
-   "category": "📊 THE WORK WEEK"
-  },
-  {
-   "id": "g13",
-   "text": "🏛 G13 matrix, Ministerio Público column. All eighteen Canadian rows blank. The Fiscal General is four months into the job.",
-   "category": "📊 THE WORK WEEK"
-  },
-  {
-   "id": "rose-agenda",
-   "category": "📊 THE WORK WEEK",
-   "text": "🗺 Rose: send the Huehue agenda (draft is in your messages; TFOC details from Sonia, Friday breakfast partner TBC)."
-  },
-  {
-   "id": "choc-gift",
-   "text": "🍫 Ask Susana and Reisy which chocolate they bought you: simple Christmas gifts to carry",
-   "category": "📊 THE WORK WEEK"
-  },
-  {
-   "id": "azu-eh",
-   "text": "🤝 Mon: ask Azucena where Expand Hope stands",
-   "category": "📊 THE WORK WEEK"
-  },
-  {
-   "id": "bilat-26",
-   "text": "🎙 Mon 14:30 Olivier: travel (Huehue + out Wed), IPEP, Karen visit, pipeline, FinDev; SUCO note ranked 9/9 in passing",
-   "category": "📊 THE WORK WEEK"
-  },
-  {
-   "id": "afternoon-task",
-   "text": "🤖 Pause/delete the stray 'Afternoon briefing' scheduled task (Claude Desktop on the closet Mac → Scheduled). Or say yes and I will.",
-   "category": "🛠 TECH"
-  },
-  {
-   "id": "github",
-   "text": "🔑 The GitHub token. Five minutes, unblocks both memorial items.",
-   "category": "🛠 TECH"
-  }
- ]
+  "date": "2026-10-26",
+  "updated": "2026-10-26 18:15 GT",
+  "note": "Sunday evening. Big Monday ahead; still Day 1.",
+  "items": [
+    {
+      "id": "wf-job",
+      "text": "✏️ EDIT MY WORKFLOWY: JOB",
+      "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
+      "type": "ref",
+      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/b81b4d0e17c2"
+    },
+    {
+      "id": "wf-home",
+      "text": "✏️ EDIT MY WORKFLOWY: HOME",
+      "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
+      "type": "ref",
+      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/62229d749ef0"
+    },
+    {
+      "id": "wf-life",
+      "text": "✏️ EDIT MY WORKFLOWY: LIFE",
+      "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
+      "type": "ref",
+      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+    },
+    {
+      "id": "qw-enrol",
+      "text": "🎓 Upload the school enrolment proof (5 min, from home; Wednesday is one month to the 21st)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "qw-viture",
+      "text": "🥽 VITURE: the glasses aren't in GT. Email VITURE support (happycustomer@viture.us) about the return before the window closes. I don't have their last reply on file, so check it for the deadline.",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "qw-lsso",
+      "text": "🔏 Sign the security-orders attestation in Stefano's office (a walk down the hall)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "qw-diana",
+      "text": "💲 Send Diana the store list for the price survey (no PriceSmart, no delivery apps)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "gym-chest",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+      "text": "Chest press"
+    },
+    {
+      "id": "gym-row",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+      "text": "Seated row"
+    },
+    {
+      "id": "gym-ohp",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+      "text": "Shoulder press"
+    },
+    {
+      "id": "gym-pulldown",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+      "text": "Lat pulldown"
+    },
+    {
+      "id": "gym-curl",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+      "text": "Curls"
+    },
+    {
+      "id": "ex-beatsaber",
+      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+      "text": "Beat Saber, 30 min (stays home)"
+    },
+    {
+      "id": "ex-steps",
+      "category": "🥗 DAILY HABITS (these do not advance the cycle)",
+      "text": "7,000 steps"
+    },
+    {
+      "id": "ex-diet",
+      "text": "Diet: 1,234 cal / 110g protein",
+      "category": "🥗 DAILY HABITS (these do not advance the cycle)"
+    },
+    {
+      "id": "ex-vitamin",
+      "text": "Multivitamin",
+      "category": "🥗 DAILY HABITS (these do not advance the cycle)"
+    },
+    {
+      "id": "pre-macos",
+      "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
+      "category": "🍁 LEFT OVER FROM THE TRIP"
+    },
+    {
+      "id": "ont-cams",
+      "text": "📷 Sensors + cameras in the drawer: decide a plan",
+      "category": "🍁 ONTARIO, FROM A DISTANCE"
+    },
+    {
+      "id": "ont-roofer",
+      "text": "🏠 Roofer for Julie, if not booked",
+      "category": "🍁 ONTARIO, FROM A DISTANCE"
+    },
+    {
+      "id": "ont-licence",
+      "text": "🪪 Ontario driver's licence + health card address change: next trip (in person)",
+      "category": "🍁 ONTARIO, FROM A DISTANCE"
+    },
+    {
+      "id": "hangers",
+      "text": "🛒 Buy a bunch of picture hangers / fasteners.",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "arcade-cable",
+      "text": "🕹 Audio cable with volume slider for the Pac-Man Arcade1Up",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "choc",
+      "text": "🖼 Francisco Choc messaged on WhatsApp; waiting for his reply.",
+      "category": "🏠 THE NEW FLAT",
+      "type": "ref",
+      "url": "https://wa.me/50231530761"
+    },
+    {
+      "id": "ups",
+      "text": "🔌 UPS bought. When it arrives: lamp test the sockets, put all three devices on the battery-backed side.",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "lamp",
+      "text": "🛋 Bedside lamp · 🔌 two cables · 🧾 store credit (print the email first)",
+      "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "hearing",
+      "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy. Say the word and I will draft it.",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "mros",
+      "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed.",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "wed-xochi",
+      "text": "🚌 Wed 28: Xochi + Synergy trip, 05:45 Edyma lobby, bus 06:00, back ~18:00",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "huehue-list",
+      "text": "📋 List ALL our Huehuetenango work/projects before Olivier meets the Governor (Tue 3 Nov)",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "field-visit",
+      "text": "🗺 HoM field visit, Huehuetenango, Tue 3 – Fri 6 Nov (confirmed 23 Oct). Same week you close the building.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "g13",
+      "text": "🏛 G13 matrix, Ministerio Público column. All eighteen Canadian rows blank. The Fiscal General is four months into the job.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "rose-agenda",
+      "category": "📊 THE WORK WEEK",
+      "text": "🗺 Rose: send the Huehue agenda (draft is in your messages; TFOC details from Sonia, Friday breakfast partner TBC)."
+    },
+    {
+      "id": "choc-gift",
+      "text": "🍫 Ask Susana and Reisy which chocolate they bought you: simple Christmas gifts to carry",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "azu-eh",
+      "text": "🤝 Ask Azucena where Expand Hope stands",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "afternoon-task",
+      "text": "🤖 Pause/delete the stray 'Afternoon briefing' scheduled task (Claude Desktop on the closet Mac → Scheduled). Or say yes and I will.",
+      "category": "🛠 TECH"
+    },
+    {
+      "id": "github",
+      "text": "🔑 The GitHub token. Five minutes, unblocks both memorial items.",
+      "category": "🛠 TECH"
+    }
+  ]
 }
