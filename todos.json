@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated": "2026-10-27 14:12 GT",
+  "updated": "2026-10-27 18:15 GT",
   "note": "Sunday evening. Big Monday ahead; still Day 1.",
   "items": [
     {
@@ -27,6 +27,16 @@
     {
       "id": "qw-enrol",
       "text": "🎓 Upload the school enrolment proof (5 min, from home; Wednesday is one month to the 21st)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "qw-roof",
+      "text": "🏠 Send Rayon the roofer note (v3 is in your Gmail)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "qw-dintelec",
+      "text": "🦻 WhatsApp DINTELEC for the hearing-test record (draft in your messages)",
       "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
     },
     {
@@ -148,7 +158,27 @@
     },
     {
       "id": "wed-xochi",
-      "text": "🚌 Wed 28: Xochi + Synergy trip, 05:45 Edyma lobby, bus 06:00, back ~18:00",
+      "text": "🚕 Wed 28: Uber at 05:30 → Edyma lobby 05:45, bus 06:00, back ~18:30",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "karen-coffee",
+      "text": "☕ Virtual coffee with Karen: her Nov visit + flights (offer Thu 10:30 or Fri 10:00)",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "cor-courses",
+      "text": "🎓 Five COR courses for acting HoM (250, 451, 152, 254, 253); INC122/123 retire 17 Nov",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "retreat-prep",
+      "text": "🏔 CMM retreat Tue 10 Nov 08:00: find the DM strategy paper + Glenn Linder notes, zyx to Orson",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "care-reply",
+      "text": "🤝 CARE Canada reply (waiting on Kimberley + Sonia); Orson asks Fri",
       "category": "📊 THE WORK WEEK"
     },
     {
