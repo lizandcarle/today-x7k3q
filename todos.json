@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-27",
-  "updated": "2026-10-27 18:15 GT",
+  "date": "2026-10-28",
+  "updated": "2026-10-28 18:15 GT",
   "note": "Sunday evening. Big Monday ahead; still Day 1.",
   "items": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "id": "qw-dintelec",
-      "text": "🦻 WhatsApp DINTELEC for the hearing-test record (draft in your messages)",
+      "text": "🦻 WhatsApp DINTELEC for the hearing-test record (v3 draft in your messages)",
       "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
     },
     {
@@ -155,11 +155,6 @@
       "id": "mros",
       "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed.",
       "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "wed-xochi",
-      "text": "🚕 Wed 28: Uber at 05:30 → Edyma lobby 05:45, bus 06:00, back ~18:30",
-      "category": "📊 THE WORK WEEK"
     },
     {
       "id": "karen-coffee",
