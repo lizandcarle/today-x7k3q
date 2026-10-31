@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-29",
-  "updated": "2026-10-29 21:05 GT",
+  "date": "2026-10-30",
+  "updated": "2026-10-30 18:15 GT",
   "note": "Sunday evening. Big Monday ahead; still Day 1.",
   "items": [
     {
@@ -23,6 +23,21 @@
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
+    },
+    {
+      "id": "wk-trellis",
+      "text": "🌿 Weekend: deploy Trellis (steps 0–4 in your messages, ~1 hour)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "qw-vrpc",
+      "text": "🖥 WhatsApp I-tech or CompuDoctor about the VR PC (draft in your messages)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "wk-retreat",
+      "text": "🏔 Weekend: mark up the retreat top-4 draft v2 (Google Doc)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
     },
     {
       "id": "qw-enrol",
