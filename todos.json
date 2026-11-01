@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-30",
-  "updated": "2026-10-30 18:15 GT",
-  "note": "Sunday evening. Big Monday ahead; still Day 1.",
+  "date": "2026-10-31",
+  "updated": "2026-10-31 18:15 GT",
+  "note": "Saturday evening. Monday is a holiday, then Huehue Tue to Fri. Still Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -160,6 +160,16 @@
       "id": "lamp",
       "text": "🛋 Bedside lamp · 🔌 two cables · 🧾 store credit (print the email first)",
       "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "closing-swap",
+      "text": "🔑 Find a swap for CLOSING duty Nov 2–6 (you are in Huehue Tue–Fri): Ricardo, Annick, David or Kim. Then you OPEN Nov 9–13 at 07:00.",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "wfp-yes",
+      "text": "💧 Water For People: say yes and Orson drafts the polite Spanish \"no water programming, happy to meet\" reply",
+      "category": "🦻 THIS WEEK"
     },
     {
       "id": "hearing",
