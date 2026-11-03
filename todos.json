@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updated": "2026-11-02 18:15 GT",
+  "updated": "2026-11-02 19:23 GT",
   "note": "Monday evening, travel eve. Huehue from 07:00 tomorrow. Still Day 1.",
   "items": [
     {
@@ -164,6 +164,11 @@
     {
       "id": "julie-data",
       "text": "📱 Check Julie's phone data is topped up (30-day plan ran out ~31 Oct)",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "alan-bloom",
+      "text": "✉️ Tue: send Alan Weber Jenn Bloom's email address",
       "category": "🦻 THIS WEEK"
     },
     {
