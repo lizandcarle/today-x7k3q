@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-01",
-  "updated": "2026-11-01 18:24 GT",
-  "note": "Sunday evening. Holiday Monday, Huehue from Tuesday 07:00. Still Day 1.",
+  "date": "2026-11-02",
+  "updated": "2026-11-02 18:15 GT",
+  "note": "Monday evening, travel eve. Huehue from 07:00 tomorrow. Still Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -155,6 +155,16 @@
       "id": "lamp",
       "text": "🛋 Bedside lamp · 🔌 two cables · 🧾 store credit (print the email first)",
       "category": "🏠 THE NEW FLAT"
+    },
+    {
+      "id": "pack-huehue",
+      "text": "🧳 Pack for Huehue (Tue–Fri): warm layer for cold mornings, chargers, cash",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "julie-data",
+      "text": "📱 Check Julie's phone data is topped up (30-day plan ran out ~31 Oct)",
+      "category": "🦻 THIS WEEK"
     },
     {
       "id": "closing-swap",
