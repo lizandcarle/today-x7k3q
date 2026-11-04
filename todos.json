@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-02",
-  "updated": "2026-11-02 19:55 GT",
-  "note": "Monday evening, travel eve. Huehue from 07:00 tomorrow. Still Day 1.",
+  "date": "2026-11-03",
+  "updated": "2026-11-03 18:15 GT",
+  "note": "Tuesday evening in Huehuetenango. Soloma tomorrow, 07:00 start. Still Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -155,11 +155,6 @@
       "id": "lamp",
       "text": "🛋 Bedside lamp · 🔌 two cables · 🧾 store credit (print the email first)",
       "category": "🏠 THE NEW FLAT"
-    },
-    {
-      "id": "pack-huehue",
-      "text": "🧳 Pack for Huehue (Tue–Fri): 📱 the CLARO PHONE, warm layer, chargers, cash",
-      "category": "🦻 THIS WEEK"
     },
     {
       "id": "julie-data",
