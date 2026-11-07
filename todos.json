@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-05",
-  "updated": "2026-11-05 18:20 GT",
-  "note": "Thursday evening, last night in Huehue. Drive home tomorrow. Still Day 1.",
+  "date": "2026-11-06",
+  "updated": "2026-11-06 18:20 GT",
+  "note": "Friday evening, home from Huehue. Next week you open the building. Still Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -23,46 +23,6 @@
       "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
       "type": "ref",
       "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
-    },
-    {
-      "id": "wk-trellis",
-      "text": "🌿 Deploy meftrellis (steps in your messages; folder name is now meftrellis)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "qw-vrpc",
-      "text": "🖥 WhatsApp I-tech or CompuDoctor about the VR PC (draft in your messages)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "wk-retreat",
-      "text": "🏔 Weekend: mark up the retreat top-4 draft v2 (Google Doc)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "qw-enrol",
-      "text": "🎓 Upload the school enrolment proof (5 min, from home; Wednesday is one month to the 21st)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "qw-roof",
-      "text": "🏠 Send Rayon the roofer note (v3 is in your Gmail)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "qw-dintelec",
-      "text": "🦻 WhatsApp DINTELEC for the hearing-test record (v3 draft in your messages)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "qw-viture",
-      "text": "🥽 VITURE: the glasses aren't in GT. Email VITURE support (happycustomer@viture.us) about the return before the window closes. I don't have their last reply on file, so check it for the deadline.",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "qw-diana",
-      "text": "💲 Send Diana the store list for the price survey (no PriceSmart, no delivery apps)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
     },
     {
       "id": "gym-chest",
@@ -108,6 +68,46 @@
       "id": "ex-vitamin",
       "text": "Multivitamin",
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
+    },
+    {
+      "id": "wk-trellis",
+      "text": "🌿 Deploy meftrellis (steps in your messages; folder name is now meftrellis)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "qw-vrpc",
+      "text": "🖥 WhatsApp I-tech or CompuDoctor about the VR PC (draft in your messages)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "wk-retreat",
+      "text": "🏔 Weekend: mark up the retreat top-4 draft v2 (Google Doc)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "qw-enrol",
+      "text": "🎓 Upload the school enrolment proof (5 min, from home; Wednesday is one month to the 21st)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "qw-roof",
+      "text": "🏠 Send Rayon the roofer note (v3 is in your Gmail)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "qw-dintelec",
+      "text": "🦻 WhatsApp DINTELEC for the hearing-test record (v3 draft in your messages)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "qw-viture",
+      "text": "🥽 VITURE: the glasses aren't in GT. Email VITURE support (happycustomer@viture.us) about the return before the window closes. I don't have their last reply on file, so check it for the deadline.",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+    },
+    {
+      "id": "qw-diana",
+      "text": "💲 Send Diana the store list for the price survey (no PriceSmart, no delivery apps)",
+      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
     },
     {
       "id": "pre-macos",
@@ -162,16 +162,6 @@
       "category": "🦻 THIS WEEK"
     },
     {
-      "id": "alan-bloom",
-      "text": "✉️ Tue: send Alan Weber Jenn Bloom's email address",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "closing-swap",
-      "text": "🔑 Find a swap for CLOSING duty Nov 2–6 (you are in Huehue Tue–Fri): Ricardo, Annick, David or Kim. Then you OPEN Nov 9–13 at 07:00.",
-      "category": "🦻 THIS WEEK"
-    },
-    {
       "id": "wfp-yes",
       "text": "💧 Water For People: say yes and Orson drafts the polite Spanish \"no water programming, happy to meet\" reply",
       "category": "🦻 THIS WEEK"
@@ -207,24 +197,9 @@
       "category": "📊 THE WORK WEEK"
     },
     {
-      "id": "huehue-list",
-      "text": "📋 List ALL our Huehuetenango work/projects before Olivier meets the Governor (Tue 3 Nov)",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "field-visit",
-      "text": "🗺 HoM field visit, Huehuetenango, Tue 3 – Fri 6 Nov (confirmed 23 Oct). Same week you close the building.",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
       "id": "g13",
       "text": "🏛 G13 matrix, Ministerio Público column. All eighteen Canadian rows blank. The Fiscal General is four months into the job.",
       "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "rose-agenda",
-      "category": "📊 THE WORK WEEK",
-      "text": "🗺 Rose: send the Huehue agenda (draft is in your messages; TFOC details from Sonia, Friday breakfast partner TBC)."
     },
     {
       "id": "choc-gift",
@@ -235,6 +210,31 @@
       "id": "azu-eh",
       "text": "🤝 Ask Azucena where Expand Hope stands",
       "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "open-week",
+      "text": "🔑 You OPEN the building Mon 9 – Fri 13 Nov, 07:00",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "ot-trip",
+      "text": "⏱ Overtime: log Fri 6 Nov, then file the Huehue trip (you + approve Sonia's) and October's 3 h",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "finstat",
+      "text": "💰 FINSTAT P8: check officers have confirmed partner values (due Mon 9 / Tue 10)",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "asasapne",
+      "text": "☕ Decide the reply to ASASAPNE's premises request",
+      "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "bakeoff",
+      "text": "📺 Download the Bake Off for Julie's Plex",
+      "category": "🏠 THE NEW FLAT"
     },
     {
       "id": "afternoon-task",
