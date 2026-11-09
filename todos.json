@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-07",
-  "updated": "2026-11-07 18:20 GT",
-  "note": "Saturday evening. Food log started today. Next week you open the building. Still Day 1.",
+  "date": "2026-11-08",
+  "updated": "2026-11-08 18:20 GT",
+  "note": "Sunday evening. Tomorrow you OPEN at 07:00. Still Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -71,7 +71,7 @@
     },
     {
       "id": "food-log",
-      "text": "🍽 Dictate meals to Orson; running total comes back (today so far ~551 kcal / ~42.5 g)",
+      "text": "🍽 Dictate meals to Orson; running total comes back (today so far ~600 kcal / ~45 g)",
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
