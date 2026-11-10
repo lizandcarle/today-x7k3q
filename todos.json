@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-08",
-  "updated": "2026-11-08 18:20 GT",
-  "note": "Sunday evening. Tomorrow you OPEN at 07:00. Still Day 1.",
+  "date": "2026-11-09",
+  "updated": "2026-11-09 18:20 GT",
+  "note": "Monday evening. Retreat tomorrow 08:00 (v9 notes ready). Still Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -71,7 +71,7 @@
     },
     {
       "id": "food-log",
-      "text": "🍽 Dictate meals to Orson; running total comes back (today so far ~600 kcal / ~45 g)",
+      "text": "🍽 Dictate meals to Orson; running total comes back (nothing logged today yet)",
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "id": "wk-retreat",
-      "text": "🏔 Weekend: mark up the retreat top-4 draft v2 (Google Doc)",
+      "text": "🏔 Tonight: skim the v9 retreat notes (link in your messages)",
       "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "id": "retreat-prep",
-      "text": "🏔 CMM retreat Tue 10 Nov 08:00: strategy note filed; Glenn Linder notes asked for",
+      "text": "🏔 CMM retreat Tue 10 Nov 08:00: your private v9 notes are ready (priorities + vehicles + plain-English annex)",
       "category": "📊 THE WORK WEEK"
     },
     {
