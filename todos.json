@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-09",
-  "updated": "2026-11-09 18:20 GT",
-  "note": "Monday evening. Retreat tomorrow 08:00 (v9 notes ready). Still Day 1.",
+  "date": "2026-11-10",
+  "updated": "2026-11-10 15:26 GT",
+  "note": "Tuesday. Retreat day (v13 notes). Still Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -71,7 +71,7 @@
     },
     {
       "id": "food-log",
-      "text": "🍽 Dictate meals to Orson; running total comes back (nothing logged today yet)",
+      "text": "🍽 Dictate meals to Orson; running total comes back",
       "category": "🥗 DAILY HABITS (these do not advance the cycle)"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "id": "wk-retreat",
-      "text": "🏔 Tonight: skim the v9 retreat notes (link in your messages)",
+      "text": "🏔 Retreat today: v13 notes (rule of law first)",
       "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
     },
     {
