@@ -237,11 +237,6 @@
       "category": "🦻 THIS WEEK"
     },
     {
-      "id": "bakeoff",
-      "text": "📺 Download the Bake Off for Julie's Plex",
-      "category": "🏠 THE NEW FLAT"
-    },
-    {
       "id": "afternoon-task",
       "text": "🤖 Pause/delete the stray 'Afternoon briefing' scheduled task (Claude Desktop on the closet Mac → Scheduled). Or say yes and I will.",
       "category": "🛠 TECH"
