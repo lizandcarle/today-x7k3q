@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-11",
-  "updated": "2026-11-10 18:25 GT",
-  "note": "Wednesday. Cleaners 07:00, Dev team 09:30. TRISEG read-through day. Still Day 1.",
+  "date": "2026-11-12",
+  "updated": "2026-11-11 18:25 GT",
+  "note": "Thursday. TRISEG day: you speak 09:35. Still Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -86,7 +86,7 @@
     },
     {
       "id": "qw-enrol",
-      "text": "🎓 Upload the school enrolment proof (5 min, from home; Wednesday is one month to the 21st)",
+      "text": "🎓 Upload the school enrolment proof (5 min, from home)",
       "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
     },
     {
@@ -167,6 +167,11 @@
       "category": "🦻 THIS WEEK"
     },
     {
+      "id": "claro-dec",
+      "text": "🌐 Claro home fibre: Dec bill due Wed 9 Dec (not received yet). Forward the welcome email/account number when it comes",
+      "category": "🦻 THIS WEEK"
+    },
+    {
       "id": "wfp-yes",
       "text": "💧 Water For People: say yes and Orson drafts the polite Spanish \"no water programming, happy to meet\" reply",
       "category": "🦻 THIS WEEK"
@@ -183,12 +188,17 @@
     },
     {
       "id": "triseg",
-      "text": "🎤 TRISEG remarks Thu 09:00, Adriatika: read Jennifer's draft aloud today; ask Brenda Garcia for the running order (OHSC 08:30 clash)",
+      "text": "🎤 TRISEG today, Adriatika (4 Av. 20-44 Z14): doors 09:00, you speak 09:35. Jennifer's draft is in the Drive (search 'triseg orsdoc'). OHSC 08:30 clashes",
       "category": "📊 THE WORK WEEK"
     },
     {
-      "id": "wed-11",
-      "text": "🧹 Wed: supervise cleaners 07:00 · Dev team 09:30, your office",
+      "id": "thu-ndb",
+      "text": "💻 12:30 NDB / Mission IA management meeting (Teams)",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
+      "id": "fri-brenda",
+      "text": "🤝 Fri 10:30 Brenda Garcia + Andrew Pavao (TFO Canada) at the Embassy",
       "category": "📊 THE WORK WEEK"
     },
     {
@@ -228,7 +238,7 @@
     },
     {
       "id": "ot-trip",
-      "text": "⏱ Overtime: log Fri 6 Nov, then file the Huehue trip (you + approve Sonia's) and October's 3 h",
+      "text": "⏱ Overtime: Nov tally ~13.75 h incl. Tue 10 emergency 2.5 h. Log Fri 6, file Huehue (you + approve Sonia) and October's 3 h. Templates are in the desktop folder",
       "category": "🦻 THIS WEEK"
     },
     {
