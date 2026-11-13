@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-12",
-  "updated": "2026-11-11 18:25 GT",
-  "note": "Thursday. TRISEG day: you speak 09:35. Still Day 1.",
+  "date": "2026-11-13",
+  "updated": "2026-11-12 18:25 GT",
+  "note": "Friday the 13th. Last opening day this week. Brenda + Andrew 10:30. Still Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -187,18 +187,8 @@
       "category": "🦻 THIS WEEK"
     },
     {
-      "id": "triseg",
-      "text": "🎤 TRISEG today, Adriatika (4 Av. 20-44 Z14): doors 09:00, you speak 09:35. Jennifer's draft is in the Drive (search 'triseg orsdoc'). OHSC 08:30 clashes",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "thu-ndb",
-      "text": "💻 12:30 NDB / Mission IA management meeting (Teams)",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
       "id": "fri-brenda",
-      "text": "🤝 Fri 10:30 Brenda Garcia + Andrew Pavao (TFO Canada) at the Embassy",
+      "text": "🤝 10:30 Brenda Garcia + Andrew Pavao (TFO Canada) at the Embassy (confirmed in person). Azu WFH",
       "category": "📊 THE WORK WEEK"
     },
     {
