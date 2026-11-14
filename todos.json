@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-13",
-  "updated": "2026-11-12 18:25 GT",
-  "note": "Friday the 13th. Last opening day this week. Brenda + Andrew 10:30. Still Day 1.",
+  "date": "2026-11-14",
+  "updated": "2026-11-13 18:25 GT",
+  "note": "Saturday. Árbol Gallo lights up 19:00 at the Obelisco. Still Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -157,13 +157,13 @@
       "category": "🏠 THE NEW FLAT"
     },
     {
-      "id": "cal-dump",
-      "text": "📅 Send the work-calendar dump (none since Sat 7 Nov)",
+      "id": "julie-data",
+      "text": "📱 Check Julie's phone data is topped up (30-day plan ran out ~31 Oct)",
       "category": "🦻 THIS WEEK"
     },
     {
-      "id": "julie-data",
-      "text": "📱 Check Julie's phone data is topped up (30-day plan ran out ~31 Oct)",
+      "id": "arbol-gallo",
+      "text": "🎄 Sat 19:00: Árbol Gallo lighting, Plaza Obelisco (expect traffic). Sun 15: Asturias interment, closures near the Centro Cultural",
       "category": "🦻 THIS WEEK"
     },
     {
@@ -185,11 +185,6 @@
       "id": "mros",
       "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed.",
       "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "fri-brenda",
-      "text": "🤝 10:30 Brenda Garcia + Andrew Pavao (TFO Canada) at the Embassy (confirmed in person). Azu WFH",
-      "category": "📊 THE WORK WEEK"
     },
     {
       "id": "karen-coffee",
@@ -220,11 +215,6 @@
       "id": "azu-eh",
       "text": "🤝 Ask Azucena where Expand Hope stands",
       "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "open-week",
-      "text": "🔑 You OPEN the building Mon 9 – Fri 13 Nov, 07:00",
-      "category": "🦻 THIS WEEK"
     },
     {
       "id": "ot-trip",
