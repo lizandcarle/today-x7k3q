@@ -240,6 +240,11 @@
       "id": "github",
       "text": "🔑 The GitHub token. Five minutes, unblocks both memorial items.",
       "category": "🛠 TECH"
+    },
+    {
+      "id": "mro-dishwasher",
+      "text": "🔧 Monday: submit the MRO to get the dishwasher fixed",
+      "category": "🦻 THIS WEEK"
     }
   ]
 }
