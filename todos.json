@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-14",
-  "updated": "2026-11-13 18:25 GT",
-  "note": "Saturday. Árbol Gallo lights up 19:00 at the Obelisco. Still Day 1.",
+  "date": "2026-11-15",
+  "updated": "2026-11-14 18:25 GT",
+  "note": "Sunday. Asturias interment today (closures near Centro Cultural). Still Day 1.",
   "items": [
     {
       "id": "wf-job",
@@ -163,7 +163,7 @@
     },
     {
       "id": "arbol-gallo",
-      "text": "🎄 Sat 19:00: Árbol Gallo lighting, Plaza Obelisco (expect traffic). Sun 15: Asturias interment, closures near the Centro Cultural",
+      "text": "🎭 Sun: Asturias interment, closures near Centro Cultural Miguel Ángel Asturias. Mon: Canada–Guatemala return leg in Toronto",
       "category": "🦻 THIS WEEK"
     },
     {
