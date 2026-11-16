@@ -1,250 +1,226 @@
 {
-  "date": "2026-11-15",
-  "updated": "2026-11-14 18:25 GT",
-  "note": "Sunday. Asturias interment today (closures near Centro Cultural). Still Day 1.",
-  "items": [
-    {
-      "id": "wf-job",
-      "text": "✏️ EDIT MY WORKFLOWY: JOB",
-      "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
-      "type": "ref",
-      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/b81b4d0e17c2"
-    },
-    {
-      "id": "wf-home",
-      "text": "✏️ EDIT MY WORKFLOWY: HOME",
-      "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
-      "type": "ref",
-      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/62229d749ef0"
-    },
-    {
-      "id": "wf-life",
-      "text": "✏️ EDIT MY WORKFLOWY: LIFE",
-      "category": "🔗 YOUR WORKFLOWY (you edit, Orson reads every evening)",
-      "type": "ref",
-      "url": "https://workflowy.com/s/rethinking/cfURwY3SskKP7cdE#/e5d0b5b51fd2"
-    },
-    {
-      "id": "gym-chest",
-      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
-      "text": "Chest press"
-    },
-    {
-      "id": "gym-row",
-      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
-      "text": "Seated row"
-    },
-    {
-      "id": "gym-ohp",
-      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
-      "text": "Shoulder press"
-    },
-    {
-      "id": "gym-pulldown",
-      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
-      "text": "Lat pulldown"
-    },
-    {
-      "id": "gym-curl",
-      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
-      "text": "Curls"
-    },
-    {
-      "id": "ex-beatsaber",
-      "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
-      "text": "Beat Saber, 30 min (stays home)"
-    },
-    {
-      "id": "ex-steps",
-      "category": "🥗 DAILY HABITS (these do not advance the cycle)",
-      "text": "7,000 steps"
-    },
-    {
-      "id": "ex-diet",
-      "text": "Diet: 1,234 cal / 110g protein",
-      "category": "🥗 DAILY HABITS (these do not advance the cycle)"
-    },
-    {
-      "id": "ex-vitamin",
-      "text": "Multivitamin",
-      "category": "🥗 DAILY HABITS (these do not advance the cycle)"
-    },
-    {
-      "id": "food-log",
-      "text": "🍽 Dictate meals to Orson; running total comes back",
-      "category": "🥗 DAILY HABITS (these do not advance the cycle)"
-    },
-    {
-      "id": "wk-trellis",
-      "text": "🌿 Deploy meftrellis (steps in your messages; folder name is now meftrellis)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "qw-vrpc",
-      "text": "🖥 WhatsApp I-tech or CompuDoctor about the VR PC (draft in your messages)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "qw-enrol",
-      "text": "🎓 Upload the school enrolment proof (5 min, from home)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "qw-roof",
-      "text": "🏠 Send Rayon the roofer note (v3 is in your Gmail)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "qw-dintelec",
-      "text": "🦻 WhatsApp DINTELEC for the hearing-test record (v3 draft in your messages)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "qw-viture",
-      "text": "🥽 VITURE: the glasses aren't in GT. Email VITURE support (happycustomer@viture.us) about the return before the window closes. I don't have their last reply on file, so check it for the deadline.",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "qw-diana",
-      "text": "💲 Send Diana the store list for the price survey (no PriceSmart, no delivery apps)",
-      "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
-    },
-    {
-      "id": "pre-macos",
-      "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
-      "category": "🍁 LEFT OVER FROM THE TRIP"
-    },
-    {
-      "id": "ont-cams",
-      "text": "📷 Sensors + cameras in the drawer: decide a plan",
-      "category": "🍁 ONTARIO, FROM A DISTANCE"
-    },
-    {
-      "id": "ont-roofer",
-      "text": "🏠 Roofer for Julie, if not booked",
-      "category": "🍁 ONTARIO, FROM A DISTANCE"
-    },
-    {
-      "id": "ont-licence",
-      "text": "🪪 Ontario driver's licence + health card address change: next trip (in person)",
-      "category": "🍁 ONTARIO, FROM A DISTANCE"
-    },
-    {
-      "id": "hangers",
-      "text": "🛒 Buy a bunch of picture hangers / fasteners.",
-      "category": "🏠 THE NEW FLAT"
-    },
-    {
-      "id": "arcade-cable",
-      "text": "🕹 Audio cable with volume slider for the Pac-Man Arcade1Up",
-      "category": "🏠 THE NEW FLAT"
-    },
-    {
-      "id": "choc",
-      "text": "🖼 Francisco Choc messaged on WhatsApp; waiting for his reply.",
-      "category": "🏠 THE NEW FLAT",
-      "type": "ref",
-      "url": "https://wa.me/50231530761"
-    },
-    {
-      "id": "ups",
-      "text": "🔌 UPS bought. When it arrives: lamp test the sockets, put all three devices on the battery-backed side.",
-      "category": "🏠 THE NEW FLAT"
-    },
-    {
-      "id": "lamp",
-      "text": "🛋 Bedside lamp · 🔌 two cables · 🧾 store credit (print the email first)",
-      "category": "🏠 THE NEW FLAT"
-    },
-    {
-      "id": "julie-data",
-      "text": "📱 Check Julie's phone data is topped up (30-day plan ran out ~31 Oct)",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "arbol-gallo",
-      "text": "🎭 Sun: Asturias interment, closures near Centro Cultural Miguel Ángel Asturias. Mon: Canada–Guatemala return leg in Toronto",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "claro-dec",
-      "text": "🌐 Claro home fibre: Dec bill due Wed 9 Dec (not received yet). Forward the welcome email/account number when it comes",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "wfp-yes",
-      "text": "💧 Water For People: say yes and Orson drafts the polite Spanish \"no water programming, happy to meet\" reply",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "hearing",
-      "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy. Say the word and I will draft it.",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "mros",
-      "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed.",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "karen-coffee",
-      "text": "☕ Virtual coffee with Karen: her Nov visit + flights (offer Thu 10:30 or Fri 10:00)",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "cor-courses",
-      "text": "🎓 Five COR courses for acting HoM (250, 451, 152, 254, 253); INC122/123 retire 17 Nov",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "care-reply",
-      "text": "🤝 CARE Canada reply (waiting on Kimberley + Sonia); Orson asks Fri",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "g13",
-      "text": "🏛 G13 matrix, Ministerio Público column. All eighteen Canadian rows blank. The Fiscal General is four months into the job.",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "choc-gift",
-      "text": "🍫 Ask Susana and Reisy which chocolate they bought you: simple Christmas gifts to carry",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "azu-eh",
-      "text": "🤝 Ask Azucena where Expand Hope stands",
-      "category": "📊 THE WORK WEEK"
-    },
-    {
-      "id": "ot-trip",
-      "text": "⏱ Overtime: Nov tally ~13.75 h incl. Tue 10 emergency 2.5 h. Log Fri 6, file Huehue (you + approve Sonia) and October's 3 h. Templates are in the desktop folder",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "finstat",
-      "text": "💰 FINSTAT P8: check officers have confirmed partner values (due Mon 9 / Tue 10)",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "asasapne",
-      "text": "☕ Decide the reply to ASASAPNE's premises request",
-      "category": "🦻 THIS WEEK"
-    },
-    {
-      "id": "afternoon-task",
-      "text": "🤖 Pause/delete the stray 'Afternoon briefing' scheduled task (Claude Desktop on the closet Mac → Scheduled). Or say yes and I will.",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "github",
-      "text": "🔑 The GitHub token. Five minutes, unblocks both memorial items.",
-      "category": "🛠 TECH"
-    },
-    {
-      "id": "mro-dishwasher",
-      "text": "🔧 Monday: submit the MRO to get the dishwasher fixed",
-      "category": "🦻 THIS WEEK"
-    }
-  ]
+ "date": "2026-11-16",
+ "updated": "2026-11-15 18:25 GT",
+ "note": "Monday. Mef-Trellis is the main list now; this page keeps exercise and habits. Still Day 1.",
+ "items": [
+  {
+   "id": "trellis",
+   "text": "🌿 OPEN MEF-TRELLIS: your main list now (TODAY / TOMORROW at the top)",
+   "category": "🔗 YOUR LIST",
+   "type": "ref",
+   "url": "http://henryboo.net/meftrellis/"
+  },
+  {
+   "id": "gym-chest",
+   "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+   "text": "Chest press"
+  },
+  {
+   "id": "gym-row",
+   "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+   "text": "Seated row"
+  },
+  {
+   "id": "gym-ohp",
+   "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+   "text": "Shoulder press"
+  },
+  {
+   "id": "gym-pulldown",
+   "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+   "text": "Lat pulldown"
+  },
+  {
+   "id": "gym-curl",
+   "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+   "text": "Curls"
+  },
+  {
+   "id": "ex-beatsaber",
+   "category": "💪 EXERCISE — DAY 1 AT THE GYM (provisional until you see the place)",
+   "text": "Beat Saber, 30 min (stays home)"
+  },
+  {
+   "id": "ex-steps",
+   "category": "🥗 DAILY HABITS (these do not advance the cycle)",
+   "text": "7,000 steps"
+  },
+  {
+   "id": "ex-diet",
+   "text": "Diet: 1,234 cal / 110g protein",
+   "category": "🥗 DAILY HABITS (these do not advance the cycle)"
+  },
+  {
+   "id": "ex-vitamin",
+   "text": "Multivitamin",
+   "category": "🥗 DAILY HABITS (these do not advance the cycle)"
+  },
+  {
+   "id": "food-log",
+   "text": "🍽 Dictate meals to Orson; running total comes back",
+   "category": "🥗 DAILY HABITS (these do not advance the cycle)"
+  },
+  {
+   "id": "qw-vrpc",
+   "text": "🖥 WhatsApp I-tech or CompuDoctor about the VR PC (draft in your messages)",
+   "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+  },
+  {
+   "id": "qw-enrol",
+   "text": "🎓 Upload the school enrolment proof (5 min, from home)",
+   "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+  },
+  {
+   "id": "qw-roof",
+   "text": "🏠 Send Rayon the roofer note (v3 is in your Gmail)",
+   "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+  },
+  {
+   "id": "qw-dintelec",
+   "text": "🦻 WhatsApp DINTELEC for the hearing-test record (v3 draft in your messages)",
+   "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+  },
+  {
+   "id": "qw-viture",
+   "text": "🥽 VITURE: the glasses aren't in GT. Email VITURE support (happycustomer@viture.us) about the return before the window closes. I don't have their last reply on file, so check it for the deadline.",
+   "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+  },
+  {
+   "id": "qw-diana",
+   "text": "💲 Send Diana the store list for the price survey (no PriceSmart, no delivery apps)",
+   "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
+  },
+  {
+   "id": "pre-macos",
+   "text": "🔐 Closet Mac: switch off automatic macOS updates (no updates while you're away).",
+   "category": "🍁 LEFT OVER FROM THE TRIP"
+  },
+  {
+   "id": "ont-cams",
+   "text": "📷 Sensors + cameras in the drawer: decide a plan",
+   "category": "🍁 ONTARIO, FROM A DISTANCE"
+  },
+  {
+   "id": "ont-roofer",
+   "text": "🏠 Roofer for Julie, if not booked",
+   "category": "🍁 ONTARIO, FROM A DISTANCE"
+  },
+  {
+   "id": "ont-licence",
+   "text": "🪪 Ontario driver's licence + health card address change: next trip (in person)",
+   "category": "🍁 ONTARIO, FROM A DISTANCE"
+  },
+  {
+   "id": "hangers",
+   "text": "🛒 Buy a bunch of picture hangers / fasteners.",
+   "category": "🏠 THE NEW FLAT"
+  },
+  {
+   "id": "arcade-cable",
+   "text": "🕹 Audio cable with volume slider for the Pac-Man Arcade1Up",
+   "category": "🏠 THE NEW FLAT"
+  },
+  {
+   "id": "choc",
+   "text": "🖼 Francisco Choc messaged on WhatsApp; waiting for his reply.",
+   "category": "🏠 THE NEW FLAT",
+   "type": "ref",
+   "url": "https://wa.me/50231530761"
+  },
+  {
+   "id": "ups",
+   "text": "🔌 UPS bought. When it arrives: lamp test the sockets, put all three devices on the battery-backed side.",
+   "category": "🏠 THE NEW FLAT"
+  },
+  {
+   "id": "lamp",
+   "text": "🛋 Bedside lamp · 🔌 two cables · 🧾 store credit (print the email first)",
+   "category": "🏠 THE NEW FLAT"
+  },
+  {
+   "id": "julie-data",
+   "text": "📱 Check Julie's phone data is topped up (30-day plan ran out ~31 Oct)",
+   "category": "🦻 THIS WEEK"
+  },
+  {
+   "id": "claro-dec",
+   "text": "🌐 Claro home fibre: Dec bill due Wed 9 Dec (not received yet). Forward the welcome email/account number when it comes",
+   "category": "🦻 THIS WEEK"
+  },
+  {
+   "id": "wfp-yes",
+   "text": "💧 Water For People: say yes and Orson drafts the polite Spanish \"no water programming, happy to meet\" reply",
+   "category": "🦻 THIS WEEK"
+  },
+  {
+   "id": "hearing",
+   "text": "🦻 DINTELEC. A medical statement that the aids were for you: patient, practitioner, medical need. Not another invoice copy. Say the word and I will draft it.",
+   "category": "🦻 THIS WEEK"
+  },
+  {
+   "id": "mros",
+   "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed.",
+   "category": "🦻 THIS WEEK"
+  },
+  {
+   "id": "karen-coffee",
+   "text": "☕ Virtual coffee with Karen: her Nov visit + flights (offer Thu 10:30 or Fri 10:00)",
+   "category": "📊 THE WORK WEEK"
+  },
+  {
+   "id": "cor-courses",
+   "text": "🎓 Five COR courses for acting HoM (250, 451, 152, 254, 253); INC122/123 retire 17 Nov",
+   "category": "📊 THE WORK WEEK"
+  },
+  {
+   "id": "care-reply",
+   "text": "🤝 CARE Canada reply (waiting on Kimberley + Sonia); Orson asks Fri",
+   "category": "📊 THE WORK WEEK"
+  },
+  {
+   "id": "g13",
+   "text": "🏛 G13 matrix, Ministerio Público column. All eighteen Canadian rows blank. The Fiscal General is four months into the job.",
+   "category": "📊 THE WORK WEEK"
+  },
+  {
+   "id": "choc-gift",
+   "text": "🍫 Ask Susana and Reisy which chocolate they bought you: simple Christmas gifts to carry",
+   "category": "📊 THE WORK WEEK"
+  },
+  {
+   "id": "azu-eh",
+   "text": "🤝 Ask Azucena where Expand Hope stands",
+   "category": "📊 THE WORK WEEK"
+  },
+  {
+   "id": "ot-trip",
+   "text": "⏱ Overtime: Nov tally ~13.75 h incl. Tue 10 emergency 2.5 h. Log Fri 6, file Huehue (you + approve Sonia) and October's 3 h. Templates are in the desktop folder",
+   "category": "🦻 THIS WEEK"
+  },
+  {
+   "id": "finstat",
+   "text": "💰 FINSTAT P8: check officers have confirmed partner values (due Mon 9 / Tue 10)",
+   "category": "🦻 THIS WEEK"
+  },
+  {
+   "id": "asasapne",
+   "text": "☕ Decide the reply to ASASAPNE's premises request",
+   "category": "🦻 THIS WEEK"
+  },
+  {
+   "id": "afternoon-task",
+   "text": "🤖 Pause/delete the stray 'Afternoon briefing' scheduled task (Claude Desktop on the closet Mac → Scheduled). Or say yes and I will.",
+   "category": "🛠 TECH"
+  },
+  {
+   "id": "github",
+   "text": "🔑 The GitHub token. Five minutes, unblocks both memorial items.",
+   "category": "🛠 TECH"
+  },
+  {
+   "id": "mro-dishwasher",
+   "text": "🔧 Monday: submit the MRO to get the dishwasher fixed",
+   "category": "🦻 THIS WEEK"
+  }
+ ]
 }
