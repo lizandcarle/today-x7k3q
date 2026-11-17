@@ -1,7 +1,7 @@
 {
- "date": "2026-11-16",
- "updated": "2026-11-15 18:25 GT",
- "note": "Monday. Mef-Trellis is the main list now; this page keeps exercise and habits. Still Day 1.",
+ "date": "2026-11-17",
+ "updated": "2026-11-16 18:15 GT",
+ "note": "Tuesday: Karen field trip leaves 11:30 (Sumpango → Panajachel). Mef-Trellis is the main list. Still Day 1.",
  "items": [
   {
    "id": "trellis",
@@ -138,6 +138,11 @@
    "category": "🏠 THE NEW FLAT"
   },
   {
+   "id": "pack-atitlan",
+   "text": "🧳 Pack for 2 nights at Lake Atitlán (leave the embassy 11:30 Tue; back Thu)",
+   "category": "🦻 THIS WEEK"
+  },
+  {
    "id": "julie-data",
    "text": "📱 Check Julie's phone data is topped up (30-day plan ran out ~31 Oct)",
    "category": "🦻 THIS WEEK"
@@ -216,11 +221,6 @@
    "id": "github",
    "text": "🔑 The GitHub token. Five minutes, unblocks both memorial items.",
    "category": "🛠 TECH"
-  },
-  {
-   "id": "mro-dishwasher",
-   "text": "🔧 Monday: submit the MRO to get the dishwasher fixed",
-   "category": "🦻 THIS WEEK"
   }
  ]
 }
