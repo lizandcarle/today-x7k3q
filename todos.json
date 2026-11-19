@@ -1,14 +1,14 @@
 {
- "date": "2026-11-18",
- "updated": "2026-11-17 18:20 GT",
- "note": "Wednesday: Panajachel recycling co-op 08:00, boat 09:00 to San Juan, CONEXION closing 10:00, PRODISOL tourism 14:00, night at Tzikaab. Mef-Trellis is the main list. Still Day 1.",
+ "date": "2026-11-19",
+ "updated": "2026-11-18 18:15 GT",
+ "note": "Thursday: 08:00 to San José Chacayá (check times with PRODISOL), inauguration, 14:00 ADIGUA Sololá, back to the city ~15:00. Mef-Trellis is the main list. Still Day 1.",
  "items": [
   {
    "id": "trellis",
    "text": "🌿 OPEN MEF-TRELLIS: your main list now (TODAY / TOMORROW at the top)",
    "category": "🔗 YOUR LIST",
    "type": "ref",
-   "url": "http://henryboo.net/meftrellis/"
+   "url": "https://henryboo.net/meftrellis/"
   },
   {
    "id": "gym-chest",
