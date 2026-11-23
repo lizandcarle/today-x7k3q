@@ -1,7 +1,7 @@
 {
- "date": "2026-11-22",
- "updated": "2026-11-21 18:17 GT",
- "note": "Sunday: Wednesday's breakfast order, Mexico tickets on the phone, Lily's enrolment proof. Claro bill on top until paid. Mef-Trellis is the main list.",
+ "date": "2026-11-23",
+ "updated": "2026-11-22 18:25 GT",
+ "note": "Monday: Lily's 21st gift has to ship (Sat 28, you'll be in Mexico). Order the Wed breakfast, Root Capital 14:00. Claro on top until paid. Mef-Trellis is the main list.",
  "items": [
   {
    "id": "trellis",
@@ -16,6 +16,11 @@
    "category": "🔴 EVERY DAY UNTIL PAID",
    "type": "ref",
    "url": "https://gt.mipagoclaro.com/"
+  },
+  {
+   "id": "lily-gift",
+   "text": "🎁 Lily's 21st, Sat 28: choose + order the gift tonight so it ships (drop-off address, not the house)",
+   "category": "🎂 BIRTHDAY, SAT 28"
   },
   {
    "id": "gym-chest",
@@ -145,11 +150,6 @@
    "category": "🏠 THE NEW FLAT"
   },
   {
-   "id": "pack-atitlan",
-   "text": "🧳 Pack for 2 nights at Lake Atitlán (leave the embassy 11:30 Tue; back Thu)",
-   "category": "🦻 THIS WEEK"
-  },
-  {
    "id": "julie-data",
    "text": "📱 Check Julie's phone data is topped up (30-day plan ran out ~31 Oct)",
    "category": "🦻 THIS WEEK"
@@ -173,11 +173,6 @@
    "id": "mros",
    "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed.",
    "category": "🦻 THIS WEEK"
-  },
-  {
-   "id": "karen-coffee",
-   "text": "☕ Virtual coffee with Karen: her Nov visit + flights (offer Thu 10:30 or Fri 10:00)",
-   "category": "📊 THE WORK WEEK"
   },
   {
    "id": "cor-courses",
@@ -207,11 +202,6 @@
   {
    "id": "ot-trip",
    "text": "⏱ Overtime: Nov tally ~13.75 h incl. Tue 10 emergency 2.5 h. Log Fri 6, file Huehue (you + approve Sonia) and October's 3 h. Templates are in the desktop folder",
-   "category": "🦻 THIS WEEK"
-  },
-  {
-   "id": "finstat",
-   "text": "💰 FINSTAT P8: check officers have confirmed partner values (due Mon 9 / Tue 10)",
    "category": "🦻 THIS WEEK"
   },
   {
