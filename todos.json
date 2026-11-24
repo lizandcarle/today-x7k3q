@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-23 18:22 GT",
+  "updated": "2026-11-24 07:15 GT",
   "note": "Tuesday: AGEXPORT with Sonia + Karen (car 10:45), ITC 14:00, Génesis 15:00. Lily's 21st gift still has to ship (Sat 28). Claro on top until paid. Mef-Trellis is the main list.",
   "items": [
     {
@@ -173,6 +173,11 @@
       "id": "mros",
       "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed.",
       "category": "🦻 THIS WEEK"
+    },
+    {
+      "id": "strategia",
+      "text": "🔴 Strategia HOM Overview 2027-28: Olivier's top priority (his Word file, shared for editing 18 Nov; work network)",
+      "category": "📊 THE WORK WEEK"
     },
     {
       "id": "cor-courses",
