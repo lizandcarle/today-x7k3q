@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-24",
-  "updated": "2026-11-24 07:15 GT",
-  "note": "Tuesday: AGEXPORT with Sonia + Karen (car 10:45), ITC 14:00, Génesis 15:00. Lily's 21st gift still has to ship (Sat 28). Claro on top until paid. Mef-Trellis is the main list.",
+  "date": "2026-11-25",
+  "updated": "2026-11-24 18:20 GT",
+  "note": "Wednesday: 06:15 team breakfast, IICA 08:30, roofer starts at 1080, Karen flies 10:30. Lily's gift must ship. Bilateral consultations reply by Thu. Mef-Trellis is the main list.",
   "items": [
     {
       "id": "trellis",
@@ -21,6 +21,11 @@
       "id": "lily-gift",
       "text": "🎁 Lily's 21st, Sat 28: choose + order the gift tonight so it ships (drop-off address, not the house)",
       "category": "🎂 BIRTHDAY, SAT 28"
+    },
+    {
+      "id": "neo-citran",
+      "text": "💊 Bring a couple of packets of Neo Citran for Nanette (Wed)",
+      "category": "🦻 THIS WEEK"
     },
     {
       "id": "gym-chest",
@@ -74,7 +79,7 @@
     },
     {
       "id": "qw-enrol",
-      "text": "🎓 Upload the school enrolment proof (5 min, from home)",
+      "text": "🎓 Upload Lily's enrolment proof (PDFs in Trellis, 5 min)",
       "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
     },
     {
@@ -175,8 +180,13 @@
       "category": "🦻 THIS WEEK"
     },
     {
+      "id": "bilat-consult",
+      "text": "🔴 Reply to Olivier: agenda items for April 2027 bilateral consultations (by Thu; his Friday = your Mexico day). Waiting on Azu + Sonia.",
+      "category": "📊 THE WORK WEEK"
+    },
+    {
       "id": "strategia",
-      "text": "🔴 Strategia HOM Overview 2027-28: Olivier's top priority (his Word file, shared for editing 18 Nov; work network)",
+      "text": "🔴 Strategia HOM Overview 2027-28: review Olivier's draft (track changes) by Fri 4 Dec",
       "category": "📊 THE WORK WEEK"
     },
     {
