@@ -1,7 +1,7 @@
 {
- "date": "2026-11-26",
- "updated": "2026-11-25 18:22 GT",
- "note": "Thursday: Skelton lecture 09:00, townhall 11:00, IICA 14:00. Bilateral consultations reply to Olivier is due. Pack for Mexico (personal item only), fly Fri 08:55. Lily turns 21 Saturday. Mef-Trellis is the main list.",
+ "date": "2026-11-27",
+ "updated": "2026-11-26 18:20 GT",
+ "note": "Friday: Mexico City. At the airport ~05:55 for Y4 901 08:55, hotel from 15:00, CMLL 20:30. Lily turns 21 tomorrow. Work is parked until Tue 1 Dec. Mef-Trellis is the main list.",
  "items": [
   {
    "id": "trellis",
@@ -11,15 +11,33 @@
    "url": "https://henryboo.net/meftrellis/"
   },
   {
-   "id": "claro-hogar",
-   "text": "💳 PAY Claro Hogar Q339.13 (due Wed 9 Dec) — gt.mipagoclaro.com, number 4311353",
-   "category": "🔴 EVERY DAY UNTIL PAID",
-   "type": "ref",
-   "url": "https://gt.mipagoclaro.com/"
+   "id": "mx-airport",
+   "text": "✈️ At La Aurora by ~05:55 · Y4 901 08:55 → MEX 11:00 · personal item only",
+   "category": "🇲🇽 TODAY: MEXICO CITY"
+  },
+  {
+   "id": "mx-wallet",
+   "text": "🎟 Passports, boarding passes, CMLL + Ballet tickets in Wallet",
+   "category": "🇲🇽 TODAY: MEXICO CITY"
+  },
+  {
+   "id": "mx-ooo",
+   "text": "📴 Out of office on (Fri 27 + Mon 30)",
+   "category": "🇲🇽 TODAY: MEXICO CITY"
+  },
+  {
+   "id": "mx-cmll",
+   "text": "🤼 20:30 CMLL, Arena México, row H 196–197 (programme in the trip folder)",
+   "category": "🇲🇽 TODAY: MEXICO CITY"
+  },
+  {
+   "id": "mx-mro",
+   "text": "🚐 Return ride: MRO for Mon 30, Y4 900 lands 20:49 (if not booked yet)",
+   "category": "🇲🇽 TODAY: MEXICO CITY"
   },
   {
    "id": "lily-gift",
-   "text": "🎁 Lily's 21st is SATURDAY: order the gift tonight so it ships (drop-off address, not the house)",
+   "text": "🎁 Lily turns 21 TOMORROW (Sat). If the gift isn't ordered, a gift card or e-delivery today; she gets the Las Mañanitas call from Tenampa",
    "category": "🎂 BIRTHDAY, SAT 28"
   },
   {
@@ -71,11 +89,6 @@
    "id": "food-log",
    "text": "🍽 Dictate meals to Orson; running total comes back",
    "category": "🥗 DAILY HABITS (these do not advance the cycle)"
-  },
-  {
-   "id": "qw-enrol",
-   "text": "🎓 Upload Lily's enrolment proof (PDFs in Trellis, 5 min)",
-   "category": "🍒 QUICK WINS (snowball: small first, for momentum)"
   },
   {
    "id": "qw-dintelec",
@@ -150,16 +163,6 @@
    "category": "🏠 THE NEW FLAT"
   },
   {
-   "id": "mx-pack",
-   "text": "🧳 Mexico: Volaris check-in (LMRUXE) + pack a personal item only, no carry-on. Fly Fri 08:55.",
-   "category": "🦻 THIS WEEK"
-  },
-  {
-   "id": "julie-data",
-   "text": "📱 Check Julie's phone data is topped up (30-day plan ran out ~31 Oct)",
-   "category": "🦻 THIS WEEK"
-  },
-  {
    "id": "claro-dec",
    "text": "🌐 Claro home fibre: Dec bill due Wed 9 Dec (not received yet). Forward the welcome email/account number when it comes",
    "category": "🦻 THIS WEEK"
@@ -178,11 +181,6 @@
    "id": "mros",
    "text": "🔧 THREE MROs left: office electricity · office bathroom · the broken bed.",
    "category": "🦻 THIS WEEK"
-  },
-  {
-   "id": "bilat-consult",
-   "text": "🔴 Reply to Olivier: agenda items for April 2027 bilateral consultations (by Thu; his Friday = your Mexico day). Waiting on Azu + Sonia.",
-   "category": "📊 THE WORK WEEK"
   },
   {
    "id": "strategia",
@@ -211,7 +209,7 @@
   },
   {
    "id": "ot-trip",
-   "text": "⏱ Overtime: file SEPT (4.5 h: 2+3 Sept Quetzaltenango travel, 7 Sept El Niño) + OCT (3 h, 28 Oct) now. Gateway: Time and Schedule Administration > Overtime (in Time). November after the 30th.",
+   "text": "⏱ Overtime: SEPT 4.5 h + OCT 3.5 h ready to file (lines in Trellis). NOV 22.25 h after the 30th; screenshot the 10 Nov WhatsApp approval.",
    "category": "🦻 THIS WEEK"
   },
   {
