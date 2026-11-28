@@ -1,7 +1,7 @@
 {
- "date": "2026-11-27",
- "updated": "2026-11-26 18:20 GT",
- "note": "Friday: Mexico City. At the airport ~05:55 for Y4 901 08:55, hotel from 15:00, CMLL 20:30. Lily turns 21 tomorrow. Work is parked until Tue 1 Dec. Mef-Trellis is the main list.",
+ "date": "2026-11-28",
+ "updated": "2026-11-27 18:20 GT",
+ "note": "Saturday in Mexico City: Lily's 21st, Salón Tenampa at 19:00, cold rain all day. Ballet Folklórico is Sunday 20:30. Work waits until Tue 1 Dec. Mef-Trellis is the main list.",
  "items": [
   {
    "id": "trellis",
@@ -11,34 +11,19 @@
    "url": "https://henryboo.net/meftrellis/"
   },
   {
-   "id": "mx-airport",
-   "text": "✈️ At La Aurora by ~05:55 · Y4 901 08:55 → MEX 11:00 · personal item only",
-   "category": "🇲🇽 TODAY: MEXICO CITY"
+   "id": "sat-lily",
+   "text": "🎂 Lily turns 21 today: call her (Las Mañanitas from Tenampa, 19:00 CDMX = 20:00 ET)",
+   "category": "🇲🇽 SATURDAY IN MEXICO CITY"
   },
   {
-   "id": "mx-wallet",
-   "text": "🎟 Passports, boarding passes, CMLL + Ballet tickets in Wallet",
-   "category": "🇲🇽 TODAY: MEXICO CITY"
+   "id": "sat-tenampa",
+   "text": "🎺 19:00 Salón Tenampa, Plaza Garibaldi. Taxi there and back",
+   "category": "🇲🇽 SATURDAY IN MEXICO CITY"
   },
   {
-   "id": "mx-ooo",
-   "text": "📴 Out of office on (Fri 27 + Mon 30)",
-   "category": "🇲🇽 TODAY: MEXICO CITY"
-  },
-  {
-   "id": "mx-cmll",
-   "text": "🤼 20:30 CMLL, Arena México, row H 196–197 (programme in the trip folder)",
-   "category": "🇲🇽 TODAY: MEXICO CITY"
-  },
-  {
-   "id": "mx-mro",
-   "text": "🚐 Return ride: MRO for Mon 30, Y4 900 lands 20:49 (if not booked yet)",
-   "category": "🇲🇽 TODAY: MEXICO CITY"
-  },
-  {
-   "id": "lily-gift",
-   "text": "🎁 Lily turns 21 TOMORROW (Sat). If the gift isn't ordered, a gift card or e-delivery today; she gets the Las Mañanitas call from Tenampa",
-   "category": "🎂 BIRTHDAY, SAT 28"
+   "id": "sat-cold",
+   "text": "🧥 6–9°C and rain all day: jacket + umbrella",
+   "category": "🇲🇽 SATURDAY IN MEXICO CITY"
   },
   {
    "id": "gym-chest",
